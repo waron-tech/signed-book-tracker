@@ -6,6 +6,13 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
+# Playwright for headless browser scraping on protected sites like Waterstones
+try:
+    from playwright.sync_api import sync_playwright
+    HAS_PLAYWRIGHT = True
+except ImportError:
+    HAS_PLAYWRIGHT = False
+
 # 1. CONFIGURATION
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "")
 SEEN_FILE = "seen_books.json"
@@ -22,19 +29,12 @@ PRIORITY_WATCHLIST = [
     "V E Schwab",
 ]
 
-# All Bookshops including Waterstones, Hatchards, Foyles & Porty Books
+# Bookshops including Waterstones via headless browser
 BOOKSHOPS = [
     {
         "name": "Goldsboro Books",
         "type": "shopify",
         "url": "https://goldsborobooks.com/collections/new-releases/products.json?limit=50",
-        "base_product_url": "https://goldsborobooks.com/products/",
-        "require_signed_keyword": False,
-    },
-    {
-        "name": "Goldsboro Exclusives",
-        "type": "shopify",
-        "url": "https://goldsborobooks.com/collections/special-editions-exclusives/products.json?limit=50",
         "base_product_url": "https://goldsborobooks.com/products/",
         "require_signed_keyword": False,
     },
@@ -45,13 +45,17 @@ BOOKSHOPS = [
         "base_product_url": "https://raremags.co.uk/products/",
         "require_signed_keyword": True,
     },
-    # Porty Books runs on Shopify! Using their product JSON feed avoids 403 blocks entirely.
     {
         "name": "Porty Books",
         "type": "shopify",
         "url": "https://theportobellobookshop.com/collections/signed-editions/products.json?limit=50",
         "base_product_url": "https://theportobellobookshop.com/products/",
         "require_signed_keyword": False,
+    },
+    {
+        "name": "Waterstones",
+        "type": "browser",
+        "url": "https://www.waterstones.com/campaign/signed-editions",
     },
     {
         "name": "Coles Books",
@@ -74,16 +78,6 @@ BOOKSHOPS = [
         "require_signed_keyword": False,
     },
     {
-        "name": "Linghams Books",
-        "type": "html",
-        "url": "https://linghams.co.uk/product-category/signed/",
-        "card_selector": "li.product, .type-product",
-        "title_selector": ".woocommerce-loop-product__title, h2, h3",
-        "price_selector": "span.price, .woocommerce-Price-amount",
-        "link_selector": "a.woocommerce-LoopProduct-link, a[href]",
-        "require_signed_keyword": False,
-    },
-    {
         "name": "West End Lane Books",
         "type": "html",
         "url": "https://www.welbooks.co.uk/shop/signed-editions",
@@ -93,51 +87,15 @@ BOOKSHOPS = [
         "link_selector": "a[href]",
         "require_signed_keyword": False,
     },
-    # Waterstones, Hatchards, and Foyles using simulated desktop browser headers
-    {
-        "name": "Waterstones",
-        "type": "html",
-        "url": "https://www.waterstones.com/campaign/signed-editions",
-        "card_selector": "div.book-preview, div.search-result-tab, div.book-thumb",
-        "title_selector": "a.title, .title-wrap a",
-        "price_selector": "span.price, .book-price",
-        "link_selector": "a.title, .image-wrap a",
-        "require_signed_keyword": False,
-    },
-    {
-        "name": "Hatchards",
-        "type": "html",
-        "url": "https://www.hatchards.co.uk/signed-editions",
-        "card_selector": "div.book-preview, div.search-result-tab, div.book-thumb",
-        "title_selector": "a.title, .title-wrap a",
-        "price_selector": "span.price, .book-price",
-        "link_selector": "a.title, .image-wrap a",
-        "require_signed_keyword": False,
-    },
-    {
-        "name": "Foyles",
-        "type": "html",
-        "url": "https://www.foyles.co.uk/campaign/signed-editions",
-        "card_selector": "div.book-preview, div.search-result-tab, div.book-thumb",
-        "title_selector": "a.title, .title-wrap a",
-        "price_selector": "span.price, .book-price",
-        "link_selector": "a.title, .image-wrap a",
-        "require_signed_keyword": False,
-    },
 ]
 
-# Heavy browser headers to blend in with standard desktop traffic
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/131.0.0.0 Safari/537.36"
     ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
     "Accept-Language": "en-GB,en;q=0.9",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive",
-    "Upgrade-Insecure-Requests": "1",
 }
 
 
@@ -215,12 +173,59 @@ def scrape_shopify(shop: dict) -> list[dict]:
     return found
 
 
+def scrape_browser(shop: dict) -> list[dict]:
+    """Uses a real headless browser to bypass Waterstones Cloudflare bot protection."""
+    if not HAS_PLAYWRIGHT:
+        print("Playwright not installed.")
+        return []
+
+    found = []
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page(user_agent=HEADERS["User-Agent"])
+        try:
+            page.goto(shop["url"], timeout=30000, wait_until="domcontentloaded")
+            page.wait_for_selector("div.book-preview, div.search-result-tab", timeout=10000)
+            
+            cards = page.locator("div.book-preview, div.search-result-tab").all()
+            for card in cards:
+                text = card.inner_text()
+                if any(out in text.lower() for out in ["out of stock", "sold out"]):
+                    continue
+
+                title_el = card.locator("a.title, .title-wrap a").first
+                title = title_el.inner_text().strip() if title_el.count() > 0 else ""
+                href = title_el.get_attribute("href") if title_el.count() > 0 else ""
+                if not title or not href:
+                    continue
+
+                book_url = urljoin(shop["url"], href)
+                price_el = card.locator("span.price, .book-price").first
+                price_text = price_el.inner_text() if price_el.count() > 0 else text
+                price = extract_uk_price(price_text)
+
+                img_el = card.locator("img").first
+                cover_url = img_el.get_attribute("src") if img_el.count() > 0 else ""
+
+                found.append({
+                    "id": f"{shop['name']}::{book_url}",
+                    "title": title,
+                    "author": shop["name"],
+                    "price": price,
+                    "shop": shop["name"],
+                    "url": book_url,
+                    "image": cover_url,
+                    "vip": matches_watchlist(f"{title} {text}"),
+                })
+        except Exception as e:
+            print(f"Browser scrape error for {shop['name']}: {e}")
+        finally:
+            browser.close()
+    return found
+
+
 def scrape_html(shop: dict) -> list[dict]:
-    # Add a session with cookie support to handle light bot challenges
-    session = requests.Session()
-    session.headers.update(HEADERS)
-    
-    resp = session.get(shop["url"], timeout=20)
+    resp = requests.get(shop["url"], headers=HEADERS, timeout=15)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
@@ -248,10 +253,6 @@ def scrape_html(shop: dict) -> list[dict]:
             title = img_alt.get("alt", "").strip() if img_alt else ""
         if not title or len(title) < 3:
             continue
-
-        if shop.get("require_signed_keyword", False):
-            if "signed" not in card_text.lower() and "signed" not in title.lower():
-                continue
 
         price_el = card.select_one(shop.get("price_selector", ""))
         raw_price = price_el.get_text(" ", strip=True) if price_el else card_text
@@ -301,13 +302,18 @@ def main():
     for shop in BOOKSHOPS:
         try:
             print(f"Checking {shop['name']}...")
-            books = scrape_shopify(shop) if shop["type"] == "shopify" else scrape_html(shop)
+            if shop["type"] == "shopify":
+                books = scrape_shopify(shop)
+            elif shop["type"] == "browser":
+                books = scrape_browser(shop)
+            else:
+                books = scrape_html(shop)
             print(f" -> Found {len(books)} available signed editions.")
             for b in books:
                 b["discovered_at"] = existing_feed_map.get(b["id"], now_iso)
             all_current_books.extend(books)
         except Exception as e:
-            print(f" -> Skipped {shop['name']} due to block/error: {e}")
+            print(f" -> Skipped {shop['name']} due to error: {e}")
 
     new_books = [b for b in all_current_books if b["id"] not in seen_ids]
 
@@ -345,4 +351,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
