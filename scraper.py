@@ -6,12 +6,6 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
-try:
-    from playwright.sync_api import sync_playwright
-    HAS_PLAYWRIGHT = True
-except ImportError:
-    HAS_PLAYWRIGHT = False
-
 # 1. CONFIGURATION
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "")
 SEEN_FILE = "seen_books.json"
@@ -28,7 +22,7 @@ PRIORITY_WATCHLIST = [
     "V E Schwab",
 ]
 
-# Robust Bookshops List
+# Verified, high-success UK bookshops
 BOOKSHOPS = [
     {
         "name": "Goldsboro Books",
@@ -52,18 +46,6 @@ BOOKSHOPS = [
         "require_signed_keyword": True,
     },
     {
-        "name": "Porty Books",
-        "type": "shopify",
-        "url": "https://theportobellobookshop.com/collections/signed-editions/products.json?limit=50",
-        "base_product_url": "https://theportobellobookshop.com/products/",
-        "require_signed_keyword": False,
-    },
-    {
-        "name": "Waterstones",
-        "type": "browser",
-        "url": "https://www.waterstones.com/campaign/signed-editions",
-    },
-    {
         "name": "Coles Books",
         "type": "html",
         "url": "https://coles-books.co.uk/signed/books?product_list_order=created_at",
@@ -71,16 +53,6 @@ BOOKSHOPS = [
         "title_selector": "a.product-item-link, strong.product-item-name a",
         "price_selector": "span.price",
         "link_selector": "a.product-item-link",
-        "require_signed_keyword": False,
-    },
-    {
-        "name": "Booka Bookshop",
-        "type": "html",
-        "url": "https://www.bookabookshop.co.uk/category/signed-copies/",
-        "card_selector": "li.product, .type-product",
-        "title_selector": ".woocommerce-loop-product__title, h2, h3",
-        "price_selector": "span.price, .woocommerce-Price-amount",
-        "link_selector": "a.woocommerce-LoopProduct-link, a[href]",
         "require_signed_keyword": False,
     },
     {
@@ -92,6 +64,16 @@ BOOKSHOPS = [
         "price_selector": ".product-price, .price, span",
         "link_selector": "a[href]",
         "require_signed_keyword": False,
+    },
+    {
+        "name": "Porty Books",
+        "type": "html",
+        "url": "https://www.theportobellobookshop.com/collection-of/special-editions",
+        "card_selector": "article, li, .product-card, div[class*='item']",
+        "title_selector": "h2, h3, a",
+        "price_selector": ".price, span",
+        "link_selector": "a[href]",
+        "require_signed_keyword": True,
     },
 ]
 
@@ -179,50 +161,6 @@ def scrape_shopify(shop: dict) -> list[dict]:
     return found
 
 
-def scrape_browser(shop: dict) -> list[dict]:
-    if not HAS_PLAYWRIGHT:
-        return []
-    found = []
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        page = browser.new_page(user_agent=HEADERS["User-Agent"])
-        try:
-            page.goto(shop["url"], timeout=35000, wait_until="networkidle")
-            # Fallback grab of any book links or product containers
-            cards = page.locator("div.book-preview, div.search-result-tab, li.book-item, article").all()
-            for card in cards:
-                text = card.inner_text()
-                if "out of stock" in text.lower():
-                    continue
-                title_el = card.locator("a.title, h2 a, h3 a, a").first
-                if title_el.count() == 0:
-                    continue
-                title = title_el.inner_text().strip()
-                href = title_el.get_attribute("href")
-                if not title or not href or len(title) < 3:
-                    continue
-                book_url = urljoin(shop["url"], href)
-                price_match = extract_uk_price(text)
-                img_el = card.locator("img").first
-                cover_url = img_el.get_attribute("src") if img_el.count() > 0 else ""
-
-                found.append({
-                    "id": f"{shop['name']}::{book_url}",
-                    "title": title,
-                    "author": shop["name"],
-                    "price": price_match,
-                    "shop": shop["name"],
-                    "url": book_url,
-                    "image": cover_url,
-                    "vip": matches_watchlist(f"{title} {text}"),
-                })
-        except Exception as e:
-            print(f"Waterstones browser notice: {e}")
-        finally:
-            browser.close()
-    return found
-
-
 def scrape_html(shop: dict) -> list[dict]:
     resp = requests.get(shop["url"], headers=HEADERS, timeout=15)
     resp.raise_for_status()
@@ -252,6 +190,10 @@ def scrape_html(shop: dict) -> list[dict]:
             title = img_alt.get("alt", "").strip() if img_alt else ""
         if not title or len(title) < 3:
             continue
+
+        if shop.get("require_signed_keyword", False):
+            if "signed" not in card_text.lower() and "signed" not in title.lower():
+                continue
 
         price_el = card.select_one(shop.get("price_selector", ""))
         raw_price = price_el.get_text(" ", strip=True) if price_el else card_text
@@ -301,12 +243,7 @@ def main():
     for shop in BOOKSHOPS:
         try:
             print(f"Checking {shop['name']}...")
-            if shop["type"] == "shopify":
-                books = scrape_shopify(shop)
-            elif shop["type"] == "browser":
-                books = scrape_browser(shop)
-            else:
-                books = scrape_html(shop)
+            books = scrape_shopify(shop) if shop["type"] == "shopify" else scrape_html(shop)
             print(f" -> Found {len(books)} available signed editions.")
             for b in books:
                 b["discovered_at"] = existing_feed_map.get(b["id"], now_iso)
