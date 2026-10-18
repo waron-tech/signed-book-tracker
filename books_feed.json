@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T17:59:02.538542+00:00",
+  "last_updated": "2026-10-18T18:19:32.593531+00:00",
   "total_available": 2831,
   "shop_status": {
     "Goldsboro Books": "10 items",
@@ -21,11 +21,102 @@
     "Coles Books": "11 items",
     "West End Lane Books": "1094 items",
     "Foyles": "100 items via feed (as of 2026-10-18T17:16:09.169053+00:00)",
-    "Hatchards": "199 items via feed (as of 2026-10-18T17:16:09.169053+00:00)",
+    "Hatchards": "199 items via feed (as of 2026-10-18T18:05:07.520438+00:00)",
     "Waterstones": "188 items via feed (as of 2026-10-18T17:16:09.169053+00:00)",
     "Linghams": "216 items via feed (as of 2026-10-18T17:16:09.169053+00:00)"
   },
   "books": [
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-tale-of-peter-rabbit/beatrix-potter/9780723247708",
+      "title": "The Tale of Peter Rabbit",
+      "author": "Beatrix Potter",
+      "price": "\u00a37.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-tale-of-peter-rabbit/beatrix-potter/9780723247708",
+      "image": "https://cdn.hatchards.co.uk/bookjackets/large/9780/7232/9780723247708.jpg",
+      "vip": false,
+      "listed_at": "2026-10-18T18:19:32.593531+00:00",
+      "discovered_at": "2026-10-18T18:19:32.593531+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/peace-at-last/jill-murphy/9781529006513",
+      "title": "Peace at Last",
+      "author": "Jill Murphy",
+      "price": "\u00a37.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/peace-at-last/jill-murphy/9781529006513",
+      "image": "https://cdn.hatchards.co.uk/bookjackets/large/9781/5290/9781529006513.jpg",
+      "vip": false,
+      "listed_at": "2026-10-18T18:19:32.593531+00:00",
+      "discovered_at": "2026-10-18T18:19:32.593531+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-secret-garden/frances-hodgson-burnett/9780241411162",
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "price": "\u00a314.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-secret-garden/frances-hodgson-burnett/9780241411162",
+      "image": "https://cdn.hatchards.co.uk/bookjackets/large/9780/2414/9780241411162.jpg",
+      "vip": false,
+      "listed_at": "2026-10-18T18:19:32.593531+00:00",
+      "discovered_at": "2026-10-18T18:19:32.593531+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/a-christmas-carol/charles-dickens/9780241411193",
+      "title": "A Christmas Carol",
+      "author": "Charles Dickens",
+      "price": "\u00a314.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/a-christmas-carol/charles-dickens/9780241411193",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/9780/2414/9780241411193.jpg",
+      "vip": false,
+      "listed_at": "2026-10-18T18:19:32.593531+00:00",
+      "discovered_at": "2026-10-18T18:19:32.593531+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-tale-of-peter-rabbit-picture-book/beatrix-potter/9780241606339",
+      "title": "The Tale of Peter Rabbit Picture Book",
+      "author": "Beatrix Potter",
+      "price": "\u00a37.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-tale-of-peter-rabbit-picture-book/beatrix-potter/9780241606339",
+      "image": "https://cdn.hatchards.co.uk/bookjackets/large/9780/2416/9780241606339.jpg",
+      "vip": false,
+      "listed_at": "2026-10-18T18:19:32.593531+00:00",
+      "discovered_at": "2026-10-18T18:19:32.593531+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-magic-faraway-tree-the-enchanted-wood/enid-blyton/9781444986471",
+      "title": "The Magic Faraway Tree: The Enchanted Wood",
+      "author": "Enid Blyton",
+      "price": "\u00a37.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-magic-faraway-tree-the-enchanted-wood/enid-blyton/9781444986471",
+      "image": "https://cdn.hatchards.co.uk/bookjackets/large/9781/4449/9781444986471.jpg",
+      "vip": false,
+      "listed_at": "2026-10-18T18:19:32.593531+00:00",
+      "discovered_at": "2026-10-18T18:19:32.593531+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-world-of-winnie-the-pooh/a-a-milne/9780008837686",
+      "title": "The World of Winnie-the-Pooh",
+      "author": "A. A. Milne",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-world-of-winnie-the-pooh/a-a-milne/9780008837686",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/9780/0088/9780008837686_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-18T18:19:32.593531+00:00",
+      "discovered_at": "2026-10-18T18:19:32.593531+00:00",
+      "est": "seen"
+    },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-vision-by-tanya-candy-signed",
       "title": "The Vision by Tanya Liveras Candy (Signed)",
@@ -13396,19 +13487,6 @@
       "est": "pos"
     },
     {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/the-gruffalo/julia-donaldson/9781509804757",
-      "title": "The Gruffalo",
-      "author": "Julia Donaldson",
-      "price": "\u00a37.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/the-gruffalo/julia-donaldson/9781509804757",
-      "image": "https://cdn.hatchards.co.uk/bookjackets/large/9781/5098/9781509804757.jpg",
-      "vip": false,
-      "listed_at": "2026-09-20T21:39:09.732812+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Foyles::https://www.foyles.co.uk/book/kitchening/jeremy-lee/9780008846039",
       "title": "Kitchening",
       "author": "Jeremy Lee",
@@ -13526,19 +13604,6 @@
       "est": "pos"
     },
     {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/the-little-prince/antoine-de-saint-exup-ry/9781405288194",
-      "title": "The Little Prince",
-      "author": "Antoine de Saint-Exup\u00e9ry",
-      "price": "\u00a310.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/the-little-prince/antoine-de-saint-exup-ry/9781405288194",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/9781/4052/9781405288194.jpg",
-      "vip": false,
-      "listed_at": "2026-09-20T15:08:24.506682+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Foyles::https://www.foyles.co.uk/book/one-christmas-eve/nick-butterworth/9780008842949",
       "title": "One Christmas Eve",
       "author": "Nick Butterworth",
@@ -13574,19 +13639,6 @@
       "image": "https://cdn.waterstones.com/override/v1/medium/2928/3774/2928377405991.jpg",
       "vip": false,
       "listed_at": "2026-09-20T14:21:38.562065+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/the-magic-faraway-tree-collection/enid-blyton/9781444959437",
-      "title": "The Magic Faraway Tree Collection",
-      "author": "Enid Blyton",
-      "price": "\u00a312.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/the-magic-faraway-tree-collection/enid-blyton/9781444959437",
-      "image": "https://cdn.hatchards.co.uk/bookjackets/large/9781/4449/9781444959437.jpg",
-      "vip": false,
-      "listed_at": "2026-09-20T11:53:01.893616+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00",
       "est": "pos"
     },
@@ -13640,19 +13692,6 @@
       "vip": false,
       "listed_at": "2026-09-20T09:25:44.846844+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/matilda/roald-dahl/9780241558317",
-      "title": "Matilda",
-      "author": "Roald Dahl",
-      "price": "\u00a37.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/matilda/roald-dahl/9780241558317",
-      "image": "https://cdn.hatchards.co.uk/bookjackets/large/9780/2415/9780241558317.jpg",
-      "vip": false,
-      "listed_at": "2026-09-20T08:37:39.280551+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
       "est": "pos"
     },
     {
@@ -13851,19 +13890,6 @@
       "est": "pos"
     },
     {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/the-neverending-story/michael-ende/9780241663561",
-      "title": "The Neverending Story",
-      "author": "Michael Ende",
-      "price": "\u00a316.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/the-neverending-story/michael-ende/9780241663561",
-      "image": "https://cdn.hatchards.co.uk/bookjackets/large/9780/2416/9780241663561.jpg",
-      "vip": false,
-      "listed_at": "2026-09-19T22:51:31.441355+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Waterstones::https://www.waterstones.com/book/piper-at-the-gates-of-dusk/patrick-ness/9781529537598",
       "title": "Piper at the Gates of Dusk",
       "author": "Patrick Ness",
@@ -13952,19 +13978,6 @@
       "vip": true,
       "listed_at": "2026-09-19T16:41:42.209481+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/peter-pan/j-m-barrie/9780241688250",
-      "title": "Peter Pan",
-      "author": "J M Barrie",
-      "price": "\u00a314.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/peter-pan/j-m-barrie/9780241688250",
-      "image": "https://cdn.hatchards.co.uk/bookjackets/large/9780/2416/9780241688250.jpg",
-      "vip": false,
-      "listed_at": "2026-09-19T16:20:46.215224+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
       "est": "pos"
     },
     {
@@ -14081,19 +14094,6 @@
       "image": "https://cdn.waterstones.com/override/v1/medium/9781/8364/9781836432722.jpg",
       "vip": false,
       "listed_at": "2026-09-19T10:47:10.476958+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/the-wind-in-the-willows/kenneth-grahame/9780241725238",
-      "title": "The Wind in the Willows",
-      "author": "Kenneth Grahame",
-      "price": "\u00a314.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/the-wind-in-the-willows/kenneth-grahame/9780241725238",
-      "image": "https://cdn.hatchards.co.uk/bookjackets/large/9780/2417/9780241725238.jpg",
-      "vip": false,
-      "listed_at": "2026-09-19T09:50:00.989094+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00",
       "est": "pos"
     },
