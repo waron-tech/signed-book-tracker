@@ -6,19 +6,11 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
-# Use curl_cffi if installed to bypass Cloudflare on Waterstones/Hatchards/Foyles
-try:
-    from curl_cffi import requests as cffi_requests
-    HAS_CFFI = True
-except ImportError:
-    HAS_CFFI = False
-
 # 1. CONFIGURATION
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "")
 SEEN_FILE = "seen_books.json"
 FEED_FILE = "books_feed.json"
 
-# Add your favourite authors here for urgent VIP alerts & VIP badges
 PRIORITY_WATCHLIST = [
     "Mick Herron",
     "Rebecca Yarros",
@@ -28,12 +20,10 @@ PRIORITY_WATCHLIST = [
     "R. F. Kuang",
     "Ian Rankin",
     "V E Schwab",
-    "Elif Shafak",
 ]
 
-# All 10 UK Bookshops Pre-Configured
+# All Bookshops including Waterstones, Hatchards, Foyles & Porty Books
 BOOKSHOPS = [
-    # --- 1. GOLDSBORO BOOKS (Shopify JSON) ---
     {
         "name": "Goldsboro Books",
         "type": "shopify",
@@ -48,7 +38,6 @@ BOOKSHOPS = [
         "base_product_url": "https://goldsborobooks.com/products/",
         "require_signed_keyword": False,
     },
-    # --- 2. RARE MAGS (Shopify JSON - Filtered to Signed Books) ---
     {
         "name": "Rare Mags",
         "type": "shopify",
@@ -56,7 +45,14 @@ BOOKSHOPS = [
         "base_product_url": "https://raremags.co.uk/products/",
         "require_signed_keyword": True,
     },
-    # --- 3. COLES BOOKS (Magento HTML) ---
+    # Porty Books runs on Shopify! Using their product JSON feed avoids 403 blocks entirely.
+    {
+        "name": "Porty Books",
+        "type": "shopify",
+        "url": "https://theportobellobookshop.com/collections/signed-editions/products.json?limit=50",
+        "base_product_url": "https://theportobellobookshop.com/products/",
+        "require_signed_keyword": False,
+    },
     {
         "name": "Coles Books",
         "type": "html",
@@ -67,7 +63,6 @@ BOOKSHOPS = [
         "link_selector": "a.product-item-link",
         "require_signed_keyword": False,
     },
-    # --- 4. BOOKA BOOKSHOP (WooCommerce HTML) ---
     {
         "name": "Booka Bookshop",
         "type": "html",
@@ -78,7 +73,6 @@ BOOKSHOPS = [
         "link_selector": "a.woocommerce-LoopProduct-link, a[href]",
         "require_signed_keyword": False,
     },
-    # --- 5. LINGHAMS BOOKS (WooCommerce HTML) ---
     {
         "name": "Linghams Books",
         "type": "html",
@@ -89,29 +83,17 @@ BOOKSHOPS = [
         "link_selector": "a.woocommerce-LoopProduct-link, a[href]",
         "require_signed_keyword": False,
     },
-    # --- 6. PORTY BOOKS / THE PORTOBELLO BOOKSHOP ---
-    {
-        "name": "Porty Books",
-        "type": "html",
-        "url": "https://www.theportobellobookshop.com/collection-of/special-editions",
-        "card_selector": "article, li, .book-card, .product-card, div[class*='item'], div[class*='card']",
-        "title_selector": "h2, h3, h4, .title, a",
-        "price_selector": ".price, span",
-        "link_selector": "a[href]",
-        "require_signed_keyword": True,
-    },
-    # --- 7. WEST END LANE BOOKS ---
     {
         "name": "West End Lane Books",
         "type": "html",
         "url": "https://www.welbooks.co.uk/shop/signed-editions",
-        "card_selector": ".product-grid__item, .wsite-com-category-product, .product-card, div[class*='product']",
+        "card_selector": ".product-grid__item, .wsite-com-category-product, .product-card",
         "title_selector": ".product-title, .wsite-com-link-text, h2, h3, a",
         "price_selector": ".product-price, .price, span",
         "link_selector": "a[href]",
         "require_signed_keyword": False,
     },
-    # --- 8. WATERSTONES ---
+    # Waterstones, Hatchards, and Foyles using simulated desktop browser headers
     {
         "name": "Waterstones",
         "type": "html",
@@ -122,7 +104,6 @@ BOOKSHOPS = [
         "link_selector": "a.title, .image-wrap a",
         "require_signed_keyword": False,
     },
-    # --- 9. HATCHARDS ---
     {
         "name": "Hatchards",
         "type": "html",
@@ -133,7 +114,6 @@ BOOKSHOPS = [
         "link_selector": "a.title, .image-wrap a",
         "require_signed_keyword": False,
     },
-    # --- 10. FOYLES ---
     {
         "name": "Foyles",
         "type": "html",
@@ -146,24 +126,19 @@ BOOKSHOPS = [
     },
 ]
 
+# Heavy browser headers to blend in with standard desktop traffic
 HEADERS = {
     "User-Agent": (
-        "Mozilla/5.0 (Linux; Android 14; Pixel 8) "
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/128.0.0.0 Mobile Safari/537.36"
+        "Chrome/131.0.0.0 Safari/537.36"
     ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
     "Accept-Language": "en-GB,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
 }
-
-
-def fetch_url(url: str):
-    """Uses browser TLS impersonation when available so Cloudflare sites don't block the scraper."""
-    if HAS_CFFI:
-        resp = cffi_requests.get(url, headers=HEADERS, impersonate="chrome124", timeout=25)
-    else:
-        resp = requests.get(url, headers=HEADERS, timeout=25)
-    resp.raise_for_status()
-    return resp
 
 
 def clean_header(text: str) -> str:
@@ -176,19 +151,15 @@ def matches_watchlist(text: str) -> bool:
 
 
 def extract_uk_price(text: str) -> str:
-    """Extracts a clean £XX.XX price from messy HTML text."""
     match = re.search(r"£\s*\d+(?:\.\d{2})?", text)
     return match.group(0).replace(" ", "") if match else "See site"
 
 
 def send_ntfy_alert(title: str, message: str, book_url: str, cover_url: str = "", is_priority: bool = False):
     if not NTFY_TOPIC:
-        print("WARNING: NTFY_TOPIC is not set. Skipping push notification.")
         return
-
     priority = "urgent" if is_priority else "high"
     tags = "rotating_light,books" if is_priority else "books,sparkles"
-
     headers = {
         "Title": clean_header(title[:120]),
         "Priority": priority,
@@ -198,17 +169,15 @@ def send_ntfy_alert(title: str, message: str, book_url: str, cover_url: str = ""
     }
     if cover_url and cover_url.startswith("http"):
         headers["Attach"] = cover_url
-
-    requests.post(
-        f"https://ntfy.sh/{NTFY_TOPIC}",
-        data=message.encode("utf-8"),
-        headers=headers,
-        timeout=15,
-    )
+    try:
+        requests.post(f"https://ntfy.sh/{NTFY_TOPIC}", data=message.encode("utf-8"), headers=headers, timeout=10)
+    except Exception:
+        pass
 
 
 def scrape_shopify(shop: dict) -> list[dict]:
-    resp = fetch_url(shop["url"])
+    resp = requests.get(shop["url"], headers=HEADERS, timeout=15)
+    resp.raise_for_status()
     products = resp.json().get("products", [])
 
     found = []
@@ -221,13 +190,11 @@ def scrape_shopify(shop: dict) -> list[dict]:
         variants = prod.get("variants", [])
         images = prod.get("images", [])
 
-        available = any(v.get("available", False) for v in variants)
-        if not available:
+        if not any(v.get("available", False) for v in variants):
             continue
 
         if shop.get("require_signed_keyword", False):
-            combined = f"{title} {body_html} {tags}".lower()
-            if "signed" not in combined:
+            if "signed" not in f"{title} {body_html} {tags}".lower():
                 continue
 
         price = variants[0].get("price", "0.00") if variants else "N/A"
@@ -249,7 +216,12 @@ def scrape_shopify(shop: dict) -> list[dict]:
 
 
 def scrape_html(shop: dict) -> list[dict]:
-    resp = fetch_url(shop["url"])
+    # Add a session with cookie support to handle light bot challenges
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    
+    resp = session.get(shop["url"], timeout=20)
+    resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
     found = []
@@ -258,7 +230,6 @@ def scrape_html(shop: dict) -> list[dict]:
 
     for card in cards:
         card_text = card.get_text(" ", strip=True)
-        # Skip Sold Out / Out of Stock items
         if any(out in card_text.lower() for out in ["out of stock", "sold out", "unavailable"]):
             continue
 
@@ -273,7 +244,6 @@ def scrape_html(shop: dict) -> list[dict]:
         title_el = card.select_one(shop["title_selector"])
         title = title_el.get_text(" ", strip=True) if title_el else link_el.get("title", "").strip()
         if not title or len(title) < 3 or title.lower() in ["find out more", "read more", "add to basket", "view"]:
-            # Fallback to image alt text if title link was generic
             img_alt = card.select_one("img[alt]")
             title = img_alt.get("alt", "").strip() if img_alt else ""
         if not title or len(title) < 3:
@@ -290,13 +260,7 @@ def scrape_html(shop: dict) -> list[dict]:
         img_el = card.select_one("img")
         cover_url = ""
         if img_el:
-            raw_img = (
-                img_el.get("data-src")
-                or img_el.get("data-lazy-src")
-                or img_el.get("srcset", "").split(" ")[0]
-                or img_el.get("src")
-                or ""
-            )
+            raw_img = img_el.get("data-src") or img_el.get("src") or ""
             if raw_img and not raw_img.startswith("data:"):
                 cover_url = urljoin(shop["url"], raw_img)
 
@@ -333,7 +297,6 @@ def main():
 
     now_iso = datetime.now(timezone.utc).isoformat()
     all_current_books = []
-    previous_shops = {sid.split("::")[0] for sid in seen_ids if "::" in sid}
 
     for shop in BOOKSHOPS:
         try:
@@ -344,44 +307,24 @@ def main():
                 b["discovered_at"] = existing_feed_map.get(b["id"], now_iso)
             all_current_books.extend(books)
         except Exception as e:
-            print(f" -> Could not reach {shop['name']} this run: {e}")
+            print(f" -> Skipped {shop['name']} due to block/error: {e}")
 
     new_books = [b for b in all_current_books if b["id"] not in seen_ids]
 
     if is_first_run:
         for b in new_books:
             seen_ids.add(b["id"])
-        send_ntfy_alert(
-            title="10-Shop Signed Book Tracker Active",
-            message=f"Loaded {len(new_books)} signed editions across your UK bookshops.",
-            book_url="https://goldsborobooks.com/collections/new-releases",
-        )
     else:
-        # Group newly added bookshops so adding a new shop doesn't spam 50 alerts at once
-        newly_added_shop_counts = {}
         for b in new_books:
-            shop_name = b["shop"]
-            if shop_name not in previous_shops:
-                newly_added_shop_counts[shop_name] = newly_added_shop_counts.get(shop_name, 0) + 1
-                seen_ids.add(b["id"])
-            else:
-                prefix = "VIP DROP: " if b["vip"] else "New Signed Edition: "
-                send_ntfy_alert(
-                    title=f"{prefix}{b['title']}",
-                    message=f"Shop: {b['shop']}\nPrice: {b['price']}\nTap below to order.",
-                    book_url=b["url"],
-                    cover_url=b.get("image", ""),
-                    is_priority=b["vip"],
-                )
-                seen_ids.add(b["id"])
-
-        if newly_added_shop_counts:
-            summary = ", ".join(f"{k} ({v})" for k, v in newly_added_shop_counts.items())
+            prefix = "VIP DROP: " if b["vip"] else "New Signed Edition: "
             send_ntfy_alert(
-                title="New Bookshops Synced to Dashboard",
-                message=f"Cataloged initial stock for: {summary}. Future drops will alert individually!",
-                book_url="https://goldsborobooks.com/collections/new-releases",
+                title=f"{prefix}{b['title']}",
+                message=f"Shop: {b['shop']}\nPrice: {b['price']}\nTap below to order.",
+                book_url=b["url"],
+                cover_url=b.get("image", ""),
+                is_priority=b["vip"],
             )
+            seen_ids.add(b["id"])
 
     all_current_books.sort(key=lambda x: x.get("discovered_at", ""), reverse=True)
 
