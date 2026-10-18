@@ -29,10 +29,11 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python scraper.py
 
-      - name: Save updated seen_books.json to repository
+      - name: Save updated seen_books.json and books_feed.json to repository
         run: |
           git config user.name "Book Tracker Bot"
           git config user.email "bot@users.noreply.github.com"
-          git add seen_books.json
-          git diff --staged --quiet || git commit -m "Update seen signed editions"
+          git add seen_books.json books_feed.json
+          git diff --staged --quiet || git commit -m "Update signed editions feed"
           git push
+          
