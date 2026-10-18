@@ -4,10 +4,10 @@ on:
   schedule:
     # Runs automatically every 15 minutes, 24/7
     - cron: '*/15 * * * *'
-  workflow_dispatch: # Lets you trigger a test run manually with 1 click
+  workflow_dispatch: # Adds the manual "Run workflow" button
 
 permissions:
-  contents: write # Allows the action to update seen_books.json in your repo
+  contents: write # Allows the bot to save seen_books.json and books_feed.json
 
 jobs:
   check-books:
