@@ -119,6 +119,26 @@ BOOKSHOPS = [
         "category_slug": "signed-exclusives",
     },
     {
+        "name": "London Review Bookshop",
+        "type": "lrb",
+        "url": "https://www.londonreviewbookshop.co.uk/booklists/signed-editions",
+    },
+    {
+        "name": "Little Apple Bookshop",
+        "type": "wix",
+        "url": "https://www.littleapplebookshop.co.uk/signed",
+    },
+    {
+        "name": "Hewson Books",
+        "type": "wix",
+        "url": "https://www.hewsonbooks.co.uk/signed-books",
+    },
+    {
+        "name": "Station Books",
+        "type": "station",
+        "url": "https://stationbooks.co.uk/shop/editions/signed/",
+    },
+    {
         "name": "Booka Bookshop",
         "type": "woocommerce",
         "url": "https://www.bookabookshop.co.uk/category/signed-copies/",
@@ -337,6 +357,127 @@ def scrape_woocommerce(shop: dict) -> list[dict]:
     return found
 
 
+def scrape_wix(shop: dict) -> list[dict]:
+    """Wix Stores category page: product data is embedded as JSON in the HTML (no dates available)."""
+    base = shop["url"].split("/", 3)[0] + "//" + shop["url"].split("/")[2]
+    found, seen_parts = [], set()
+    for page in range(1, 15):
+        resp = requests.get(shop["url"], params={"page": page}, headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+        t = resp.text
+        new_on_page = 0
+        for m in re.finditer(r'"urlPart":"([^"]+)"', t):
+            part = m.group(1)
+            if part in seen_parts:
+                continue
+            tail = t[m.end(): m.end() + 900]
+            head = t[max(0, m.start() - 2500): m.start()]
+            name = re.search(r'"name":"((?:[^"\\]|\\.)*)"', tail)
+            price = re.search(r'"formattedPrice":"([^"]*)"', tail) or re.search(r'"formattedPrice":"([^"]*)"', head[-700:])
+            stock = re.findall(r'"isInStock":(true|false)', head[-300:])
+            if not name or not price:
+                continue
+            seen_parts.add(part)
+            new_on_page += 1
+            if stock and stock[-1] == "false":
+                continue
+            title = re.sub(r"\s+", " ", json.loads('"' + name.group(1) + '"')).strip()
+            imgs = re.findall(r'"fullUrl":"([^"]+)"', head) or re.findall(r'"fullUrl":"([^"]+)"', t[m.end(): m.end() + 3000])
+            image = imgs[-1].replace("\\/", "/").split("/v1/")[0] if imgs else ""
+            url = f"{base}/product-page/{part}"
+            found.append({
+                "id": f"{shop['name']}::{url}",
+                "title": title,
+                "author": shop["name"],
+                "price": price.group(1) or "See site",
+                "shop": shop["name"],
+                "url": url,
+                "image": image,
+                "vip": matches_watchlist(title),
+                "listed_at": "",
+            })
+        if new_on_page == 0:
+            break
+    return found
+
+
+def scrape_lrb(shop: dict) -> list[dict]:
+    """London Review Bookshop signed list (server-rendered cards)."""
+    base = "https://www.londonreviewbookshop.co.uk"
+    found, seen_urls = [], set()
+    for page in range(1, 10):
+        resp = requests.get(shop["url"], params={"page": page}, headers=HEADERS, timeout=25)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+        cards = soup.select(".collection-inline-book")
+        if not cards:
+            break
+        added = 0
+        for c in cards:
+            a = c.select_one("a.book-preview--titles")
+            if not a or not a.get("href"):
+                continue
+            url = urljoin(base, a["href"])
+            if url in seen_urls:
+                continue
+            seen_urls.add(url)
+            added += 1
+            t_el = c.select_one("[itemprop=name]")
+            au_el = c.select_one("[itemprop=author]")
+            title = t_el.get_text(" ", strip=True) if t_el else ""
+            author = au_el.get_text(" ", strip=True) if au_el else ""
+            data = c.select_one(".ee-book-data")
+            price = f"£{float(data['data-price']):.2f}" if data and data.get("data-price") else "See site"
+            img = c.select_one("img")
+            image = (img.get("data-srcimg") or "") if img else ""
+            if not title or "out of stock" in c.get_text(" ").lower():
+                continue
+            found.append({
+                "id": f"{shop['name']}::{url}",
+                "title": f"{title} - {author}" if author else title,
+                "author": author or shop["name"],
+                "price": price,
+                "shop": shop["name"],
+                "url": url,
+                "image": image,
+                "vip": matches_watchlist(f"{title} {author}"),
+                "listed_at": "",
+            })
+        if added == 0:
+            break
+    return found
+
+
+def scrape_station(shop: dict) -> list[dict]:
+    """Station Books signed list (server-rendered cards, no pagination seen)."""
+    base = "https://stationbooks.co.uk"
+    resp = requests.get(shop["url"], headers=HEADERS, timeout=25)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+    found = []
+    for c in soup.select("li.product-card"):
+        a = c.select_one("a[href]")
+        h3 = c.select_one("h3")
+        if not a or not h3 or c.select_one(".oos"):
+            continue
+        url = urljoin(base, a["href"])
+        title = h3.get_text(" ", strip=True).replace(" | Preorder", "")
+        img = c.select_one("img")
+        price_el = c.select_one(".price")
+        found.append({
+            "id": f"{shop['name']}::{url}",
+            "title": title,
+            "author": shop["name"],
+            "price": extract_uk_price(price_el.get_text(" ", strip=True)) if price_el else "See site",
+            "shop": shop["name"],
+            "url": url,
+            "image": img.get("src", "") if img else "",
+            "vip": matches_watchlist(title),
+            "listed_at": "",
+        })
+    return found
+
+
 def scrape_squarespace(shop: dict) -> list[dict]:
     """Squarespace shop: ?format=json gives real publish dates, tags and stock."""
     base = shop["url"].split("/shop/")[0]
@@ -366,200 +507,4 @@ def scrape_squarespace(shop: dict) -> list[dict]:
                 continue
             url = base + it.get("fullUrl", "")
             found.append({
-                "id": f"{shop['name']}::{url}",
-                "title": title,
-                "author": shop["name"],
-                "price": price,
-                "shop": shop["name"],
-                "url": url,
-                "image": it.get("assetUrl", ""),
-                "vip": matches_watchlist(title),
-                "listed_at": listed,
-            })
-        pg = data.get("pagination") or {}
-        if not pg.get("nextPage") or not pg.get("nextPageOffset"):
-            break
-        offset = pg["nextPageOffset"]
-    return found
-
-
-def scrape_html(shop: dict) -> list[dict]:
-    resp = requests.get(shop["url"], headers=HEADERS, timeout=15)
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
-
-    found = []
-    seen_urls = set()
-    cards = soup.select(shop["card_selector"])
-
-    for card in cards:
-        card_text = card.get_text(" ", strip=True)
-        if any(out in card_text.lower() for out in ["out of stock", "sold out", "unavailable"]):
-            continue
-
-        link_el = card if card.name == "a" and card.get("href") else card.select_one(shop["link_selector"])
-        if not link_el or not link_el.get("href"):
-            continue
-
-        book_url = urljoin(shop["url"], link_el.get("href", "").strip())
-        if book_url in seen_urls or book_url.rstrip("/") == shop["url"].rstrip("/"):
-            continue
-
-        title_el = card.select_one(shop["title_selector"])
-        title = title_el.get_text(" ", strip=True) if title_el else link_el.get("title", "").strip()
-        if not title or len(title) < 3 or title.lower() in ["find out more", "read more", "add to basket", "view"]:
-            img_alt = card.select_one("img[alt]")
-            title = img_alt.get("alt", "").strip() if img_alt else ""
-        if not title or len(title) < 3:
-            continue
-
-        if shop.get("require_signed_keyword", False):
-            classes = " ".join(card.get("class", []))
-            if not looks_signed(f"{card_text} {title}") and "tag-signed" not in classes:
-                continue
-
-        price_el = card.select_one(shop.get("price_selector", ""))
-        raw_price = price_el.get_text(" ", strip=True) if price_el else card_text
-        price = extract_uk_price(raw_price)
-
-        img_el = card.select_one("img")
-        cover_url = ""
-        if img_el:
-            raw_img = img_el.get("data-src") or img_el.get("src") or ""
-            if raw_img and not raw_img.startswith("data:"):
-                cover_url = urljoin(shop["url"], raw_img)
-
-        seen_urls.add(book_url)
-        found.append({
-            "id": f"{shop['name']}::{book_url}",
-            "title": title,
-            "author": shop["name"],
-            "price": price,
-            "shop": shop["name"],
-            "url": book_url,
-            "image": cover_url,
-            "vip": matches_watchlist(f"{title} {card_text}"),
-            "listed_at": "",
-        })
-    return found
-
-
-def main():
-    is_first_run = not os.path.exists(SEEN_FILE)
-    seen_ids = set()
-    if not is_first_run:
-        with open(SEEN_FILE, "r", encoding="utf-8") as f:
-            seen_ids = set(json.load(f))
-
-    # Load existing feed items with their discovery timestamps
-    existing_books_map = {}
-    if os.path.exists(FEED_FILE):
-        try:
-            with open(FEED_FILE, "r", encoding="utf-8") as f:
-                old_data = json.load(f)
-                for item in old_data.get("books", []):
-                    existing_books_map[item["id"]] = item
-        except Exception:
-            pass
-
-    now_iso = datetime.now(timezone.utc)
-    baseline_iso = (now_iso - timedelta(days=30)).isoformat()
-    seen_shops = {i.split("::")[0] for i in seen_ids}
-    cutoff_time = now_iso - timedelta(days=RETENTION_DAYS)
-
-    # 1. Scrape currently active books from websites
-    current_scraped_books = []
-    shop_status = {}
-    failed_shops = set()
-    for shop in BOOKSHOPS:
-        try:
-            print(f"Checking {shop['name']}...")
-            kind = shop["type"]
-            books = scrape_shopify(shop) if kind == "shopify" else scrape_shopify_all(shop) if kind == "shopify_all" else scrape_woocommerce(shop) if kind == "woocommerce" else scrape_squarespace(shop) if kind == "squarespace" else scrape_html(shop)
-            print(f" -> Found {len(books)} available signed editions.")
-            shop_status[shop["name"]] = f"{len(books)} items"
-            for b in books:
-                bid = b["id"]
-                # Preserve original discovery timestamp if we've seen it before, else use now
-                if bid in existing_books_map:
-                    b["discovered_at"] = existing_books_map[bid].get("discovered_at", now_iso.isoformat())
-                else:
-                    b["discovered_at"] = now_iso.isoformat()
-                # Shops with no listing date (Coles, Porty): fall back to first-seen time.
-                if not b.get("listed_at"):
-                    prev = existing_books_map.get(bid, {}).get("listed_at")
-                    if prev:
-                        b["listed_at"] = prev
-                    elif bid in seen_ids or shop["name"] not in seen_shops:
-                        # Already listed before we started tracking this shop: no date known, so place it
-                        # at a neutral baseline instead of letting it jump above genuinely new books.
-                        b["listed_at"] = baseline_iso
-                    else:
-                        b["listed_at"] = b["discovered_at"]
-                current_scraped_books.append(b)
-        except Exception as e:
-            print(f" -> Skipped {shop['name']} due to error: {e}")
-            shop_status[shop["name"]] = f"ERROR: {str(e)[:120]}"
-            failed_shops.add(shop["name"])
-
-    # 2. If a shop could not be read this run, keep its recent items so they do not vanish from the page.
-    #    Items from shops that were read fine are NOT kept once they disappear (sold out / delisted).
-    master_books_map = {b["id"]: b for b in current_scraped_books}
-    for bid, book in existing_books_map.items():
-        if book.get("shop") not in failed_shops or bid in master_books_map:
-            continue
-        disc_str = book.get("discovered_at")
-        if disc_str:
-            try:
-                if datetime.fromisoformat(disc_str) >= cutoff_time:
-                    book.setdefault("listed_at", disc_str)
-                    master_books_map[bid] = book
-            except Exception:
-                pass
-
-    final_books_list = list(master_books_map.values())
-    new_books = [b for b in current_scraped_books if b["id"] not in seen_ids]
-
-    if is_first_run:
-        for b in current_scraped_books:
-            seen_ids.add(b["id"])
-    else:
-        # Only alert on recently listed items (a newly readable shop has a big back catalogue),
-        # and cap alerts per run. Everything is still added to the dashboard feed.
-        recent_cutoff = (now_iso - timedelta(hours=48)).isoformat()
-        alert_books = [b for b in new_books if (b.get("listed_at") or "") >= recent_cutoff][:15]
-        for b in new_books:
-            if b not in alert_books:
-                seen_ids.add(b["id"])
-        for b in alert_books:
-            prefix = "VIP DROP: " if b["vip"] else "New Signed Edition: "
-            send_ntfy_alert(
-                title=f"{prefix}{b['title']}",
-                message=f"Shop: {b['shop']}\nPrice: {b['price']}\nTap below to order.",
-                book_url=b["url"],
-                cover_url=b.get("image", ""),
-                is_priority=b["vip"],
-            )
-            seen_ids.add(b["id"])
-
-    # Sort newest spotted books to the top
-    final_books_list.sort(key=lambda x: x.get("listed_at") or x.get("discovered_at", ""), reverse=True)
-
-    with open(SEEN_FILE, "w", encoding="utf-8") as f:
-        json.dump(sorted(list(seen_ids)), f, indent=2)
-
-    with open(FEED_FILE, "w", encoding="utf-8") as f:
-        json.dump(
-            {
-                "last_updated": now_iso.isoformat(),
-                "total_available": len(final_books_list),
-                "shop_status": shop_status,
-                "books": final_books_list,
-            },
-            f,
-            indent=2,
-        )
-
-
-if __name__ == "__main__":
-    main()
+                "id
