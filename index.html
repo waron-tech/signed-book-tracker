@@ -209,7 +209,7 @@
     <div class="controls-row">
       <input type="search" id="searchInput" class="search-bar" placeholder="Search title..." oninput="renderBooks()" />
       <select id="sortSelect" class="sort-select" onchange="renderBooks()">
-        <option value="newest">Newest</option>
+        <option value="newest">Newest listed</option>
         <option value="price-asc">Price: Low to High</option>
         <option value="price-desc">Price: High to Low</option>
       </select>
@@ -255,6 +255,12 @@
       }
       buildChips();
       renderBooks();
+    }
+
+    // Newest-listed first: use the shop's own listing date when we have it, else first-seen time.
+    function listedTime(b) {
+      const t = new Date(b.listed_at || b.discovered_at || 0).getTime();
+      return isNaN(t) ? 0 : t;
     }
 
     function timeAgo(iso) {
@@ -306,7 +312,7 @@
         filtered.sort((a, b) => {
           if (sortBy === "price-asc") return parsePrice(a.price) - parsePrice(b.price);
           if (sortBy === "price-desc") return parsePrice(b.price) - parsePrice(a.price);
-          return new Date(b.discovered_at || 0) - new Date(a.discovered_at || 0);
+          return listedTime(b) - listedTime(a);
         });
 
         document.getElementById("countText").textContent = `${filtered.length} signed editions`;
@@ -321,7 +327,7 @@
           <article class="card">
             <div class="badge-container">
               ${b.vip ? '<span class="vip-badge">VIP</span>' : ''}
-              ${b.discovered_at ? `<span class="time-badge">${timeAgo(b.discovered_at)}</span>` : ''}
+              ${(b.listed_at || b.discovered_at) ? `<span class="time-badge">${timeAgo(b.listed_at || b.discovered_at)}</span>` : ''}
             </div>
             <div class="cover-wrap">
               ${b.image ? `<img src="${b.image}" alt="${b.title}" loading="lazy" />` : '<span>No Cover</span>'}
