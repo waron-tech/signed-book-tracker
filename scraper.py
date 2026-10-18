@@ -55,6 +55,70 @@ BOOKSHOPS = [
         "require_signed_keyword": False,
     },
     {
+        "name": "Backstory London (Signed & Dedicated)",
+        "type": "shopify_all",
+        "url": "https://backstory.london/collections/signed-dedicated/products.json",
+        "base_product_url": "https://backstory.london/products/",
+        "require_signed_keyword": False,
+        "max_pages": 6,
+    },
+    {
+        "name": "Backstory London (Exclusives)",
+        "type": "shopify_all",
+        "url": "https://backstory.london/collections/signed-exclusive-editions/products.json",
+        "base_product_url": "https://backstory.london/products/",
+        "require_signed_keyword": False,
+        "max_pages": 6,
+    },
+    {
+        "name": "British Library Shop",
+        "type": "shopify_all",
+        "plain_headers": True,  # this shop returns nothing when Accept-Language is sent
+        "url": "https://shop.bl.uk/collections/signed-copies/products.json",
+        "base_product_url": "https://shop.bl.uk/products/",
+        "require_signed_keyword": False,
+        "max_pages": 6,
+    },
+    {
+        "name": "Cleeve Bookshop",
+        "type": "shopify_all",
+        "url": "https://thecleevebookshop.co.uk/collections/signed-first-edition-hardback-fiction/products.json",
+        "base_product_url": "https://thecleevebookshop.co.uk/products/",
+        "require_signed_keyword": False,
+        "max_pages": 6,
+    },
+    {
+        "name": "Ivybridge Bookshop",
+        "type": "shopify_all",
+        "url": "https://www.ivybridgebookshop.com/collections/indie-editions-and-signed-by-the-author/products.json",
+        "base_product_url": "https://www.ivybridgebookshop.com/products/",
+        "require_signed_keyword": False,
+        "max_pages": 6,
+    },
+    {
+        "name": "Perkology Books",
+        "type": "shopify_all",
+        "url": "https://www.perkology.co.uk/collections/signed-editions/products.json",
+        "base_product_url": "https://www.perkology.co.uk/products/",
+        "require_signed_keyword": False,
+        "max_pages": 6,
+    },
+    {
+        "name": "Bookstation (Ireland)",
+        "type": "shopify_all",
+        "url": "https://bookstation.ie/collections/signed-books/products.json",
+        "base_product_url": "https://bookstation.ie/products/",
+        "require_signed_keyword": False,
+        "max_pages": 6,
+    },
+    {
+        "name": "Biggles Stones",
+        "type": "woocommerce",
+        "url": "https://www.bigglestones.com/category/highlights/signed-exclusives/",
+        "site": "https://www.bigglestones.com",
+        "category_slug": "signed-exclusives",
+    },
+    {
         "name": "Booka Bookshop",
         "type": "woocommerce",
         "url": "https://www.bookabookshop.co.uk/category/signed-copies/",
@@ -162,7 +226,7 @@ def scrape_shopify_all(shop: dict) -> list[dict]:
     """Page through a shop-wide products.json (collections can be empty or renamed)."""
     products = []
     for page in range(1, shop.get("max_pages", 8) + 1):
-        resp = requests.get(shop["url"], params={"limit": 250, "page": page}, headers=HEADERS, timeout=20)
+        resp = requests.get(shop["url"], params={"limit": 250, "page": page}, headers=({"User-Agent": HEADERS["User-Agent"]} if shop.get("plain_headers") else HEADERS), timeout=20)
         resp.raise_for_status()
         batch = resp.json().get("products", [])
         if not batch:
@@ -219,7 +283,7 @@ def scrape_shopify(shop: dict, products=None) -> list[dict]:
 
 def scrape_woocommerce(shop: dict) -> list[dict]:
     """WooCommerce Store API (newest first) + WP REST for publish dates. Stops at the recency cut-off."""
-    site = shop["url"].split("/category/")[0]
+    site = shop.get("site") or shop["url"].split("/category/")[0]
     cutoff = datetime.now(timezone.utc) - timedelta(days=RECENT_DAYS)
     found = []
     for page in range(1, 30):
@@ -399,16 +463,21 @@ def main():
             pass
 
     now_iso = datetime.now(timezone.utc)
+    baseline_iso = (now_iso - timedelta(days=30)).isoformat()
+    seen_shops = {i.split("::")[0] for i in seen_ids}
     cutoff_time = now_iso - timedelta(days=RETENTION_DAYS)
 
     # 1. Scrape currently active books from websites
     current_scraped_books = []
+    shop_status = {}
+    failed_shops = set()
     for shop in BOOKSHOPS:
         try:
             print(f"Checking {shop['name']}...")
             kind = shop["type"]
             books = scrape_shopify(shop) if kind == "shopify" else scrape_shopify_all(shop) if kind == "shopify_all" else scrape_woocommerce(shop) if kind == "woocommerce" else scrape_squarespace(shop) if kind == "squarespace" else scrape_html(shop)
             print(f" -> Found {len(books)} available signed editions.")
+            shop_status[shop["name"]] = f"{len(books)} items"
             for b in books:
                 bid = b["id"]
                 # Preserve original discovery timestamp if we've seen it before, else use now
@@ -418,20 +487,32 @@ def main():
                     b["discovered_at"] = now_iso.isoformat()
                 # Shops with no listing date (Coles, Porty): fall back to first-seen time.
                 if not b.get("listed_at"):
-                    b["listed_at"] = b["discovered_at"]
+                    prev = existing_books_map.get(bid, {}).get("listed_at")
+                    if prev:
+                        b["listed_at"] = prev
+                    elif bid in seen_ids or shop["name"] not in seen_shops:
+                        # Already listed before we started tracking this shop: no date known, so place it
+                        # at a neutral baseline instead of letting it jump above genuinely new books.
+                        b["listed_at"] = baseline_iso
+                    else:
+                        b["listed_at"] = b["discovered_at"]
                 current_scraped_books.append(b)
         except Exception as e:
             print(f" -> Skipped {shop['name']} due to error: {e}")
+            shop_status[shop["name"]] = f"ERROR: {str(e)[:120]}"
+            failed_shops.add(shop["name"])
 
-    # 2. Retain older books that were discovered within the last 30 days (even if currently off-site)
+    # 2. If a shop could not be read this run, keep its recent items so they do not vanish from the page.
+    #    Items from shops that were read fine are NOT kept once they disappear (sold out / delisted).
     master_books_map = {b["id"]: b for b in current_scraped_books}
     for bid, book in existing_books_map.items():
+        if book.get("shop") not in failed_shops or bid in master_books_map:
+            continue
         disc_str = book.get("discovered_at")
         if disc_str:
             try:
-                disc_time = datetime.fromisoformat(disc_str)
-                # If discovered within 30 days, keep it in the feed
-                if disc_time >= cutoff_time and bid not in master_books_map:
+                if datetime.fromisoformat(disc_str) >= cutoff_time:
+                    book.setdefault("listed_at", disc_str)
                     master_books_map[bid] = book
             except Exception:
                 pass
@@ -472,6 +553,7 @@ def main():
             {
                 "last_updated": now_iso.isoformat(),
                 "total_available": len(final_books_list),
+                "shop_status": shop_status,
                 "books": final_books_list,
             },
             f,
