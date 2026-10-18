@@ -1,6 +1,8 @@
 import json
 import os
+import html
 import re
+import unicodedata
 from datetime import datetime, timezone, timedelta
 from urllib.parse import urljoin
 import requests
@@ -10,17 +12,20 @@ from bs4 import BeautifulSoup
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "")
 SEEN_FILE = "seen_books.json"
 FEED_FILE = "books_feed.json"
+RECENT_DAYS = 365  # "new signed copies" = listed on the shop in the last 12 months (items with no date are kept)
 RETENTION_DAYS = 30  # Keeps books in your dashboard feed for 30 days
 
 PRIORITY_WATCHLIST = [
-    "Mick Herron",
-    "Rebecca Yarros",
-    "Richard Osman",
-    "Brandon Sanderson",
-    "RF Kuang",
-    "R. F. Kuang",
-    "Ian Rankin",
-    "V E Schwab",
+    # Living authors from Aaron's library (most-held first), plus stated targets.
+    "Haruki Murakami", "Barbara Kingsolver", "Robert Caro", "Kazuo Ishiguro", "Pat Barker",
+    "Madeline Miller", "Salman Rushdie", "Alan Bennett", "M.L. Rio", "M L Rio", "Donna Tartt",
+    "Hiromi Kawakami", "Curtis Sittenfeld", "Douglas Stuart", "Bernardine Evaristo",
+    "Margaret Atwood", "Bret Easton Ellis", "J.M. Coetzee", "JM Coetzee", "Don DeLillo",
+    "Deborah Levy", "Tim Key", "Arundhati Roy", "Elif Shafak", "Max Porter", "Ottessa Moshfegh",
+    "Colson Whitehead", "Jonathan Franzen", "John Banville", "Claudia Roden", "Madhur Jaffrey",
+    "John Cooper Clarke", "Nina Mingya Powles", "Olga Tokarczuk", "Thom Yorke",
+    "Hanya Yanagihara", "Ben Lerner", "Edward St Aubyn", "Patricia Lockwood",
+    "Toshikazu Kawaguchi", "Stephen King",
 ]
 
 BOOKSHOPS = [
@@ -50,6 +55,12 @@ BOOKSHOPS = [
         "require_signed_keyword": False,
     },
     {
+        "name": "Booka Bookshop",
+        "type": "woocommerce",
+        "url": "https://www.bookabookshop.co.uk/category/signed-copies/",
+        "category_slug": "signed-copies",
+    },
+    {
         "name": "Coles Books",
         "type": "html",
         "url": "https://coles-books.co.uk/signed/books?product_list_order=created_at",
@@ -61,7 +72,7 @@ BOOKSHOPS = [
     },
     {
         "name": "West End Lane Books",
-        "type": "html",
+        "type": "squarespace",
         "url": "https://www.welbooks.co.uk/shop/signed-editions",
         "card_selector": ".product-list-item",
         "title_selector": ".product-list-item-title",
@@ -81,6 +92,22 @@ HEADERS = {
 }
 
 
+def to_utc_iso(value) -> str:
+    """Shop-supplied date (ISO string or epoch millis) -> UTC ISO string, or '' if unknown."""
+    if not value:
+        return ""
+    try:
+        if isinstance(value, (int, float)):
+            dt = datetime.fromtimestamp(value / 1000, tz=timezone.utc)
+        else:
+            dt = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc).isoformat()
+    except Exception:
+        return ""
+
+
 def looks_signed(text: str) -> bool:
     t = text.lower()
     t = re.sub(r"\bun-?signed\b", "", t)
@@ -91,9 +118,19 @@ def clean_header(text: str) -> str:
     return text.encode("latin-1", errors="ignore").decode("latin-1")
 
 
+def _norm(text: str) -> str:
+    text = unicodedata.normalize("NFKD", text or "")
+    text = "".join(c for c in text if not unicodedata.combining(c)).lower()
+    text = text.replace(".", "")
+    return " " + re.sub(r"[^a-z0-9]+", " ", text).strip() + " "
+
+
+_WATCH_NORMALISED = [_norm(n) for n in PRIORITY_WATCHLIST]
+
+
 def matches_watchlist(text: str) -> bool:
-    text_lower = text.lower()
-    return any(keyword.lower() in text_lower for keyword in PRIORITY_WATCHLIST)
+    haystack = _norm(text)
+    return any(name in haystack for name in _WATCH_NORMALISED)
 
 
 def extract_uk_price(text: str) -> str:
@@ -153,6 +190,10 @@ def scrape_shopify(shop: dict, products=None) -> list[dict]:
         if not any(v.get("available", False) for v in variants):
             continue
 
+        listed = to_utc_iso(prod.get("published_at") or prod.get("created_at"))
+        if listed and listed < (datetime.now(timezone.utc) - timedelta(days=RECENT_DAYS)).isoformat():
+            continue
+
         if shop.get("require_signed_keyword", False):
             if not looks_signed(f"{title} {body_html} {tags}"):
                 continue
@@ -171,7 +212,110 @@ def scrape_shopify(shop: dict, products=None) -> list[dict]:
             "url": book_url,
             "image": cover_url,
             "vip": matches_watchlist(display_title),
+            "listed_at": listed,
         })
+    return found
+
+
+def scrape_woocommerce(shop: dict) -> list[dict]:
+    """WooCommerce Store API (newest first) + WP REST for publish dates. Stops at the recency cut-off."""
+    site = shop["url"].split("/category/")[0]
+    cutoff = datetime.now(timezone.utc) - timedelta(days=RECENT_DAYS)
+    found = []
+    for page in range(1, 30):
+        resp = requests.get(
+            f"{site}/wp-json/wc/store/v1/products",
+            params={"category": shop["category_slug"], "per_page": 100, "page": page, "orderby": "date", "order": "desc"},
+            headers=HEADERS, timeout=25,
+        )
+        resp.raise_for_status()
+        items = resp.json()
+        if not items:
+            break
+        ids = [str(i["id"]) for i in items]
+        dres = requests.get(
+            f"{site}/wp-json/wp/v2/product",
+            params={"include": ",".join(ids), "per_page": 100, "_fields": "id,date_gmt"},
+            headers=HEADERS, timeout=25,
+        )
+        dres.raise_for_status()
+        dates = {d["id"]: to_utc_iso(d.get("date_gmt")) for d in dres.json()}
+        oldest_in_page = None
+        for it in items:
+            listed = dates.get(it["id"], "")
+            if listed:
+                oldest_in_page = listed if oldest_in_page is None else min(oldest_in_page, listed)
+            if listed and listed < cutoff.isoformat():
+                continue
+            if not it.get("is_in_stock", True):
+                continue
+            title = html.unescape(it.get("name", "")).strip()
+            blurb = re.sub(r"<[^>]+>", " ", f"{it.get('short_description', '')} {it.get('description', '')}")
+            prices = it.get("prices") or {}
+            try:
+                price = f"£{int(prices.get('price', '0')) / 100:.2f}"
+            except ValueError:
+                price = "See site"
+            images = it.get("images") or []
+            found.append({
+                "id": f"{shop['name']}::{it['permalink']}",
+                "title": title,
+                "author": shop["name"],
+                "price": price,
+                "shop": shop["name"],
+                "url": it["permalink"],
+                "image": images[0].get("src", "") if images else "",
+                "vip": matches_watchlist(f"{title} {html.unescape(blurb)}"),
+                "listed_at": listed,
+            })
+        if oldest_in_page and oldest_in_page < cutoff.isoformat():
+            break
+    return found
+
+
+def scrape_squarespace(shop: dict) -> list[dict]:
+    """Squarespace shop: ?format=json gives real publish dates, tags and stock."""
+    base = shop["url"].split("/shop/")[0]
+    found, offset = [], None
+    for _ in range(25):
+        params = {"format": "json"}
+        if offset:
+            params["offset"] = offset
+        resp = requests.get(shop["url"], params=params, headers=HEADERS, timeout=25)
+        resp.raise_for_status()
+        data = resp.json()
+        for it in data.get("items", []):
+            title = (it.get("title") or "").strip()
+            tags = " ".join(it.get("tags", []))
+            if not looks_signed(f"{title} {tags}"):
+                continue
+            variants = (it.get("structuredContent") or {}).get("variants", [])
+            if variants and not any(v.get("unlimited") or (v.get("qtyInStock") or 0) > 0 for v in variants):
+                continue
+            price = "See site"
+            if variants:
+                val = (variants[0].get("priceMoney") or {}).get("value")
+                if val:
+                    price = f"£{val}"
+            listed = to_utc_iso(it.get("publishOn") or it.get("addedOn"))
+            if listed and listed < (datetime.now(timezone.utc) - timedelta(days=RECENT_DAYS)).isoformat():
+                continue
+            url = base + it.get("fullUrl", "")
+            found.append({
+                "id": f"{shop['name']}::{url}",
+                "title": title,
+                "author": shop["name"],
+                "price": price,
+                "shop": shop["name"],
+                "url": url,
+                "image": it.get("assetUrl", ""),
+                "vip": matches_watchlist(title),
+                "listed_at": listed,
+            })
+        pg = data.get("pagination") or {}
+        if not pg.get("nextPage") or not pg.get("nextPageOffset"):
+            break
+        offset = pg["nextPageOffset"]
     return found
 
 
@@ -231,6 +375,7 @@ def scrape_html(shop: dict) -> list[dict]:
             "url": book_url,
             "image": cover_url,
             "vip": matches_watchlist(f"{title} {card_text}"),
+            "listed_at": "",
         })
     return found
 
@@ -262,7 +407,7 @@ def main():
         try:
             print(f"Checking {shop['name']}...")
             kind = shop["type"]
-            books = scrape_shopify(shop) if kind == "shopify" else scrape_shopify_all(shop) if kind == "shopify_all" else scrape_html(shop)
+            books = scrape_shopify(shop) if kind == "shopify" else scrape_shopify_all(shop) if kind == "shopify_all" else scrape_woocommerce(shop) if kind == "woocommerce" else scrape_squarespace(shop) if kind == "squarespace" else scrape_html(shop)
             print(f" -> Found {len(books)} available signed editions.")
             for b in books:
                 bid = b["id"]
@@ -271,6 +416,9 @@ def main():
                     b["discovered_at"] = existing_books_map[bid].get("discovered_at", now_iso.isoformat())
                 else:
                     b["discovered_at"] = now_iso.isoformat()
+                # Shops with no listing date (Coles, Porty): fall back to first-seen time.
+                if not b.get("listed_at"):
+                    b["listed_at"] = b["discovered_at"]
                 current_scraped_books.append(b)
         except Exception as e:
             print(f" -> Skipped {shop['name']} due to error: {e}")
@@ -295,7 +443,14 @@ def main():
         for b in current_scraped_books:
             seen_ids.add(b["id"])
     else:
+        # Only alert on recently listed items (a newly readable shop has a big back catalogue),
+        # and cap alerts per run. Everything is still added to the dashboard feed.
+        recent_cutoff = (now_iso - timedelta(hours=48)).isoformat()
+        alert_books = [b for b in new_books if (b.get("listed_at") or "") >= recent_cutoff][:15]
         for b in new_books:
+            if b not in alert_books:
+                seen_ids.add(b["id"])
+        for b in alert_books:
             prefix = "VIP DROP: " if b["vip"] else "New Signed Edition: "
             send_ntfy_alert(
                 title=f"{prefix}{b['title']}",
@@ -307,7 +462,7 @@ def main():
             seen_ids.add(b["id"])
 
     # Sort newest spotted books to the top
-    final_books_list.sort(key=lambda x: x.get("discovered_at", ""), reverse=True)
+    final_books_list.sort(key=lambda x: x.get("listed_at") or x.get("discovered_at", ""), reverse=True)
 
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
         json.dump(sorted(list(seen_ids)), f, indent=2)
