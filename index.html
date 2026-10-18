@@ -4,8 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta name="theme-color" content="#0f172a" />
-  <meta name="mobile-web-app-capable" content="yes" />
-  <link rel="manifest" href="manifest.json" />
   <title>Signed First Editions</title>
   <style>
     :root {
@@ -41,10 +39,6 @@
       margin-bottom: 12px;
     }
     h1 { font-size: 1.25rem; font-weight: 700; }
-    .header-actions {
-      display: flex;
-      gap: 8px;
-    }
     .btn {
       background: var(--card);
       color: var(--text);
@@ -143,7 +137,6 @@
     }
     .time-badge {
       background: rgba(2, 132, 199, 0.9);
-      backdrop-filter: blur(4px);
       color: #fff;
       font-size: 0.65rem;
       font-weight: 600;
@@ -177,7 +170,6 @@
       font-size: 0.7rem;
       color: var(--accent);
       text-transform: uppercase;
-      letter-spacing: 0.04em;
       font-weight: 600;
     }
     .book-title {
@@ -199,5 +191,157 @@
     .price { font-weight: 700; font-size: 0.95rem; }
     .buy-btn {
       background: var(--accent);
-      color
-      
+      color: #000;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 0.8rem;
+      padding: 6px 12px;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-top">
+      <h1>Signed Editions</h1>
+      <button class="btn" onclick="loadFeed()">Refresh</button>
+    </div>
+    <div class="controls-row">
+      <input type="search" id="searchInput" class="search-bar" placeholder="Search title..." oninput="renderBooks()" />
+      <select id="sortSelect" class="sort-select" onchange="renderBooks()">
+        <option value="newest">Newest</option>
+        <option value="price-asc">Price: Low to High</option>
+        <option value="price-desc">Price: High to Low</option>
+      </select>
+    </div>
+    <div class="filters" id="filterChips"></div>
+  </header>
+
+  <div class="status-bar">
+    <span id="countText">Loading...</span>
+    <span id="updatedText"></span>
+  </div>
+
+  <main class="grid" id="bookGrid"></main>
+
+  <script>
+    let allBooks = [];
+    let activeFilter = "ALL";
+
+    async function loadFeed() {
+      document.getElementById("countText").textContent = "Loading feed...";
+      try {
+        const res = await fetch(`./books_feed.json?t=${Date.now()}`);
+        if (!res.ok) throw new Error("Feed not found");
+        const data = await res.json();
+        allBooks = data.books || [];
+        document.getElementById("updatedText").textContent = "Synced successfully";
+      } catch (err) {
+        console.error(err);
+        allBooks = [
+          {
+            id: "fallback::1",
+            title: "Dashboard Connected (Waiting for first action run)",
+            author: "System",
+            price: "£0.00",
+            shop: "Status Check",
+            url: "https://github.com",
+            image: "",
+            vip: true,
+            discovered_at: new Date().toISOString()
+          }
+        ];
+        document.getElementById("updatedText").textContent = "Using fallback view";
+      }
+      buildChips();
+      renderBooks();
+    }
+
+    function timeAgo(iso) {
+      if (!iso) return "";
+      const mins = Math.floor((new Date() - new Date(iso)) / 60000);
+      if (mins < 1) return "Just now";
+      if (mins < 60) return `${mins}m ago`;
+      const hrs = Math.floor(mins / 60);
+      if (hrs < 24) return `${hrs}h ago`;
+      return `${Math.floor(hrs / 24)}d ago`;
+    }
+
+    function parsePrice(p) {
+      const m = p.replace(/[^0-9.]/g, "");
+      return m ? parseFloat(m) : 0;
+    }
+
+    function buildChips() {
+      const shops = [...new Set(allBooks.map(b => b.shop))];
+      const container = document.getElementById("filterChips");
+      const filters = ["ALL", "VIP WATCHLIST", ...shops];
+      container.innerHTML = filters.map(f => `
+        <button class="chip ${activeFilter === f ? 'active' : ''}" onclick="setFilter('${f.replace(/'/g, "\\'")}')">
+          ${f}
+        </button>
+      `).join("");
+    }
+
+    function setFilter(f) {
+      activeFilter = f;
+      buildChips();
+      renderBooks();
+    }
+
+    function renderBooks() {
+      try {
+        const q = (document.getElementById("searchInput").value || "").toLowerCase();
+        const sortBy = document.getElementById("sortSelect").value;
+
+        let filtered = allBooks.filter(b => {
+          const t = (b.title || "").toLowerCase();
+          const a = (b.author || "").toLowerCase();
+          if (!t.includes(q) && !a.includes(q)) return false;
+          if (activeFilter === "VIP WATCHLIST") return b.vip;
+          if (activeFilter !== "ALL") return b.shop === activeFilter;
+          return true;
+        });
+
+        filtered.sort((a, b) => {
+          if (sortBy === "price-asc") return parsePrice(a.price) - parsePrice(b.price);
+          if (sortBy === "price-desc") return parsePrice(b.price) - parsePrice(a.price);
+          return new Date(b.discovered_at || 0) - new Date(a.discovered_at || 0);
+        });
+
+        document.getElementById("countText").textContent = `${filtered.length} signed editions`;
+        const grid = document.getElementById("bookGrid");
+        
+        if (filtered.length === 0) {
+          grid.innerHTML = `<div style="grid-column: 1/-1; text-align: center; padding: 40px; color: var(--muted);">No books found.</div>`;
+          return;
+        }
+
+        grid.innerHTML = filtered.map(b => `
+          <article class="card">
+            <div class="badge-container">
+              ${b.vip ? '<span class="vip-badge">VIP</span>' : ''}
+              ${b.discovered_at ? `<span class="time-badge">${timeAgo(b.discovered_at)}</span>` : ''}
+            </div>
+            <div class="cover-wrap">
+              ${b.image ? `<img src="${b.image}" alt="${b.title}" loading="lazy" />` : '<span>No Cover</span>'}
+            </div>
+            <div class="card-body">
+              <div class="shop-tag">${b.shop}</div>
+              <div class="book-title">${b.title}</div>
+              <div class="card-footer">
+                <span class="price">${b.price}</span>
+                <a class="buy-btn" href="${b.url}" target="_blank" rel="noopener">Order</a>
+              </div>
+            </div>
+          </article>
+        `).join("");
+      } catch (err) {
+        console.error("Render error:", err);
+      }
+    }
+
+    loadFeed();
+  </script>
+</body>
+</html>
