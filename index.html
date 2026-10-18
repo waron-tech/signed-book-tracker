@@ -16,6 +16,7 @@
       --muted: #94a3b8;
       --accent: #f59e0b;
       --vip: #ef4444;
+      --time-badge: #0284c7;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -28,7 +29,7 @@
       position: sticky;
       top: 0;
       z-index: 20;
-      background: rgba(15, 23, 42, 0.92);
+      background: rgba(15, 23, 42, 0.95);
       backdrop-filter: blur(10px);
       padding: 16px;
       border-bottom: 1px solid var(--border);
@@ -40,7 +41,11 @@
       margin-bottom: 12px;
     }
     h1 { font-size: 1.25rem; font-weight: 700; }
-    .refresh-btn {
+    .header-actions {
+      display: flex;
+      gap: 8px;
+    }
+    .btn {
       background: var(--card);
       color: var(--text);
       border: 1px solid var(--border);
@@ -49,15 +54,28 @@
       font-size: 0.85rem;
       cursor: pointer;
     }
+    .controls-row {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
     .search-bar {
-      width: 100%;
+      flex: 1;
       padding: 10px 14px;
       border-radius: 10px;
       border: 1px solid var(--border);
       background: var(--card);
       color: var(--text);
       font-size: 0.95rem;
-      margin-bottom: 10px;
+    }
+    .sort-select {
+      background: var(--card);
+      color: var(--text);
+      border: 1px solid var(--border);
+      padding: 0 12px;
+      border-radius: 10px;
+      font-size: 0.9rem;
+      cursor: pointer;
     }
     .filters {
       display: flex;
@@ -84,7 +102,7 @@
       font-weight: 600;
     }
     .status-bar {
-      padding: 10px 16px;
+      padding: 12px 16px;
       font-size: 0.8rem;
       color: var(--muted);
       display: flex;
@@ -105,17 +123,32 @@
       flex-direction: column;
       position: relative;
     }
-    .vip-badge {
+    .badge-container {
       position: absolute;
       top: 8px;
       left: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      z-index: 2;
+    }
+    .vip-badge {
       background: var(--vip);
       color: #fff;
-      font-size: 0.7rem;
+      font-size: 0.65rem;
       font-weight: 700;
-      padding: 3px 8px;
+      padding: 3px 7px;
       border-radius: 6px;
-      z-index: 2;
+      text-transform: uppercase;
+    }
+    .time-badge {
+      background: rgba(2, 132, 199, 0.9);
+      backdrop-filter: blur(4px);
+      color: #fff;
+      font-size: 0.65rem;
+      font-weight: 600;
+      padding: 3px 7px;
+      border-radius: 6px;
     }
     .cover-wrap {
       width: 100%;
@@ -125,6 +158,8 @@
       align-items: center;
       justify-content: center;
       overflow: hidden;
+      color: var(--muted);
+      font-size: 0.8rem;
     }
     .cover-wrap img {
       width: 100%;
@@ -177,9 +212,18 @@
   <header>
     <div class="header-top">
       <h1>Signed Editions</h1>
-      <button class="refresh-btn" onclick="loadFeed()">Refresh</button>
+      <div class="header-actions">
+        <button class="btn" onclick="loadFeed()">Refresh</button>
+      </div>
     </div>
-    <input type="search" id="searchInput" class="search-bar" placeholder="Search title or author..." oninput="renderBooks()" />
+    <div class="controls-row">
+      <input type="search" id="searchInput" class="search-bar" placeholder="Search title or author..." oninput="renderBooks()" />
+      <select id="sortSelect" class="sort-select" onchange="renderBooks()">
+        <option value="newest">Newest</option>
+        <option value="price-asc">Price: Low to High</option>
+        <option value="price-desc">Price: High to Low</option>
+      </select>
+    </div>
     <div class="filters" id="filterChips"></div>
   </header>
 
@@ -210,6 +254,22 @@
       }
     }
 
+    function timeAgo(isoString) {
+      if (!isoString) return "";
+      const diffMins = Math.floor((new Date() - new Date(isoString)) / 60000);
+      if (diffMins < 1) return "Just now";
+      if (diffMins < 60) return `${diffMins}m ago`;
+      const diffHours = Math.floor(diffMins / 60);
+      if (diffHours < 24) return `${diffHours}h ago`;
+      const diffDays = Math.floor(diffHours / 24);
+      return `${diffDays}d ago`;
+    }
+
+    function parsePrice(priceStr) {
+      const match = priceStr.replace(/[^0-9.]/g, "");
+      return match ? parseFloat(match) : 0;
+    }
+
     function buildChips() {
       const shops = [...new Set(allBooks.map(b => b.shop))];
       const container = document.getElementById("filterChips");
@@ -229,7 +289,9 @@
 
     function renderBooks() {
       const q = document.getElementById("searchInput").value.toLowerCase();
-      const filtered = allBooks.filter(b => {
+      const sortBy = document.getElementById("sortSelect").value;
+
+      let filtered = allBooks.filter(b => {
         const matchesQuery = b.title.toLowerCase().includes(q) || (b.author && b.author.toLowerCase().includes(q));
         if (!matchesQuery) return false;
         if (activeFilter === "VIP WATCHLIST") return b.vip;
@@ -237,27 +299,8 @@
         return true;
       });
 
-      document.getElementById("countText").textContent = `${filtered.length} signed editions available`;
-      const grid = document.getElementById("bookGrid");
-      grid.innerHTML = filtered.map(b => `
-        <article class="card">
-          ${b.vip ? '<span class="vip-badge">VIP</span>' : ''}
-          <div class="cover-wrap">
-            ${b.image ? `<img src="${b.image}" alt="${b.title}" loading="lazy" />` : '<span>No Cover</span>'}
-          </div>
-          <div class="card-body">
-            <div class="shop-tag">${b.shop}</div>
-            <div class="book-title">${b.title}</div>
-            <div class="card-footer">
-              <span class="price">${b.price}</span>
-              <a class="buy-btn" href="${b.url}" target="_blank" rel="noopener">Order</a>
-            </div>
-          </div>
-        </article>
-      `).join("");
-    }
-
-    loadFeed();
-  </script>
-</body>
-</html>
+      // Sorting
+      filtered.sort((a, b) => {
+        if (sortBy === "price-asc") return parsePrice(a.price) - parsePrice(b.price);
+        if (sortBy === "price-desc") return parsePrice(b.price) - parse
+        
