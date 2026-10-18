@@ -1,6 +1,6 @@
 import json
 import os
-import re
+from datetime import datetime, timezone
 from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
@@ -8,9 +8,8 @@ from bs4 import BeautifulSoup
 # 1. CONFIGURATION
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "")
 SEEN_FILE = "seen_books.json"
+FEED_FILE = "books_feed.json"
 
-# Optional: Add favourite authors or keywords here (case-insensitive).
-# Matching books trigger a high-priority alarm notification on Android.
 PRIORITY_WATCHLIST = [
     "Mick Herron",
     "Rebecca Yarros",
@@ -19,35 +18,21 @@ PRIORITY_WATCHLIST = [
     "RF Kuang",
 ]
 
-# Configure the bookshops you want to monitor.
-# Use type "shopify" for Shopify-powered stores (Goldsboro, Inkstone, etc.)
-# Use type "html" for standard HTML pages with CSS selectors.
 BOOKSHOPS = [
     {
-        "name": "Goldsboro Books (New Signed Releases)",
+        "name": "Goldsboro Books (New Releases)",
         "type": "shopify",
         "url": "https://goldsborobooks.com/collections/new-releases/products.json?limit=50",
         "base_product_url": "https://goldsborobooks.com/products/",
-        "require_signed_keyword": False,  # Goldsboro new releases are signed by default
+        "require_signed_keyword": False,
     },
     {
-        "name": "Goldsboro Books (Special Editions & Exclusives)",
+        "name": "Goldsboro Books (Special Editions)",
         "type": "shopify",
         "url": "https://goldsborobooks.com/collections/special-editions-exclusives/products.json?limit=50",
         "base_product_url": "https://goldsborobooks.com/products/",
         "require_signed_keyword": False,
     },
-    # Example HTML config you can enable or copy for other bookshops:
-    # {
-    #     "name": "Waterstones Signed Editions",
-    #     "type": "html",
-    #     "url": "https://www.waterstones.com/campaign/signed-editions",
-    #     "card_selector": "div.book-preview",
-    #     "title_selector": "a.title",
-    #     "price_selector": "span.price",
-    #     "link_selector": "a.title",
-    #     "require_signed_keyword": True,
-    # }
 ]
 
 HEADERS = {
@@ -60,12 +45,15 @@ HEADERS = {
 
 
 def clean_header(text: str) -> str:
-    """Ensures HTTP headers sent to ntfy are Latin-1 safe."""
     return text.encode("latin-1", errors="ignore").decode("latin-1")
 
 
-def send_ntfy_alert(title: str, message: str, book_url: str, is_priority: bool = False):
-    """Pushes an instant notification to the Android ntfy app with a 1-tap buy button."""
+def matches_watchlist(text: str) -> bool:
+    text_lower = text.lower()
+    return any(keyword.lower() in text_lower for keyword in PRIORITY_WATCHLIST)
+
+
+def send_ntfy_alert(title: str, message: str, book_url: str, cover_url: str = "", is_priority: bool = False):
     if not NTFY_TOPIC:
         print("WARNING: NTFY_TOPIC is not set. Skipping push notification.")
         return
@@ -78,8 +66,11 @@ def send_ntfy_alert(title: str, message: str, book_url: str, is_priority: bool =
         "Priority": priority,
         "Tags": tags,
         "Click": book_url,
-        "Actions": clean_header(f"view, Open Book Page, {book_url}, clear=false"),
+        "Actions": clean_header(f"view, Buy Now, {book_url}, clear=false"),
     }
+    # Attach cover art directly to the Android push notification if available
+    if cover_url and cover_url.startswith("http"):
+        headers["Attach"] = cover_url
 
     response = requests.post(
         f"https://ntfy.sh/{NTFY_TOPIC}",
@@ -91,7 +82,6 @@ def send_ntfy_alert(title: str, message: str, book_url: str, is_priority: bool =
 
 
 def scrape_shopify(shop: dict) -> list[dict]:
-    """Fetches books from any Shopify-based bookshop collection."""
     resp = requests.get(shop["url"], headers=HEADERS, timeout=20)
     resp.raise_for_status()
     products = resp.json().get("products", [])
@@ -103,90 +93,102 @@ def scrape_shopify(shop: dict) -> list[dict]:
         vendor = prod.get("vendor", "")
         body_html = prod.get("body_html", "") or ""
         variants = prod.get("variants", [])
+        images = prod.get("images", [])
 
-        # Check if at least one variant is available to order/pre-order
         available = any(v.get("available", False) for v in variants)
         if not available:
             continue
 
-        price = variants[0].get("price", "0.00") if variants else "N/A"
-        book_url = f"{shop['base_product_url']}{handle}"
-
-        # Optional keyword filter if monitoring a mixed signed/unsigned collection
         if shop.get("require_signed_keyword", False):
-            combined_text = f"{title} {body_html}".lower()
-            if "signed" not in combined_text:
+            if "signed" not in f"{title} {body_html}".lower():
                 continue
 
-        display_title = f"{title} ({vendor})" if vendor and vendor not in title else title
+        price = variants[0].get("price", "0.00") if variants else "N/A"
+        cover_url = images[0].get("src", "") if images else ""
+        book_url = f"{shop['base_product_url']}{handle}"
+        display_title = f"{title} — {vendor}" if vendor and vendor not in title else title
+
         found.append({
             "id": f"{shop['name']}::{handle}",
             "title": display_title,
+            "author": vendor or "Signed Edition",
             "price": f"£{price}",
             "shop": shop["name"],
             "url": book_url,
+            "image": cover_url,
+            "vip": matches_watchlist(display_title),
         })
     return found
 
 
 def scrape_html(shop: dict) -> list[dict]:
-    """Fetches books from standard HTML bookshop pages using CSS selectors."""
     resp = requests.get(shop["url"], headers=HEADERS, timeout=20)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
     found = []
-    cards = soup.select(shop["card_selector"])
-    for card in cards:
+    for card in soup.select(shop["card_selector"]):
         title_el = card.select_one(shop["title_selector"])
         link_el = card.select_one(shop["link_selector"])
         if not title_el or not link_el:
             continue
 
         title = title_el.get_text(" ", strip=True)
-        href = link_el.get("href", "")
-        book_url = urljoin(shop["url"], href)
+        book_url = urljoin(shop["url"], link_el.get("href", ""))
 
         price_el = card.select_one(shop.get("price_selector", ""))
         price = price_el.get_text(strip=True) if price_el else "See site"
 
+        img_el = card.select_one("img")
+        cover_url = ""
+        if img_el:
+            raw_img = img_el.get("data-src") or img_el.get("src") or ""
+            cover_url = urljoin(shop["url"], raw_img)
+
         if shop.get("require_signed_keyword", False):
-            card_text = card.get_text(" ", strip=True).lower()
-            if "signed" not in card_text:
+            if "signed" not in card.get_text(" ", strip=True).lower():
                 continue
 
         found.append({
             "id": f"{shop['name']}::{book_url}",
             "title": title,
+            "author": "Signed Edition",
             "price": price,
             "shop": shop["name"],
             "url": book_url,
+            "image": cover_url,
+            "vip": matches_watchlist(title),
         })
     return found
 
 
-def matches_watchlist(text: str) -> bool:
-    text_lower = text.lower()
-    return any(keyword.lower() in text_lower for keyword in PRIORITY_WATCHLIST)
-
-
 def main():
     is_first_run = not os.path.exists(SEEN_FILE)
-    if is_first_run:
-        seen_ids = set()
-    else:
+    seen_ids = set()
+    if not is_first_run:
         with open(SEEN_FILE, "r", encoding="utf-8") as f:
             seen_ids = set(json.load(f))
 
+    # Load previous feed to preserve 'discovered_at' timestamps
+    existing_feed_map = {}
+    if os.path.exists(FEED_FILE):
+        try:
+            with open(FEED_FILE, "r", encoding="utf-8") as f:
+                old_data = json.load(f)
+                for item in old_data.get("books", []):
+                    existing_feed_map[item["id"]] = item.get("discovered_at")
+        except Exception:
+            pass
+
+    now_iso = datetime.now(timezone.utc).isoformat()
     all_current_books = []
+
     for shop in BOOKSHOPS:
         try:
             print(f"Checking {shop['name']}...")
-            if shop["type"] == "shopify":
-                books = scrape_shopify(shop)
-            else:
-                books = scrape_html(shop)
-            print(f" -> Found {len(books)} available signed editions.")
+            books = scrape_shopify(shop) if shop["type"] == "shopify" else scrape_html(shop)
+            for b in books:
+                b["discovered_at"] = existing_feed_map.get(b["id"], now_iso)
             all_current_books.extend(books)
         except Exception as e:
             print(f"Error scraping {shop['name']}: {e}")
@@ -194,31 +196,43 @@ def main():
     new_books = [b for b in all_current_books if b["id"] not in seen_ids]
 
     if is_first_run:
-        print(f"First run: cataloged {len(new_books)} existing books without spamming alerts.")
         for b in new_books:
             seen_ids.add(b["id"])
         send_ntfy_alert(
-            title="Signed Book Tracker Active",
-            message=f"Cataloged {len(new_books)} existing signed editions. You will be alerted as soon as a new book drops!",
+            title="Signed Book Dashboard Active",
+            message=f"Loaded {len(new_books)} signed books with cover art into your feed.",
             book_url="https://goldsborobooks.com/collections/new-releases",
-            is_priority=False,
         )
     else:
         for b in new_books:
-            is_vip = matches_watchlist(b["title"])
-            prefix = "VIP WATCHLIST DROP: " if is_vip else "New Signed Edition: "
+            prefix = "VIP DROP: " if b["vip"] else "New Signed Edition: "
             send_ntfy_alert(
                 title=f"{prefix}{b['title']}",
-                message=f"Shop: {b['shop']}\nPrice: {b['price']}\nTap below to order immediately.",
+                message=f"Shop: {b['shop']}\nPrice: {b['price']}\nTap below to order.",
                 book_url=b["url"],
-                is_priority=is_vip,
+                cover_url=b.get("image", ""),
+                is_priority=b["vip"],
             )
             seen_ids.add(b["id"])
-            print(f"Alert sent for: {b['title']}")
+
+    # Sort newest spotted books to the top of the dashboard
+    all_current_books.sort(key=lambda x: x.get("discovered_at", ""), reverse=True)
 
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
         json.dump(sorted(list(seen_ids)), f, indent=2)
 
+    with open(FEED_FILE, "w", encoding="utf-8") as f:
+        json.dump(
+            {
+                "last_updated": now_iso,
+                "total_available": len(all_current_books),
+                "books": all_current_books,
+            },
+            f,
+            indent=2,
+        )
+
 
 if __name__ == "__main__":
     main()
+    
