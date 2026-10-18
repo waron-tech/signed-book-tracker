@@ -2,12 +2,11 @@ name: Signed Book Monitor
 
 on:
   schedule:
-    # Runs automatically every 15 minutes, 24/7
     - cron: '*/15 * * * *'
-  workflow_dispatch: # Adds the manual "Run workflow" button
+  workflow_dispatch:
 
 permissions:
-  contents: write # Allows the bot to save seen_books.json and books_feed.json
+  contents: write
 
 jobs:
   check-books:
@@ -21,8 +20,10 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install scraping libraries
-        run: pip install requests beautifulsoup4 curl-cffi
+      - name: Install scraping libraries and Playwright
+        run: |
+          pip install requests beautifulsoup4 playwright
+          playwright install chromium
 
       - name: Run signed edition scraper
         env:
