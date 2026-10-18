@@ -241,7 +241,7 @@
     async function loadFeed() {
       document.getElementById("countText").textContent = "Refreshing...";
       try {
-        const res = await fetch(`books_feed.json?t=${Date.now()}`);
+        const res = await fetch(`./books_feed.json?t=${Date.now()}`);
         const data = await res.json();
         allBooks = data.books || [];
         const updatedDate = new Date(data.last_updated);
