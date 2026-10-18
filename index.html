@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#0f172a" />
+  <title>Signed First Editions</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card: #1e293b;
+      --border: #334155;
+      --text: #f8fafc;
+      --muted: #94a3b8;
+      --accent: #f59e0b;
+      --vip: #ef4444;
+      --time-badge: #0284c7;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      padding-bottom: 40px;
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      background: rgba(15, 23, 42, 0.95);
+      backdrop-filter: blur(10px);
+      padding: 16px;
+      border-bottom: 1px solid var(--border);
+    }
+    .header-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
+    }
+    h1 { font-size: 1.25rem; font-weight: 700; }
+    .btn {
+      background: var(--card);
+      color: var(--text);
+      border: 1px solid var(--border);
+      padding: 6px 12px;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      cursor: pointer;
+    }
+    .controls-row {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+    .search-bar {
+      flex: 1;
+      padding: 10px 14px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      background: var(--card);
+      color: var(--text);
+      font-size: 0.95rem;
+    }
+    .search-bar { min-width: 0; }
+    .sort-select { flex-shrink: 0; max-width: 45%;
+      background: var(--card);
+      color: var(--text);
+      border: 1px solid var(--border);
+      padding: 0 12px;
+      border-radius: 10px;
+      font-size: 0.9rem;
+      cursor: pointer;
+    }
+    .filters {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding-bottom: 4px;
+      scrollbar-width: none;
+    }
+    .filters::-webkit-scrollbar { display: none; }
+    .chip {
+      white-space: nowrap;
+      padding: 6px 12px;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      background: var(--card);
+      color: var(--muted);
+      border: 1px solid var(--border);
+      cursor: pointer;
+    }
+    .chip.active {
+      background: var(--accent);
+      color: #000;
+      border-color: var(--accent);
+      font-weight: 600;
+    }
+    .status-bar {
+      padding: 12px 16px;
+      font-size: 0.8rem;
+      color: var(--muted);
+      display: flex;
+      justify-content: space-between;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(165px, 1fr));
+      gap: 14px;
+      padding: 0 16px;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+    }
+    .badge-container {
+      position: absolute;
+      top: 8px;
+      left: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      z-index: 2;
+    }
+    .vip-badge {
+      background: var(--vip);
+      color: #fff;
+      font-size: 0.65rem;
+      font-weight: 700;
+      padding: 3px 7px;
+      border-radius: 6px;
+      text-transform: uppercase;
+    }
+    .time-badge {
+      background: rgba(2, 132, 199, 0.9);
+      color: #fff;
+      font-size: 0.65rem;
+      font-weight: 600;
+      padding: 3px 7px;
+      border-radius: 6px;
+    }
+    .cover-wrap {
+      width: 100%;
+      aspect-ratio: 2 / 3;
+      background: #0b1120;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    .cover-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .card-body {
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      gap: 6px;
+    }
+    .shop-tag {
+      font-size: 0.7rem;
+      color: var(--accent);
+      text-transform: uppercase;
+      font-weight: 600;
+    }
+    .book-author { font-size: 0.8rem; color: #8a8a8a; margin: -2px 0 6px; }
+    .book-title {
+      font-size: 0.9rem;
+      font-weight: 600;
+      line-height: 1.3;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .card-footer {
+      margin-top: auto;
+      padding-top: 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .price { font-weight: 700; font-size: 0.95rem; }
+    .buy-btn {
+      background: var(--accent);
+      color: #000;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 0.8rem;
+      padding: 6px 12px;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-top">
+      <h1>Signed Editions</h1>
+      <button class="btn" onclick="loadFeed()">Refresh</button>
+    </div>
+    <div class="controls-row">
+      <input type="search" id="searchInput" class="search-bar" placeholder="Search title or author..." oninput="renderBooks()" />
+      <select id="sortSelect" class="sort-select" onchange="renderBooks()">
+        <option value="newest">Newest listed</option>
+        <option value="price-asc">Price: Low to High</option>
+        <option value="price-desc">Price: High to Low</option>
+      </select>
+    </div>
+    <div class="filters"><select id="shopSelect" class="sort-select" style="width:100%;max-width:none;padding:10px 12px" onchange="setFilter(this.value)"></select></div>
+  </header>
+
+  <div class="status-bar">
+    <span id="countText">Loading...</span>
+    <span id="updatedText"></span>
+  </div>
+
+  <main class="grid" id="bookGrid"></main>
+
+  <script>
+    let allBooks = [];
+    let activeFilter = "ALL";
+
+    async function loadFeed() {
+      document.getElementById("countText").textContent = "Loading feed...";
+      try {
+        const res = await fetch(`./books_feed.json?t=${Date.now()}`);
+        if (!res.ok) throw new Error("Feed not found");
+        const data = await res.json();
+        allBooks = data.books || [];
+        document.getElementById("updatedText").textContent = "Synced successfully";
+        if (data.shop_status) {
+          document.getElementById("updatedText").title = Object.entries(data.shop_status).map(([k, v]) => `${k}: ${v}`).join("\n");
+          const bad = Object.entries(data.shop_status).filter(([k, v]) => String(v).startsWith("ERROR")).map(([k]) => k);
+          if (bad.length) document.getElementById("updatedText").textContent = "Synced - couldn't read: " + bad.join(", ");
+        }
+      } catch (err) {
+        console.error(err);
+        allBooks = [
+          {
+            id: "fallback::1",
+            title: "Dashboard Connected (Waiting for first action run)",
+            author: "System",
+            price: "£0.00",
+            shop: "Status Check",
+            url: "https://github.com",
+            image: "",
+            vip: true,
+            discovered_at: new Date().toISOString()
+          }
+        ];
+        document.getElementById("updatedText").textContent = "Using fallback view";
+      }
+      buildChips();
+      renderBooks();
+    }
+
+    // Newest-listed first: use the shop's own listing date when we have it, else first-seen time.
+    function listedTime(b) {
+      const t = new Date(b.listed_at || b.discovered_at || 0).getTime();
+      return isNaN(t) ? 0 : t;
+    }
+
+    function timeAgo(iso) {
+      if (!iso) return "";
+      const mins = Math.floor((new Date() - new Date(iso)) / 60000);
+      if (mins < 1) return "Just now";
+      if (mins < 60) return `${mins}m ago`;
+      const hrs = Math.floor(mins / 60);
+      if (hrs < 24) return `${hrs}h ago`;
+      return `${Math.floor(hrs / 24)}d ago`;
+    }
+
+    function parsePrice(p) {
+      const m = p.replace(/[^0-9.]/g, "");
+      return m ? parseFloat(m) : 0;
+    }
+
+    function buildChips() {
+      // A dropdown instead of a scrolling row of chips: with 20+ shops the row hid most of them.
+      const counts = {};
+      allBooks.forEach(b => { counts[b.shop] = (counts[b.shop] || 0) + 1; });
+      const shops = Object.keys(counts).sort((a, b) => a.localeCompare(b));
+      const vipCount = allBooks.filter(b => b.vip).length;
+      const sel = document.getElementById("shopSelect");
+      const opts = [["ALL", `All shops (${allBooks.length})`], ["VIP WATCHLIST", `VIP watchlist (${vipCount})`],
+        ...shops.map(s => [s, `${s} (${counts[s]})`])];
+      sel.innerHTML = "";
+      opts.forEach(([value, label]) => {
+        const o = document.createElement("option");
+        o.value = value;
+        o.textContent = label;
+        if (value === activeFilter) o.selected = true;
+        sel.appendChild(o);
+      });
+    }
+
+    function setFilter(f) {
+      activeFilter = f;
+      buildChips();
+      renderBooks();
+    }
+
+    function renderBooks() {
+      try {
+        const q = (document.getElementById("searchInput").value || "").toLowerCase();
+        const sortBy = document.getElementById("sortSelect").value;
+
+        let filtered = allBooks.filter(b => {
+          const t = (b.title || "").toLowerCase();
+          const a = (b.author || "").toLowerCase();
+          if (!t.includes(q) && !a.includes(q)) return false;
+          if (activeFilter === "VIP WATCHLIST") return b.vip;
+          if (activeFilter !== "ALL") return b.shop === activeFilter;
+          return true;
+        });
+
+        filtered.sort((a, b) => {
+          if (sortBy === "price-asc") return parsePrice(a.price) - parsePrice(b.price);
+          if (sortBy === "price-desc") return parsePrice(b.price) - parsePrice(a.price);
+          return listedTime(b) - listedTime(a);
+        });
+
+        document.getElementById("countText").textContent = `${filtered.length} signed editions`;
+        const grid = document.getElementById("bookGrid");
+        
+        if (filtered.length === 0) {
+          grid.innerHTML = `<div style="grid-column: 1/-1; text-align: center; padding: 40px; color: var(--muted);">No books found.</div>`;
+          return;
+        }
+
+        grid.innerHTML = filtered.map(b => `
+          <article class="card">
+            <div class="badge-container">
+              ${b.vip ? '<span class="vip-badge">VIP</span>' : ''}
+              ${(b.listed_at || b.discovered_at) ? `<span class="time-badge">${timeAgo(b.listed_at || b.discovered_at)}</span>` : ''}
+            </div>
+            <div class="cover-wrap">
+              ${b.image ? `<img src="${b.image}" alt="${b.title}" loading="lazy" />` : '<span>No Cover</span>'}
+            </div>
+            <div class="card-body">
+              <div class="shop-tag">${b.shop}</div>
+              <div class="book-title">${b.title}</div>
+              ${b.author ? `<div class="book-author">${b.author}</div>` : ""}
+              <div class="card-footer">
+                <span class="price">${b.price}</span>
+                <a class="buy-btn" href="${b.url}" target="_blank" rel="noopener">Order</a>
+              </div>
+            </div>
+          </article>
+        `).join("");
+      } catch (err) {
+        console.error("Render error:", err);
+      }
+    }
+
+    loadFeed();
+  </script>
+</body>
+</html>
