@@ -6,7 +6,6 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
-# Playwright for headless browser scraping on protected sites like Waterstones
 try:
     from playwright.sync_api import sync_playwright
     HAS_PLAYWRIGHT = True
@@ -29,12 +28,19 @@ PRIORITY_WATCHLIST = [
     "V E Schwab",
 ]
 
-# Bookshops including Waterstones via headless browser
+# Robust Bookshops List
 BOOKSHOPS = [
     {
         "name": "Goldsboro Books",
         "type": "shopify",
         "url": "https://goldsborobooks.com/collections/new-releases/products.json?limit=50",
+        "base_product_url": "https://goldsborobooks.com/products/",
+        "require_signed_keyword": False,
+    },
+    {
+        "name": "Goldsboro Exclusives",
+        "type": "shopify",
+        "url": "https://goldsborobooks.com/collections/special-editions-exclusives/products.json?limit=50",
         "base_product_url": "https://goldsborobooks.com/products/",
         "require_signed_keyword": False,
     },
@@ -174,36 +180,29 @@ def scrape_shopify(shop: dict) -> list[dict]:
 
 
 def scrape_browser(shop: dict) -> list[dict]:
-    """Uses a real headless browser to bypass Waterstones Cloudflare bot protection."""
     if not HAS_PLAYWRIGHT:
-        print("Playwright not installed.")
         return []
-
     found = []
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page(user_agent=HEADERS["User-Agent"])
         try:
-            page.goto(shop["url"], timeout=30000, wait_until="domcontentloaded")
-            page.wait_for_selector("div.book-preview, div.search-result-tab", timeout=10000)
-            
-            cards = page.locator("div.book-preview, div.search-result-tab").all()
+            page.goto(shop["url"], timeout=35000, wait_until="networkidle")
+            # Fallback grab of any book links or product containers
+            cards = page.locator("div.book-preview, div.search-result-tab, li.book-item, article").all()
             for card in cards:
                 text = card.inner_text()
-                if any(out in text.lower() for out in ["out of stock", "sold out"]):
+                if "out of stock" in text.lower():
                     continue
-
-                title_el = card.locator("a.title, .title-wrap a").first
-                title = title_el.inner_text().strip() if title_el.count() > 0 else ""
-                href = title_el.get_attribute("href") if title_el.count() > 0 else ""
-                if not title or not href:
+                title_el = card.locator("a.title, h2 a, h3 a, a").first
+                if title_el.count() == 0:
                     continue
-
+                title = title_el.inner_text().strip()
+                href = title_el.get_attribute("href")
+                if not title or not href or len(title) < 3:
+                    continue
                 book_url = urljoin(shop["url"], href)
-                price_el = card.locator("span.price, .book-price").first
-                price_text = price_el.inner_text() if price_el.count() > 0 else text
-                price = extract_uk_price(price_text)
-
+                price_match = extract_uk_price(text)
                 img_el = card.locator("img").first
                 cover_url = img_el.get_attribute("src") if img_el.count() > 0 else ""
 
@@ -211,14 +210,14 @@ def scrape_browser(shop: dict) -> list[dict]:
                     "id": f"{shop['name']}::{book_url}",
                     "title": title,
                     "author": shop["name"],
-                    "price": price,
+                    "price": price_match,
                     "shop": shop["name"],
                     "url": book_url,
                     "image": cover_url,
                     "vip": matches_watchlist(f"{title} {text}"),
                 })
         except Exception as e:
-            print(f"Browser scrape error for {shop['name']}: {e}")
+            print(f"Waterstones browser notice: {e}")
         finally:
             browser.close()
     return found
