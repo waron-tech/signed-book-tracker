@@ -26,17 +26,11 @@ PRIORITY_WATCHLIST = [
 BOOKSHOPS = [
     {
         "name": "Goldsboro Books",
-        "type": "shopify",
-        "url": "https://goldsborobooks.com/collections/new-releases/products.json?limit=50",
+        "type": "shopify_all",
+        "url": "https://goldsborobooks.com/products.json",
         "base_product_url": "https://goldsborobooks.com/products/",
-        "require_signed_keyword": False,
-    },
-    {
-        "name": "Goldsboro Exclusives",
-        "type": "shopify",
-        "url": "https://goldsborobooks.com/collections/special-editions-exclusives/products.json?limit=50",
-        "base_product_url": "https://goldsborobooks.com/products/",
-        "require_signed_keyword": False,
+        "require_signed_keyword": True,
+        "max_pages": 12,
     },
     {
         "name": "Rare Mags",
@@ -47,9 +41,12 @@ BOOKSHOPS = [
     },
     {
         "name": "Porty Books",
-        "type": "shopify",
-        "url": "https://theportobellobookshop.com/collections/signed-editions/products.json?limit=50",
-        "base_product_url": "https://theportobellobookshop.com/products/",
+        "type": "html",
+        "url": "https://www.theportobellobookshop.com/collection-of/signed-dedicated-editions",
+        "card_selector": "a.card",
+        "title_selector": ".card-text.fw-bold:not(.text-primary)",
+        "price_selector": ".text-primary",
+        "link_selector": "a.card",
         "require_signed_keyword": False,
     },
     {
@@ -66,11 +63,11 @@ BOOKSHOPS = [
         "name": "West End Lane Books",
         "type": "html",
         "url": "https://www.welbooks.co.uk/shop/signed-editions",
-        "card_selector": ".product-grid__item, .wsite-com-category-product, .product-card",
-        "title_selector": ".product-title, .wsite-com-link-text, h2, h3, a",
-        "price_selector": ".product-price, .price, span",
+        "card_selector": ".product-list-item",
+        "title_selector": ".product-list-item-title",
+        "price_selector": ".product-list-item-price",
         "link_selector": "a[href]",
-        "require_signed_keyword": False,
+        "require_signed_keyword": True,
     },
 ]
 
@@ -82,6 +79,12 @@ HEADERS = {
     ),
     "Accept-Language": "en-GB,en;q=0.9",
 }
+
+
+def looks_signed(text: str) -> bool:
+    t = text.lower()
+    t = re.sub(r"\bun-?signed\b", "", t)
+    return "signed" in t
 
 
 def clean_header(text: str) -> str:
@@ -118,10 +121,24 @@ def send_ntfy_alert(title: str, message: str, book_url: str, cover_url: str = ""
         pass
 
 
-def scrape_shopify(shop: dict) -> list[dict]:
-    resp = requests.get(shop["url"], headers=HEADERS, timeout=15)
-    resp.raise_for_status()
-    products = resp.json().get("products", [])
+def scrape_shopify_all(shop: dict) -> list[dict]:
+    """Page through a shop-wide products.json (collections can be empty or renamed)."""
+    products = []
+    for page in range(1, shop.get("max_pages", 8) + 1):
+        resp = requests.get(shop["url"], params={"limit": 250, "page": page}, headers=HEADERS, timeout=20)
+        resp.raise_for_status()
+        batch = resp.json().get("products", [])
+        if not batch:
+            break
+        products.extend(batch)
+    return scrape_shopify(shop, products)
+
+
+def scrape_shopify(shop: dict, products=None) -> list[dict]:
+    if products is None:
+        resp = requests.get(shop["url"], headers=HEADERS, timeout=15)
+        resp.raise_for_status()
+        products = resp.json().get("products", [])
 
     found = []
     for prod in products:
@@ -137,7 +154,7 @@ def scrape_shopify(shop: dict) -> list[dict]:
             continue
 
         if shop.get("require_signed_keyword", False):
-            if "signed" not in f"{title} {body_html} {tags}".lower():
+            if not looks_signed(f"{title} {body_html} {tags}"):
                 continue
 
         price = variants[0].get("price", "0.00") if variants else "N/A"
@@ -172,7 +189,7 @@ def scrape_html(shop: dict) -> list[dict]:
         if any(out in card_text.lower() for out in ["out of stock", "sold out", "unavailable"]):
             continue
 
-        link_el = card.select_one(shop["link_selector"])
+        link_el = card if card.name == "a" and card.get("href") else card.select_one(shop["link_selector"])
         if not link_el or not link_el.get("href"):
             continue
 
@@ -189,7 +206,8 @@ def scrape_html(shop: dict) -> list[dict]:
             continue
 
         if shop.get("require_signed_keyword", False):
-            if "signed" not in card_text.lower() and "signed" not in title.lower():
+            classes = " ".join(card.get("class", []))
+            if not looks_signed(f"{card_text} {title}") and "tag-signed" not in classes:
                 continue
 
         price_el = card.select_one(shop.get("price_selector", ""))
@@ -243,7 +261,8 @@ def main():
     for shop in BOOKSHOPS:
         try:
             print(f"Checking {shop['name']}...")
-            books = scrape_shopify(shop) if shop["type"] == "shopify" else scrape_html(shop)
+            kind = shop["type"]
+            books = scrape_shopify(shop) if kind == "shopify" else scrape_shopify_all(shop) if kind == "shopify_all" else scrape_html(shop)
             print(f" -> Found {len(books)} available signed editions.")
             for b in books:
                 bid = b["id"]
