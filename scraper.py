@@ -1,7 +1,7 @@
 import json
 import os
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "")
 SEEN_FILE = "seen_books.json"
 FEED_FILE = "books_feed.json"
+RETENTION_DAYS = 30  # Keeps books in your dashboard feed for 30 days
 
 PRIORITY_WATCHLIST = [
     "Mick Herron",
@@ -22,7 +23,6 @@ PRIORITY_WATCHLIST = [
     "V E Schwab",
 ]
 
-# Verified, high-success UK bookshops
 BOOKSHOPS = [
     {
         "name": "Goldsboro Books",
@@ -46,6 +46,13 @@ BOOKSHOPS = [
         "require_signed_keyword": True,
     },
     {
+        "name": "Porty Books",
+        "type": "shopify",
+        "url": "https://theportobellobookshop.com/collections/signed-editions/products.json?limit=50",
+        "base_product_url": "https://theportobellobookshop.com/products/",
+        "require_signed_keyword": False,
+    },
+    {
         "name": "Coles Books",
         "type": "html",
         "url": "https://coles-books.co.uk/signed/books?product_list_order=created_at",
@@ -64,16 +71,6 @@ BOOKSHOPS = [
         "price_selector": ".product-price, .price, span",
         "link_selector": "a[href]",
         "require_signed_keyword": False,
-    },
-    {
-        "name": "Porty Books",
-        "type": "html",
-        "url": "https://www.theportobellobookshop.com/collection-of/special-editions",
-        "card_selector": "article, li, .product-card, div[class*='item']",
-        "title_selector": "h2, h3, a",
-        "price_selector": ".price, span",
-        "link_selector": "a[href]",
-        "require_signed_keyword": True,
     },
 ]
 
@@ -227,34 +224,56 @@ def main():
         with open(SEEN_FILE, "r", encoding="utf-8") as f:
             seen_ids = set(json.load(f))
 
-    existing_feed_map = {}
+    # Load existing feed items with their discovery timestamps
+    existing_books_map = {}
     if os.path.exists(FEED_FILE):
         try:
             with open(FEED_FILE, "r", encoding="utf-8") as f:
                 old_data = json.load(f)
                 for item in old_data.get("books", []):
-                    existing_feed_map[item["id"]] = item.get("discovered_at")
+                    existing_books_map[item["id"]] = item
         except Exception:
             pass
 
-    now_iso = datetime.now(timezone.utc).isoformat()
-    all_current_books = []
+    now_iso = datetime.now(timezone.utc)
+    cutoff_time = now_iso - timedelta(days=RETENTION_DAYS)
 
+    # 1. Scrape currently active books from websites
+    current_scraped_books = []
     for shop in BOOKSHOPS:
         try:
             print(f"Checking {shop['name']}...")
             books = scrape_shopify(shop) if shop["type"] == "shopify" else scrape_html(shop)
             print(f" -> Found {len(books)} available signed editions.")
             for b in books:
-                b["discovered_at"] = existing_feed_map.get(b["id"], now_iso)
-            all_current_books.extend(books)
+                bid = b["id"]
+                # Preserve original discovery timestamp if we've seen it before, else use now
+                if bid in existing_books_map:
+                    b["discovered_at"] = existing_books_map[bid].get("discovered_at", now_iso.isoformat())
+                else:
+                    b["discovered_at"] = now_iso.isoformat()
+                current_scraped_books.append(b)
         except Exception as e:
             print(f" -> Skipped {shop['name']} due to error: {e}")
 
-    new_books = [b for b in all_current_books if b["id"] not in seen_ids]
+    # 2. Retain older books that were discovered within the last 30 days (even if currently off-site)
+    master_books_map = {b["id"]: b for b in current_scraped_books}
+    for bid, book in existing_books_map.items():
+        disc_str = book.get("discovered_at")
+        if disc_str:
+            try:
+                disc_time = datetime.fromisoformat(disc_str)
+                # If discovered within 30 days, keep it in the feed
+                if disc_time >= cutoff_time and bid not in master_books_map:
+                    master_books_map[bid] = book
+            except Exception:
+                pass
+
+    final_books_list = list(master_books_map.values())
+    new_books = [b for b in current_scraped_books if b["id"] not in seen_ids]
 
     if is_first_run:
-        for b in new_books:
+        for b in current_scraped_books:
             seen_ids.add(b["id"])
     else:
         for b in new_books:
@@ -268,7 +287,8 @@ def main():
             )
             seen_ids.add(b["id"])
 
-    all_current_books.sort(key=lambda x: x.get("discovered_at", ""), reverse=True)
+    # Sort newest spotted books to the top
+    final_books_list.sort(key=lambda x: x.get("discovered_at", ""), reverse=True)
 
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
         json.dump(sorted(list(seen_ids)), f, indent=2)
@@ -276,9 +296,9 @@ def main():
     with open(FEED_FILE, "w", encoding="utf-8") as f:
         json.dump(
             {
-                "last_updated": now_iso,
-                "total_available": len(all_current_books),
-                "books": all_current_books,
+                "last_updated": now_iso.isoformat(),
+                "total_available": len(final_books_list),
+                "books": final_books_list,
             },
             f,
             indent=2,
