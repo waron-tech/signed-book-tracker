@@ -1,73 +1,7 @@
 {
-  "last_updated": "2026-10-18T12:20:55.013702+00:00",
-  "total_available": 204,
+  "last_updated": "2026-10-18T12:51:13.819667+00:00",
+  "total_available": 198,
   "books": [
-    {
-      "id": "Rare Mags::looking-backwards-towards-the-future-signed-copies",
-      "title": "Looking  Backwards Towards The Future - Signed Copies \u2014 Richard Evans",
-      "author": "Richard Evans",
-      "price": "\u00a334.00",
-      "shop": "Rare Mags",
-      "url": "https://raremags.co.uk/products/looking-backwards-towards-the-future-signed-copies",
-      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/3BD9761D-964A-4EE2-85BC-FBC26FFBA574.jpg?v=1791989706",
-      "vip": false,
-      "discovered_at": "2026-10-18T12:19:30.030583+00:00"
-    },
-    {
-      "id": "Rare Mags::the-christmas-book-signed-copies",
-      "title": "The Christmas Book (Signed Copies) \u2014 Katherine Woodfine",
-      "author": "Katherine Woodfine",
-      "price": "\u00a314.00",
-      "shop": "Rare Mags",
-      "url": "https://raremags.co.uk/products/the-christmas-book-signed-copies",
-      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/DEE2A186-194F-4ECB-A8AF-4F3ACBB4DDF1.jpg?v=1791545548",
-      "vip": false,
-      "discovered_at": "2026-10-18T12:19:30.030583+00:00"
-    },
-    {
-      "id": "Rare Mags::feast-on-your-life-1",
-      "title": "Feast On Your Life \u2014 Tamar Adler",
-      "author": "Tamar Adler",
-      "price": "\u00a318.00",
-      "shop": "Rare Mags",
-      "url": "https://raremags.co.uk/products/feast-on-your-life-1",
-      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/4D13F8A8-5306-417A-9A0A-3B94B12339E1.jpg?v=1791459759",
-      "vip": false,
-      "discovered_at": "2026-10-18T12:19:30.030583+00:00"
-    },
-    {
-      "id": "Rare Mags::perilous-enchantment-signed-copies",
-      "title": "Perilous Enchantment (Signed Copies) \u2014 Sarah Clegg",
-      "author": "Sarah Clegg",
-      "price": "\u00a326.00",
-      "shop": "Rare Mags",
-      "url": "https://raremags.co.uk/products/perilous-enchantment-signed-copies",
-      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/0125242C-C1E5-46CF-AA0A-408A003CDE14.jpg?v=1791461054",
-      "vip": false,
-      "discovered_at": "2026-10-18T12:19:30.030583+00:00"
-    },
-    {
-      "id": "Rare Mags::snow-birds",
-      "title": "Snow Birds (Signed Copies) \u2014 Roisin Maguire",
-      "author": "Roisin Maguire",
-      "price": "\u00a321.00",
-      "shop": "Rare Mags",
-      "url": "https://raremags.co.uk/products/snow-birds",
-      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/AB60AE5D-08BA-43B2-84CD-772752892D3C.jpg?v=1791464841",
-      "vip": false,
-      "discovered_at": "2026-10-18T12:19:30.030583+00:00"
-    },
-    {
-      "id": "Rare Mags::discipline",
-      "title": "Discipline (Signed Copies) \u2014 Randa Abdel-Fattah",
-      "author": "Randa Abdel-Fattah",
-      "price": "\u00a315.00",
-      "shop": "Rare Mags",
-      "url": "https://raremags.co.uk/products/discipline",
-      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/822E7D75-9BF5-4628-8E92-05CE50F58E48.jpg?v=1791464764",
-      "vip": false,
-      "discovered_at": "2026-10-18T12:19:30.030583+00:00"
-    },
     {
       "id": "Coles Books::https://coles-books.co.uk/sleuth-hound-the-case-of-the-real-sherlock-holmes-by-lindsey-fitzharris-signed-edition",
       "title": "Sleuth-Hound: The Case of the Real Sherlock Holmes by Lindsey Fitzharris - Signed Edition",
