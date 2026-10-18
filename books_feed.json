@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-18T19:58:37.144682+00:00",
-  "total_available": 2729,
+  "last_updated": "2026-10-18T20:15:32.136866+00:00",
+  "total_available": 2728,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "6 items",
     "Porty Books": "17 items via feed (as of 2026-10-18T17:16:09.169053+00:00)",
     "Backstory London (Signed & Dedicated)": "47 items",
     "Backstory London (Exclusives)": "22 items",
-    "British Library Shop": "281 items",
+    "British Library Shop": "280 items",
     "Cleeve Bookshop": "161 items",
     "Ivybridge Bookshop": "152 items",
     "Perkology Books": "41 items",
@@ -18019,18 +18019,6 @@
       "vip": false,
       "listed_at": "2026-07-19T08:20:06.397000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "British Library Shop::the-wood-where-stories-sing-signed-edition",
-      "title": "The Wood Where Stories Sing (Signed Edition)",
-      "author": "",
-      "price": "\u00a37.99",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/the-wood-where-stories-sing-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/TheWoodWhereStoriesSing_9781800785724.png?v=1784280043",
-      "vip": false,
-      "listed_at": "2026-07-17T09:20:54+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "Backstory London (Signed & Dedicated)::pre-order-now-rituals-a-folk-journey-through-the-british-isles-by-tim-downie-signed-personalised-publishes-october-2026",
