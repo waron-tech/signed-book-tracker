@@ -236,6 +236,11 @@
         const data = await res.json();
         allBooks = data.books || [];
         document.getElementById("updatedText").textContent = "Synced successfully";
+        if (data.shop_status) {
+          document.getElementById("updatedText").title = Object.entries(data.shop_status).map(([k, v]) => `${k}: ${v}`).join("\n");
+          const bad = Object.entries(data.shop_status).filter(([k, v]) => String(v).startsWith("ERROR")).map(([k]) => k);
+          if (bad.length) document.getElementById("updatedText").textContent = "Synced - couldn't read: " + bad.join(", ");
+        }
       } catch (err) {
         console.error(err);
         allBooks = [
