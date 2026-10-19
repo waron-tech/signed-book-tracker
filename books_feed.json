@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-19T11:39:53.418313+00:00",
-  "total_available": 2896,
+  "last_updated": "2026-10-19T12:12:43.831418+00:00",
+  "total_available": 2898,
   "shop_status": {
-    "Goldsboro Books": "10 items",
+    "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
     "Porty Books": "17 items via feed (as of 2026-10-18T17:16:09.169053+00:00)",
     "Backstory London (Signed & Dedicated)": "44 items",
@@ -19,13 +19,25 @@
     "Station Books": "64 items",
     "Booka Bookshop": "223 items via feed (as of 2026-10-19T10:07:23.473468+00:00)",
     "Coles Books": "11 items",
-    "West End Lane Books": "1094 items",
+    "West End Lane Books": "1095 items",
     "Foyles": "136 items via feed (as of 2026-10-19T02:14:20.513880+00:00)",
     "Hatchards": "96 items via feed (as of 2026-10-19T06:18:31.558920+00:00)",
     "Waterstones": "187 items via feed (as of 2026-10-19T10:07:23.473468+00:00)",
     "Linghams": "215 items via feed (as of 2026-10-19T10:07:23.473468+00:00)"
   },
   "books": [
+    {
+      "id": "Goldsboro Books::devil-on-my-shoulder",
+      "title": "Devil on My Shoulder",
+      "author": "",
+      "price": "\u00a3150.00",
+      "shop": "Goldsboro Books",
+      "url": "https://goldsborobooks.com/products/devil-on-my-shoulder",
+      "image": "https://cdn.shopify.com/s/files/1/0733/4900/5606/files/RMCopyofBOOKSforWEBSITEDONOTDELETE_62.png?v=1792157199",
+      "vip": false,
+      "listed_at": "2026-10-19T11:46:03+00:00",
+      "discovered_at": "2026-10-19T12:12:43.831418+00:00"
+    },
     {
       "id": "Foyles::https://www.foyles.co.uk/book/chain-reaction/lee-child/2928377373863",
       "title": "Chain Reaction",
@@ -32315,6 +32327,18 @@
       "vip": false,
       "listed_at": "2026-01-23T15:29:15.372000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/yesteryear-by-caro-claire-burke-signed",
+      "title": "Yesteryear by Caro Claire Burke (Signed)",
+      "author": "Caro Claire Burke",
+      "price": "\u00a316.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/yesteryear-by-caro-claire-burke-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/46e838eb-87dc-4d70-b09b-fca8b6b4fea0/Copy+of+Product+Template+-+Book+-+2026-01-23T133452.021.jpg",
+      "vip": false,
+      "listed_at": "2026-01-23T13:41:07.916000+00:00",
+      "discovered_at": "2026-10-19T12:12:43.831418+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/space-age-batchelor-pad-music-by-ben-cardew-signed",
