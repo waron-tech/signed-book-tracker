@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-19T09:24:31.300366+00:00",
-  "total_available": 2906,
+  "last_updated": "2026-10-19T10:02:19.378281+00:00",
+  "total_available": 2899,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "6 items",
     "Porty Books": "17 items via feed (as of 2026-10-18T17:16:09.169053+00:00)",
-    "Backstory London (Signed & Dedicated)": "47 items",
-    "Backstory London (Exclusives)": "22 items",
+    "Backstory London (Signed & Dedicated)": "44 items",
+    "Backstory London (Exclusives)": "19 items",
     "British Library Shop": "280 items",
     "Cleeve Bookshop": "161 items",
     "Ivybridge Bookshop": "152 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "224 items via feed (as of 2026-10-19T02:14:20.513880+00:00)",
     "Coles Books": "11 items",
-    "West End Lane Books": "1094 items",
+    "West End Lane Books": "1093 items",
     "Foyles": "136 items via feed (as of 2026-10-19T02:14:20.513880+00:00)",
     "Hatchards": "96 items via feed (as of 2026-10-19T06:18:31.558920+00:00)",
     "Waterstones": "189 items via feed (as of 2026-10-19T06:18:31.558920+00:00)",
@@ -7928,7 +7928,7 @@
     },
     {
       "id": "Backstory London (Signed & Dedicated)::christmas-signed-personalised-trinity-the-cookbook-by-adam-byatt",
-      "title": "CHRISTMAS SIGNED & PERSONALISED Trinity: The Cookbook by Adam Byatt",
+      "title": "Trinity: The Cookbook",
       "author": "Adam Byatt",
       "price": "\u00a355.00",
       "shop": "Backstory London (Signed & Dedicated)",
@@ -13266,7 +13266,7 @@
     },
     {
       "id": "Backstory London (Signed & Dedicated)::christmas-signed-personalised-thirsty-by-tom-gilbey",
-      "title": "CHRISTMAS SIGNED & PERSONALISED Thirsty by Tom Gilbey",
+      "title": "Thirsty",
       "author": "Tom Gilbey",
       "price": "\u00a311.99",
       "shop": "Backstory London (Signed & Dedicated)",
@@ -13302,7 +13302,7 @@
     },
     {
       "id": "Backstory London (Signed & Dedicated)::christmas-signed-personalised-eat-like-a-sardinian-by-francesco-mattana",
-      "title": "CHRISTMAS SIGNED & PERSONALISED Eat Like A Sardinian by Francesco Mattana",
+      "title": "Eat Like A Sardinian",
       "author": "Francesco Mattana",
       "price": "\u00a322.00",
       "shop": "Backstory London (Signed & Dedicated)",
@@ -18362,18 +18362,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/05598580-70ab-4752-9531-8af9caf37d1b/We+are+hiring%21+%283%29.jpg",
       "vip": false,
       "listed_at": "2026-08-13T10:35:38.608000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-sword-of-rome-by-simon-scarrow-signed",
-      "title": "The Sword of Rome by Simon Scarrow (Signed)",
-      "author": "Simon Scarrow",
-      "price": "\u00a322.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-sword-of-rome-by-simon-scarrow-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/474d1baf-17c2-45c7-b27d-c807c504b98a/We+are+hiring%21+%281%29.jpg",
-      "vip": false,
-      "listed_at": "2026-08-13T10:27:13.691000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
@@ -29561,30 +29549,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Backstory London (Signed & Dedicated)::pre-order-signed-persiana-one-by-sabrina-ghayor-dispatches-august-2026",
-      "title": "Signed Persiana One by Sabrina Ghayor",
-      "author": "Sabrina Ghayor",
-      "price": "\u00a328.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/pre-order-signed-persiana-one-by-sabrina-ghayor-dispatches-august-2026",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781783256105.jpg?v=1773069060",
-      "vip": false,
-      "listed_at": "2026-03-09T15:12:01+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Backstory London (Exclusives)::pre-order-signed-persiana-one-by-sabrina-ghayor-dispatches-august-2026",
-      "title": "Signed Persiana One by Sabrina Ghayor",
-      "author": "Sabrina Ghayor",
-      "price": "\u00a328.00",
-      "shop": "Backstory London (Exclusives)",
-      "url": "https://backstory.london/products/pre-order-signed-persiana-one-by-sabrina-ghayor-dispatches-august-2026",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781783256105.jpg?v=1773069060",
-      "vip": false,
-      "listed_at": "2026-03-09T15:12:01+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/kissed-by-the-gods-by-caty-rogan",
       "title": "Kissed by the Gods by Caty Rogan",
       "author": "",
@@ -30062,30 +30026,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-heights-signed-first-independent-bookshop-edition-with-sprayed-edge-exclusive-endpapers-9034414.jpg?v=1787533677",
       "vip": false,
       "listed_at": "2026-02-27T12:59:43+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Backstory London (Signed & Dedicated)::pre-order-signed-and-exclusive-we-chase-shadows-by-richard-osman-published-10th-september-2026",
-      "title": "SIGNED AND EXCLUSIVE We Chase Shadows by Richard Osman, published 10th September 2026",
-      "author": "",
-      "price": "\u00a325.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/pre-order-signed-and-exclusive-we-chase-shadows-by-richard-osman-published-10th-september-2026",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/OsmanWCSHoldingCover.jpg?v=1772107252",
-      "vip": false,
-      "listed_at": "2026-02-26T16:19:04+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Backstory London (Exclusives)::pre-order-signed-and-exclusive-we-chase-shadows-by-richard-osman-published-10th-september-2026",
-      "title": "SIGNED AND EXCLUSIVE We Chase Shadows by Richard Osman, published 10th September 2026",
-      "author": "",
-      "price": "\u00a325.00",
-      "shop": "Backstory London (Exclusives)",
-      "url": "https://backstory.london/products/pre-order-signed-and-exclusive-we-chase-shadows-by-richard-osman-published-10th-september-2026",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/OsmanWCSHoldingCover.jpg?v=1772107252",
-      "vip": false,
-      "listed_at": "2026-02-26T16:19:04+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -31538,30 +31478,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781911754244.jpg?v=1769849683",
       "vip": false,
       "listed_at": "2026-01-31T08:55:27+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Backstory London (Signed & Dedicated)::pre-order-now-sophie-standing-there-by-meg-mason-signed-edition",
-      "title": "SIGNED, Sophie, Standing There by Meg Mason",
-      "author": "Meg Mason",
-      "price": "\u00a320.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/pre-order-now-sophie-standing-there-by-meg-mason-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781526664006.jpg?v=1769795295",
-      "vip": false,
-      "listed_at": "2026-01-30T17:49:19+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Backstory London (Exclusives)::pre-order-now-sophie-standing-there-by-meg-mason-signed-edition",
-      "title": "SIGNED, Sophie, Standing There by Meg Mason",
-      "author": "Meg Mason",
-      "price": "\u00a320.00",
-      "shop": "Backstory London (Exclusives)",
-      "url": "https://backstory.london/products/pre-order-now-sophie-standing-there-by-meg-mason-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781526664006.jpg?v=1769795295",
-      "vip": false,
-      "listed_at": "2026-01-30T17:49:19+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
