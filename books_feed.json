@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T15:03:28.865991+00:00",
+  "last_updated": "2026-10-19T15:40:40.462411+00:00",
   "total_available": 2895,
   "shop_status": {
     "Goldsboro Books": "10 items",
@@ -7,9 +7,9 @@
     "Porty Books": "17 items via feed (as of 2026-10-18T17:16:09.169053+00:00)",
     "Backstory London (Signed & Dedicated)": "44 items",
     "Backstory London (Exclusives)": "19 items",
-    "British Library Shop": "279 items",
+    "British Library Shop": "280 items",
     "Cleeve Bookshop": "161 items",
-    "Ivybridge Bookshop": "152 items",
+    "Ivybridge Bookshop": "151 items",
     "Perkology Books": "41 items",
     "Bookstation (Ireland)": "8 items",
     "Biggles Stones": "3 items",
@@ -26,6 +26,18 @@
     "Linghams": "215 items via feed (as of 2026-10-19T10:07:23.473468+00:00)"
   },
   "books": [
+    {
+      "id": "British Library Shop::what-are-little-boys-made-of-signed-edition",
+      "title": "What Are Little Boys Made of? (Signed Edition)",
+      "author": "",
+      "price": "\u00a39.99",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/what-are-little-boys-made-of-signed-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/WhatLittleBoysaremadeof_9781805135968.png?v=1792423562",
+      "vip": false,
+      "listed_at": "2026-10-19T15:26:49+00:00",
+      "discovered_at": "2026-10-19T15:40:40.462411+00:00"
+    },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/redwood-the-untold-story-of-the-worlds-most-extraordinary-spy-signed-copy/",
       "title": "Redwood: The Untold Story of the World\u2019s Most Extraordinary Spy- Signed Copy",
@@ -25630,18 +25642,6 @@
       "vip": false,
       "listed_at": "2026-05-14T11:48:35.844000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Ivybridge Bookshop::9781529993493",
-      "title": "Under the Iron Sky - Signed Independent Edition with sprayed edge - A.T. Emerald (Hardback) 08-10-2026",
-      "author": "A.T. Emerald",
-      "price": "\u00a322.00",
-      "shop": "Ivybridge Bookshop",
-      "url": "https://www.ivybridgebookshop.com/products/9781529993493",
-      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/UIS.png?v=1778941035",
-      "vip": false,
-      "listed_at": "2026-05-13T16:50:45+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781529983869",
