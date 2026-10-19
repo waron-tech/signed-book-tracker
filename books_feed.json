@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T10:39:35.962952+00:00",
-  "total_available": 2895,
+  "last_updated": "2026-10-19T11:09:45.303672+00:00",
+  "total_available": 2896,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "6 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "223 items via feed (as of 2026-10-19T10:07:23.473468+00:00)",
     "Coles Books": "11 items",
-    "West End Lane Books": "1093 items",
+    "West End Lane Books": "1094 items",
     "Foyles": "136 items via feed (as of 2026-10-19T02:14:20.513880+00:00)",
     "Hatchards": "96 items via feed (as of 2026-10-19T06:18:31.558920+00:00)",
     "Waterstones": "187 items via feed (as of 2026-10-19T10:07:23.473468+00:00)",
@@ -17354,8 +17354,8 @@
     },
     {
       "id": "Backstory London (Signed & Dedicated)::pre-order-now-michael-by-bob-mortimer-signed-independent-bookshop-edition",
-      "title": "PRE-ORDER NOW Michael by Bob Mortimer - signed independent bookshop edition",
-      "author": "Bob Mortimer",
+      "title": "Michael",
+      "author": "",
       "price": "\u00a322.00",
       "shop": "Backstory London (Signed & Dedicated)",
       "url": "https://backstory.london/products/pre-order-now-michael-by-bob-mortimer-signed-independent-bookshop-edition",
@@ -17366,8 +17366,8 @@
     },
     {
       "id": "Backstory London (Exclusives)::pre-order-now-michael-by-bob-mortimer-signed-independent-bookshop-edition",
-      "title": "PRE-ORDER NOW Michael by Bob Mortimer - signed independent bookshop edition",
-      "author": "Bob Mortimer",
+      "title": "Michael",
+      "author": "",
       "price": "\u00a322.00",
       "shop": "Backstory London (Exclusives)",
       "url": "https://backstory.london/products/pre-order-now-michael-by-bob-mortimer-signed-independent-bookshop-edition",
@@ -25715,6 +25715,18 @@
       "vip": false,
       "listed_at": "2026-05-13T16:50:35+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/life-out-of-order-by-audrey-niffenegger-signed",
+      "title": "Life Out of Order by Audrey Niffenegger (Signed)",
+      "author": "Audrey Niffenegger",
+      "price": "\u00a322.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/life-out-of-order-by-audrey-niffenegger-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/ff270210-be98-4730-b673-3a59fe5eb122/Website+Listing+Template+-+Book+%2857%29.jpg",
+      "vip": false,
+      "listed_at": "2026-05-13T12:19:19.709000+00:00",
+      "discovered_at": "2026-10-19T11:09:45.303672+00:00"
     },
     {
       "id": "Backstory London (Signed & Dedicated)::pre-order-now-my-pressures-by-andy-serkis-signed-publishes-november-2026",
