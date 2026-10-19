@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T05:45:48.917246+00:00",
+  "last_updated": "2026-10-19T06:22:37.183266+00:00",
   "total_available": 2906,
   "shop_status": {
     "Goldsboro Books": "10 items",
@@ -21,11 +21,24 @@
     "Coles Books": "11 items",
     "West End Lane Books": "1094 items",
     "Foyles": "136 items via feed (as of 2026-10-19T02:14:20.513880+00:00)",
-    "Hatchards": "97 items via feed (as of 2026-10-18T18:28:28.716447+00:00)",
-    "Waterstones": "188 items via feed (as of 2026-10-18T17:16:09.169053+00:00)",
+    "Hatchards": "96 items via feed (as of 2026-10-19T06:18:31.558920+00:00)",
+    "Waterstones": "189 items via feed (as of 2026-10-19T06:18:31.558920+00:00)",
     "Linghams": "216 items via feed (as of 2026-10-19T02:14:20.513880+00:00)"
   },
   "books": [
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/miss-lambert-steps-aboard-danger/kazuo-ishiguro/9780571409778",
+      "title": "Miss Lambert Steps Aboard Danger",
+      "author": "Kazuo Ishiguro",
+      "price": "\u00a318.99",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/miss-lambert-steps-aboard-danger/kazuo-ishiguro/9780571409778",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9780/5714/9780571409778.jpg",
+      "vip": true,
+      "listed_at": "2026-10-19T06:22:37.183266+00:00",
+      "discovered_at": "2026-10-19T06:22:37.183266+00:00",
+      "est": "seen"
+    },
     {
       "id": "Foyles::https://www.foyles.co.uk/book/chain-reaction/lee-child/2928377373863",
       "title": "Chain Reaction",
@@ -7016,19 +7029,6 @@
       "image": "https://linghams.co.uk/wp-content/uploads/LAST-DAYS-OF-VIC-AND-COCO-sky-blue-edge-copy-350x525.jpg.webp",
       "vip": false,
       "listed_at": "2026-10-07T11:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/1967-the-world-of-brian-epstein-and-the-beatles/gary-kemp/9780008853587",
-      "title": "1967 \u2013 The World of Brian Epstein and The Beatles",
-      "author": "Gary Kemp",
-      "price": "\u00a325.00",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/1967-the-world-of-brian-epstein-and-the-beatles/gary-kemp/9780008853587",
-      "image": "",
-      "vip": false,
-      "listed_at": "2026-10-07T10:55:08.526782+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00",
       "est": "pos"
     },
