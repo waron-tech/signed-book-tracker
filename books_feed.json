@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T17:41:10.573622+00:00",
-  "total_available": 2895,
+  "last_updated": "2026-10-19T18:07:28.754149+00:00",
+  "total_available": 2894,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "6 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "222 items via feed (as of 2026-10-19T14:06:58.392585+00:00)",
     "Coles Books": "11 items",
-    "West End Lane Books": "1096 items",
+    "West End Lane Books": "1095 items",
     "Foyles": "136 items via feed (as of 2026-10-19T02:14:20.513880+00:00)",
     "Hatchards": "96 items via feed (as of 2026-10-19T06:18:31.558920+00:00)",
     "Waterstones": "187 items via feed (as of 2026-10-19T10:07:23.473468+00:00)",
@@ -23937,18 +23937,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/fad948a3-70a6-4da2-898c-7d34164e8199/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+-+2026-06-03T110253.052.jpg",
       "vip": false,
       "listed_at": "2026-06-03T10:05:07.294000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/mestra-by-madeline-miller-signed",
-      "title": "Mestra by Madeline Miller (Signed)",
-      "author": "Madeline Miller",
-      "price": "\u00a39.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/mestra-by-madeline-miller-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/5487cd7c-adf9-41c9-82dc-c2cbaefa6eff/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+-+2026-06-03T110014.292.jpg",
-      "vip": true,
-      "listed_at": "2026-06-03T10:02:01.837000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
