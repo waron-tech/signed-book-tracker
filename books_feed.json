@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T15:40:40.462411+00:00",
+  "last_updated": "2026-10-19T16:12:02.389287+00:00",
   "total_available": 2895,
   "shop_status": {
     "Goldsboro Books": "10 items",
@@ -20148,18 +20148,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/callie-hart-bundle-signed-1",
-      "title": "Callie Hart Bundle (Signed)",
-      "author": "",
-      "price": "\u00a319.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/callie-hart-bundle-signed-1",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/9e97c333-b4f7-484e-a85c-685e982e2807/Untitled+design+%2822%29.jpg",
-      "vip": false,
-      "listed_at": "2026-07-23T09:37:27.372000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/quicksilver-by-callie-hart-signed",
       "title": "Quicksilver by Callie Hart (Signed)",
       "author": "Callie Hart",
@@ -23794,6 +23782,18 @@
       "vip": false,
       "listed_at": "2026-06-03T15:54:00.051000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/murder-at-the-grand-alpine-hotel-by-lucy-foley-signed",
+      "title": "Murder at the Grand Alpine Hotel by Lucy Foley (Signed)",
+      "author": "Lucy Foley",
+      "price": "\u00a322.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/murder-at-the-grand-alpine-hotel-by-lucy-foley-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/34523219-47d9-49eb-b886-fa2f43cb34b9/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+-+2026-06-03T164838.084.jpg",
+      "vip": false,
+      "listed_at": "2026-06-03T15:51:17.299000+00:00",
+      "discovered_at": "2026-10-19T16:12:02.389287+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-cow-in-the-dark-at-night-by-jess-hannigan-signed",
