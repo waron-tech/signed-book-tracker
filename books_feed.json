@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T10:56:40.414912+00:00",
-  "total_available": 2896,
+  "last_updated": "2026-10-20T11:21:39.135739+00:00",
+  "total_available": 2897,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "6 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "225 items via feed (as of 2026-10-20T02:16:06.665517+00:00)",
     "Coles Books": "11 items",
-    "West End Lane Books": "1096 items",
+    "West End Lane Books": "1097 items",
     "Foyles": "136 items via feed (as of 2026-10-20T10:07:22.454052+00:00)",
     "Hatchards": "97 items via feed (as of 2026-10-19T18:13:26.151763+00:00)",
     "Waterstones": "188 items via feed (as of 2026-10-20T10:07:22.454052+00:00)",
@@ -33552,6 +33552,18 @@
       "vip": false,
       "listed_at": "2026-01-12T11:38:38.399000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/a-deadly-episode-by-anthony-horowitz-signed",
+      "title": "A Deadly Episode by Anthony Horowitz (Signed)",
+      "author": "Anthony Horowitz",
+      "price": "\u00a322.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/a-deadly-episode-by-anthony-horowitz-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/fa7c085e-f563-457d-b782-0ce407c00a31/Copy+of+Product+Template+-+Book+-+2026-01-12T105851.177.jpg",
+      "vip": false,
+      "listed_at": "2026-01-12T11:01:11.288000+00:00",
+      "discovered_at": "2026-10-20T11:21:39.135739+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/will-i-ever-have-sex-again-by-sofie-hagen",
