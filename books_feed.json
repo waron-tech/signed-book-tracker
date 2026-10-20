@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-20T12:23:23.572201+00:00",
-  "total_available": 2899,
+  "last_updated": "2026-10-20T13:12:24.912039+00:00",
+  "total_available": 2901,
   "shop_status": {
     "Goldsboro Books": "10 items",
-    "Rare Mags": "6 items",
+    "Rare Mags": "8 items",
     "Porty Books": "17 items via feed (as of 2026-10-19T22:07:52.913961+00:00)",
-    "Backstory London (Signed & Dedicated)": "44 items",
+    "Backstory London (Signed & Dedicated)": "43 items",
     "Backstory London (Exclusives)": "19 items",
-    "British Library Shop": "278 items",
+    "British Library Shop": "279 items",
     "Cleeve Bookshop": "161 items",
     "Ivybridge Bookshop": "151 items",
     "Perkology Books": "42 items",
@@ -26,6 +26,42 @@
     "Linghams": "215 items via feed (as of 2026-10-19T10:07:23.473468+00:00)"
   },
   "books": [
+    {
+      "id": "Rare Mags::nonesuch-signed-copies",
+      "title": "Nonesuch (Signed Copies)",
+      "author": "Francis Spufford",
+      "price": "\u00a314.00",
+      "shop": "Rare Mags",
+      "url": "https://raremags.co.uk/products/nonesuch-signed-copies",
+      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/0EF06F3F-5E4E-4BE4-8B7E-6258C2A96686.jpg?v=1792501475",
+      "vip": false,
+      "listed_at": "2026-10-20T13:05:24+00:00",
+      "discovered_at": "2026-10-20T13:12:24.912039+00:00"
+    },
+    {
+      "id": "Rare Mags::set-the-boy-free",
+      "title": "Set The Boy Free",
+      "author": "Johnny Marr",
+      "price": "\u00a341.00",
+      "shop": "Rare Mags",
+      "url": "https://raremags.co.uk/products/set-the-boy-free",
+      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/3C2F86EE-9304-4DDB-8C9E-7D140DD14DC0.jpg?v=1792501420",
+      "vip": false,
+      "listed_at": "2026-10-20T13:03:56+00:00",
+      "discovered_at": "2026-10-20T13:12:24.912039+00:00"
+    },
+    {
+      "id": "British Library Shop::royal-witch-indies-edition",
+      "title": "Royal Witch (Signed, Indies Edition)",
+      "author": "",
+      "price": "\u00a325.00",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/royal-witch-indies-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/RoyalWitch_9780008858872.png?v=1792410655",
+      "vip": false,
+      "listed_at": "2026-10-20T12:46:26+00:00",
+      "discovered_at": "2026-10-20T13:12:24.912039+00:00"
+    },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/esther-the-butcher-mariia-niskavaara-signed",
       "title": "Esther the Butcher Mariia Niskavaara (Signed)",
@@ -27407,18 +27443,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/DE_Edge.jpg?v=1778324258",
       "vip": false,
       "listed_at": "2026-04-14T11:56:32+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Backstory London (Signed & Dedicated)::pre-order-the-state-of-this-a-thicky-thicky-dumb-dumbs-guide-to-british-politics-by-cody-dahler-signed-personalised-dispatches-november-26",
-      "title": "The State Of This! A Thicky Thicky Dumb Dumb's Guide To British Politics",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/pre-order-the-state-of-this-a-thicky-thicky-dumb-dumbs-guide-to-british-politics-by-cody-dahler-signed-personalised-dispatches-november-26",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/D3606060-1298-43F6-8508-EF66A505C485.jpg?v=1785529430",
-      "vip": false,
-      "listed_at": "2026-04-14T08:57:38+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
