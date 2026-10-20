@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T11:56:55.570489+00:00",
-  "total_available": 2898,
+  "last_updated": "2026-10-20T12:23:23.572201+00:00",
+  "total_available": 2899,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "6 items",
@@ -19,13 +19,25 @@
     "Station Books": "64 items",
     "Booka Bookshop": "225 items via feed (as of 2026-10-20T02:16:06.665517+00:00)",
     "Coles Books": "11 items",
-    "West End Lane Books": "1097 items",
+    "West End Lane Books": "1098 items",
     "Foyles": "136 items via feed (as of 2026-10-20T10:07:22.454052+00:00)",
     "Hatchards": "97 items via feed (as of 2026-10-19T18:13:26.151763+00:00)",
     "Waterstones": "188 items via feed (as of 2026-10-20T10:07:22.454052+00:00)",
     "Linghams": "215 items via feed (as of 2026-10-19T10:07:23.473468+00:00)"
   },
   "books": [
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/esther-the-butcher-mariia-niskavaara-signed",
+      "title": "Esther the Butcher Mariia Niskavaara (Signed)",
+      "author": "",
+      "price": "\u00a314.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/esther-the-butcher-mariia-niskavaara-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/d313909d-50d6-4cf5-9199-412d89412837/Website+Listing+Template+-+Book+-+2026-10-20T125544.085.jpg",
+      "vip": false,
+      "listed_at": "2026-10-20T11:59:11.922000+00:00",
+      "discovered_at": "2026-10-20T12:23:23.572201+00:00"
+    },
     {
       "id": "Perkology Books::mias-and-elle-taken-vol-iii-by-jenny-clements-signed",
       "title": "Mias and Elle - Taken: Vol III by Jenny Clements & *SIGNED*",
