@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T16:14:32.467309+00:00",
-  "total_available": 2885,
+  "last_updated": "2026-10-20T16:45:32.350322+00:00",
+  "total_available": 2884,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "8 items",
@@ -15,11 +15,11 @@
     "Biggles Stones": "3 items",
     "London Review Bookshop": "28 items",
     "Little Apple Bookshop": "36 items",
-    "Hewson Books": "65 items",
+    "Hewson Books": "62 items",
     "Station Books": "64 items",
     "Booka Bookshop": "225 items via feed (as of 2026-10-20T02:16:06.665517+00:00)",
     "Coles Books": "11 items",
-    "West End Lane Books": "1097 items",
+    "West End Lane Books": "1099 items",
     "Foyles": "136 items via feed (as of 2026-10-20T10:07:22.454052+00:00)",
     "Hatchards": "97 items via feed (as of 2026-10-19T18:13:26.151763+00:00)",
     "Waterstones": "188 items via feed (as of 2026-10-20T14:14:38.874500+00:00)",
@@ -4464,19 +4464,6 @@
       "vip": false,
       "listed_at": "2026-10-13T02:10:31.896996+00:00",
       "discovered_at": "2026-10-20T02:37:19.338856+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/on-jokes-or-why-everything-you-know-about-comedy-is-wrong-by-jimmy-carr",
-      "title": "On Jokes ***signed*** by Jimmy Carr",
-      "author": "Jimmy Carr",
-      "price": "\u00a325.00",
-      "shop": "Hewson Books",
-      "url": "https://www.hewsonbooks.co.uk/product-page/on-jokes-or-why-everything-you-know-about-comedy-is-wrong-by-jimmy-carr",
-      "image": "https://static.wixstatic.com/media/cf7295_e0ce7f6179ca46558737900a4f0aa995~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-13T02:00:03.439777+00:00",
-      "discovered_at": "2026-10-20T15:39:44.978239+00:00",
       "est": "pos"
     },
     {
@@ -15552,19 +15539,6 @@
       "est": "pos"
     },
     {
-      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-finest-hotel-in-kabul-by-lyse-doucet-1",
-      "title": "The Finest Hotel in Kabul by Lyse Doucet",
-      "author": "Lyse Doucet",
-      "price": "\u00a311.99",
-      "shop": "Hewson Books",
-      "url": "https://www.hewsonbooks.co.uk/product-page/the-finest-hotel-in-kabul-by-lyse-doucet-1",
-      "image": "https://static.wixstatic.com/media/cf7295_a67442b6eaa643fca4d5e18d322af141~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-09-21T11:36:03.439777+00:00",
-      "discovered_at": "2026-10-20T15:39:44.978239+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Waterstones::https://www.waterstones.com/book/persiana-one/sabrina-ghayour/9781846018343",
       "title": "Persiana One",
       "author": "Sabrina Ghayour",
@@ -15804,19 +15778,6 @@
       "vip": false,
       "listed_at": "2026-09-21T02:26:44.044738+00:00",
       "discovered_at": "2026-10-20T02:37:19.338856+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/gio-by-giovanni-pernice",
-      "title": "Gio ***Signed*** by Giovanni Pernice",
-      "author": "Giovanni Pernice",
-      "price": "\u00a322.00",
-      "shop": "Hewson Books",
-      "url": "https://www.hewsonbooks.co.uk/product-page/gio-by-giovanni-pernice",
-      "image": "https://static.wixstatic.com/media/cf7295_926744dbaeff489db990387151e5de8a~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-09-21T01:37:54.209008+00:00",
-      "discovered_at": "2026-10-20T15:39:44.978239+00:00",
       "est": "pos"
     },
     {
@@ -19926,6 +19887,18 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/is-it-too-late-to-make-a-run-for-it-a-memoir-by-judi-dench-signed",
+      "title": "Is It Too Late to Make a Run for It? : A Memoir by Judi Dench (Signed)",
+      "author": "Judi Dench",
+      "price": "\u00a325.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/is-it-too-late-to-make-a-run-for-it-a-memoir-by-judi-dench-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/789d769e-5724-44a3-a8df-8e0d998ada02/Untitled+design+-+2026-07-28T115959.756.jpg",
+      "vip": false,
+      "listed_at": "2026-07-28T11:01:54.525000+00:00",
+      "discovered_at": "2026-10-20T16:45:32.350322+00:00"
+    },
+    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/sleuth-hound-by-lindsey-fitzharris-signed",
       "title": "Sleuth-Hound by Lindsey Fitzharris (Signed)",
       "author": "Lindsey Fitzharris",
@@ -21868,6 +21841,18 @@
       "vip": false,
       "listed_at": "2026-06-23T15:52:47.097000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/grand-the-autobiography-of-gromit-by-nick-park-and-gromit-signed",
+      "title": "Grand: The Autobiography of Gromit by Nick Park and Gromit (Signed)",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/grand-the-autobiography-of-gromit-by-nick-park-and-gromit-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/563e87c6-3ad4-4499-9623-8c1ffbde073a/Untitled+design+%2891%29.jpg",
+      "vip": false,
+      "listed_at": "2026-06-23T14:33:56.296000+00:00",
+      "discovered_at": "2026-10-20T16:45:32.350322+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/fox-under-the-moon-finding-light-in-the-darkness-by-stacey-mcneill-signed",
