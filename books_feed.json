@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T15:39:44.978239+00:00",
+  "last_updated": "2026-10-20T16:14:32.467309+00:00",
   "total_available": 2885,
   "shop_status": {
     "Goldsboro Books": "10 items",
@@ -26,6 +26,19 @@
     "Linghams": "215 items via feed (as of 2026-10-20T14:14:38.874500+00:00)"
   },
   "books": [
+    {
+      "id": "Coles Books::https://coles-books.co.uk/one-helluva-ride-by-michael-douglas-signed-edition",
+      "title": "One Helluva Ride by Michael Douglas - Signed Edition",
+      "author": "Michael Douglas",
+      "price": "\u00a325.00",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/one-helluva-ride-by-michael-douglas-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/m/i/michael_douglas_one_hellua_ride_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-10-20T16:14:32.467309+00:00",
+      "discovered_at": "2026-10-20T16:14:32.467309+00:00",
+      "est": "seen"
+    },
     {
       "id": "Waterstones::https://www.waterstones.com/book/1967-the-world-of-brian-epstein-and-the-beatles/gary-kemp/simon-halfon/9780008853587",
       "title": "1967 \u2013 The World of Brian Epstein and The Beatles",
@@ -3077,7 +3090,7 @@
       "id": "Rare Mags::discipline",
       "title": "Discipline (Signed Copies)",
       "author": "Randa Abdel-Fattah",
-      "price": "\u00a316.00",
+      "price": "\u00a315.00",
       "shop": "Rare Mags",
       "url": "https://raremags.co.uk/products/discipline",
       "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/822E7D75-9BF5-4628-8E92-05CE50F58E48.jpg?v=1791464764",
@@ -5432,7 +5445,7 @@
       "price": "\u00a325.00",
       "shop": "Hewson Books",
       "url": "https://www.hewsonbooks.co.uk/product-page/proper-home-cooking-by-si-king",
-      "image": "https://static.wixstatic.com/media/cf7295_589a420c877a4e0cbed8ec79876aec56~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/cf7295_e0ce7f6179ca46558737900a4f0aa995~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-10T17:55:17.154536+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
@@ -13914,19 +13927,6 @@
       "vip": false,
       "listed_at": "2026-09-23T15:44:37.438000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/a-history-of-the-world-in-ten-wars-by-terry-deary-signed-edition",
-      "title": "A History of the World in Ten Wars by Terry Deary - Signed Edition",
-      "author": "Terry Deary",
-      "price": "\u00a322.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/a-history-of-the-world-in-ten-wars-by-terry-deary-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/t/e/terry_deary_history_in_ten_wars_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-09-23T15:22:13.378312+00:00",
-      "discovered_at": "2026-10-18T15:11:24.212276+00:00",
-      "est": "pos"
     },
     {
       "id": "Linghams::https://linghams.co.uk/product/the-lions-run-signed-pre-order/",
