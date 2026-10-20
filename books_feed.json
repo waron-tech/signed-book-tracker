@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T14:22:49.061139+00:00",
-  "total_available": 2896,
+  "last_updated": "2026-10-20T15:00:50.244972+00:00",
+  "total_available": 2882,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "8 items",
@@ -8,7 +8,7 @@
     "Backstory London (Signed & Dedicated)": "43 items",
     "Backstory London (Exclusives)": "19 items",
     "British Library Shop": "279 items",
-    "Cleeve Bookshop": "157 items",
+    "Cleeve Bookshop": "143 items",
     "Ivybridge Bookshop": "151 items",
     "Perkology Books": "42 items",
     "Bookstation (Ireland)": "8 items",
@@ -22706,18 +22706,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781398714502",
-      "title": "The Island Secret - Signed First Edition",
-      "author": "",
-      "price": "\u00a318.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781398714502",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-island-secret-signed-first-edition-4732317.jpg?v=1787190029",
-      "vip": false,
-      "listed_at": "2026-06-12T14:27:11+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/what-we-ask-google-a-surprisingly-hopeful-picture-of-humankind-by-simon-rogers",
       "title": "What We Ask Google : A surprisingly hopeful picture of humankind by Simon Rogers",
       "author": "Simon Rogers",
@@ -27842,18 +27830,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781399730679",
-      "title": "Heaven's Graveyard - Signed First Edition",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781399730679",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/heavens-graveyard-signed-first-edition-2817252.jpg?v=1787362466",
-      "vip": false,
-      "listed_at": "2026-04-01T10:14:41+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "Cleeve Bookshop::9781399607940",
       "title": "Something Like Happiness - Signed First Edition",
       "author": "",
@@ -27863,18 +27839,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/something-like-happiness-signed-first-edition-3003143.jpg?v=1787362460",
       "vip": false,
       "listed_at": "2026-04-01T10:12:41+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781399814423",
-      "title": "Miss Hortense and the Last Rites - Signed First Edition",
-      "author": "",
-      "price": "\u00a318.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781399814423",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/miss-hortense-and-the-last-rites-signed-first-edition-2376833.jpg?v=1787362640",
-      "vip": false,
-      "listed_at": "2026-04-01T08:57:20+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -27995,18 +27959,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/sophie-standing-there-signed-first-edition-8052392.jpg?v=1787362607",
       "vip": false,
       "listed_at": "2026-03-30T12:25:34+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781037205798",
-      "title": "Dead but dreaming of Electric Sheep - Signed First Edition",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781037205798",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/dead-but-dreaming-of-electric-sheep-signed-first-edition-4804443.jpg?v=1787362604",
-      "vip": false,
-      "listed_at": "2026-03-30T12:25:18+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -28727,18 +28679,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-comeback-signed-indie-first-edition-with-exclusive-letter-4541912.jpg?v=1787362800",
       "vip": false,
       "listed_at": "2026-03-18T16:28:08+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781399758451",
-      "title": "A River Red With Blood - Signed First Edition",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781399758451",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/a-river-red-with-blood-signed-first-edition-4676335.jpg?v=1787362799",
-      "vip": false,
-      "listed_at": "2026-03-18T16:28:04+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -32942,18 +32882,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781529397482",
-      "title": "Common Decency - Signed First Edition",
-      "author": "",
-      "price": "\u00a318.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781529397482",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/common-decency-signed-first-edition-4359311.jpg?v=1787535374",
-      "vip": false,
-      "listed_at": "2026-01-20T15:15:54+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/running-on-air-by-sophie-raworth-signed",
       "title": "Running on Air by Sophie Raworth (Signed)",
       "author": "Sophie Raworth",
@@ -34142,18 +34070,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781805226611",
-      "title": "Intelligence - Signed First Edition",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781805226611",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/intelligence-signed-first-edition-2383169.jpg?v=1786975333",
-      "vip": false,
-      "listed_at": "2025-12-17T11:24:49+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "Cleeve Bookshop::9781804711224",
       "title": "The Quantity Theory of Morality - Signed Bookplate First Edition",
       "author": "",
@@ -34454,18 +34370,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781408749128",
-      "title": "A Queen Crowned in Flames - Signed First Edition",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781408749128",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/a-queen-crowned-in-flames-signed-first-edition-7370895.jpg?v=1786975387",
-      "vip": false,
-      "listed_at": "2025-12-12T15:23:40+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/a-queen-crowned-in-flames-by-hazel-mcbride-signed",
       "title": "A Queen Crowned in Flames by Hazel McBride (Signed)",
       "author": "Hazel McBride",
@@ -34631,18 +34535,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/pretenders-to-the-throne-of-god-signed-first-edition-8648906.jpg?v=1786975389",
       "vip": false,
       "listed_at": "2025-12-10T13:05:18+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781408714706",
-      "title": "High and Low - Signed First Edition",
-      "author": "",
-      "price": "\u00a318.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781408714706",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/high-and-low-signed-first-edition-2231589.jpg?v=1786975267",
-      "vip": false,
-      "listed_at": "2025-12-10T13:03:44+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -35222,18 +35114,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781529443394",
-      "title": "Seasons of Glass and Iron: Stories - Signed First Edition",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781529443394",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/seasons-of-glass-and-iron-stories-signed-first-edition-6677742.jpg?v=1786977069",
-      "vip": false,
-      "listed_at": "2025-11-12T10:54:54+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "Cleeve Bookshop::9781399835015",
       "title": "Country People - Signed First Edition",
       "author": "",
@@ -35618,30 +35498,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781399624633",
-      "title": "The Unmagical Life of Briar Jones - Signed First Edition",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781399624633",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-unmagical-life-of-briar-jones-signed-first-edition-8839801.jpg?v=1786977490",
-      "vip": false,
-      "listed_at": "2025-10-29T16:59:18+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781529445671",
-      "title": "How to Cheat Your Own Death - Signed First Edition",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781529445671",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/how-to-cheat-your-own-death-signed-first-edition-9008525.jpg?v=1786977308",
-      "vip": false,
-      "listed_at": "2025-10-29T16:57:49+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "Cleeve Bookshop::9781529437935",
       "title": "The Name Game - Signed First Edition",
       "author": "",
@@ -35654,18 +35510,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781408720134",
-      "title": "Actually, I'm A Corpse - Signed First Edition",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781408720134",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/actually-im-a-corpse-signed-first-edition-6791629.jpg?v=1786977489",
-      "vip": false,
-      "listed_at": "2025-10-29T16:57:40+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "Cleeve Bookshop::9781399826969",
       "title": "Awake Awake - Signed First Edition",
       "author": "",
@@ -35675,18 +35519,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/awake-awake-signed-first-edition-3586715.jpg?v=1786977427",
       "vip": false,
       "listed_at": "2025-10-29T16:57:37+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781399634212",
-      "title": "Go Gentle - Signed First Edition",
-      "author": "",
-      "price": "\u00a318.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781399634212",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/go-gentle-signed-first-edition-3499606.jpg?v=1786977369",
-      "vip": false,
-      "listed_at": "2025-10-29T16:57:30+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
