@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T09:21:39.493913+00:00",
-  "total_available": 2893,
+  "last_updated": "2026-10-20T09:57:51.359140+00:00",
+  "total_available": 2895,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "6 items",
@@ -19,13 +19,37 @@
     "Station Books": "64 items",
     "Booka Bookshop": "225 items via feed (as of 2026-10-20T02:16:06.665517+00:00)",
     "Coles Books": "11 items",
-    "West End Lane Books": "1094 items",
+    "West End Lane Books": "1096 items",
     "Foyles": "136 items via feed (as of 2026-10-20T02:16:06.665517+00:00)",
     "Hatchards": "97 items via feed (as of 2026-10-19T18:13:26.151763+00:00)",
     "Waterstones": "187 items via feed (as of 2026-10-20T06:09:36.717536+00:00)",
     "Linghams": "215 items via feed (as of 2026-10-19T10:07:23.473468+00:00)"
   },
   "books": [
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/doppelganger-by-sam-riviere-signed",
+      "title": "Doppelganger by Sam Riviere (Signed)",
+      "author": "Sam Riviere",
+      "price": "\u00a318.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/doppelganger-by-sam-riviere-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/769f65b3-7571-4fed-80a1-1967dfd8981a/Website+Listing+Template+-+Book+-+2026-10-20T104019.060.jpg",
+      "vip": false,
+      "listed_at": "2026-10-20T09:41:50.511000+00:00",
+      "discovered_at": "2026-10-20T09:57:51.359140+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/i-am-here-on-staying-alive-by-kate-armstrong-signed",
+      "title": "I Am Here: On Staying Alive by Kate Armstrong (Signed)",
+      "author": "Kate Armstrong",
+      "price": "\u00a322.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/i-am-here-on-staying-alive-by-kate-armstrong-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/1dff16fb-a375-480c-828c-5fa1885470ac/Website+Listing+Template+-+Book+-+2026-10-20T103427.072.jpg",
+      "vip": false,
+      "listed_at": "2026-10-20T09:36:35.467000+00:00",
+      "discovered_at": "2026-10-20T09:57:51.359140+00:00"
+    },
     {
       "id": "Coles Books::https://coles-books.co.uk/the-rambler-s-curse-by-mikey-please-signed-edition",
       "title": "The Rambler's Curse by Mikey Please - Signed Edition",
