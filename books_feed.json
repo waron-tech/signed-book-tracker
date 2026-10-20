@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T15:00:50.244972+00:00",
-  "total_available": 2882,
+  "last_updated": "2026-10-20T15:39:44.978239+00:00",
+  "total_available": 2885,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "8 items",
@@ -8,14 +8,14 @@
     "Backstory London (Signed & Dedicated)": "43 items",
     "Backstory London (Exclusives)": "19 items",
     "British Library Shop": "279 items",
-    "Cleeve Bookshop": "143 items",
-    "Ivybridge Bookshop": "151 items",
+    "Cleeve Bookshop": "141 items",
+    "Ivybridge Bookshop": "152 items",
     "Perkology Books": "42 items",
     "Bookstation (Ireland)": "8 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "28 items",
-    "Little Apple Bookshop": "35 items",
-    "Hewson Books": "62 items",
+    "Little Apple Bookshop": "36 items",
+    "Hewson Books": "65 items",
     "Station Books": "64 items",
     "Booka Bookshop": "225 items via feed (as of 2026-10-20T02:16:06.665517+00:00)",
     "Coles Books": "11 items",
@@ -2472,6 +2472,19 @@
       "est": "pos"
     },
     {
+      "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/reece-shearsmith-things-i-took-from-the-dark-signed-copy-hardback",
+      "title": "Reece Shearsmith - Things I Took From The Dark (SIGNED COPY) (HARDBACK)",
+      "author": "Reece Shearsmith",
+      "price": "\u00a322.00",
+      "shop": "Little Apple Bookshop",
+      "url": "https://www.littleapplebookshop.co.uk/product-page/reece-shearsmith-things-i-took-from-the-dark-signed-copy-hardback",
+      "image": "https://static.wixstatic.com/media/01f334_81382796f05849d8b5392428742475bc~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-16T03:39:44.978239+00:00",
+      "discovered_at": "2026-10-20T15:39:44.978239+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Foyles::https://www.foyles.co.uk/book/timeless/a-f-steadman/9781398537422",
       "title": "TimeLess",
       "author": "A F Steadman",
@@ -4441,6 +4454,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/on-jokes-or-why-everything-you-know-about-comedy-is-wrong-by-jimmy-carr",
+      "title": "On Jokes ***signed*** by Jimmy Carr",
+      "author": "Jimmy Carr",
+      "price": "\u00a325.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/on-jokes-or-why-everything-you-know-about-comedy-is-wrong-by-jimmy-carr",
+      "image": "https://static.wixstatic.com/media/cf7295_e0ce7f6179ca46558737900a4f0aa995~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-13T02:00:03.439777+00:00",
+      "discovered_at": "2026-10-20T15:39:44.978239+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/the-wolves-of-war/john-gwynne/9780356532264",
       "title": "The Wolves of War",
       "author": "John Gwynne",
@@ -5406,7 +5432,7 @@
       "price": "\u00a325.00",
       "shop": "Hewson Books",
       "url": "https://www.hewsonbooks.co.uk/product-page/proper-home-cooking-by-si-king",
-      "image": "https://static.wixstatic.com/media/cf7295_e0ce7f6179ca46558737900a4f0aa995~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/cf7295_589a420c877a4e0cbed8ec79876aec56~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-10T17:55:17.154536+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
@@ -15526,6 +15552,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-finest-hotel-in-kabul-by-lyse-doucet-1",
+      "title": "The Finest Hotel in Kabul by Lyse Doucet",
+      "author": "Lyse Doucet",
+      "price": "\u00a311.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/the-finest-hotel-in-kabul-by-lyse-doucet-1",
+      "image": "https://static.wixstatic.com/media/cf7295_a67442b6eaa643fca4d5e18d322af141~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-09-21T11:36:03.439777+00:00",
+      "discovered_at": "2026-10-20T15:39:44.978239+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/persiana-one/sabrina-ghayour/9781846018343",
       "title": "Persiana One",
       "author": "Sabrina Ghayour",
@@ -15765,6 +15804,19 @@
       "vip": false,
       "listed_at": "2026-09-21T02:26:44.044738+00:00",
       "discovered_at": "2026-10-20T02:37:19.338856+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/gio-by-giovanni-pernice",
+      "title": "Gio ***Signed*** by Giovanni Pernice",
+      "author": "Giovanni Pernice",
+      "price": "\u00a322.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/gio-by-giovanni-pernice",
+      "image": "https://static.wixstatic.com/media/cf7295_926744dbaeff489db990387151e5de8a~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-09-21T01:37:54.209008+00:00",
+      "discovered_at": "2026-10-20T15:39:44.978239+00:00",
       "est": "pos"
     },
     {
@@ -17484,6 +17536,18 @@
       "vip": false,
       "listed_at": "2026-09-01T09:14:44.745000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
+    },
+    {
+      "id": "Ivybridge Bookshop::9781398548091",
+      "title": "Michael - (Pre Order) Signed Independent Edition with sprayed edge - Bob Mortimer (Hardback) 19-11-2026",
+      "author": "Bob Mortimer",
+      "price": "\u00a322.00",
+      "shop": "Ivybridge Bookshop",
+      "url": "https://www.ivybridgebookshop.com/products/9781398548091",
+      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9781398548091_24ee637f-1ba5-4325-9225-07c296ff2eda.png?v=1788360961",
+      "vip": false,
+      "listed_at": "2026-08-31T10:21:45+00:00",
+      "discovered_at": "2026-10-20T15:39:44.978239+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781529089523",
@@ -25187,18 +25251,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-newer-world-signed-first-edition-with-sprayed-edge-7023525.jpg?v=1787190903",
       "vip": false,
       "listed_at": "2026-05-21T10:44:12+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781526661395",
-      "title": "Cast Away : or, the Surprising Adventures of Alexander Selkirk - Signed Bookplate First Edition",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781526661395",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/cast-away-or-the-surprising-adventures-of-alexander-selkirk-signed-bookplate-first-edition-1536009.jpg?v=1787190901",
-      "vip": false,
-      "listed_at": "2026-05-21T09:45:21+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -35340,18 +35392,6 @@
       "vip": false,
       "listed_at": "2025-11-06T10:17:01.768000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781399829847",
-      "title": "Death by Noir - Signed First Edition",
-      "author": "",
-      "price": "\u00a318.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781399829847",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/death-by-noir-signed-first-edition-2124199.jpg?v=1786977249",
-      "vip": false,
-      "listed_at": "2025-11-05T12:20:36+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/night-life-by-john-lewis-stempel-signed",
