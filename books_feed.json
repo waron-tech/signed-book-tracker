@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T07:31:08.501324+00:00",
-  "total_available": 2896,
+  "last_updated": "2026-10-20T08:13:30.691264+00:00",
+  "total_available": 2893,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "6 items",
@@ -15,7 +15,7 @@
     "Biggles Stones": "3 items",
     "London Review Bookshop": "28 items",
     "Little Apple Bookshop": "36 items",
-    "Hewson Books": "65 items",
+    "Hewson Books": "62 items",
     "Station Books": "64 items",
     "Booka Bookshop": "225 items via feed (as of 2026-10-20T02:16:06.665517+00:00)",
     "Coles Books": "11 items",
@@ -4423,19 +4423,6 @@
       "est": "pos"
     },
     {
-      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/on-jokes-or-why-everything-you-know-about-comedy-is-wrong-by-jimmy-carr",
-      "title": "On Jokes ***signed*** by Jimmy Carr",
-      "author": "Jimmy Carr",
-      "price": "\u00a325.00",
-      "shop": "Hewson Books",
-      "url": "https://www.hewsonbooks.co.uk/product-page/on-jokes-or-why-everything-you-know-about-comedy-is-wrong-by-jimmy-carr",
-      "image": "https://static.wixstatic.com/media/cf7295_e0ce7f6179ca46558737900a4f0aa995~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-12T17:51:26.962862+00:00",
-      "discovered_at": "2026-10-20T07:31:08.501324+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Foyles::https://www.foyles.co.uk/book/fronting-up/lewis-moody/9781035449170",
       "title": "Fronting Up",
       "author": "Lewis Moody",
@@ -5284,7 +5271,7 @@
       "price": "\u00a325.00",
       "shop": "Hewson Books",
       "url": "https://www.hewsonbooks.co.uk/product-page/proper-home-cooking-by-si-king",
-      "image": "https://static.wixstatic.com/media/cf7295_589a420c877a4e0cbed8ec79876aec56~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/cf7295_e0ce7f6179ca46558737900a4f0aa995~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-10T17:55:17.154536+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
@@ -10049,19 +10036,6 @@
       "est": "pos"
     },
     {
-      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-finest-hotel-in-kabul-by-lyse-doucet-1",
-      "title": "The Finest Hotel in Kabul by Lyse Doucet",
-      "author": "Lyse Doucet",
-      "price": "\u00a311.99",
-      "shop": "Hewson Books",
-      "url": "https://www.hewsonbooks.co.uk/product-page/the-finest-hotel-in-kabul-by-lyse-doucet-1",
-      "image": "https://static.wixstatic.com/media/cf7295_a67442b6eaa643fca4d5e18d322af141~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-09-30T06:46:50.039786+00:00",
-      "discovered_at": "2026-10-20T07:31:08.501324+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/the-dying-light-signed-indie-edition-pre-order/",
       "title": "The Dying Light *signed indie edition* (pre-order)",
       "author": "Ann Cleeves",
@@ -11034,7 +11008,7 @@
       "price": "\u00a312.99",
       "shop": "Hewson Books",
       "url": "https://www.hewsonbooks.co.uk/product-page/middleland-by-rory-stewart",
-      "image": "https://static.wixstatic.com/media/cf7295_04b7d3d2a2af4d3e9047668b1442b639~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/cf7295_a67442b6eaa643fca4d5e18d322af141~mv2.jpg",
       "vip": false,
       "listed_at": "2026-09-28T06:50:40.231459+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
@@ -13330,19 +13304,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/gio-by-giovanni-pernice",
-      "title": "Gio ***Signed*** by Giovanni Pernice",
-      "author": "Giovanni Pernice",
-      "price": "\u00a322.00",
-      "shop": "Hewson Books",
-      "url": "https://www.hewsonbooks.co.uk/product-page/gio-by-giovanni-pernice",
-      "image": "https://static.wixstatic.com/media/cf7295_926744dbaeff489db990387151e5de8a~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-09-24T11:12:40.809016+00:00",
-      "discovered_at": "2026-10-20T07:31:08.501324+00:00",
-      "est": "pos"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/martha-wants-a-baby-by-april-vellacott-signed",
       "title": "Martha Wants a Baby by April Vellacott (Signed)",
       "author": "April Vellacott",
@@ -14748,7 +14709,7 @@
       "price": "\u00a316.99",
       "shop": "Hewson Books",
       "url": "https://www.hewsonbooks.co.uk/product-page/sisters-in-yellow-by-mieko-kawakami",
-      "image": "https://static.wixstatic.com/media/cf7295_eeac9259830048b0bfeb0c1d3d1e9538~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/cf7295_926744dbaeff489db990387151e5de8a~mv2.jpg",
       "vip": false,
       "listed_at": "2026-09-22T11:16:31.000690+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
@@ -16258,7 +16219,7 @@
     },
     {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/ottolenghi-simple-too-by-yotam-ottolenghi",
-      "title": "Ottolenghi SIMPLE TOO ***Signed (Limited)*** by Yotam Ottolenghi",
+      "title": "Ottolenghi SIMPLE TOO by Yotam Ottolenghi",
       "author": "Yotam Ottolenghi",
       "price": "\u00a330.00",
       "shop": "Hewson Books",
