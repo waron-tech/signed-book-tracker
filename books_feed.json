@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T09:57:51.359140+00:00",
-  "total_available": 2895,
+  "last_updated": "2026-10-20T10:21:09.826593+00:00",
+  "total_available": 2896,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "6 items",
@@ -20,9 +20,9 @@
     "Booka Bookshop": "225 items via feed (as of 2026-10-20T02:16:06.665517+00:00)",
     "Coles Books": "11 items",
     "West End Lane Books": "1096 items",
-    "Foyles": "136 items via feed (as of 2026-10-20T02:16:06.665517+00:00)",
+    "Foyles": "136 items via feed (as of 2026-10-20T10:07:22.454052+00:00)",
     "Hatchards": "97 items via feed (as of 2026-10-19T18:13:26.151763+00:00)",
-    "Waterstones": "187 items via feed (as of 2026-10-20T06:09:36.717536+00:00)",
+    "Waterstones": "188 items via feed (as of 2026-10-20T10:07:22.454052+00:00)",
     "Linghams": "215 items via feed (as of 2026-10-19T10:07:23.473468+00:00)"
   },
   "books": [
@@ -1996,6 +1996,19 @@
       "vip": false,
       "listed_at": "2026-10-18T09:35:21.248000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/my-rangers/graeme-souness/alex-ferguson/2928377383091",
+      "title": "My Rangers",
+      "author": "Graeme Souness, Alex Ferguson",
+      "price": "\u00a322.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/my-rangers/graeme-souness/alex-ferguson/2928377383091",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377383091.jpg",
+      "vip": false,
+      "listed_at": "2026-10-17T10:21:09.826593+00:00",
+      "discovered_at": "2026-10-20T10:21:09.826593+00:00",
+      "est": "pos"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/twigs-traveling-tomes-by-gryffin-murphy-signed",
@@ -5408,7 +5421,7 @@
       "id": "Foyles::https://www.foyles.co.uk/book/the-career-ladder/max-klymenko/2928377382681",
       "title": "The Career Ladder",
       "author": "Max Klymenko",
-      "price": "\u00a320.00",
+      "price": "\u00a322.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/the-career-ladder/max-klymenko/2928377382681",
       "image": "",
