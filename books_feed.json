@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T21:38:46.390557+00:00",
-  "total_available": 2882,
+  "last_updated": "2026-10-20T22:09:11.297654+00:00",
+  "total_available": 2881,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "8 items",
@@ -21,8 +21,8 @@
     "Coles Books": "11 items",
     "West End Lane Books": "1099 items",
     "Foyles": "136 items via feed (as of 2026-10-20T10:07:22.454052+00:00)",
-    "Hatchards": "97 items via feed (as of 2026-10-19T18:13:26.151763+00:00)",
-    "Waterstones": "186 items via feed (as of 2026-10-20T18:08:57.276133+00:00)",
+    "Hatchards": "97 items via feed (as of 2026-10-20T22:08:10.184911+00:00)",
+    "Waterstones": "185 items via feed (as of 2026-10-20T22:08:10.184911+00:00)",
     "Linghams": "215 items via feed (as of 2026-10-20T14:14:38.874500+00:00)"
   },
   "books": [
@@ -2082,19 +2082,6 @@
       "vip": false,
       "listed_at": "2026-10-18T09:35:21.248000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "Waterstones::https://www.waterstones.com/book/my-rangers/graeme-souness/alex-ferguson/2928377383091",
-      "title": "My Rangers",
-      "author": "Graeme Souness, Alex Ferguson",
-      "price": "\u00a322.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/my-rangers/graeme-souness/alex-ferguson/2928377383091",
-      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377383091.jpg",
-      "vip": false,
-      "listed_at": "2026-10-17T10:21:09.826593+00:00",
-      "discovered_at": "2026-10-20T10:21:09.826593+00:00",
-      "est": "pos"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/twigs-traveling-tomes-by-gryffin-murphy-signed",
