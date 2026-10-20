@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T05:38:25.442701+00:00",
-  "total_available": 2892,
+  "last_updated": "2026-10-20T06:09:20.569696+00:00",
+  "total_available": 2893,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "6 items",
@@ -22,7 +22,7 @@
     "West End Lane Books": "1094 items",
     "Foyles": "136 items via feed (as of 2026-10-20T02:16:06.665517+00:00)",
     "Hatchards": "97 items via feed (as of 2026-10-19T18:13:26.151763+00:00)",
-    "Waterstones": "186 items via feed (as of 2026-10-20T02:16:06.665517+00:00)",
+    "Waterstones": "187 items via feed (as of 2026-10-20T06:09:36.717536+00:00)",
     "Linghams": "215 items via feed (as of 2026-10-19T10:07:23.473468+00:00)"
   },
   "books": [
@@ -1959,6 +1959,19 @@
       "vip": false,
       "listed_at": "2026-10-17T08:46:58.282000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/diary-of-a-wimpy-kid-21-fight-or-flight/jeff-kinney/jeff-kinney/9780241837924",
+      "title": "Diary of a Wimpy Kid 21: Fight Or Flight",
+      "author": "Jeff Kinney, Jeff Kinney",
+      "price": "\u00a314.99",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/diary-of-a-wimpy-kid-21-fight-or-flight/jeff-kinney/jeff-kinney/9780241837924",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9780/2418/9780241837924.jpg",
+      "vip": false,
+      "listed_at": "2026-10-17T06:09:20.569696+00:00",
+      "discovered_at": "2026-10-20T06:09:20.569696+00:00",
+      "est": "pos"
     },
     {
       "id": "Foyles::https://www.foyles.co.uk/book/chain-reaction/lee-child/2928377373863",
