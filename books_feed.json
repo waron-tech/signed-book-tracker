@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T08:46:27.285390+00:00",
+  "last_updated": "2026-10-20T09:21:39.493913+00:00",
   "total_available": 2893,
   "shop_status": {
     "Goldsboro Books": "10 items",
@@ -26,6 +26,31 @@
     "Linghams": "215 items via feed (as of 2026-10-19T10:07:23.473468+00:00)"
   },
   "books": [
+    {
+      "id": "Coles Books::https://coles-books.co.uk/the-rambler-s-curse-by-mikey-please-signed-edition",
+      "title": "The Rambler's Curse by Mikey Please - Signed Edition",
+      "author": "Mikey Please",
+      "price": "\u00a314.99",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/the-rambler-s-curse-by-mikey-please-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/m/i/mikey_please_ramblers_curse_coles_signed_ediiton_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-10-20T09:21:39.493913+00:00",
+      "discovered_at": "2026-10-20T09:21:39.493913+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/not-quite-myself-by-claire-and-mike-gayle-signed",
+      "title": "Not Quite Myself by Claire and Mike Gayle (Signed)",
+      "author": "",
+      "price": "\u00a316.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/not-quite-myself-by-claire-and-mike-gayle-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/3382cd04-ae75-4ac3-bc78-19591950638e/Website+Listing+Template+-+Book+-+2026-10-20T100623.073.jpg",
+      "vip": false,
+      "listed_at": "2026-10-20T09:08:32.195000+00:00",
+      "discovered_at": "2026-10-20T09:21:39.493913+00:00"
+    },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/harry-potter-and-the-half-blood-prince-illustrated-edition-levi-pinfold-signing-copy/",
       "title": "Harry Potter and the Half Blood Prince: Illustrated Edition \u2013 Levi Pinfold Signing Copy",
@@ -15578,19 +15603,6 @@
       "vip": false,
       "listed_at": "2026-09-21T05:20:37.277000+00:00",
       "discovered_at": "2026-10-20T02:37:19.338856+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/life-out-of-order-by-audrey-niffenegger-signed-edition",
-      "title": "Life Out of Order by Audrey Niffenegger - Signed Edition",
-      "author": "Audrey Niffenegger",
-      "price": "\u00a322.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/life-out-of-order-by-audrey-niffenegger-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/a/u/audrey_niffeneger_life_out_of_order_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-09-21T04:27:40.651040+00:00",
-      "discovered_at": "2026-10-18T15:11:24.212276+00:00",
       "est": "pos"
     },
     {
@@ -33502,18 +33514,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/559c5c33-7a3c-42a3-8cc6-e9b9062a3282/Copy+of+Product+Template+-+Book+-+2026-01-12T113225.635.jpg",
       "vip": false,
       "listed_at": "2026-01-12T11:38:38.399000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/a-deadly-episode-by-anthony-horowitz-signed",
-      "title": "A Deadly Episode by Anthony Horowitz (Signed)",
-      "author": "Anthony Horowitz",
-      "price": "\u00a322.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/a-deadly-episode-by-anthony-horowitz-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/fa7c085e-f563-457d-b782-0ce407c00a31/Copy+of+Product+Template+-+Book+-+2026-01-12T105851.177.jpg",
-      "vip": false,
-      "listed_at": "2026-01-12T11:01:11.288000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
