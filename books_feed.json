@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-21T21:21:04.263298+00:00",
-  "total_available": 2906,
+  "last_updated": "2026-10-21T21:58:10.159844+00:00",
+  "total_available": 2905,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "8 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "226 items via feed (as of 2026-10-21T18:09:40.570080+00:00)",
     "Coles Books": "12 items",
-    "West End Lane Books": "1101 items",
+    "West End Lane Books": "1100 items",
     "Foyles": "136 items via feed (as of 2026-10-21T10:10:07.716944+00:00)",
     "Hatchards": "97 items via feed (as of 2026-10-20T22:08:10.184911+00:00)",
     "Waterstones": "188 items via feed (as of 2026-10-21T18:09:40.570080+00:00)",
@@ -24242,18 +24242,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/b442b923-510a-4f34-a1cc-06588a52c565/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+-+2026-06-03T111820.203.jpg",
       "vip": false,
       "listed_at": "2026-06-03T10:20:05.820000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/harry-potter-and-the-half-blood-prince-illustrated-edition-by-jk-rowling-levi-pinfold-signed",
-      "title": "Harry Potter and the Half-Blood Prince : Illustrated Edition by J.K. Rowling & Levi Pinfold (Signed)",
-      "author": "J.K. Rowling & Levi Pinfold",
-      "price": "\u00a340.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/harry-potter-and-the-half-blood-prince-illustrated-edition-by-jk-rowling-levi-pinfold-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/f1d27131-6c3d-42f2-94a6-b2c4de25ec28/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+-+2026-06-03T111350.035.jpg",
-      "vip": false,
-      "listed_at": "2026-06-03T10:16:49.759000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
