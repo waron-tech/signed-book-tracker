@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-21T20:56:51.125250+00:00",
-  "total_available": 2907,
+  "last_updated": "2026-10-21T21:21:04.263298+00:00",
+  "total_available": 2906,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "8 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "226 items via feed (as of 2026-10-21T18:09:40.570080+00:00)",
     "Coles Books": "12 items",
-    "West End Lane Books": "1102 items",
+    "West End Lane Books": "1101 items",
     "Foyles": "136 items via feed (as of 2026-10-21T10:10:07.716944+00:00)",
     "Hatchards": "97 items via feed (as of 2026-10-20T22:08:10.184911+00:00)",
     "Waterstones": "188 items via feed (as of 2026-10-21T18:09:40.570080+00:00)",
@@ -20762,18 +20762,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/7cce5ac7-6b26-4a58-92a6-40dbc4bb094b/Untitled+design+%2884%29.jpg",
       "vip": false,
       "listed_at": "2026-07-16T10:03:59.635000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-midmorning-murders-by-julian-clary-signed",
-      "title": "The Midmorning Murders by Julian Clary (Signed)",
-      "author": "Julian Clary",
-      "price": "\u00a322.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-midmorning-murders-by-julian-clary-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/edcaec4a-5508-49ec-bc0d-78988e6421a3/Untitled+design+%2883%29.jpg",
-      "vip": false,
-      "listed_at": "2026-07-16T10:00:58.404000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
