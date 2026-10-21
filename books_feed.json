@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-10-21T10:13:38.297831+00:00",
-  "total_available": 2883,
+  "last_updated": "2026-10-21T10:45:11.240003+00:00",
+  "total_available": 2884,
   "shop_status": {
     "Goldsboro Books": "10 items",
-    "Rare Mags": "8 items",
+    "Rare Mags": "9 items",
     "Porty Books": "18 items via feed (as of 2026-10-20T14:14:38.874500+00:00)",
     "Backstory London (Signed & Dedicated)": "43 items",
     "Backstory London (Exclusives)": "19 items",
@@ -26,6 +26,18 @@
     "Linghams": "215 items via feed (as of 2026-10-20T14:14:38.874500+00:00)"
   },
   "books": [
+    {
+      "id": "Rare Mags::japanese-curry",
+      "title": "Japanese Curry",
+      "author": "Tim Anderson",
+      "price": "\u00a321.00",
+      "shop": "Rare Mags",
+      "url": "https://raremags.co.uk/products/japanese-curry",
+      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/28D9BD32-BDB3-4255-9A73-A8D232D9281B.jpg?v=1792579444",
+      "vip": false,
+      "listed_at": "2026-10-21T10:44:27+00:00",
+      "discovered_at": "2026-10-21T10:45:11.240003+00:00"
+    },
     {
       "id": "Waterstones::https://www.waterstones.com/book/who-does-she-think-she-is/florence-given/9781837829873",
       "title": "Who Does She Think She Is?",
