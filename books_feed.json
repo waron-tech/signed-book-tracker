@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-21T11:46:57.672770+00:00",
-  "total_available": 2884,
+  "last_updated": "2026-10-21T12:21:27.220275+00:00",
+  "total_available": 2887,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "8 items",
     "Porty Books": "18 items via feed (as of 2026-10-20T14:14:38.874500+00:00)",
     "Backstory London (Signed & Dedicated)": "43 items",
     "Backstory London (Exclusives)": "19 items",
-    "British Library Shop": "280 items",
+    "British Library Shop": "282 items",
     "Cleeve Bookshop": "141 items",
     "Ivybridge Bookshop": "152 items",
     "Perkology Books": "42 items",
@@ -19,13 +19,25 @@
     "Station Books": "64 items",
     "Booka Bookshop": "225 items via feed (as of 2026-10-20T18:08:57.276133+00:00)",
     "Coles Books": "11 items",
-    "West End Lane Books": "1099 items",
+    "West End Lane Books": "1100 items",
     "Foyles": "136 items via feed (as of 2026-10-21T10:10:07.716944+00:00)",
     "Hatchards": "97 items via feed (as of 2026-10-20T22:08:10.184911+00:00)",
     "Waterstones": "187 items via feed (as of 2026-10-21T10:10:07.716944+00:00)",
     "Linghams": "215 items via feed (as of 2026-10-20T14:14:38.874500+00:00)"
   },
   "books": [
+    {
+      "id": "British Library Shop::sleuth-hound",
+      "title": "Sleuth-Hound (Signed Edition)",
+      "author": "",
+      "price": "\u00a325.00",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/sleuth-hound",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/SleuthHound_9780241632611.png?v=1792583980",
+      "vip": false,
+      "listed_at": "2026-10-21T11:59:57+00:00",
+      "discovered_at": "2026-10-21T12:21:27.220275+00:00"
+    },
     {
       "id": "British Library Shop::diary-of-a-wimpy-kid-fight-or-flight-book-21",
       "title": "Diary of a Wimpy Kid: Fight or Flight (Signed Edition)",
@@ -2742,6 +2754,18 @@
       "listed_at": "2026-10-15T15:46:59.984017+00:00",
       "discovered_at": "2026-10-20T02:37:19.338856+00:00",
       "est": "pos"
+    },
+    {
+      "id": "British Library Shop::medea-sang-me-a-corrido-signed-edition",
+      "title": "Medea Sang Me a Corrido (Signed Edition)",
+      "author": "",
+      "price": "\u00a310.99",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/medea-sang-me-a-corrido-signed-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/MedeasangmeaCorrido.png?v=1792583699",
+      "vip": false,
+      "listed_at": "2026-10-15T14:57:17+00:00",
+      "discovered_at": "2026-10-21T12:21:27.220275+00:00"
     },
     {
       "id": "Linghams::https://linghams.co.uk/product/have-it-signed/",
@@ -34680,6 +34704,18 @@
       "vip": false,
       "listed_at": "2025-12-02T11:31:15+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-keeper-by-ana-huang-signed",
+      "title": "The Keeper by Ana Huang (Signed)",
+      "author": "Ana Huang",
+      "price": "\u00a310.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-keeper-by-ana-huang-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/16221bfa-cf7b-4572-9d79-66f0cf9b2718/Copy+of+Product+Template+-+Book+-+2025-12-03T142824.412.jpg",
+      "vip": false,
+      "listed_at": "2025-12-02T09:00:00+00:00",
+      "discovered_at": "2026-10-21T12:21:27.220275+00:00"
     },
     {
       "id": "Cleeve Bookshop::9781837262618",
