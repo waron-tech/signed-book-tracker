@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T13:17:42.297040+00:00",
+  "last_updated": "2026-10-22T14:02:56.374275+00:00",
   "total_available": 2909,
   "shop_status": {
     "Goldsboro Books": "10 items",
@@ -26,6 +26,32 @@
     "Linghams": "215 items via feed (as of 2026-10-21T18:09:40.570080+00:00)"
   },
   "books": [
+    {
+      "id": "Coles Books::https://coles-books.co.uk/a-carol-and-a-killing-by-reverend-richard-coles-signed-edition",
+      "title": "A Carol and a Killing by Reverend Richard Coles - Signed Edition",
+      "author": "Reverend Richard Coles",
+      "price": "\u00a314.99",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/a-carol-and-a-killing-by-reverend-richard-coles-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/r/i/richard_coles_carol_and_killing_coles_signed_ediiton_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-10-22T14:02:56.374275+00:00",
+      "discovered_at": "2026-10-22T14:02:56.374275+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Coles Books::https://coles-books.co.uk/gold-dust-by-lacey-turner-signed-edition",
+      "title": "Gold Dust by Lacey Turner - Signed Edition",
+      "author": "Lacey Turner",
+      "price": "\u00a322.00",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/gold-dust-by-lacey-turner-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/l/a/lacey_turner_gold_dust_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-10-22T14:02:56.374275+00:00",
+      "discovered_at": "2026-10-22T14:02:56.374275+00:00",
+      "est": "seen"
+    },
     {
       "id": "Coles Books::https://coles-books.co.uk/funked-around-found-out-by-bootsy-collins-signed-edition",
       "title": "Funked Around, Found Out by Bootsy Collins - Signed Edition",
@@ -12013,19 +12039,6 @@
       "est": "pos"
     },
     {
-      "id": "Coles Books::https://coles-books.co.uk/the-christmas-book-by-katherine-woodfine-lizzy-stewart-signed-edition",
-      "title": "The Christmas Book by Katherine Woodfine & Lizzy Stewart - Signed Edition",
-      "author": "Katherine Woodfine & Lizzy Stewart",
-      "price": "\u00a310.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/the-christmas-book-by-katherine-woodfine-lizzy-stewart-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/k/a/katherine_woodfine_the_christmas_book_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-09-28T13:11:18.832858+00:00",
-      "discovered_at": "2026-10-18T15:11:24.212276+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hatchards::https://www.hatchards.co.uk/book/kutchinskys-egg-hatchards-signed-edition/serena-kutchinsky/2001797014582",
       "title": "Kutchinsky's Egg: Hatchards Signed Edition",
       "author": "Serena Kutchinsky",
@@ -13500,19 +13513,6 @@
       "vip": false,
       "listed_at": "2026-09-26T02:49:20.256683+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/the-romance-of-classicism-designing-the-english-country-house-for-today-by-george-saumarez-smith-signed-edition",
-      "title": "The Romance of Classicism by George Saumarez Smith - Signed Edition",
-      "author": "George Saumarez Smith",
-      "price": "\u00a347.95",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/the-romance-of-classicism-designing-the-english-country-house-for-today-by-george-saumarez-smith-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/g/e/george_saumarez_smith_romance_of_classicism_coles_signed_edition_1_2_.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-09-26T02:16:46.105585+00:00",
-      "discovered_at": "2026-10-18T15:11:24.212276+00:00",
       "est": "pos"
     },
     {
