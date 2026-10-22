@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T11:57:58.461494+00:00",
+  "last_updated": "2026-10-22T12:29:01.427487+00:00",
   "total_available": 2906,
   "shop_status": {
     "Goldsboro Books": "10 items",
@@ -26,6 +26,18 @@
     "Linghams": "215 items via feed (as of 2026-10-21T18:09:40.570080+00:00)"
   },
   "books": [
+    {
+      "id": "Rare Mags::beasts-of-england",
+      "title": "Beasts Of England",
+      "author": "Ed. Nathan Connolly",
+      "price": "\u00a328.00",
+      "shop": "Rare Mags",
+      "url": "https://raremags.co.uk/products/beasts-of-england",
+      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/998EB36F-F415-4AB8-B6DF-D7BAF397C26B.jpg?v=1792151541",
+      "vip": false,
+      "listed_at": "2026-10-22T12:17:34+00:00",
+      "discovered_at": "2026-10-22T12:29:01.427487+00:00"
+    },
     {
       "id": "Bookstation (Ireland)::blaze-emma-donoghue-2027",
       "title": "Blaze | Emma Donoghue | 2027",
@@ -4027,18 +4039,6 @@
       "listed_at": "2026-10-14T23:33:07.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
-    },
-    {
-      "id": "Rare Mags::discipline",
-      "title": "Discipline (Signed Copies)",
-      "author": "Randa Abdel-Fattah",
-      "price": "\u00a315.00",
-      "shop": "Rare Mags",
-      "url": "https://raremags.co.uk/products/discipline",
-      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/822E7D75-9BF5-4628-8E92-05CE50F58E48.jpg?v=1791464764",
-      "vip": false,
-      "listed_at": "2026-10-14T23:00:01+00:00",
-      "discovered_at": "2026-10-18T15:11:24.212276+00:00"
     },
     {
       "id": "Linghams::https://linghams.co.uk/product/how-ive-tried-to-change-the-world-signed/",
