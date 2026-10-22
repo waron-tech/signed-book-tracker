@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T18:43:32.849054+00:00",
-  "total_available": 2904,
+  "last_updated": "2026-10-22T19:19:41.300429+00:00",
+  "total_available": 2903,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "8 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "223 items via feed (as of 2026-10-22T18:10:25.578141+00:00)",
     "Coles Books": "12 items",
-    "West End Lane Books": "1100 items",
+    "West End Lane Books": "1099 items",
     "Foyles": "136 items via feed (as of 2026-10-22T14:08:28.968607+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-22T06:19:29.119254+00:00)",
     "Waterstones": "187 items via feed (as of 2026-10-22T18:10:25.578141+00:00)",
@@ -435,7 +435,7 @@
       "id": "Rare Mags::set-the-boy-free",
       "title": "Set The Boy Free",
       "author": "Johnny Marr",
-      "price": "\u00a342.00",
+      "price": "\u00a341.00",
       "shop": "Rare Mags",
       "url": "https://raremags.co.uk/products/set-the-boy-free",
       "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/3C2F86EE-9304-4DDB-8C9E-7D140DD14DC0.jpg?v=1792501420",
@@ -34932,18 +34932,6 @@
       "vip": false,
       "listed_at": "2025-12-02T11:31:15+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-keeper-by-ana-huang-signed",
-      "title": "The Keeper by Ana Huang (Signed)",
-      "author": "Ana Huang",
-      "price": "\u00a310.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-keeper-by-ana-huang-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/16221bfa-cf7b-4572-9d79-66f0cf9b2718/Copy+of+Product+Template+-+Book+-+2025-12-03T142824.412.jpg",
-      "vip": false,
-      "listed_at": "2025-12-02T09:00:00+00:00",
-      "discovered_at": "2026-10-21T12:21:27.220275+00:00"
     },
     {
       "id": "Cleeve Bookshop::9781837262618",
