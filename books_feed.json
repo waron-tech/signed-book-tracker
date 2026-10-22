@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T14:02:56.374275+00:00",
-  "total_available": 2909,
+  "last_updated": "2026-10-22T14:41:58.714637+00:00",
+  "total_available": 2880,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "8 items",
@@ -13,19 +13,58 @@
     "Perkology Books": "42 items",
     "Bookstation (Ireland)": "9 items",
     "Biggles Stones": "3 items",
-    "London Review Bookshop": "28 items",
+    "London Review Bookshop": "0 items",
     "Little Apple Bookshop": "36 items",
     "Hewson Books": "62 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "226 items via feed (as of 2026-10-21T18:09:40.570080+00:00)",
+    "Booka Bookshop": "225 items via feed (as of 2026-10-22T14:08:28.968607+00:00)",
     "Coles Books": "12 items",
     "West End Lane Books": "1102 items",
-    "Foyles": "136 items via feed (as of 2026-10-21T10:10:07.716944+00:00)",
+    "Foyles": "136 items via feed (as of 2026-10-22T14:08:28.968607+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-22T06:19:29.119254+00:00)",
-    "Waterstones": "188 items via feed (as of 2026-10-22T06:19:29.119254+00:00)",
+    "Waterstones": "188 items via feed (as of 2026-10-22T14:08:28.968607+00:00)",
     "Linghams": "215 items via feed (as of 2026-10-21T18:09:40.570080+00:00)"
   },
   "books": [
+    {
+      "id": "Coles Books::https://coles-books.co.uk/watch-the-quiet-snow-by-mick-herron-signed-edition",
+      "title": "Watch the Quiet Snow by Mick Herron - Signed Edition",
+      "author": "Mick Herron",
+      "price": "\u00a322.00",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/watch-the-quiet-snow-by-mick-herron-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/m/i/mick_herron_watch_the_quiet_snow_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-10-22T14:41:58.714637+00:00",
+      "discovered_at": "2026-10-22T14:41:58.714637+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/a-history-of-britain-in-21-paintings/alice-loxton/2928377385392",
+      "title": "A History of Britain in 21 Paintings",
+      "author": "Alice Loxton",
+      "price": "\u00a325.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/a-history-of-britain-in-21-paintings/alice-loxton/2928377385392",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377385392.jpg",
+      "vip": false,
+      "listed_at": "2026-10-22T14:41:58.714637+00:00",
+      "discovered_at": "2026-10-22T14:41:58.714637+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/fronting-up/lewis-moody/9781035449170",
+      "title": "Fronting Up",
+      "author": "Lewis Moody",
+      "price": "\u00a322.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/fronting-up/lewis-moody/9781035449170",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/0354/9781035449170.jpg",
+      "vip": false,
+      "listed_at": "2026-10-22T14:41:58.714637+00:00",
+      "discovered_at": "2026-10-22T14:41:58.714637+00:00",
+      "est": "seen"
+    },
     {
       "id": "Coles Books::https://coles-books.co.uk/a-carol-and-a-killing-by-reverend-richard-coles-signed-edition",
       "title": "A Carol and a Killing by Reverend Richard Coles - Signed Edition",
@@ -691,19 +730,6 @@
       "shop": "Booka Bookshop",
       "url": "https://www.bookabookshop.co.uk/shop/dead-in-three-two-one-signed-independent-bookshop-edition/",
       "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/06/Dead-in-Three-Two-One.jpg",
-      "vip": false,
-      "listed_at": "2026-10-19T02:24:08.500074+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/firing-earth-an-unexpected-history-of-pots-and-potters-signed-copy/",
-      "title": "Firing Earth: An Unexpected History of Pots and Potters \u2013 Signed Copy",
-      "author": "Keith Brymer Jones",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/firing-earth-an-unexpected-history-of-pots-and-potters-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/07/e92f2617-3522-4d1d-8abb-a251a0a22567-scaled.jpg",
       "vip": false,
       "listed_at": "2026-10-19T02:24:08.500074+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00",
@@ -2834,7 +2860,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-wretched-divine/adalyn-grace/9781399643412",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3996/9781399643412.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/3996/9781399643412.jpg",
       "vip": false,
       "listed_at": "2026-10-18T04:23:46.916752+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -2964,7 +2990,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/once-there-were-heroes/philip-c-quaintrell/9781836980452",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9781/8369/9781836980452.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/8369/9781836980452.jpg",
       "vip": false,
       "listed_at": "2026-10-17T18:03:21.384837+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -3003,7 +3029,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/american-hagwon/min-jin-lee/9780008829803",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9780/0088/9780008829803.jpg",
+      "image": "https://cdn.waterstones.com/override/v3/medium/9780/0088/9780008829803.jpg",
       "vip": false,
       "listed_at": "2026-10-17T14:36:32.874199+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -3327,7 +3353,7 @@
       "price": "\u00a314.99",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/the-ravens-gift/kiran-millwood-hargrave/9781510114838",
-      "image": "",
+      "image": "https://cdn.foyles.co.uk/override/v1/large/9781/5101/9781510114838_3.jpg",
       "vip": false,
       "listed_at": "2026-10-16T16:42:42.336026+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -3495,7 +3521,7 @@
       "price": "\u00a322.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/under-the-iron-sky/a-t-emerald/2928377392680",
-      "image": "https://cdn.waterstones.com/override/v3/medium/2928/3773/2928377392680.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377392680.jpg",
       "vip": false,
       "listed_at": "2026-10-16T04:08:27.767816+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -3599,7 +3625,7 @@
       "price": "\u00a322.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/necromantica/ava-reid/2928377401689",
-      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3774/2928377401689.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/2928/3774/2928377401689.jpg",
       "vip": false,
       "listed_at": "2026-10-15T21:14:50.746540+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -3629,19 +3655,6 @@
       "vip": false,
       "listed_at": "2026-10-15T17:48:02.235901+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/we-chase-shadows-richard-osman",
-      "title": "We Chase Shadows - Richard Osman",
-      "author": "Richard Osman",
-      "price": "\u00a325.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/we-chase-shadows-richard-osman",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/4/3/4/9/4749434-1-eng-GB/9780241745892.jpg",
-      "vip": false,
-      "listed_at": "2026-10-15T17:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -4191,19 +4204,6 @@
       "vip": false,
       "listed_at": "2026-10-14T19:00:34.124742+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-newer-world-sebastian-barry",
-      "title": "The Newer World - Sebastian Barry",
-      "author": "Sebastian Barry",
-      "price": "\u00a320.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/the-newer-world-sebastian-barry",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/7/0/8/7/4747807-1-eng-GB/9780571378449.jpg",
-      "vip": false,
-      "listed_at": "2026-10-14T18:24:33.638053+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -4901,7 +4901,7 @@
       "price": "\u00a320.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/in-one-brief-moment-all-eternity/elif-shafak/2928377384555",
-      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377384555.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/2928/3773/2928377384555.jpg",
       "vip": true,
       "listed_at": "2026-10-14T03:53:08.618880+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -5048,19 +5048,6 @@
       "vip": false,
       "listed_at": "2026-10-13T19:47:23.047381+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/taipei-story-rebecca-f-kuang",
-      "title": "Taipei Story - Rebecca F Kuang",
-      "author": "Rebecca F Kuang",
-      "price": "\u00a322.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/taipei-story-rebecca-f-kuang",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/7/4/9/7/4747947-3-eng-GB/9780008702557-2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-13T19:15:59.352338+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -5549,19 +5536,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/life-of-m-rachel-cusk",
-      "title": "Life of M - Rachel Cusk",
-      "author": "Rachel Cusk",
-      "price": "\u00a318.99",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/life-of-m-rachel-cusk",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/6/5/4/7/4567456-1-eng-GB/9780571399802.jpg",
-      "vip": false,
-      "listed_at": "2026-10-12T20:07:25.066624+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/black-coffee-and-red-lipstick-by-alexandra-shulman",
       "title": "Black Coffee and Red Lipstick ***signed*** by Alexandra Shulman",
       "author": "Alexandra Shulman",
@@ -5708,7 +5682,7 @@
       "price": "\u00a320.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/london-station/david-mccloskey/9781800757486",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/8007/9781800757486.jpg",
+      "image": "https://cdn.waterstones.com/override/v3/medium/9781/8007/9781800757486.jpg",
       "vip": false,
       "listed_at": "2026-10-12T13:58:15.001859+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -5998,19 +5972,6 @@
       "vip": false,
       "listed_at": "2026-10-11T22:21:31.747791+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/ottolenghi-simple-too-yotam-ottolenghi",
-      "title": "Ottolenghi SIMPLE TOO - Yotam Ottolenghi",
-      "author": "Yotam Ottolenghi",
-      "price": "\u00a330.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/ottolenghi-simple-too-yotam-ottolenghi",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/2/4/2/5/4745242-13-eng-GB/9781529109511.jpg",
-      "vip": false,
-      "listed_at": "2026-10-11T20:58:50.780910+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -6391,19 +6352,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/agrippa-robert-harris",
-      "title": "Agrippa - Robert Harris",
-      "author": "Robert Harris",
-      "price": "\u00a322.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/agrippa-robert-harris",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/2/1/5/8/4738512-7-eng-GB/9781529154412.jpg",
-      "vip": false,
-      "listed_at": "2026-10-10T21:50:16.495196+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Waterstones::https://www.waterstones.com/book/life-out-of-order/audrey-niffenegger/2928377374457",
       "title": "Life Out of Order",
       "author": "Audrey Niffenegger",
@@ -6475,7 +6423,7 @@
       "price": "\u00a322.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/letters-to-our-sons/stephen-graham/9781037209888",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/0372/9781037209888.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/0372/9781037209888.jpg",
       "vip": false,
       "listed_at": "2026-10-10T17:09:44.363561+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -6720,7 +6668,7 @@
       "price": "\u00a322.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/adam-and-eve/jeffrey-archer/9780008853099",
-      "image": "https://cdn.foyles.co.uk/override/v1/large/9780/0088/9780008853099_3.jpg",
+      "image": "",
       "vip": false,
       "listed_at": "2026-10-10T03:28:35.277203+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -6792,19 +6740,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/cold-sunset-william-boyd",
-      "title": "Cold Sunset - William Boyd",
-      "author": "William Boyd",
-      "price": "\u00a320.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/cold-sunset-william-boyd",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/2/1/4/2/4742412-2-eng-GB/9780241761090.jpg",
-      "vip": false,
-      "listed_at": "2026-10-09T22:41:42.209481+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/pre-order-signed-copies-matt-willis-mending-pub-date-8th-october/",
       "title": "pre order signed copies Matt Willis -Mending pub date 8th October",
       "author": "",
@@ -6837,7 +6772,7 @@
       "price": "\u00a322.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/watch-the-quiet-snow/mick-herron/9781399842983",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3998/9781399842983.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/3998/9781399842983.jpg",
       "vip": false,
       "listed_at": "2026-10-09T20:28:53.299731+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -7171,7 +7106,7 @@
       "price": "\u00a325.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/fictional-selves/kyle-maclachlan/2928377376550",
-      "image": "",
+      "image": "https://cdn.foyles.co.uk/override/v1/large/2928/3773/2928377376550_3.jpg",
       "vip": false,
       "listed_at": "2026-10-09T03:39:10.571321+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -7240,19 +7175,6 @@
       "vip": false,
       "listed_at": "2026-10-08T23:48:02.235901+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/pea-green-boat-stewart-lee",
-      "title": "Pea Green Boat - Stewart Lee",
-      "author": "Stewart Lee",
-      "price": "\u00a316.99",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/pea-green-boat-stewart-lee",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/2/5/7/5/4745752-1-eng-GB/9781529988604.jpg",
-      "vip": false,
-      "listed_at": "2026-10-08T23:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -7706,19 +7628,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-bridge-colm-toibin",
-      "title": "The Bridge - Colm T\u00f3ib\u00edn",
-      "author": "Colm T\u00f3ib\u00edn",
-      "price": "\u00a312.99",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/the-bridge-colm-toibin",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/5/5/5/0/4740555-1-eng-GB/9781037418525.jpg",
-      "vip": false,
-      "listed_at": "2026-10-08T00:24:33.638053+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Waterstones::https://www.waterstones.com/book/blockers/michael-lewis/2928377391843",
       "title": "Blockers",
       "author": "Michael Lewis",
@@ -7829,7 +7738,7 @@
       "price": "\u00a322.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/farewell-to-eden/sebastian-faulks/2928377378585",
-      "image": "",
+      "image": "https://cdn.foyles.co.uk/override/v1/large/2928/3773/2928377378585_3.jpg",
       "vip": false,
       "listed_at": "2026-10-07T18:17:59.983085+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -7906,7 +7815,7 @@
       "price": "\u00a322.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/our-noble-selves/kate-atkinson/2928377382582",
-      "image": "https://cdn.foyles.co.uk/override/v2/large/2928/3773/2928377382582_3.jpg",
+      "image": "",
       "vip": false,
       "listed_at": "2026-10-07T13:32:07.041909+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -8117,19 +8026,6 @@
       "vip": false,
       "listed_at": "2026-10-07T01:51:59.839028+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-recovery-house-derek-owusu",
-      "title": "The Recovery House - Derek Owusu",
-      "author": "Derek Owusu",
-      "price": "\u00a316.99",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/the-recovery-house-derek-owusu",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/5/3/8/6/4756835-1-eng-GB/9781529963809.jpg",
-      "vip": false,
-      "listed_at": "2026-10-07T01:15:59.352338+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -8547,19 +8443,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/ply-hernan-diaz",
-      "title": "Ply - Hern\u00e1n D\u00edaz",
-      "author": "Hern\u00e1n D\u00edaz",
-      "price": "\u00a320.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/ply-hernan-diaz",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/7/6/8/0/4760867-2-eng-GB/9781037407161.jpg",
-      "vip": false,
-      "listed_at": "2026-10-06T02:07:25.066624+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/pre-order-a-signed-copy-of-gio-pernice-gio-taking-the-lead/",
       "title": "SIGNED Gio Pernice \u2013 Gio Taking The Lead",
       "author": "",
@@ -8774,7 +8657,7 @@
       "price": "\u00a322.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/make-me-well/xand-van-tulleken/2928377397616",
-      "image": "https://cdn.foyles.co.uk/override/v1/large/2928/3773/2928377397616_3.jpg",
+      "image": "",
       "vip": false,
       "listed_at": "2026-10-05T13:53:17.630144+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -9008,19 +8891,6 @@
       "vip": false,
       "listed_at": "2026-10-05T03:34:51.267599+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/doom-painting-a.-k.-blakemore",
-      "title": "Doom Painting - A. K. Blakemore",
-      "author": "A. K. Blakemore",
-      "price": "\u00a320.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/doom-painting-a.-k.-blakemore",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/4/4/9/4/4564944-1-eng-GB/9781803512730.jpg",
-      "vip": false,
-      "listed_at": "2026-10-05T02:58:50.780910+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -9316,7 +9186,7 @@
       "price": "\u00a325.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/blockers/michael-lewis/2928377391843",
-      "image": "",
+      "image": "https://cdn.foyles.co.uk/override/v1/large/2928/3773/2928377391843_3.jpg",
       "vip": false,
       "listed_at": "2026-10-04T09:17:59.983085+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -9397,19 +9267,6 @@
       "vip": false,
       "listed_at": "2026-10-04T04:32:07.041909+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/farewell-to-eden-sebastian-faulks",
-      "title": "Farewell to Eden - Sebastian Faulks",
-      "author": "Sebastian Faulks",
-      "price": "\u00a322.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/farewell-to-eden-sebastian-faulks",
-      "image": "/assets/lrb/images/fallback/no-cover.jpg",
-      "vip": false,
-      "listed_at": "2026-10-04T03:50:16.495196+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -9828,19 +9685,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-rouse-china-mieville",
-      "title": "The Rouse - China Mi\u00e9ville",
-      "author": "China Mi\u00e9ville",
-      "price": "\u00a335.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/the-rouse-china-mieville",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/1/6/4/5/4755461-1-eng-GB/9781509847396.jpg",
-      "vip": false,
-      "listed_at": "2026-10-03T04:41:42.209481+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/yesteryear-signed/",
       "title": "Yesteryear *SIGNED*",
       "author": "Caro Claire Burke",
@@ -9912,7 +9756,7 @@
       "price": "\u00a330.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/the-discworld-bestiary/terry-pratchett/2928377379391",
-      "image": "",
+      "image": "https://cdn.foyles.co.uk/override/v1/large/2928/3773/2928377379391_3.jpg",
       "vip": false,
       "listed_at": "2026-10-02T23:56:49.394850+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -10181,7 +10025,7 @@
       "price": "\u00a314.99",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/raising-hare-childrens-edition/chloe-dalton/9781837268078",
-      "image": "https://cdn.foyles.co.uk/override/v1/large/9781/8372/9781837268078_3.jpg",
+      "image": "",
       "vip": false,
       "listed_at": "2026-10-02T09:39:10.571321+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -10250,19 +10094,6 @@
       "vip": false,
       "listed_at": "2026-10-02T05:48:02.235901+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/michael-palin-in-the-philippines-michael-palin",
-      "title": "Michael Palin in the Philippines - Michael Palin",
-      "author": "Michael Palin",
-      "price": "\u00a320.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/michael-palin-in-the-philippines-michael-palin",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/5/4/5/9/4769545-2-eng-GB/9781529995923.jpg",
-      "vip": false,
-      "listed_at": "2026-10-02T05:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -10764,19 +10595,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/dodge-city-patrick-dewitt",
-      "title": "Dodge City - Patrick deWitt",
-      "author": "Patrick deWitt",
-      "price": "\u00a318.99",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/dodge-city-patrick-dewitt",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/6/5/9/9/4769956-1-eng-GB/9780008781347.jpg",
-      "vip": false,
-      "listed_at": "2026-10-01T06:24:33.638053+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/signed-a-far-flung-life-m-l-stedman/",
       "title": "SIGNED | A Far-Flung Life | M L Stedman",
       "author": "",
@@ -10891,19 +10709,6 @@
       "vip": false,
       "listed_at": "2026-10-01T00:17:59.983085+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/the-discworld-bestiary-by-terry-pratchett-and-paul-kidby-signed-edition",
-      "title": "The Discworld Bestiary by Terry Pratchett and Paul Kidby - Signed Edition",
-      "author": "Terry Pratchett and Paul Kidby",
-      "price": "\u00a330.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/the-discworld-bestiary-by-terry-pratchett-and-paul-kidby-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/p/a/paul_kidby_discworld_bestiary_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-01T00:05:51.560131+00:00",
-      "discovered_at": "2026-10-18T15:11:24.212276+00:00",
       "est": "pos"
     },
     {
@@ -11042,7 +10847,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/on-jokes-or-why-everything-you-know-about-comedy-is-wrong/jimmy-carr/amanda-baker/9781529455342",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9781/5294/9781529455342.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/5294/9781529455342.jpg",
       "vip": false,
       "listed_at": "2026-09-30T15:53:08.618880+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -11227,19 +11032,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/american-hagwon-min-jin-lee",
-      "title": "American Hagwon - Min Jin Lee",
-      "author": "Min Jin Lee",
-      "price": "\u00a325.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/american-hagwon-min-jin-lee",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/0/3/0/0/4770030-1-eng-GB/9780008823900.jpg",
-      "vip": false,
-      "listed_at": "2026-09-30T07:15:59.352338+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/pre-order-a-signed-copy-of-corinne-bailey-raes-book-available-after-16th-may/",
       "title": "Pre order a signed copy of Corinne Bailey Rae\u2019s book * available after 16th May",
       "author": "",
@@ -11324,7 +11116,7 @@
       "price": "\u00a322.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/firstborn-daughter/katherine-ryan/9781806176403",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/8061/9781806176403.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/8061/9781806176403.jpg",
       "vip": false,
       "listed_at": "2026-09-30T02:05:54.576327+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -11678,19 +11470,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/king-zero-charlie-higson",
-      "title": "King Zero - Charlie Higson",
-      "author": "Charlie Higson",
-      "price": "\u00a322.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/king-zero-charlie-higson",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/3/1/8/0/4760813-2-eng-GB/9780241799710.jpg",
-      "vip": false,
-      "listed_at": "2026-09-29T08:07:25.066624+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Perkology Books::french-cooking-for-two-seasons-of-friendship-signed",
       "title": "French Cooking for Two: Seasons of Friendship *Signed*",
       "author": "Mich\u00e8le Roberts",
@@ -11942,7 +11721,7 @@
       "price": "\u00a314.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-case-of-the-christmas-card/elly-griffiths/julie-maisey/9781529455625",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9781/5294/9781529455625.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/5294/9781529455625.jpg",
       "vip": false,
       "listed_at": "2026-09-28T19:04:37.980582+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -12167,19 +11946,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-housekeeper-rose-tremain",
-      "title": "The Housekeeper - Rose Tremain",
-      "author": "Rose Tremain",
-      "price": "\u00a320.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/the-housekeeper-rose-tremain",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/1/6/5/9/4759561-2-eng-GB/9781784745936.jpg",
-      "vip": false,
-      "listed_at": "2026-09-28T08:58:50.780910+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Waterstones::https://www.waterstones.com/book/the-fall-of-the-west/owen-jones/2928377379926",
       "title": "The Fall of the West",
       "author": "Owen Jones",
@@ -12264,7 +12030,7 @@
       "price": "\u00a325.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/all-the-wrong-moves/anthony-scaramucci/2928377375218",
-      "image": "",
+      "image": "https://cdn.foyles.co.uk/override/v2/large/2928/3773/2928377375218_3.jpg",
       "vip": false,
       "listed_at": "2026-09-28T05:35:38.806615+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -12329,7 +12095,7 @@
       "price": "\u00a319.99",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/off-the-reservation/stephen-graham-jones/9781807591168",
-      "image": "https://cdn.foyles.co.uk/override/v1/large/9781/8075/9781807591168_3.jpg",
+      "image": "",
       "vip": false,
       "listed_at": "2026-09-28T00:49:45.865438+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -12793,19 +12559,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/how-to-be-hopeful-my-year-of-living-joyfully-caitlin-moran",
-      "title": "How to Be Hopeful - Caitlin Moran",
-      "author": "Caitlin Moran",
-      "price": "\u00a322.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/how-to-be-hopeful-my-year-of-living-joyfully-caitlin-moran",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/5/4/1/4/4754145-3-eng-GB/9781529974799.jpg",
-      "vip": false,
-      "listed_at": "2026-09-27T09:50:16.495196+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-joy-of-missing-out-by-orange-juice-for-dinner-signed",
       "title": "The Joy of Missing Out by Orange Juice for Dinner (Signed)",
       "author": "",
@@ -13224,7 +12977,7 @@
       "price": "\u00a330.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/arthur/amy-jeffs/9781529455632",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9781/5294/9781529455632.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/5294/9781529455632.jpg",
       "vip": false,
       "listed_at": "2026-09-26T15:22:30.321008+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -13332,19 +13085,6 @@
       "vip": false,
       "listed_at": "2026-09-26T10:42:42.336026+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-fall-of-the-west-how-they-really-lost-it-owen-jones",
-      "title": "The Fall of the West - Owen Jones",
-      "author": "Owen Jones",
-      "price": "\u00a325.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/the-fall-of-the-west-how-they-really-lost-it-owen-jones",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/3/0/2/9/4769203-2-eng-GB/9780241740644.jpg",
-      "vip": false,
-      "listed_at": "2026-09-26T10:41:42.209481+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -13639,7 +13379,7 @@
       "price": "\u00a320.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/down-burrow-lane/michael-morpurgo/9781399767651",
-      "image": "https://cdn.foyles.co.uk/override/v2/large/9781/3997/9781399767651_3.jpg",
+      "image": "",
       "vip": false,
       "listed_at": "2026-09-25T20:25:03.512497+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -13828,19 +13568,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-house-of-cromwell-power-family-and-the-making-of-modern-britain-miranda-malins",
-      "title": "The House of Cromwell - Miranda Malins",
-      "author": "Miranda Malins",
-      "price": "\u00a325.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/the-house-of-cromwell-power-family-and-the-making-of-modern-britain-miranda-malins",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/5/8/8/5/4765885-2-eng-GB/house.jpg",
-      "vip": false,
-      "listed_at": "2026-09-25T11:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/marco-pirroni-your-money-or-your-life-signed-bookplate-edition-hardback",
       "title": "Marco Pirroni - Your Money or Your Life (SIGNED BOOKPLATE EDITION) (HARDBACK)",
       "author": "",
@@ -13873,7 +13600,7 @@
       "price": "\u00a325.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/the-elegant-hustler/celia-imrie/9781408738597",
-      "image": "",
+      "image": "https://cdn.foyles.co.uk/override/v2/large/9781/4087/9781408738597_3.jpg",
       "vip": false,
       "listed_at": "2026-09-25T10:53:17.630144+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -14381,19 +14108,6 @@
       "vip": false,
       "listed_at": "2026-09-24T12:25:04+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/hollywood-ending-john-green",
-      "title": "Hollywood, Ending - John Green",
-      "author": "John Green",
-      "price": "\u00a322.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/hollywood-ending-john-green",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/1/7/7/0/4760771-2-eng-GB/9780141346052.jpg",
-      "vip": false,
-      "listed_at": "2026-09-24T12:24:33.638053+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "British Library Shop::the-bookshop-of-forbidden-books-signed-edition",
@@ -14973,19 +14687,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/fictional-selves-kyle-maclachlan",
-      "title": "Fictional Selves - Kyle MacLachlan",
-      "author": "Kyle MacLachlan",
-      "price": "\u00a325.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/fictional-selves-kyle-maclachlan",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/1/6/7/7/4767761-2-eng-GB/9781529955057.jpg",
-      "vip": false,
-      "listed_at": "2026-09-23T13:15:59.352338+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Backstory London (Signed & Dedicated)::christmas-signed-personalised-men-with-birds-on-their-heads-by-jonny-fox",
       "title": "Men With Birds On Their Heads",
       "author": "Jonny Fox",
@@ -15386,19 +15087,6 @@
       "est": "pos"
     },
     {
-      "id": "Waterstones::https://www.waterstones.com/book/kitchening/jeremy-lee/9780008846039",
-      "title": "Kitchening",
-      "author": "Jeremy Lee",
-      "price": "\u00a330.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/kitchening/jeremy-lee/9780008846039",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9780/0088/9780008846039.jpg",
-      "vip": false,
-      "listed_at": "2026-09-22T18:18:40.533774+00:00",
-      "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hatchards::https://www.hatchards.co.uk/book/cadogan/tamsin-perrett/9781912690909",
       "title": "Cadogan",
       "author": "Tamsin Perrett",
@@ -15547,19 +15235,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Waterstones::https://www.waterstones.com/book/having-spent-life-seeking/kae-tempest/2928377365639",
-      "title": "Having Spent Life Seeking",
-      "author": "Kae Tempest",
-      "price": "\u00a318.99",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/having-spent-life-seeking/kae-tempest/2928377365639",
-      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377365639.jpg",
-      "vip": false,
-      "listed_at": "2026-09-22T14:51:52.023135+00:00",
-      "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/the-light-that-blinds-us/",
       "title": "The light that blinds us signed Andy Darcy Theo Signed",
       "author": "Andy Darcy Theo",
@@ -15583,19 +15258,6 @@
       "vip": false,
       "listed_at": "2026-09-22T14:17:42.785788+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-strangers-naomi-alderman",
-      "title": "The Strangers - Naomi Alderman",
-      "author": "Naomi Alderman",
-      "price": "\u00a320.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/the-strangers-naomi-alderman",
-      "image": "/assets/lrb/images/fallback/no-cover.jpg",
-      "vip": false,
-      "listed_at": "2026-09-22T14:07:25.066624+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -16096,19 +15758,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/middleland-dispatches-from-the-borders-rory-stewart",
-      "title": "Middleland - Rory Stewart",
-      "author": "Rory Stewart",
-      "price": "\u00a312.99",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/middleland-dispatches-from-the-borders-rory-stewart",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/6/6/1/6/4396166-1-eng-GB/9781787336247.jpg",
-      "vip": false,
-      "listed_at": "2026-09-21T14:58:50.780910+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/rise-align-by-clarisse-monahan-signed",
       "title": "Rise & Align by Clarisse Monahan (Signed)",
       "author": "Clarisse Monahan",
@@ -16422,19 +16071,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/on-the-equality-of-all-things-physics-and-philosophy-carlo-rovelli",
-      "title": "On the Equality of All Things - Carlo Rovelli",
-      "author": "Carlo Rovelli",
-      "price": "\u00a320.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/on-the-equality-of-all-things-physics-and-philosophy-carlo-rovelli",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/9/5/1/5/4755159-3-eng-GB/9780241733707.jpg",
-      "vip": false,
-      "listed_at": "2026-09-20T15:50:16.495196+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/end-times-fascism-and-the-fight-for-the-living-world-signed-copy/",
       "title": "End Times Fascism: And the Fight for the Living World \u2013 Signed Copy",
       "author": "Naomi Klein",
@@ -16601,19 +16237,6 @@
       "vip": false,
       "listed_at": "2026-09-19T16:51:59.928645+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/in-one-brief-moment-all-eternity-elif-shafak",
-      "title": "In One Brief Moment All Eternity - Elif Shafak",
-      "author": "Elif Shafak",
-      "price": "\u00a320.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/in-one-brief-moment-all-eternity-elif-shafak",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/3/1/2/3/4783213-1-eng-GB/9780241745465.jpg",
-      "vip": true,
-      "listed_at": "2026-09-19T16:41:42.209481+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
