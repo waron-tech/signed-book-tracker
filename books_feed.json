@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T21:56:47.441197+00:00",
-  "total_available": 2903,
+  "last_updated": "2026-10-22T22:20:15.704379+00:00",
+  "total_available": 2902,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "8 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "36 items",
     "Hewson Books": "62 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "223 items via feed (as of 2026-10-22T18:10:25.578141+00:00)",
+    "Booka Bookshop": "222 items via feed (as of 2026-10-22T22:10:11.763977+00:00)",
     "Coles Books": "12 items",
     "West End Lane Books": "1099 items",
     "Foyles": "136 items via feed (as of 2026-10-22T14:08:28.968607+00:00)",
@@ -13319,19 +13319,6 @@
       "vip": false,
       "listed_at": "2026-09-26T14:36:04.736987+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/things-i-took-from-the-dark-signed-copy/",
-      "title": "Things I Took from the Dark \u2013 Signed Copy",
-      "author": "Reece Shearsmith",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/things-i-took-from-the-dark-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/Things-I-Took-From-The-Dark.jpg",
-      "vip": false,
-      "listed_at": "2026-09-26T13:45:34.214360+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
       "est": "pos"
     },
     {
