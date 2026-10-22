@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-22T16:27:55.629099+00:00",
-  "total_available": 2909,
+  "last_updated": "2026-10-22T17:01:45.252670+00:00",
+  "total_available": 2907,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "8 items",
     "Porty Books": "18 items via feed (as of 2026-10-21T18:09:40.570080+00:00)",
-    "Backstory London (Signed & Dedicated)": "43 items",
-    "Backstory London (Exclusives)": "19 items",
+    "Backstory London (Signed & Dedicated)": "42 items",
+    "Backstory London (Exclusives)": "18 items",
     "British Library Shop": "282 items",
     "Cleeve Bookshop": "149 items",
     "Ivybridge Bookshop": "164 items",
@@ -22683,30 +22683,6 @@
       "vip": false,
       "listed_at": "2026-06-17T14:27:47.658000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Backstory London (Signed & Dedicated)::pre-order-now-grand-the-autobiography-of-gromit-by-gromit-as-told-by-nick-park-signed-publishes-october-2026",
-      "title": "Grand: The Autobiography of Gromit",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/pre-order-now-grand-the-autobiography-of-gromit-by-gromit-as-told-by-nick-park-signed-publishes-october-2026",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/unnamed_1.jpg?v=1781702626",
-      "vip": false,
-      "listed_at": "2026-06-17T13:24:35+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Backstory London (Exclusives)::pre-order-now-grand-the-autobiography-of-gromit-by-gromit-as-told-by-nick-park-signed-publishes-october-2026",
-      "title": "Grand: The Autobiography of Gromit",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Backstory London (Exclusives)",
-      "url": "https://backstory.london/products/pre-order-now-grand-the-autobiography-of-gromit-by-gromit-as-told-by-nick-park-signed-publishes-october-2026",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/unnamed_1.jpg?v=1781702626",
-      "vip": false,
-      "listed_at": "2026-06-17T13:24:35+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781786588814",
