@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T12:29:01.427487+00:00",
-  "total_available": 2906,
+  "last_updated": "2026-10-22T13:17:42.297040+00:00",
+  "total_available": 2909,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "8 items",
@@ -19,13 +19,62 @@
     "Station Books": "64 items",
     "Booka Bookshop": "226 items via feed (as of 2026-10-21T18:09:40.570080+00:00)",
     "Coles Books": "12 items",
-    "West End Lane Books": "1099 items",
+    "West End Lane Books": "1102 items",
     "Foyles": "136 items via feed (as of 2026-10-21T10:10:07.716944+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-22T06:19:29.119254+00:00)",
     "Waterstones": "188 items via feed (as of 2026-10-22T06:19:29.119254+00:00)",
     "Linghams": "215 items via feed (as of 2026-10-21T18:09:40.570080+00:00)"
   },
   "books": [
+    {
+      "id": "Coles Books::https://coles-books.co.uk/funked-around-found-out-by-bootsy-collins-signed-edition",
+      "title": "Funked Around, Found Out by Bootsy Collins - Signed Edition",
+      "author": "Bootsy Collins",
+      "price": "\u00a325.00",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/funked-around-found-out-by-bootsy-collins-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/b/o/bootsy_collins_funked_around_found_out_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-10-22T13:17:42.297040+00:00",
+      "discovered_at": "2026-10-22T13:17:42.297040+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-storytellers-secret-by-lucy-diamond-signed",
+      "title": "The Storyteller's Secret by Lucy Diamond (Signed)",
+      "author": "Lucy Diamond",
+      "price": "\u00a318.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-storytellers-secret-by-lucy-diamond-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/05d87a0e-8ede-430f-b029-41af3b0b0822/Website+Listing+Template+-+Book+-+2026-10-22T141138.329.jpg",
+      "vip": false,
+      "listed_at": "2026-10-22T13:14:03.993000+00:00",
+      "discovered_at": "2026-10-22T13:17:42.297040+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/jane-anger-by-rosanna-pike-signed",
+      "title": "Jane Anger by Rosanna Pike (Signed)",
+      "author": "Rosanna Pike",
+      "price": "\u00a318.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/jane-anger-by-rosanna-pike-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/7b9c7112-fda5-4c7a-8c7f-11eaaf810b52/Website+Listing+Template+-+Book+-+2026-10-22T140045.310.jpg",
+      "vip": false,
+      "listed_at": "2026-10-22T13:02:48.236000+00:00",
+      "discovered_at": "2026-10-22T13:17:42.297040+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-owl-carver-by-andrew-cotter-signed",
+      "title": "The Owl Carver by Andrew Cotter (Signed)",
+      "author": "Andrew Cotter",
+      "price": "\u00a320.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-owl-carver-by-andrew-cotter-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/c2dc70ae-f732-495b-adc9-f8e027d19e43/Website+Listing+Template+-+Book+-+2026-10-22T135435.328.jpg",
+      "vip": false,
+      "listed_at": "2026-10-22T12:56:32.013000+00:00",
+      "discovered_at": "2026-10-22T13:17:42.297040+00:00"
+    },
     {
       "id": "Rare Mags::beasts-of-england",
       "title": "Beasts Of England",
@@ -303,19 +352,6 @@
       "vip": false,
       "listed_at": "2026-10-20T18:19:53.190638+00:00",
       "discovered_at": "2026-10-20T18:19:53.190638+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/one-helluva-ride-by-michael-douglas-signed-edition",
-      "title": "One Helluva Ride by Michael Douglas - Signed Edition",
-      "author": "Michael Douglas",
-      "price": "\u00a325.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/one-helluva-ride-by-michael-douglas-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/m/i/michael_douglas_one_hellua_ride_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-20T16:14:32.467309+00:00",
-      "discovered_at": "2026-10-20T16:14:32.467309+00:00",
       "est": "seen"
     },
     {
