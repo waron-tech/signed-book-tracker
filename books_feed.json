@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T01:59:29.186754+00:00",
+  "last_updated": "2026-10-22T02:26:38.673564+00:00",
   "total_available": 2906,
   "shop_status": {
     "Goldsboro Books": "10 items",
@@ -22,7 +22,7 @@
     "West End Lane Books": "1100 items",
     "Foyles": "136 items via feed (as of 2026-10-21T10:10:07.716944+00:00)",
     "Hatchards": "97 items via feed (as of 2026-10-21T22:09:37.842899+00:00)",
-    "Waterstones": "189 items via feed (as of 2026-10-21T22:09:37.842899+00:00)",
+    "Waterstones": "189 items via feed (as of 2026-10-22T02:09:42.599621+00:00)",
     "Linghams": "215 items via feed (as of 2026-10-21T18:09:40.570080+00:00)"
   },
   "books": [
@@ -479,6 +479,19 @@
       "vip": false,
       "listed_at": "2026-10-19T15:26:49+00:00",
       "discovered_at": "2026-10-19T15:40:40.462411+00:00"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/miss-lambert-steps-aboard-danger/kazuo-ishiguro/9780571409778",
+      "title": "Miss Lambert Steps Aboard Danger",
+      "author": "Kazuo Ishiguro",
+      "price": "\u00a318.99",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/miss-lambert-steps-aboard-danger/kazuo-ishiguro/9780571409778",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9780/5714/9780571409778.jpg",
+      "vip": true,
+      "listed_at": "2026-10-19T02:26:38.673564+00:00",
+      "discovered_at": "2026-10-22T02:26:38.673564+00:00",
+      "est": "pos"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/dead-in-three-two-one-signed-independent-bookshop-edition/",
@@ -3773,7 +3786,7 @@
       "id": "Rare Mags::discipline",
       "title": "Discipline (Signed Copies)",
       "author": "Randa Abdel-Fattah",
-      "price": "\u00a316.00",
+      "price": "\u00a315.00",
       "shop": "Rare Mags",
       "url": "https://raremags.co.uk/products/discipline",
       "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/822E7D75-9BF5-4628-8E92-05CE50F58E48.jpg?v=1791464764",
@@ -4225,19 +4238,6 @@
       "vip": false,
       "listed_at": "2026-10-14T12:50:48+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Waterstones::https://www.waterstones.com/book/drive/christian-horner/2928377396831",
-      "title": "Drive",
-      "author": "Christian Horner",
-      "price": "\u00a325.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/drive/christian-horner/2928377396831",
-      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377396831.jpg",
-      "vip": false,
-      "listed_at": "2026-10-14T12:49:02.536496+00:00",
-      "discovered_at": "2026-10-21T13:50:38.793180+00:00",
-      "est": "pos"
     },
     {
       "id": "British Library Shop::the-dying-light-signed-edition",
