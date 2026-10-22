@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T14:41:58.714637+00:00",
-  "total_available": 2880,
+  "last_updated": "2026-10-22T15:16:00.554119+00:00",
+  "total_available": 2887,
   "shop_status": {
     "Goldsboro Books": "10 items",
     "Rare Mags": "8 items",
@@ -8,18 +8,18 @@
     "Backstory London (Signed & Dedicated)": "43 items",
     "Backstory London (Exclusives)": "19 items",
     "British Library Shop": "282 items",
-    "Cleeve Bookshop": "142 items",
+    "Cleeve Bookshop": "149 items",
     "Ivybridge Bookshop": "166 items",
     "Perkology Books": "42 items",
     "Bookstation (Ireland)": "9 items",
     "Biggles Stones": "3 items",
-    "London Review Bookshop": "0 items",
+    "London Review Bookshop": "1 items",
     "Little Apple Bookshop": "36 items",
     "Hewson Books": "62 items",
     "Station Books": "64 items",
     "Booka Bookshop": "225 items via feed (as of 2026-10-22T14:08:28.968607+00:00)",
     "Coles Books": "12 items",
-    "West End Lane Books": "1102 items",
+    "West End Lane Books": "1101 items",
     "Foyles": "136 items via feed (as of 2026-10-22T14:08:28.968607+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-22T06:19:29.119254+00:00)",
     "Waterstones": "188 items via feed (as of 2026-10-22T14:08:28.968607+00:00)",
@@ -591,6 +591,19 @@
       "vip": false,
       "listed_at": "2026-10-19T15:26:49+00:00",
       "discovered_at": "2026-10-19T15:40:40.462411+00:00"
+    },
+    {
+      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/middleland-dispatches-from-the-borders-rory-stewart",
+      "title": "Middleland - Rory Stewart",
+      "author": "Rory Stewart",
+      "price": "\u00a312.99",
+      "shop": "London Review Bookshop",
+      "url": "https://www.londonreviewbookshop.co.uk/stock/middleland-dispatches-from-the-borders-rory-stewart",
+      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/6/6/1/6/4396166-1-eng-GB/9781787336247.jpg",
+      "vip": false,
+      "listed_at": "2026-10-19T15:16:00.554119+00:00",
+      "discovered_at": "2026-10-22T15:16:00.554119+00:00",
+      "est": "pos"
     },
     {
       "id": "Foyles::https://www.foyles.co.uk/book/chain-reaction/lee-child/2928377373863",
@@ -18109,6 +18122,18 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
+      "id": "Cleeve Bookshop::9780008775681",
+      "title": "The House of Cursed Daughters - Signed First Edition",
+      "author": "",
+      "price": "\u00a314.99",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9780008775681",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-house-of-cursed-daughters-signed-first-edition-2794894.jpg?v=1789867759",
+      "vip": false,
+      "listed_at": "2026-08-17T14:48:01+00:00",
+      "discovered_at": "2026-10-22T15:16:00.554119+00:00"
+    },
+    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/words-for-life-by-susie-dent-signed",
       "title": "Words for Life by Susie Dent (Signed)",
       "author": "Susie Dent",
@@ -19621,18 +19646,6 @@
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/firing-earth-by-keith-brymer-jones-signed",
-      "title": "Firing Earth by Keith Brymer-Jones (Signed)",
-      "author": "Keith Brymer-Jones",
-      "price": "\u00a322.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/firing-earth-by-keith-brymer-jones-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/8369cab1-a66b-4a5a-8853-22c2b298b7f4/Website+Listing+Template+-+Book.jpg",
-      "vip": false,
-      "listed_at": "2026-07-30T09:36:17.608000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
       "id": "Ivybridge Bookshop::9781398561632",
       "title": "Skandar  World of Skandar: The First Unicorn Rider - Independent Edition with sprayed edge - A.F. Steadman; Manuel Sumberac (Paperback) 10-09-2026",
       "author": "",
@@ -20605,6 +20618,18 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
+      "id": "Cleeve Bookshop::9781399753500",
+      "title": "Miss Wolcott's Ghost - Signed First Edition",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9781399753500",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/miss-wolcotts-ghost-signed-first-edition-8501382.jpg?v=1787188561",
+      "vip": false,
+      "listed_at": "2026-07-14T09:24:12+00:00",
+      "discovered_at": "2026-10-22T15:16:00.554119+00:00"
+    },
+    {
       "id": "Cleeve Bookshop::9781398717350",
       "title": "The Midmorning Murders - Signed First Edition",
       "author": "",
@@ -20675,6 +20700,18 @@
       "vip": false,
       "listed_at": "2026-07-10T12:29:41+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "Cleeve Bookshop::9780241766187",
+      "title": "The Shadows of Kensington Gore - Signed First Edition with Sprayed Edge",
+      "author": "",
+      "price": "\u00a316.99",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9780241766187",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-shadows-of-kensington-gore-signed-first-edition-with-sprayed-edge-6337959.jpg?v=1787188719",
+      "vip": false,
+      "listed_at": "2026-07-10T12:29:26+00:00",
+      "discovered_at": "2026-10-22T15:16:00.554119+00:00"
     },
     {
       "id": "Cleeve Bookshop::9780241812341",
@@ -20819,6 +20856,30 @@
       "vip": false,
       "listed_at": "2026-07-08T14:12:05+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "Cleeve Bookshop::9781529090116",
+      "title": "Dead in Three Two One - Signed First Edition with Sprayed Edge",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9781529090116",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/dead-in-three-two-one-signed-first-edition-with-sprayed-edge-6517325.jpg?v=1787188905",
+      "vip": false,
+      "listed_at": "2026-07-08T13:38:15+00:00",
+      "discovered_at": "2026-10-22T15:16:00.554119+00:00"
+    },
+    {
+      "id": "Cleeve Bookshop::9780349702988",
+      "title": "Bitter Melon - Signed First Edition",
+      "author": "",
+      "price": "\u00a313.49",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9780349702988",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/bitter-melon-signed-first-edition-3945578.jpg?v=1787189589",
+      "vip": false,
+      "listed_at": "2026-07-07T15:36:45+00:00",
+      "discovered_at": "2026-10-22T15:16:00.554119+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/its-a-love-story-by-annabel-monaghan-signed",
@@ -22847,6 +22908,18 @@
       "vip": false,
       "listed_at": "2026-06-10T10:54:22+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "Cleeve Bookshop::a-carol-and-a-killing-signed-first-edition",
+      "title": "A Carol And A Killing - Signed First Edition",
+      "author": "",
+      "price": "\u00a313.49",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/a-carol-and-a-killing-signed-first-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/a-carol-and-a-killing-signed-first-edition-3513206.jpg?v=1787362475",
+      "vip": false,
+      "listed_at": "2026-06-09T14:19:43+00:00",
+      "discovered_at": "2026-10-22T15:16:00.554119+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9780241595992",
@@ -31271,6 +31344,18 @@
       "vip": false,
       "listed_at": "2026-02-03T12:13:21+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "Cleeve Bookshop::9781911754244",
+      "title": "Chain Reaction : (Jack Reacher 31) - Signed First Edition",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9781911754244",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/chain-reaction-jack-reacher-31-signed-first-edition-1946379.jpg?v=1787534797",
+      "vip": false,
+      "listed_at": "2026-02-03T09:24:57+00:00",
+      "discovered_at": "2026-10-22T15:16:00.554119+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/on-thin-ice-by-charlie-walker-signed",
