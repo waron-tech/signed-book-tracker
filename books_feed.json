@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T22:53:36.161740+00:00",
+  "last_updated": "2026-10-23T23:15:20.365753+00:00",
   "total_available": 2971,
   "shop_status": {
     "Goldsboro Books": "12 items",
@@ -18,7 +18,7 @@
     "Hewson Books": "62 items",
     "Station Books": "64 items",
     "Booka Bookshop": "293 items",
-    "Coles Books": "12 items",
+    "Coles Books": "ERROR: HTTPSConnectionPool(host='coles-books.co.uk', port=443): Read timed out. (read timeout=15)",
     "West End Lane Books": "1101 items",
     "Foyles": "137 items via feed (as of 2026-10-23T06:17:48.905914+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-23T10:10:08.280106+00:00)",
@@ -101,19 +101,6 @@
       "est": "seen"
     },
     {
-      "id": "Coles Books::https://coles-books.co.uk/watch-the-quiet-snow-by-mick-herron-signed-edition",
-      "title": "Watch the Quiet Snow by Mick Herron - Signed Edition",
-      "author": "Mick Herron",
-      "price": "\u00a322.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/watch-the-quiet-snow-by-mick-herron-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/m/i/mick_herron_watch_the_quiet_snow_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-22T14:41:58.714637+00:00",
-      "discovered_at": "2026-10-22T14:41:58.714637+00:00",
-      "est": "seen"
-    },
-    {
       "id": "Waterstones::https://www.waterstones.com/book/a-history-of-britain-in-21-paintings/alice-loxton/2928377385392",
       "title": "A History of Britain in 21 Paintings",
       "author": "Alice Loxton",
@@ -134,6 +121,19 @@
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/fronting-up/lewis-moody/9781035449170",
       "image": "https://cdn.waterstones.com/override/v1/medium/9781/0354/9781035449170.jpg",
+      "vip": false,
+      "listed_at": "2026-10-22T14:41:58.714637+00:00",
+      "discovered_at": "2026-10-22T14:41:58.714637+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Coles Books::https://coles-books.co.uk/watch-the-quiet-snow-by-mick-herron-signed-edition",
+      "title": "Watch the Quiet Snow by Mick Herron - Signed Edition",
+      "author": "Mick Herron",
+      "price": "\u00a322.00",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/watch-the-quiet-snow-by-mick-herron-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/m/i/mick_herron_watch_the_quiet_snow_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
       "vip": false,
       "listed_at": "2026-10-22T14:41:58.714637+00:00",
       "discovered_at": "2026-10-22T14:41:58.714637+00:00",
