@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T16:42:03.211457+00:00",
-  "total_available": 2973,
+  "last_updated": "2026-10-23T17:14:45.733501+00:00",
+  "total_available": 2974,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
@@ -19,13 +19,25 @@
     "Station Books": "64 items",
     "Booka Bookshop": "294 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1101 items",
+    "West End Lane Books": "1102 items",
     "Foyles": "137 items via feed (as of 2026-10-23T06:17:48.905914+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-23T10:10:08.280106+00:00)",
     "Waterstones": "187 items via feed (as of 2026-10-23T14:12:08.571201+00:00)",
     "Linghams": "215 items via feed (as of 2026-10-22T18:10:25.578141+00:00)"
   },
   "books": [
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-night-watchman-by-elly-griffiths-signed",
+      "title": "The Night Watchman by Elly Griffiths (Signed)",
+      "author": "Elly Griffiths",
+      "price": "\u00a322.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-night-watchman-by-elly-griffiths-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/532132f3-0092-460a-8ddd-65c09fd1e477/Website+Listing+Template+-+Book+%2846%29.jpg",
+      "vip": false,
+      "listed_at": "2026-10-23T16:59:13.760000+00:00",
+      "discovered_at": "2026-10-23T17:14:45.733501+00:00"
+    },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/merlins-way-by-alastair-reynolds-signed",
       "title": "Merlin's Way by Alastair Reynolds (Signed)",
