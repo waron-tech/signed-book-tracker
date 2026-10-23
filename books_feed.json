@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T06:10:34.504861+00:00",
+  "last_updated": "2026-10-23T06:46:34.329436+00:00",
   "total_available": 2901,
   "shop_status": {
     "Goldsboro Books": "10 items",
@@ -17,15 +17,28 @@
     "Little Apple Bookshop": "35 items",
     "Hewson Books": "62 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "222 items via feed (as of 2026-10-22T22:10:11.763977+00:00)",
+    "Booka Bookshop": "221 items via feed (as of 2026-10-23T06:17:48.905914+00:00)",
     "Coles Books": "12 items",
     "West End Lane Books": "1099 items",
-    "Foyles": "136 items via feed (as of 2026-10-22T14:08:28.968607+00:00)",
+    "Foyles": "137 items via feed (as of 2026-10-23T06:17:48.905914+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-22T06:19:29.119254+00:00)",
     "Waterstones": "187 items via feed (as of 2026-10-22T18:10:25.578141+00:00)",
     "Linghams": "215 items via feed (as of 2026-10-22T18:10:25.578141+00:00)"
   },
   "books": [
+    {
+      "id": "Foyles::https://www.foyles.co.uk/book/a-history-of-britain-in-21-paintings/alice-loxton/2928377385392",
+      "title": "A History of Britain in 21 Paintings",
+      "author": "Alice Loxton",
+      "price": "\u00a325.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/a-history-of-britain-in-21-paintings/alice-loxton/2928377385392",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-23T06:46:34.329436+00:00",
+      "discovered_at": "2026-10-23T06:46:34.329436+00:00",
+      "est": "seen"
+    },
     {
       "id": "Coles Books::https://coles-books.co.uk/watch-the-quiet-snow-by-mick-herron-signed-edition",
       "title": "Watch the Quiet Snow by Mick Herron - Signed Edition",
@@ -15975,19 +15988,6 @@
       "image": "https://cdn.theportobellobookshop.com/img/supplementary--10718633--main.jpg?p=search",
       "vip": false,
       "listed_at": "2026-09-21T21:47:14.982591+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/hollywood-ending-john-green-signed-copy/",
-      "title": "Hollywood, Ending \u2013 Signed Copy.",
-      "author": "John Green",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/hollywood-ending-john-green-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/06/HollywoodEnding.jpg",
-      "vip": false,
-      "listed_at": "2026-09-21T20:56:17.071503+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00",
       "est": "pos"
     },
