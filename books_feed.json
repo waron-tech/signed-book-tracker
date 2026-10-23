@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T14:10:27.138921+00:00",
-  "total_available": 2973,
+  "last_updated": "2026-10-23T14:45:41.964270+00:00",
+  "total_available": 2974,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
@@ -22,7 +22,7 @@
     "West End Lane Books": "1100 items",
     "Foyles": "137 items via feed (as of 2026-10-23T06:17:48.905914+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-23T10:10:08.280106+00:00)",
-    "Waterstones": "186 items via feed (as of 2026-10-23T10:10:08.280106+00:00)",
+    "Waterstones": "187 items via feed (as of 2026-10-23T14:12:08.571201+00:00)",
     "Linghams": "215 items via feed (as of 2026-10-22T18:10:25.578141+00:00)"
   },
   "books": [
@@ -478,6 +478,19 @@
       "vip": false,
       "listed_at": "2026-10-21T09:53:39+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/how-ive-tried-to-change-the-world/alexei-sayle/9781399645102",
+      "title": "How I've Tried to Change the World",
+      "author": "Alexei Sayle",
+      "price": "\u00a316.99",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/how-ive-tried-to-change-the-world/alexei-sayle/9781399645102",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3996/9781399645102.jpg",
+      "vip": false,
+      "listed_at": "2026-10-20T14:45:41.964270+00:00",
+      "discovered_at": "2026-10-23T14:45:41.964270+00:00",
+      "est": "pos"
     },
     {
       "id": "Porty Books::https://www.theportobellobookshop.com/9780241720929-s",
@@ -4066,7 +4079,7 @@
       "price": "\u00a322.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/our-noble-selves/kate-atkinson/2928377382582",
-      "image": "https://cdn.waterstones.com/override/v2/medium/2928/3773/2928377382582.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377382582.jpg",
       "vip": false,
       "listed_at": "2026-10-12T17:25:03.512497+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -7152,7 +7165,7 @@
       "price": "\u00a312.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/one-christmas-eve/nick-butterworth/9780008842949",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9780/0088/9780008842949.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9780/0088/9780008842949.jpg",
       "vip": false,
       "listed_at": "2026-10-06T02:51:52.023135+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -8431,7 +8444,7 @@
       "price": "\u00a319.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-near-witch-signed-deluxe-illustrated-edition/v-e-schwab/9781807591694",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/8075/9781807591694.jpg",
+      "image": "https://cdn.waterstones.com/bookjackets/medium/9781/8075/9781807591694.jpg",
       "vip": false,
       "listed_at": "2026-10-03T05:55:41.810369+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
