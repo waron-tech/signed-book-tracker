@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-23T19:18:05.559672+00:00",
-  "total_available": 2972,
+  "last_updated": "2026-10-23T19:53:50.121517+00:00",
+  "total_available": 2971,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
     "Porty Books": "16 items",
     "Backstory London (Signed & Dedicated)": "42 items",
     "Backstory London (Exclusives)": "18 items",
-    "British Library Shop": "282 items",
+    "British Library Shop": "281 items",
     "Cleeve Bookshop": "148 items",
     "Ivybridge Bookshop": "162 items",
     "Perkology Books": "43 items",
@@ -3574,18 +3574,6 @@
       "listed_at": "2026-10-13T14:55:37.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
-    },
-    {
-      "id": "British Library Shop::how-to-make-awesome-comics-signed-edition",
-      "title": "How to Make Awesome Comics (Signed Edition)",
-      "author": "",
-      "price": "\u00a310.99",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/how-to-make-awesome-comics-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/HowtoMakeAwersomeComics_9781788451475.png?v=1791900947",
-      "vip": false,
-      "listed_at": "2026-10-13T14:16:20+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "British Library Shop::corpse-talk-dead-famous-and-very-chatty-signed-edition",
