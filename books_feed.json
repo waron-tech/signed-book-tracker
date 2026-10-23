@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-10-23T09:00:15.782949+00:00",
-  "total_available": 2977,
+  "last_updated": "2026-10-23T09:39:33.415640+00:00",
+  "total_available": 2976,
   "shop_status": {
     "Goldsboro Books": "11 items",
-    "Rare Mags": "8 items",
+    "Rare Mags": "7 items",
     "Porty Books": "18 items",
     "Backstory London (Signed & Dedicated)": "42 items",
     "Backstory London (Exclusives)": "18 items",
@@ -5905,18 +5905,6 @@
       "listed_at": "2026-10-08T13:12:13.279939+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
       "est": "pos"
-    },
-    {
-      "id": "Rare Mags::snow-birds",
-      "title": "Snow Birds (Signed Copies)",
-      "author": "Roisin Maguire",
-      "price": "\u00a321.00",
-      "shop": "Rare Mags",
-      "url": "https://raremags.co.uk/products/snow-birds",
-      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/AB60AE5D-08BA-43B2-84CD-772752892D3C.jpg?v=1791464841",
-      "vip": false,
-      "listed_at": "2026-10-08T13:07:47+00:00",
-      "discovered_at": "2026-10-18T15:11:24.212276+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/castles-a-fortified-history-of-the-world-signed-copy/",
