@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T12:46:04.045250+00:00",
-  "total_available": 2972,
+  "last_updated": "2026-10-23T13:30:04.572054+00:00",
+  "total_available": 2973,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
@@ -19,13 +19,25 @@
     "Station Books": "64 items",
     "Booka Bookshop": "295 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1099 items",
+    "West End Lane Books": "1100 items",
     "Foyles": "137 items via feed (as of 2026-10-23T06:17:48.905914+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-23T10:10:08.280106+00:00)",
     "Waterstones": "186 items via feed (as of 2026-10-23T10:10:08.280106+00:00)",
     "Linghams": "215 items via feed (as of 2026-10-22T18:10:25.578141+00:00)"
   },
   "books": [
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-starving-bride-by-catherine-chidgey-signed",
+      "title": "The Starving Bride by Catherine Chidgey (Signed)",
+      "author": "Catherine Chidgey",
+      "price": "\u00a322.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-starving-bride-by-catherine-chidgey-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/7472227e-afde-4f55-8785-789655dff281/Website+Listing+Template+-+Book+%2844%29.jpg",
+      "vip": false,
+      "listed_at": "2026-10-23T13:14:52.201000+00:00",
+      "discovered_at": "2026-10-23T13:30:04.572054+00:00"
+    },
     {
       "id": "Waterstones::https://www.waterstones.com/book/the-eighth-face/adrian-tchaikovsky/2928377410049",
       "title": "The Eighth Face",
