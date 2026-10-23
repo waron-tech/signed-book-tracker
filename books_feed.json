@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T13:30:04.572054+00:00",
+  "last_updated": "2026-10-23T14:10:27.138921+00:00",
   "total_available": 2973,
   "shop_status": {
     "Goldsboro Books": "12 items",
@@ -10,14 +10,14 @@
     "British Library Shop": "282 items",
     "Cleeve Bookshop": "148 items",
     "Ivybridge Bookshop": "162 items",
-    "Perkology Books": "42 items",
+    "Perkology Books": "43 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "28 items",
     "Little Apple Bookshop": "35 items",
     "Hewson Books": "62 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "295 items",
+    "Booka Bookshop": "294 items",
     "Coles Books": "12 items",
     "West End Lane Books": "1100 items",
     "Foyles": "137 items via feed (as of 2026-10-23T06:17:48.905914+00:00)",
@@ -36076,6 +36076,18 @@
       "discovered_at": "2026-10-23T08:15:51.085329+00:00"
     },
     {
+      "id": "Perkology Books::the-golden-thread-project-uk-usa-2-signed-prints",
+      "title": "The Golden Thread Project UK-USA & 2 Signed Prints",
+      "author": "",
+      "price": "\u00a350.00",
+      "shop": "Perkology Books",
+      "url": "https://www.perkology.co.uk/products/the-golden-thread-project-uk-usa-2-signed-prints",
+      "image": "https://cdn.shopify.com/s/files/1/0551/2278/8426/products/img20220612051714.jpg?v=1708792726",
+      "vip": false,
+      "listed_at": "2025-11-06T10:38:26+00:00",
+      "discovered_at": "2026-10-23T14:10:27.138921+00:00"
+    },
+    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/joe-cole-luxury-player-signed-copy/",
       "title": "Joe Cole, Luxury Player \u2013 Signed Copy",
       "author": "",
@@ -36541,18 +36553,6 @@
       "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/07/Tuffers-Ashes-Heroes.jpg",
       "vip": false,
       "listed_at": "2025-10-23T18:42:14+00:00",
-      "discovered_at": "2026-10-23T08:15:51.085329+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-chain/",
-      "title": "The Chain \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-chain/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/06/The-Chain.jpg",
-      "vip": false,
-      "listed_at": "2025-10-23T13:58:56+00:00",
       "discovered_at": "2026-10-23T08:15:51.085329+00:00"
     }
   ]
