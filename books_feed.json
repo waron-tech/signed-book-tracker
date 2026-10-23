@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T12:08:03.551793+00:00",
-  "total_available": 2974,
+  "last_updated": "2026-10-23T12:46:04.045250+00:00",
+  "total_available": 2972,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
@@ -8,8 +8,8 @@
     "Backstory London (Signed & Dedicated)": "43 items",
     "Backstory London (Exclusives)": "19 items",
     "British Library Shop": "282 items",
-    "Cleeve Bookshop": "149 items",
-    "Ivybridge Bookshop": "163 items",
+    "Cleeve Bookshop": "148 items",
+    "Ivybridge Bookshop": "162 items",
     "Perkology Books": "42 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
@@ -25948,18 +25948,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "Ivybridge Bookshop::9781787336766",
-      "title": "Life Out of Order  - (Pre Order) Signed Independent Edition with sprayed edge - Audrey Niffenegger (Hardback) 13-10-2026",
-      "author": "Audrey Niffenegger",
-      "price": "\u00a322.00",
-      "shop": "Ivybridge Bookshop",
-      "url": "https://www.ivybridgebookshop.com/products/9781787336766",
-      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/LifeOutofOrdergraphic.png?v=1777890316",
-      "vip": false,
-      "listed_at": "2026-04-30T15:12:22+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/simone-soltani-bundle-signed",
       "title": "Simone Soltani Bundle (Signed)",
       "author": "",
@@ -36554,18 +36542,6 @@
       "vip": false,
       "listed_at": "2025-10-23T13:58:56+00:00",
       "discovered_at": "2026-10-23T08:15:51.085329+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781035425952",
-      "title": "The Sea Stone Sisters - Signed First Edition",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781035425952",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-sea-stone-sisters-signed-first-edition-9398472.jpg?v=1786977668",
-      "vip": false,
-      "listed_at": "2025-10-23T12:22:10+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     }
   ]
 }
