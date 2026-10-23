@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-23T10:40:25.979447+00:00",
+  "last_updated": "2026-10-23T11:10:52.381864+00:00",
   "total_available": 2976,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
-    "Porty Books": "18 items",
-    "Backstory London (Signed & Dedicated)": "42 items",
-    "Backstory London (Exclusives)": "18 items",
+    "Porty Books": "16 items",
+    "Backstory London (Signed & Dedicated)": "43 items",
+    "Backstory London (Exclusives)": "19 items",
     "British Library Shop": "282 items",
     "Cleeve Bookshop": "149 items",
     "Ivybridge Bookshop": "164 items",
@@ -4770,19 +4770,6 @@
       "vip": false,
       "listed_at": "2026-10-10T23:41:27.640557+00:00",
       "discovered_at": "2026-10-22T15:58:36.211986+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Porty Books::https://www.theportobellobookshop.com/9780008823900-s",
-      "title": "American Hagwon",
-      "author": "Min Jin Lee",
-      "price": "\u00a325.00",
-      "shop": "Porty Books",
-      "url": "https://www.theportobellobookshop.com/9780008823900-s",
-      "image": "https://cdn.theportobellobookshop.com/img/supplementary--10045689--main.jpg?p=search",
-      "vip": false,
-      "listed_at": "2026-10-10T23:11:57.335532+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
       "est": "pos"
     },
     {
@@ -14122,19 +14109,6 @@
       "est": "pos"
     },
     {
-      "id": "Porty Books::https://www.theportobellobookshop.com/9780008761868-s",
-      "title": "Home Made",
-      "author": "Thom Bateman",
-      "price": "\u00a326.00",
-      "shop": "Porty Books",
-      "url": "https://www.theportobellobookshop.com/9780008761868-s",
-      "image": "https://cdn.theportobellobookshop.com/img/supplementary--10718633--main.jpg?p=search",
-      "vip": false,
-      "listed_at": "2026-09-21T21:47:14.982591+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/budgie-the-absence-memoirs-of-a-banshee-drummer-signed-copy-hardback",
       "title": "Budgie - The Absence : Memoirs Of A Banshee Drummer (SIGNED COPY) (HARDBACK)",
       "author": "",
@@ -21652,6 +21626,30 @@
       "vip": false,
       "listed_at": "2026-06-17T14:27:47.658000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "Backstory London (Signed & Dedicated)::pre-order-now-grand-the-autobiography-of-gromit-by-gromit-as-told-by-nick-park-signed-publishes-october-2026",
+      "title": "Grand: The Autobiography of Gromit",
+      "author": "Nick Park Yes",
+      "price": "\u00a322.00",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/pre-order-now-grand-the-autobiography-of-gromit-by-gromit-as-told-by-nick-park-signed-publishes-october-2026",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/unnamed_1.jpg?v=1781702626",
+      "vip": false,
+      "listed_at": "2026-06-17T13:24:35+00:00",
+      "discovered_at": "2026-10-23T11:10:52.381864+00:00"
+    },
+    {
+      "id": "Backstory London (Exclusives)::pre-order-now-grand-the-autobiography-of-gromit-by-gromit-as-told-by-nick-park-signed-publishes-october-2026",
+      "title": "Grand: The Autobiography of Gromit",
+      "author": "Nick Park Yes",
+      "price": "\u00a322.00",
+      "shop": "Backstory London (Exclusives)",
+      "url": "https://backstory.london/products/pre-order-now-grand-the-autobiography-of-gromit-by-gromit-as-told-by-nick-park-signed-publishes-october-2026",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/unnamed_1.jpg?v=1781702626",
+      "vip": false,
+      "listed_at": "2026-06-17T13:24:35+00:00",
+      "discovered_at": "2026-10-23T11:10:52.381864+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781786588814",
