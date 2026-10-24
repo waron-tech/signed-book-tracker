@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T09:54:33.055574+00:00",
-  "total_available": 2970,
+  "last_updated": "2026-10-24T10:15:32.295930+00:00",
+  "total_available": 2969,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "293 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1101 items",
+    "West End Lane Books": "1100 items",
     "Foyles": "137 items via feed (as of 2026-10-23T06:17:48.905914+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-23T10:10:08.280106+00:00)",
     "Waterstones": "187 items via feed (as of 2026-10-23T14:12:08.571201+00:00)",
@@ -34454,18 +34454,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/172ebc68-44fc-4ad0-9de6-e8d4606e0907/Copy+of+Product+Template+-+Book+-+2025-12-21T115411.914.jpg",
       "vip": false,
       "listed_at": "2025-12-21T11:56:34.288000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/w0is501gv4rt6t1eeh8l6bq2s4o8wm",
-      "title": "Tina : The Dog Who Changed the World by Niall Harbison (Signed)",
-      "author": "Niall Harbison",
-      "price": "\u00a320.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/w0is501gv4rt6t1eeh8l6bq2s4o8wm",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/a6247d3b-a53c-4028-b495-f7fed2a67c9c/Copy+of+Product+Template+-+Book+-+2025-12-20T124206.720.jpg",
-      "vip": false,
-      "listed_at": "2025-12-20T12:44:26.399000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
