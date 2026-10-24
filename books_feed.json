@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T22:34:36.507717+00:00",
-  "total_available": 2956,
+  "last_updated": "2026-10-24T23:02:15.666133+00:00",
+  "total_available": 2955,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "292 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1097 items",
+    "West End Lane Books": "1096 items",
     "Foyles": "137 items via feed (as of 2026-10-24T10:18:25.010094+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-24T10:18:25.010094+00:00)",
     "Waterstones": "186 items via feed (as of 2026-10-24T18:13:04.829148+00:00)",
@@ -18377,18 +18377,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/1622f90a-b297-459f-b625-173116274457/We+are+hiring%21+%2823%29.jpg",
       "vip": false,
       "listed_at": "2026-07-30T10:50:21.350000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-man-with-the-golden-compass-by-vaseem-khan-signed",
-      "title": "The Man With The Golden Compass by Vaseem Khan (Signed)",
-      "author": "Vaseem Khan",
-      "price": "\u00a320.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-man-with-the-golden-compass-by-vaseem-khan-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/6f214e20-6c74-463d-96d1-7cdfe2875c23/Website+Listing+Template+-+Book+%2817%29.jpg",
-      "vip": false,
-      "listed_at": "2026-07-30T10:47:58.145000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
