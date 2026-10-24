@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T15:36:44.236633+00:00",
-  "total_available": 2968,
+  "last_updated": "2026-10-24T16:05:41.407696+00:00",
+  "total_available": 2966,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
@@ -17,9 +17,9 @@
     "Little Apple Bookshop": "35 items",
     "Hewson Books": "62 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "293 items",
+    "Booka Bookshop": "292 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1100 items",
+    "West End Lane Books": "1099 items",
     "Foyles": "137 items via feed (as of 2026-10-24T10:18:25.010094+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-24T10:18:25.010094+00:00)",
     "Waterstones": "187 items via feed (as of 2026-10-24T14:12:45.606972+00:00)",
@@ -600,18 +600,6 @@
       "vip": false,
       "listed_at": "2026-10-20T11:51:11+00:00",
       "discovered_at": "2026-10-20T11:56:55.570489+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/hello-boys-and-girls-nicko-mcbrain-signed-copy/",
-      "title": "Hello Boys and Girls \u2013 Signed Copy",
-      "author": "Nicko McBrain",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/hello-boys-and-girls-nicko-mcbrain-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/Hello-Boys-and-Girls.jpg",
-      "vip": false,
-      "listed_at": "2026-10-20T11:37:21+00:00",
-      "discovered_at": "2026-10-21T14:23:44.972435+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/chain-reaction-signed-copy/",
@@ -27770,18 +27758,6 @@
       "vip": false,
       "listed_at": "2026-03-31T14:10:54.623000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/games-of-my-life-by-alex-ferguson-signed",
-      "title": "Games of My Life by Alex Ferguson (Signed)",
-      "author": "Alex Ferguson",
-      "price": "\u00a340.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/games-of-my-life-by-alex-ferguson-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/7c06c863-948f-4f09-a966-527adda11aec/Website+Listing+Template+-+Book+-+2026-03-26T162613.478.jpg",
-      "vip": false,
-      "listed_at": "2026-03-31T12:11:55.163000+00:00",
-      "discovered_at": "2026-10-21T13:50:38.793180+00:00"
     },
     {
       "id": "Perkology Books::the-burning-grounds-the-gripping-new-mystery-from-the-author-of-british-book",
