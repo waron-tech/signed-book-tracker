@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T17:34:36.024866+00:00",
-  "total_available": 2966,
+  "last_updated": "2026-10-24T18:01:44.362676+00:00",
+  "total_available": 2965,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "292 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1099 items",
+    "West End Lane Books": "1098 items",
     "Foyles": "137 items via feed (as of 2026-10-24T10:18:25.010094+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-24T10:18:25.010094+00:00)",
     "Waterstones": "187 items via feed (as of 2026-10-24T14:12:45.606972+00:00)",
@@ -17557,18 +17557,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/b8846f98-1466-468d-9841-3eb49e0fb02b/Website+Listing+Template+-+Book+%287%29.jpg",
       "vip": false,
       "listed_at": "2026-08-07T12:03:19.982000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/counting-penguins-by-peter-john-watson-signed",
-      "title": "Counting Penguins by Peter John Watson (Signed)",
-      "author": "Peter John Watson",
-      "price": "\u00a320.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/counting-penguins-by-peter-john-watson-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/c20b27d5-93de-4c74-8e50-5b3110c5f490/Website+Listing+Template+-+Book+%286%29.jpg",
-      "vip": false,
-      "listed_at": "2026-08-07T11:54:37.416000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
