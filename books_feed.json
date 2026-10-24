@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T13:52:25.963829+00:00",
+  "last_updated": "2026-10-24T14:14:15.036698+00:00",
   "total_available": 2968,
   "shop_status": {
     "Goldsboro Books": "12 items",
@@ -22,10 +22,23 @@
     "West End Lane Books": "1100 items",
     "Foyles": "137 items via feed (as of 2026-10-24T10:18:25.010094+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-24T10:18:25.010094+00:00)",
-    "Waterstones": "187 items via feed (as of 2026-10-24T10:18:25.010094+00:00)",
+    "Waterstones": "187 items via feed (as of 2026-10-24T14:12:45.606972+00:00)",
     "Linghams": "215 items via feed (as of 2026-10-23T18:11:53.226905+00:00)"
   },
   "books": [
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/the-exile/ryan-cahill/9781836980704",
+      "title": "The Exile",
+      "author": "Ryan Cahill",
+      "price": "\u00a316.99",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/the-exile/ryan-cahill/9781836980704",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/8369/9781836980704.jpg",
+      "vip": false,
+      "listed_at": "2026-10-24T14:14:15.036698+00:00",
+      "discovered_at": "2026-10-24T14:14:15.036698+00:00",
+      "est": "seen"
+    },
     {
       "id": "Waterstones::https://www.waterstones.com/book/miss-wolcotts-ghost/louise-penny/9781399769594",
       "title": "Miss Wolcott's Ghost",
@@ -1108,7 +1121,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/redwood/ben-macintyre/2928377374747",
-      "image": "https://cdn.waterstones.com/override/v3/medium/2928/3773/2928377374747.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377374747.jpg",
       "vip": false,
       "listed_at": "2026-10-18T07:50:35.427391+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -1277,7 +1290,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/once-there-were-heroes/philip-c-quaintrell/9781836980452",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/8369/9781836980452.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/8369/9781836980452.jpg",
       "vip": false,
       "listed_at": "2026-10-17T18:03:21.384837+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
@@ -4624,19 +4637,6 @@
       "image": "https://linghams.co.uk/wp-content/uploads/louise-m-assett-for-pre-orders-350x525.png.webp",
       "vip": false,
       "listed_at": "2026-10-11T10:31:28.628776+00:00",
-      "discovered_at": "2026-10-22T11:25:03.512497+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Waterstones::https://www.waterstones.com/book/the-sixth-faction/veronica-roth/9780008848859",
-      "title": "The Sixth Faction",
-      "author": "Veronica Roth",
-      "price": "\u00a318.99",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/the-sixth-faction/veronica-roth/9780008848859",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9780/0088/9780008848859.jpg",
-      "vip": false,
-      "listed_at": "2026-10-11T10:23:46.916752+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
       "est": "pos"
     },
@@ -12027,7 +12027,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-elegant-hustler/celia-imrie/9781408738597",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9781/4087/9781408738597.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/4087/9781408738597.jpg",
       "vip": false,
       "listed_at": "2026-09-26T01:35:16.278454+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
