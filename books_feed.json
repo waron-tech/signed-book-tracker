@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T13:17:41.764449+00:00",
-  "total_available": 2969,
+  "last_updated": "2026-10-24T13:52:25.963829+00:00",
+  "total_available": 2968,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
@@ -18,7 +18,7 @@
     "Hewson Books": "62 items",
     "Station Books": "64 items",
     "Booka Bookshop": "293 items",
-    "Coles Books": "12 items",
+    "Coles Books": "11 items",
     "West End Lane Books": "1100 items",
     "Foyles": "137 items via feed (as of 2026-10-24T10:18:25.010094+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-24T10:18:25.010094+00:00)",
@@ -111,19 +111,6 @@
       "vip": false,
       "listed_at": "2026-10-23T06:46:34.329436+00:00",
       "discovered_at": "2026-10-23T06:46:34.329436+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/watch-the-quiet-snow-by-mick-herron-signed-edition",
-      "title": "Watch the Quiet Snow by Mick Herron - Signed Edition",
-      "author": "Mick Herron",
-      "price": "\u00a322.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/watch-the-quiet-snow-by-mick-herron-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/m/i/mick_herron_watch_the_quiet_snow_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-22T14:41:58.714637+00:00",
-      "discovered_at": "2026-10-22T14:41:58.714637+00:00",
       "est": "seen"
     },
     {
