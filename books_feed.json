@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T10:14:44.815174+00:00",
-  "total_available": 2961,
+  "last_updated": "2026-10-25T10:43:44.157522+00:00",
+  "total_available": 2960,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "292 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1096 items",
+    "West End Lane Books": "1095 items",
     "Foyles": "137 items via feed (as of 2026-10-24T10:18:25.010094+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-24T10:18:25.010094+00:00)",
     "Waterstones": "186 items via feed (as of 2026-10-24T18:13:04.829148+00:00)",
@@ -16093,18 +16093,6 @@
       "vip": false,
       "listed_at": "2026-08-28T15:15:30+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/all-aboard-tales-from-a-yorkshire-steam-railway-by-paul-piglet-middleton-signed",
-      "title": "ALL ABOARD! : Tales from a Yorkshire Steam Railway by Paul 'Piglet' Middleton (Signed)",
-      "author": "",
-      "price": "\u00a325.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/all-aboard-tales-from-a-yorkshire-steam-railway-by-paul-piglet-middleton-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/983c6426-67af-4032-8f46-86b250c0740f/Website+Listing+Template+-+Book+%28100%29.jpg",
-      "vip": false,
-      "listed_at": "2026-08-27T14:38:11.961000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/love-vito-signed-copy/",
