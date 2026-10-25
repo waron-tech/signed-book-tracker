@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T10:43:44.157522+00:00",
-  "total_available": 2960,
+  "last_updated": "2026-10-25T11:07:55.028614+00:00",
+  "total_available": 2959,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "292 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1095 items",
+    "West End Lane Books": "1094 items",
     "Foyles": "137 items via feed (as of 2026-10-24T10:18:25.010094+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-24T10:18:25.010094+00:00)",
     "Waterstones": "186 items via feed (as of 2026-10-24T18:13:04.829148+00:00)",
@@ -19321,18 +19321,6 @@
       "vip": false,
       "listed_at": "2026-07-21T13:52:40+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/come-rain-or-shine-by-laura-tobin-signed",
-      "title": "Come Rain or Shine by Laura Tobin (Signed)",
-      "author": "Laura Tobin",
-      "price": "\u00a316.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/come-rain-or-shine-by-laura-tobin-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/d41a211b-bfb7-43e3-bcec-591b67da8c46/Untitled+design+%2876%29.jpg",
-      "vip": false,
-      "listed_at": "2026-07-21T11:00:58.471000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/serious-music-signed-copy/",
