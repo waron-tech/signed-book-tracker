@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T05:10:38.544869+00:00",
-  "total_available": 2962,
+  "last_updated": "2026-10-25T05:36:56.165917+00:00",
+  "total_available": 2961,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
@@ -9,7 +9,7 @@
     "Backstory London (Exclusives)": "18 items",
     "British Library Shop": "281 items",
     "Cleeve Bookshop": "148 items",
-    "Ivybridge Bookshop": "161 items",
+    "Ivybridge Bookshop": "160 items",
     "Perkology Books": "43 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "ERROR: HTTPSConnectionPool(host='www.bigglestones.com', port=443): Read timed out. (read timeout=25)",
@@ -18300,18 +18300,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9781399627177.jpg?v=1785595715",
       "vip": false,
       "listed_at": "2026-08-01T14:48:33+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Ivybridge Bookshop::9781399641760",
-      "title": "Once Upon a Broken Heart  The Mirror of Infinite Endings - Independent Edition with hidden cover design - Stephanie Garber (Hardback) 22-09-2026",
-      "author": "Stephanie Garber",
-      "price": "\u00a322.00",
-      "shop": "Ivybridge Bookshop",
-      "url": "https://www.ivybridgebookshop.com/products/9781399641760",
-      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9781399641760.jpg?v=1785595712",
-      "vip": false,
-      "listed_at": "2026-08-01T14:48:29+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
