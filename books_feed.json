@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T12:42:19.021954+00:00",
+  "last_updated": "2026-10-25T13:17:18.984171+00:00",
   "total_available": 2959,
   "shop_status": {
     "Goldsboro Books": "12 items",
@@ -10309,18 +10309,6 @@
       "listed_at": "2026-09-29T14:56:49.394850+00:00",
       "discovered_at": "2026-10-22T11:25:03.512497+00:00",
       "est": "pos"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/behind-the-portrait-by-michelle-mason-signed",
-      "title": "Behind the Portrait by Michelle Mason (Signed)",
-      "author": "Michelle Mason",
-      "price": "\u00a39.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/behind-the-portrait-by-michelle-mason-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/9ba66525-a72a-46c5-a011-2de57fa3ba0a/We+are+hiring%21+%2854%29.jpg",
-      "vip": false,
-      "listed_at": "2026-09-29T14:42:51.735000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/what-the-world-needs-now-messages-of-love-and-hope-signed-copy/",
@@ -20869,6 +20857,18 @@
       "vip": false,
       "listed_at": "2026-06-25T10:20:54.322000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-disappearers-by-marlon-james-signed",
+      "title": "The Disappearers by Marlon James (Signed)",
+      "author": "Marlon James",
+      "price": "\u00a320.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-disappearers-by-marlon-james-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/bebfdd1f-30d3-4fdb-b06c-dc756637245d/Untitled+design+%2830%29.jpg",
+      "vip": false,
+      "listed_at": "2026-06-25T10:09:53.962000+00:00",
+      "discovered_at": "2026-10-25T13:17:18.984171+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-recovery-house-by-derek-owusu-signed",
