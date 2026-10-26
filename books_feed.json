@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-26T15:26:56.577193+00:00",
-  "total_available": 2940,
+  "last_updated": "2026-10-26T16:21:01.664681+00:00",
+  "total_available": 2941,
   "shop_status": {
-    "Goldsboro Books": "12 items",
+    "Goldsboro Books": "13 items",
     "Rare Mags": "7 items",
     "Porty Books": "16 items",
     "Backstory London (Signed & Dedicated)": "35 items",
@@ -26,6 +26,18 @@
     "Linghams": "216 items via feed (as of 2026-10-26T14:17:38.260228+00:00)"
   },
   "books": [
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/hilda-and-twig-find-a-space-rock-by-luke-pearson-signed",
+      "title": "Hilda and Twig: Find a Space Rock by Luke Pearson (Signed)",
+      "author": "Luke Pearson",
+      "price": "\u00a312.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/hilda-and-twig-find-a-space-rock-by-luke-pearson-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/c2a028ae-5019-4093-9b06-b744d60e83e4/Website+Listing+Template+-+Book+%2851%29.jpg",
+      "vip": false,
+      "listed_at": "2026-10-26T15:54:09.081000+00:00",
+      "discovered_at": "2026-10-26T16:21:01.664681+00:00"
+    },
     {
       "id": "Waterstones::https://www.waterstones.com/book/the-taper-man/nick-harkaway/2928377380014",
       "title": "The Taper Man",
@@ -16927,18 +16939,6 @@
       "discovered_at": "2026-10-22T15:16:00.554119+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/words-for-life-by-susie-dent-signed",
-      "title": "Words for Life by Susie Dent (Signed)",
-      "author": "Susie Dent",
-      "price": "\u00a316.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/words-for-life-by-susie-dent-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/3223ea75-cb4f-46f5-adf1-f7644f6bc803/Copy+of+Product+Template+-+Book+-+2025-05-14T171047.495.jpg",
-      "vip": false,
-      "listed_at": "2026-08-17T10:33:27.150000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
       "id": "British Library Shop::where-are-the-kings-signed-exclusive-edition",
       "title": "Where Are the Kings (Signed, Exclusive Edition)",
       "author": "",
@@ -17873,6 +17873,18 @@
       "vip": false,
       "listed_at": "2026-08-05T13:11:38.352000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
+    },
+    {
+      "id": "Goldsboro Books::the-heights-crime-collective-edition",
+      "title": "The Heights - Crime Collective Edition",
+      "author": "",
+      "price": "\u00a334.99",
+      "shop": "Goldsboro Books",
+      "url": "https://goldsborobooks.com/products/the-heights-crime-collective-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0733/4900/5606/files/6b4864e2-6790-4c67-bfe4-1c176e2344c4.jpg?v=1785842909",
+      "vip": false,
+      "listed_at": "2026-08-05T13:00:05+00:00",
+      "discovered_at": "2026-10-26T16:21:01.664681+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-art-of-being-easily-pleased-signed-copy/",
