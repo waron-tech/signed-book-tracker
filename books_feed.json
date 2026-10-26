@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-26T07:01:51.862986+00:00",
-  "total_available": 2958,
+  "last_updated": "2026-10-26T07:55:44.557130+00:00",
+  "total_available": 2949,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
     "Porty Books": "16 items",
-    "Backstory London (Signed & Dedicated)": "41 items",
-    "Backstory London (Exclusives)": "17 items",
+    "Backstory London (Signed & Dedicated)": "36 items",
+    "Backstory London (Exclusives)": "13 items",
     "British Library Shop": "281 items",
     "Cleeve Bookshop": "148 items",
     "Ivybridge Bookshop": "160 items",
@@ -18689,18 +18689,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "Backstory London (Signed & Dedicated)::pre-order-now-murder-at-the-grand-alpine-hotel-by-lucy-foley-signed-publishes-september-2026",
-      "title": "Murder At The Grand Alpine Hotel by Lucy Foley, Signed",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/pre-order-now-murder-at-the-grand-alpine-hotel-by-lucy-foley-signed-publishes-september-2026",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9780008694821_d484357a-43f7-49a5-b0bd-de712c32d03f.jpg?v=1785238989",
-      "vip": false,
-      "listed_at": "2026-07-28T11:44:52+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "Backstory London (Signed & Dedicated)::pre-order-now-taipei-story-by-rebecca-f-kuang-signed-publishes-september-2026",
       "title": "Taipei Story by Rebecca F Kuang, Signed",
       "author": "",
@@ -26597,30 +26585,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "Backstory London (Signed & Dedicated)::pre-order-now-the-manchester-chronicles-true-tales-of-music-madness-and-mayhem-1976-2006-by-clint-boon-signed-edition",
-      "title": "The Manchester Chronicles: True Tales of Music, Madness and Mayhem 1976-2006 by Clint Boon Signed Edition",
-      "author": "",
-      "price": "\u00a325.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/pre-order-now-the-manchester-chronicles-true-tales-of-music-madness-and-mayhem-1976-2006-by-clint-boon-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/TheManchesterChroniclesgrid.jpg?v=1776690603",
-      "vip": false,
-      "listed_at": "2026-04-20T13:11:55+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Backstory London (Exclusives)::pre-order-now-the-manchester-chronicles-true-tales-of-music-madness-and-mayhem-1976-2006-by-clint-boon-signed-edition",
-      "title": "The Manchester Chronicles: True Tales of Music, Madness and Mayhem 1976-2006 by Clint Boon Signed Edition",
-      "author": "",
-      "price": "\u00a325.00",
-      "shop": "Backstory London (Exclusives)",
-      "url": "https://backstory.london/products/pre-order-now-the-manchester-chronicles-true-tales-of-music-madness-and-mayhem-1976-2006-by-clint-boon-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/TheManchesterChroniclesgrid.jpg?v=1776690603",
-      "vip": false,
-      "listed_at": "2026-04-20T13:11:55+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "British Library Shop::a-degree-of-murder-signed-edition",
       "title": "A Degree of Murder (Signed Edition)",
       "author": "",
@@ -29093,30 +29057,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "Backstory London (Signed & Dedicated)::pre-order-signed-happy-thank-you-more-please-by-kyla-cobbler-dispatches-september-26",
-      "title": "SIGNED Happy. Thank You.  More, Please. by Kyla Cobbler",
-      "author": "Kyla Cobbler",
-      "price": "\u00a322.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/pre-order-signed-happy-thank-you-more-please-by-kyla-cobbler-dispatches-september-26",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/Indiesignedcopiesavailable.png?v=1773068462",
-      "vip": false,
-      "listed_at": "2026-03-11T12:01:03+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Backstory London (Exclusives)::pre-order-signed-happy-thank-you-more-please-by-kyla-cobbler-dispatches-september-26",
-      "title": "SIGNED Happy. Thank You.  More, Please. by Kyla Cobbler",
-      "author": "Kyla Cobbler",
-      "price": "\u00a322.00",
-      "shop": "Backstory London (Exclusives)",
-      "url": "https://backstory.london/products/pre-order-signed-happy-thank-you-more-please-by-kyla-cobbler-dispatches-september-26",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/Indiesignedcopiesavailable.png?v=1773068462",
-      "vip": false,
-      "listed_at": "2026-03-11T12:01:03+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/when-the-cranes-fly-south-by-lisa-ridzen-signed",
       "title": "When the Cranes Fly South by Lisa Ridzen (Signed)",
       "author": "Lisa Ridzen",
@@ -30677,30 +30617,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Backstory London (Signed & Dedicated)::pre-order-now-letters-to-our-sons-by-stephen-graham-with-orly-klein-signed-edition",
-      "title": "Letters To Our Sons by Stephen Graham with Orly Klein Signed Edition",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/pre-order-now-letters-to-our-sons-by-stephen-graham-with-orly-klein-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781037204043.jpg?v=1771237022",
-      "vip": false,
-      "listed_at": "2026-02-16T10:23:27+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Backstory London (Exclusives)::pre-order-now-letters-to-our-sons-by-stephen-graham-with-orly-klein-signed-edition",
-      "title": "Letters To Our Sons by Stephen Graham with Orly Klein Signed Edition",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Backstory London (Exclusives)",
-      "url": "https://backstory.london/products/pre-order-now-letters-to-our-sons-by-stephen-graham-with-orly-klein-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781037204043.jpg?v=1771237022",
-      "vip": false,
-      "listed_at": "2026-02-16T10:23:27+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/a-drag-queens-guide-to-life-by-bimini",
       "title": "A Drag Queen's Guide to Life by Bimini",
       "author": "",
@@ -31491,30 +31407,6 @@
       "vip": false,
       "listed_at": "2026-01-31T09:00:42.939000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Backstory London (Signed & Dedicated)::pre-order-now-chain-reaction-by-lee-child-and-andrew-child-signed-edition-dispatches-20th-october",
-      "title": "PRE-ORDER NOW Chain Reaction by Lee Child and Andrew Child - signed edition, dispatches 20th October",
-      "author": "Lee Child and Andrew Child",
-      "price": "\u00a322.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/pre-order-now-chain-reaction-by-lee-child-and-andrew-child-signed-edition-dispatches-20th-october",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781911754244.jpg?v=1769849683",
-      "vip": false,
-      "listed_at": "2026-01-31T08:55:27+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Backstory London (Exclusives)::pre-order-now-chain-reaction-by-lee-child-and-andrew-child-signed-edition-dispatches-20th-october",
-      "title": "PRE-ORDER NOW Chain Reaction by Lee Child and Andrew Child - signed edition, dispatches 20th October",
-      "author": "Lee Child and Andrew Child",
-      "price": "\u00a322.00",
-      "shop": "Backstory London (Exclusives)",
-      "url": "https://backstory.london/products/pre-order-now-chain-reaction-by-lee-child-and-andrew-child-signed-edition-dispatches-20th-october",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781911754244.jpg?v=1769849683",
-      "vip": false,
-      "listed_at": "2026-01-31T08:55:27+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/off-script-by-bianca-gillam-signed",
