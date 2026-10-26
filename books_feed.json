@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-26T20:19:42.818383+00:00",
-  "total_available": 2942,
+  "last_updated": "2026-10-26T21:00:02.748920+00:00",
+  "total_available": 2941,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "7 items",
     "Porty Books": "16 items",
-    "Backstory London (Signed & Dedicated)": "35 items",
+    "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "280 items",
     "Cleeve Bookshop": "148 items",
@@ -19411,18 +19411,6 @@
       "vip": false,
       "listed_at": "2026-07-19T08:20:06.397000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Backstory London (Signed & Dedicated)::pre-order-now-rituals-a-folk-journey-through-the-british-isles-by-tim-downie-signed-personalised-publishes-october-2026",
-      "title": "Rituals: A Folk Journey Through The British Isles",
-      "author": "Tim Downie",
-      "price": "\u00a322.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/pre-order-now-rituals-a-folk-journey-through-the-british-isles-by-tim-downie-signed-personalised-publishes-october-2026",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781529980387.jpg?v=1784216733",
-      "vip": false,
-      "listed_at": "2026-07-16T15:46:18+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-jewish-bakery-over-100-family-recipes-from-east-londons-oldest-jewish-bakery-by-jennifer-rinkoff-signed",
