@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-26T00:29:11.736961+00:00",
-  "total_available": 2960,
+  "last_updated": "2026-10-26T01:22:39.936875+00:00",
+  "total_available": 2958,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
     "Porty Books": "16 items",
-    "Backstory London (Signed & Dedicated)": "42 items",
-    "Backstory London (Exclusives)": "18 items",
+    "Backstory London (Signed & Dedicated)": "41 items",
+    "Backstory London (Exclusives)": "17 items",
     "British Library Shop": "281 items",
     "Cleeve Bookshop": "148 items",
     "Ivybridge Bookshop": "160 items",
@@ -25226,30 +25226,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/genderswappedgreekmythssigned.png?v=1778578759",
       "vip": false,
       "listed_at": "2026-05-12T09:39:57+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Backstory London (Signed & Dedicated)::pre-order-now-under-the-iron-sky-by-a-t-emerald-signed-exclusive-publishes-8th-october-2026",
-      "title": "PRE-ORDER NOW Under The Iron Sky by A.T. Emerald Signed & Exclusive Publishes 8th October 2026",
-      "author": "A.T. Emerald",
-      "price": "\u00a322.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/pre-order-now-under-the-iron-sky-by-a-t-emerald-signed-exclusive-publishes-8th-october-2026",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/UIS.png?v=1778576388",
-      "vip": false,
-      "listed_at": "2026-05-12T09:06:14+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Backstory London (Exclusives)::pre-order-now-under-the-iron-sky-by-a-t-emerald-signed-exclusive-publishes-8th-october-2026",
-      "title": "PRE-ORDER NOW Under The Iron Sky by A.T. Emerald Signed & Exclusive Publishes 8th October 2026",
-      "author": "A.T. Emerald",
-      "price": "\u00a322.00",
-      "shop": "Backstory London (Exclusives)",
-      "url": "https://backstory.london/products/pre-order-now-under-the-iron-sky-by-a-t-emerald-signed-exclusive-publishes-8th-october-2026",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/UIS.png?v=1778576388",
-      "vip": false,
-      "listed_at": "2026-05-12T09:06:14+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
