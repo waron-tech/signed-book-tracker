@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T10:08:56.830299+00:00",
-  "total_available": 2948,
+  "last_updated": "2026-10-26T10:46:24.109089+00:00",
+  "total_available": 2949,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "7 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "292 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1093 items",
+    "West End Lane Books": "1094 items",
     "Foyles": "137 items via feed (as of 2026-10-25T14:14:14.721285+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-25T14:14:14.721285+00:00)",
     "Waterstones": "187 items via feed (as of 2026-10-25T14:14:14.721285+00:00)",
@@ -20550,12 +20550,12 @@
     },
     {
       "id": "Backstory London (Signed & Dedicated)::pre-order-now-lottie-brookss-twelve-disasters-of-christmas-by-katie-kirby-signed-exclusive-edition-publishes-october-2026",
-      "title": "PRE-ORDER NOW Lottie Brooks's Twelve Disasters Of Christmas by Katie Kirby, Signed Exclusive Edition, Publishes October 2026",
+      "title": "Lottie Brooks's Twelve Disasters Of Christmas \u2014 Signed",
       "author": "Katie Kirby",
       "price": "\u00a314.99",
       "shop": "Backstory London (Signed & Dedicated)",
       "url": "https://backstory.london/products/pre-order-now-lottie-brookss-twelve-disasters-of-christmas-by-katie-kirby-signed-exclusive-edition-publishes-october-2026",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9780241769249_INDIES_3D_2MB.png?v=1782818337",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9780241769416_a31493ee-bf36-4c6a-890d-2f6622c97ef5.jpg?v=1793010761",
       "vip": false,
       "listed_at": "2026-06-30T11:19:43+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
@@ -34899,6 +34899,18 @@
       "vip": false,
       "listed_at": "2025-12-02T11:31:15+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-keeper-by-ana-huang-signed",
+      "title": "The Keeper by Ana Huang (Signed)",
+      "author": "Ana Huang",
+      "price": "\u00a310.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-keeper-by-ana-huang-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/16221bfa-cf7b-4572-9d79-66f0cf9b2718/Copy+of+Product+Template+-+Book+-+2025-12-03T142824.412.jpg",
+      "vip": false,
+      "listed_at": "2025-12-02T09:00:00+00:00",
+      "discovered_at": "2026-10-26T10:46:24.109089+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/protein-in-15-signed-dedicated-copy/",
