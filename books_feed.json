@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T18:18:07.529706+00:00",
-  "total_available": 2943,
+  "last_updated": "2026-10-26T19:13:40.620899+00:00",
+  "total_available": 2942,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "7 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "291 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1097 items",
+    "West End Lane Books": "1096 items",
     "Foyles": "137 items via feed (as of 2026-10-25T14:14:14.721285+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-25T14:14:14.721285+00:00)",
     "Waterstones": "189 items via feed (as of 2026-10-26T14:17:38.260228+00:00)",
@@ -34374,18 +34374,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/af06c557-5cf5-4d4f-90b8-002ac36f6469/Copy+of+Product+Template+-+Book+-+2025-12-15T140214.546.jpg",
       "vip": false,
       "listed_at": "2025-12-15T14:05:09.472000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-weekend-gardener-by-henry-agg-signed",
-      "title": "The Weekend Gardener by Henry Agg (Signed)",
-      "author": "Henry Agg",
-      "price": "\u00a322.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-weekend-gardener-by-henry-agg-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/5c2d6cca-336d-4c7b-9063-26a1aeeab510/Copy+of+Product+Template+-+Book+-+2025-12-15T135902.706.jpg",
-      "vip": false,
-      "listed_at": "2025-12-15T14:01:09.279000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
