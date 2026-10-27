@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T11:05:05.247738+00:00",
+  "last_updated": "2026-10-27T11:42:02.218904+00:00",
   "total_available": 2943,
   "shop_status": {
     "Goldsboro Books": "13 items",
@@ -590,6 +590,18 @@
       "est": "pos"
     },
     {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-bishop-of-durham-attempts-to-surrender-the-city-signed-copy/",
+      "title": "The Bishop of Durham Attempts to Surrender the City \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a310.99",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/the-bishop-of-durham-attempts-to-surrender-the-city-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/The-Bishop-of-Durham.jpg",
+      "vip": false,
+      "listed_at": "2026-10-22T15:04:55+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/mr-bears-christmas/",
       "title": "Mr Bear\u2019s Christmas *SIGNED*",
       "author": "Lorna Gibson",
@@ -653,6 +665,18 @@
       "listed_at": "2026-10-22T14:02:56.374275+00:00",
       "discovered_at": "2026-10-22T14:02:56.374275+00:00",
       "est": "seen"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/a-carol-and-a-killing-a-canon-clement-christmas-novella-richard-coles-signed-copy/",
+      "title": "A Carol and a Killing \u2013 A Canon Clement Christmas Novella \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a314.99",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/a-carol-and-a-killing-a-canon-clement-christmas-novella-richard-coles-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/A-Carol-and-a-Killing.jpeg",
+      "vip": false,
+      "listed_at": "2026-10-22T13:30:50+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "Waterstones::https://www.waterstones.com/book/who-does-she-think-she-is/florence-given/9781837829873",
@@ -754,6 +778,18 @@
       "discovered_at": "2026-10-22T10:58:23.027080+00:00"
     },
     {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-shadows-of-kensington-gore-signed-copy/",
+      "title": "The Shadows of Kensington Gore \u2013 Signed Independent Bookshop Exclusive Edition",
+      "author": "",
+      "price": "\u00a318.99",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/the-shadows-of-kensington-gore-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/The-Shadows-of-Kensington-Gore.jpg",
+      "vip": false,
+      "listed_at": "2026-10-22T10:32:16+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/sleuth-hound/lindsey-fitzharris/2928377382612",
       "title": "Sleuth-Hound",
       "author": "Lindsey Fitzharris",
@@ -765,6 +801,18 @@
       "listed_at": "2026-10-22T09:53:05.435553+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
       "est": "pos"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-teenage-diaries-of-a-stand-up-comedian-signed-copy/",
+      "title": "The Teenage Diaries of a Stand-Up Comedian \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a325.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/the-teenage-diaries-of-a-stand-up-comedian-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/Teenage-Diaries-Stand-Up-Comedian.jpg",
+      "vip": false,
+      "listed_at": "2026-10-22T09:47:58+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "Foyles::https://www.foyles.co.uk/book/my-pressures/andy-serkis/2928377383893",
@@ -16747,18 +16795,6 @@
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-teenage-diaries-of-a-stand-up-comedian-signed-copy/",
-      "title": "The Teenage Diaries of a Stand-Up Comedian \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a325.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-teenage-diaries-of-a-stand-up-comedian-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/Teenage-Diaries-Stand-Up-Comedian.jpg",
-      "vip": false,
-      "listed_at": "2026-08-20T09:47:58+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
-    },
-    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/black-bag-signed-copy/",
       "title": "Black Bag \u2013 Signed Copy",
       "author": "",
@@ -16973,18 +17009,6 @@
       "vip": false,
       "listed_at": "2026-08-17T16:16:51+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-bishop-of-durham-attempts-to-surrender-the-city-signed-copy/",
-      "title": "The Bishop of Durham Attempts to Surrender the City \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a310.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-bishop-of-durham-attempts-to-surrender-the-city-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/The-Bishop-of-Durham.jpg",
-      "vip": false,
-      "listed_at": "2026-08-17T15:04:55+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "Cleeve Bookshop::9780008775681",
@@ -17369,18 +17393,6 @@
       "vip": false,
       "listed_at": "2026-08-11T12:16:05+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-shadows-of-kensington-gore-signed-copy/",
-      "title": "The Shadows of Kensington Gore \u2013 Signed Independent Bookshop Exclusive Edition",
-      "author": "",
-      "price": "\u00a318.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-shadows-of-kensington-gore-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/The-Shadows-of-Kensington-Gore.jpg",
-      "vip": false,
-      "listed_at": "2026-08-11T10:32:16+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/making-rumours-the-inside-story-of-how-fleetwood-mac-made-a-masterpiece-by-ken-caillat-and-steve-stiefel-signed",
@@ -24005,18 +24017,6 @@
       "vip": false,
       "listed_at": "2026-05-27T09:45:29.204000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/a-carol-and-a-killing-a-canon-clement-christmas-novella-richard-coles-signed-copy/",
-      "title": "A Carol and a Killing \u2013 A Canon Clement Christmas Novella \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/a-carol-and-a-killing-a-canon-clement-christmas-novella-richard-coles-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/A-Carol-and-a-Killing.jpeg",
-      "vip": false,
-      "listed_at": "2026-05-26T13:30:50+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/a-wild-lullaby-by-jackie-morris-signed",
