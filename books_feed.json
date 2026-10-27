@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-27T13:17:16.155311+00:00",
-  "total_available": 2943,
+  "last_updated": "2026-10-27T14:13:10.344000+00:00",
+  "total_available": 2941,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "7 items",
@@ -8,7 +8,7 @@
     "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "280 items",
-    "Cleeve Bookshop": "148 items",
+    "Cleeve Bookshop": "147 items",
     "Ivybridge Bookshop": "159 items",
     "Perkology Books": "43 items",
     "Bookstation (Ireland)": "7 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "296 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1096 items",
+    "West End Lane Books": "1095 items",
     "Foyles": "137 items via feed (as of 2026-10-27T06:17:57.155067+00:00)",
     "Hatchards": "98 items via feed (as of 2026-10-27T06:17:57.155067+00:00)",
     "Waterstones": "189 items via feed (as of 2026-10-26T14:17:38.260228+00:00)",
@@ -1245,7 +1245,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781399745512",
-      "title": "Fae & Alchemy  Brimstone: sequel to the addictive enemies-to-lovers romantasy global sensation QUICKSILVER - Callie Hart (Paperback) 17-11-2026",
+      "title": "Fae & Alchemy  Brimstone - (Pre Order) Sprayed Edge Edition - Callie Hart (Paperback) 17-11-2026",
       "author": "Callie Hart",
       "price": "\u00a310.99",
       "shop": "Ivybridge Bookshop",
@@ -15811,18 +15811,6 @@
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/stephen-ellcocks-esoteric-sticker-collection-by-stephen-ellcock-signed",
-      "title": "Stephen Ellcock\u2019s Esoteric Sticker Collection by Stephen Ellcock (Signed)",
-      "author": "Stephen Ellcock",
-      "price": "\u00a320.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/stephen-ellcocks-esoteric-sticker-collection-by-stephen-ellcock-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/9fa8a1b1-8e77-4ac4-8bf1-6de5d53033e9/Copy+of+Copy+of+Product+Template+-+Book+%281%29.jpg",
-      "vip": false,
-      "listed_at": "2026-09-07T08:47:49.769000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
       "id": "British Library Shop::etna-botm-september-signed-edition",
       "title": "Etna (Signed Edition) - British Library BOTM September",
       "author": "",
@@ -16940,7 +16928,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781526677129",
-      "title": "The Earth Transformed: Illustrated Edition - (Pre Order) Signed First Edition - Professor Peter Frankopan; Romolo D'Hipolito (Hardback) 22-10-2026",
+      "title": "The Earth Transformed: Illustrated Edition - Signed First Edition - Professor Peter Frankopan; Romolo D'Hipolito (Hardback) 22-10-2026",
       "author": "",
       "price": "\u00a320.00",
       "shop": "Ivybridge Bookshop",
@@ -16952,7 +16940,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781035911974",
-      "title": "Castles: A Fortified History of the World - (Pre Order) Signed First Edition - Dan Jones (Hardback) 08-10-2026",
+      "title": "Castles: A Fortified History of the World - Signed First Edition - Dan Jones (Hardback) 08-10-2026",
       "author": "Dan Jones",
       "price": "\u00a330.00",
       "shop": "Ivybridge Bookshop",
@@ -16964,7 +16952,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781037203909",
-      "title": "The Bishop of Durham Attempts to Surrender the City - (Pre Order) Signed First Edition - Susanna Clarke (Hardback) 22-10-2026",
+      "title": "The Bishop of Durham Attempts to Surrender the City - Signed First Edition - Susanna Clarke (Hardback) 22-10-2026",
       "author": "Susanna Clarke",
       "price": "\u00a310.99",
       "shop": "Ivybridge Bookshop",
@@ -18068,7 +18056,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9780857529497",
-      "title": "The Discworld Bestiary - (Pre Order) Signed First Edition (Bookplate) - Terry Pratchett; Paul Kidby (Hardback) 15-10-2026",
+      "title": "The Discworld Bestiary - Signed First Edition (Bookplate) - Terry Pratchett; Paul Kidby (Hardback) 15-10-2026",
       "author": "",
       "price": "\u00a330.00",
       "shop": "Ivybridge Bookshop",
@@ -18140,7 +18128,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9780008790424",
-      "title": "A New Divergent Series Book 1 The Sixth Faction (A New Divergent Series, Book 1)  - (Pre Order) Deluxe Edition with Sprayed Edge- Veronica Roth (Hardback) 08-10-2026",
+      "title": "A New Divergent Series Book 1 The Sixth Faction (A New Divergent Series, Book 1)  - Deluxe Edition with Sprayed Edge- Veronica Roth (Hardback) 08-10-2026",
       "author": "",
       "price": "\u00a318.99",
       "shop": "Ivybridge Bookshop",
@@ -18212,7 +18200,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9780241849125",
-      "title": "The Wizard - (Pre Order) Signed First Edition - Chris Woakes (Hardback) 22-10-2026",
+      "title": "The Wizard - Signed First Edition - Chris Woakes (Hardback) 22-10-2026",
       "author": "Chris Woakes",
       "price": "\u00a325.00",
       "shop": "Ivybridge Bookshop",
@@ -18224,7 +18212,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781529984613",
-      "title": "Seasons - (Pre Order) Signed First Edition - Sir Ian Botham (Hardback) 22-10-2026",
+      "title": "Seasons - Signed First Edition - Sir Ian Botham (Hardback) 22-10-2026",
       "author": "Sir Ian Botham",
       "price": "\u00a322.00",
       "shop": "Ivybridge Bookshop",
@@ -18236,7 +18224,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781785949913",
-      "title": "Rick Stein's Cookery Course - (Pre Order) Signed First Edition - Rick Stein (Hardback) 29-10-2026",
+      "title": "Rick Stein's Cookery Course - Signed First Edition - Rick Stein (Hardback) 29-10-2026",
       "author": "Rick Stein",
       "price": "\u00a330.00",
       "shop": "Ivybridge Bookshop",
@@ -18260,7 +18248,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781398540965",
-      "title": "Merry Christmas Murders  The Jingle Bell Murders - (Pre Order) Independent Edition with sprayed edge - Alexandra Benedict (Paperback) 22-10-2026",
+      "title": "Merry Christmas Murders  The Jingle Bell Murders - Independent Edition with sprayed edge - Alexandra Benedict (Paperback) 22-10-2026",
       "author": "Alexandra Benedict",
       "price": "\u00a37.99",
       "shop": "Ivybridge Bookshop",
@@ -18272,7 +18260,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781398515956",
-      "title": "The Dog Who Saved Christmas - (Pre Order) Signed First Edition - Ben Miller; Elisa Paganelli (Hardback) 22-10-2026",
+      "title": "The Dog Who Saved Christmas - Signed First Edition - Ben Miller; Elisa Paganelli (Hardback) 22-10-2026",
       "author": "",
       "price": "\u00a314.99",
       "shop": "Ivybridge Bookshop",
@@ -18284,7 +18272,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781398532243",
-      "title": "The Christmas Cracker Killer - (Pre Order) Independent Edition with sprayed edge - Alexandra Benedict (Paperback) 08-10-2026",
+      "title": "The Christmas Cracker Killer - Independent Edition with sprayed edge - Alexandra Benedict (Paperback) 08-10-2026",
       "author": "Alexandra Benedict",
       "price": "\u00a39.99",
       "shop": "Ivybridge Bookshop",
@@ -19100,7 +19088,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9780008775681",
-      "title": "The House of Cursed Daughters - (Pre Order) Signed First Edition - C.J. Cooke (Hardback) 22-10-2026",
+      "title": "The House of Cursed Daughters - Signed First Edition - C.J. Cooke (Hardback) 22-10-2026",
       "author": "C.J. Cooke",
       "price": "\u00a316.99",
       "shop": "Ivybridge Bookshop",
@@ -19112,7 +19100,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9780008745035",
-      "title": "Royal Witch - (Pre Order) Independent Edition with sprayed edge - Philippa Gregory (Hardback) 20-10-2026",
+      "title": "Royal Witch - Independent Edition with sprayed edge - Philippa Gregory (Hardback) 20-10-2026",
       "author": "Philippa Gregory",
       "price": "\u00a325.00",
       "shop": "Ivybridge Bookshop",
@@ -19124,7 +19112,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781835878835",
-      "title": "The Girl Who Raced the World - (Pre Order) Independent Edition with sprayed edge - Nat Harrison (Hardback) 22-10-2026",
+      "title": "The Girl Who Raced the World - Independent Edition with sprayed edge - Nat Harrison (Hardback) 22-10-2026",
       "author": "Nat Harrison",
       "price": "\u00a312.99",
       "shop": "Ivybridge Bookshop",
@@ -19136,19 +19124,19 @@
     },
     {
       "id": "Ivybridge Bookshop::9781806173341",
-      "title": "First Born Daughter - (Pre Order) Signed First Edition - Katherine Ryan (Hardback) 22-10-2026",
+      "title": "First Born Daughter - Signed First Edition - Katherine Ryan (Hardback) 22-10-2026",
       "author": "Katherine Ryan",
       "price": "\u00a322.00",
       "shop": "Ivybridge Bookshop",
       "url": "https://www.ivybridgebookshop.com/products/9781806173341",
-      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9781806173341.jpg?v=1784899845",
+      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9781806173341_c1632f02-0453-41df-af41-7ce21dc606bd.jpg?v=1793108375",
       "vip": false,
       "listed_at": "2026-07-24T13:30:42+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781804188699",
-      "title": "Q Mysteries  The Man with the Golden Compass - (Pre Order) Independent Edition with sprayed edge  - Vaseem Khan (Hardback) 22-10-2026",
+      "title": "Q Mysteries  The Man with the Golden Compass - Independent Edition with sprayed edge  - Vaseem Khan (Hardback) 22-10-2026",
       "author": "Vaseem Khan",
       "price": "\u00a320.00",
       "shop": "Ivybridge Bookshop",
@@ -19568,7 +19556,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781918658101",
-      "title": "I Think My Name is Brodie - (Pre Order) Signed First Edition - Clive Anderson; Mark Bardsley (Hardback) 29-10-2026",
+      "title": "I Think My Name is Brodie - Signed First Edition - Clive Anderson; Mark Bardsley (Hardback) 29-10-2026",
       "author": "",
       "price": "\u00a314.99",
       "shop": "Ivybridge Bookshop",
@@ -20096,7 +20084,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781529090116",
-      "title": "Roy Grace  Dead in Three Two One - (Pre Order) Signed Independent Edition with sprayed edge - Peter James (Hardback) 20-10-2026",
+      "title": "Roy Grace  Dead in Three Two One - Signed Independent Edition with sprayed edge - Peter James (Hardback) 20-10-2026",
       "author": "Peter James",
       "price": "\u00a322.00",
       "shop": "Ivybridge Bookshop",
@@ -20588,7 +20576,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781529449570",
-      "title": "The Ali Dawson Mysteries  The Case of the Christmas Card - (Pre Order) Signed First Edition - Elly Griffiths; Julie Maisey (Hardback) 08-10-2026",
+      "title": "The Ali Dawson Mysteries  The Case of the Christmas Card - Signed First Edition - Elly Griffiths; Julie Maisey (Hardback) 08-10-2026",
       "author": "",
       "price": "\u00a314.99",
       "shop": "Ivybridge Bookshop",
@@ -20612,7 +20600,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781399642842",
-      "title": "Proper Home Cooking - (Pre Order) Signed First Edition - Si King (Hardback) 08-10-2026",
+      "title": "Proper Home Cooking - Signed First Edition - Si King (Hardback) 08-10-2026",
       "author": "Si King",
       "price": "\u00a325.00",
       "shop": "Ivybridge Bookshop",
@@ -21343,18 +21331,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "Ivybridge Bookshop::9780241769416",
-      "title": "Lottie Brooks  Lottie Brooks's Twelve Disasters of Christmas - (Pre Order) Signed Independent Edition with sprayed edge - Katie Kirby (Hardback) 08-10-2026",
-      "author": "Katie Kirby",
-      "price": "\u00a314.99",
-      "shop": "Ivybridge Bookshop",
-      "url": "https://www.ivybridgebookshop.com/products/9780241769416",
-      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9780241769416.png?v=1782467552",
-      "vip": false,
-      "listed_at": "2026-06-18T16:08:32+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "British Library Shop::dogs-on-dates-signed-edition",
       "title": "Dogs on Dates (Signed Edition)",
       "author": "",
@@ -21557,6 +21533,18 @@
       "vip": false,
       "listed_at": "2026-06-17T14:27:47.658000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "Ivybridge Bookshop::9781529990874",
+      "title": "Grand: The Autobiography of Gromit: as told to Nick Park - Signed Independent Edition with Sprayed Edge - Nick Park; Gromit (Hardback) 22-10-2026",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Ivybridge Bookshop",
+      "url": "https://www.ivybridgebookshop.com/products/9781529990874",
+      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9781529990874.png?v=1783605665",
+      "vip": false,
+      "listed_at": "2026-06-17T12:26:51+00:00",
+      "discovered_at": "2026-10-27T14:13:10.344000+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781786588814",
@@ -22088,7 +22076,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9780241595992",
-      "title": "The Danger Gang  The Danger Game - Tom Fletcher; Shane Devries (Hardback) 08-10-2026",
+      "title": "The Danger Gang  The Danger Game - Signed 1st Edition - Tom Fletcher; Shane Devries (Hardback) 08-10-2026",
       "author": "",
       "price": "\u00a314.99",
       "shop": "Ivybridge Bookshop",
@@ -22100,7 +22088,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9780571404711",
-      "title": "Partita - (Pre Order) Independent Edition with sprayed edge - Barbara Kingsolver (Hardback) 06-10-2026",
+      "title": "Partita - Independent Edition with sprayed edge - Barbara Kingsolver (Hardback) 06-10-2026",
       "author": "Barbara Kingsolver",
       "price": "\u00a320.00",
       "shop": "Ivybridge Bookshop",
@@ -31376,7 +31364,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781911754244",
-      "title": "Jack Reacher  Chain Reaction: (Jack Reacher 31) - (Pre Order) Signed First Edition - Lee Child; Andrew Child (Hardback) 20-10-2026",
+      "title": "Jack Reacher  Chain Reaction: (Jack Reacher 31) - Signed First Edition - Lee Child; Andrew Child (Hardback) 20-10-2026",
       "author": "",
       "price": "\u00a322.00",
       "shop": "Ivybridge Bookshop",
@@ -31412,7 +31400,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9780241745212",
-      "title": "Diary of a Wimpy Kid: Fight or Flight (Book 21) - (Pre Order) Signed First Edition - Jeff Kinney; Jeff Kinney (Hardback) 20-10-2026",
+      "title": "Diary of a Wimpy Kid: Fight or Flight (Book 21) - Signed First Edition - Jeff Kinney; Jeff Kinney (Hardback) 20-10-2026",
       "author": "",
       "price": "\u00a314.99",
       "shop": "Ivybridge Bookshop",
@@ -36185,18 +36173,6 @@
       "vip": false,
       "listed_at": "2025-10-28T12:22:21.853000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9780349727677",
-      "title": "Cool Machine - Signed First Edition",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9780349727677",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/cool-machine-signed-first-edition-4772271.jpg?v=1786977310",
-      "vip": false,
-      "listed_at": "2025-10-27T13:58:57+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     }
   ]
 }
