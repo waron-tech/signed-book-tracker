@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-27T09:07:00.120273+00:00",
-  "total_available": 2940,
+  "last_updated": "2026-10-27T09:45:28.821630+00:00",
+  "total_available": 2945,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "7 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "35 items",
     "Hewson Books": "60 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "291 items",
+    "Booka Bookshop": "296 items",
     "Coles Books": "11 items",
     "West End Lane Books": "1096 items",
     "Foyles": "137 items via feed (as of 2026-10-27T06:17:57.155067+00:00)",
@@ -86,6 +86,18 @@
       "vip": false,
       "listed_at": "2026-10-26T13:59:45.993000+00:00",
       "discovered_at": "2026-10-26T15:26:56.577193+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-art-of-being-easily-pleased-signed-copy/",
+      "title": "The Art of Being Easily Pleased \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a314.99",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/the-art-of-being-easily-pleased-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/The-Art-of-Being-Easily-Pleased.jpg",
+      "vip": false,
+      "listed_at": "2026-10-26T12:49:17+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "Coles Books::https://coles-books.co.uk/seasons-by-ian-botham-signed-edition",
@@ -1295,6 +1307,18 @@
       "discovered_at": "2026-10-21T11:46:57.672770+00:00"
     },
     {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/firing-earth-an-unexpected-history-of-pots-and-potters-signed-copy/",
+      "title": "Firing Earth: An Unexpected History of Pots and Potters \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/firing-earth-an-unexpected-history-of-pots-and-potters-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/07/e92f2617-3522-4d1d-8abb-a251a0a22567-scaled.jpg",
+      "vip": false,
+      "listed_at": "2026-10-21T10:35:04+00:00",
+      "discovered_at": "2026-10-27T09:45:28.821630+00:00"
+    },
+    {
       "id": "Foyles::https://www.foyles.co.uk/book/the-case-of-the-christmas-card/elly-griffiths/9781529455625",
       "title": "The Case of the Christmas Card",
       "author": "Elly Griffiths",
@@ -1564,6 +1588,18 @@
       "listed_at": "2026-10-20T16:15:07.884532+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
       "est": "pos"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/johnny-marr-set-the-boy-free-illustrated-anniversary-edition-signed-copy/",
+      "title": "Johnny Marr: Set the Boy Free: Illustrated Anniversary Edition \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a330.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/johnny-marr-set-the-boy-free-illustrated-anniversary-edition-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/Johnny-Marr.jpg",
+      "vip": false,
+      "listed_at": "2026-10-20T15:53:57+00:00",
+      "discovered_at": "2026-10-27T09:45:28.821630+00:00"
     },
     {
       "id": "Linghams::https://linghams.co.uk/product/the-cat-in-the-cupboard-signed/",
@@ -3633,6 +3669,18 @@
       "listed_at": "2026-10-15T11:26:05.083302+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
       "est": "pos"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/my-rangers-how-i-changed-scottish-football-forever-signed-copy/",
+      "title": "My Rangers: How I Changed Scottish Football For Ever \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/my-rangers-how-i-changed-scottish-football-forever-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/07/My-Rangers.jpg",
+      "vip": false,
+      "listed_at": "2026-10-15T10:51:34+00:00",
+      "discovered_at": "2026-10-27T09:45:28.821630+00:00"
     },
     {
       "id": "Hatchards::https://www.hatchards.co.uk/book/the-infamous-gilberts/angela-tomaski/2928377374518",
@@ -7866,6 +7914,18 @@
       "listed_at": "2026-10-07T13:18:48.292695+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
       "est": "pos"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/under-the-iron-sky-signed-independent-bookshop-exclusive-edition/",
+      "title": "Under the Iron Sky \u2013 Signed Independent Bookshop Exclusive Edition",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/under-the-iron-sky-signed-independent-bookshop-exclusive-edition/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/Under-an-Emerald-Sky.jpg",
+      "vip": false,
+      "listed_at": "2026-10-07T11:36:30+00:00",
+      "discovered_at": "2026-10-27T09:45:28.821630+00:00"
     },
     {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/sebastian-faulks-farewell-to-eden-signed-copy-hardback",
@@ -17900,18 +17960,6 @@
       "discovered_at": "2026-10-26T16:21:01.664681+00:00"
     },
     {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-art-of-being-easily-pleased-signed-copy/",
-      "title": "The Art of Being Easily Pleased \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-art-of-being-easily-pleased-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/The-Art-of-Being-Easily-Pleased.jpg",
-      "vip": false,
-      "listed_at": "2026-08-05T12:49:17+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
-    },
-    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/rick-steins-cookery-course-signed-copy/",
       "title": "Rick Stein\u2019s Cookery Course \u2013 Signed Copy",
       "author": "",
@@ -27126,6 +27174,18 @@
       "vip": false,
       "listed_at": "2026-04-09T08:59:46+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/london-falling-signed-copy/",
+      "title": "London Falling \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/london-falling-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/02/London-Falling.jpg",
+      "vip": false,
+      "listed_at": "2026-04-09T08:44:14+00:00",
+      "discovered_at": "2026-10-27T09:45:28.821630+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/welcome-to-your-life-love-death-and-tears-for-fears-by-roland-orzabal-signed",
