@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-10-27T17:09:49.690665+00:00",
-  "total_available": 2941,
+  "last_updated": "2026-10-27T17:50:39.172972+00:00",
+  "total_available": 2939,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "7 items",
     "Porty Books": "15 items",
     "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "279 items",
+    "British Library Shop": "278 items",
     "Cleeve Bookshop": "147 items",
-    "Ivybridge Bookshop": "159 items",
+    "Ivybridge Bookshop": "158 items",
     "Perkology Books": "43 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
@@ -14816,18 +14816,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "British Library Shop::all-the-wrong-moves-signed-edition",
-      "title": "All the Wrong Moves (Signed Edition)",
-      "author": "",
-      "price": "\u00a325.00",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/all-the-wrong-moves-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/AlltheWrongMoves_9781847929235.png?v=1789648383",
-      "vip": false,
-      "listed_at": "2026-09-17T12:33:30+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "British Library Shop::turncloak-signed-edition",
       "title": "Turncloak (Signed Edition)",
       "author": "",
@@ -21534,18 +21522,6 @@
       "vip": false,
       "listed_at": "2026-06-17T14:27:47.658000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Ivybridge Bookshop::9781529990874",
-      "title": "Grand: The Autobiography of Gromit: as told to Nick Park - Signed Independent Edition with Sprayed Edge - Nick Park; Gromit (Hardback) 22-10-2026",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Ivybridge Bookshop",
-      "url": "https://www.ivybridgebookshop.com/products/9781529990874",
-      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9781529990874.png?v=1783605665",
-      "vip": false,
-      "listed_at": "2026-06-17T12:26:51+00:00",
-      "discovered_at": "2026-10-27T14:13:10.344000+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781786588814",
