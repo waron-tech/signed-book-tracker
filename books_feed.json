@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-10-28T16:22:18.737767+00:00",
-  "total_available": 2930,
+  "last_updated": "2026-10-28T17:15:03.349005+00:00",
+  "total_available": 2923,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "7 items",
     "Porty Books": "15 items",
     "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "277 items",
+    "British Library Shop": "276 items",
     "Cleeve Bookshop": "146 items",
     "Ivybridge Bookshop": "161 items",
     "Perkology Books": "43 items",
-    "Bookstation (Ireland)": "7 items",
+    "Bookstation (Ireland)": "6 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "28 items",
     "Little Apple Bookshop": "34 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "301 items",
+    "Booka Bookshop": "302 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1091 items",
+    "West End Lane Books": "1085 items",
     "Waterstones": "187 items via feed (as of 2026-10-28T14:19:32.615974+00:00)",
     "Foyles": "137 items via feed (as of 2026-10-28T10:36:28.727275+00:00)",
     "Linghams": "220 items via feed (as of 2026-10-27T18:16:31.059692+00:00)",
@@ -139,6 +139,18 @@
       "vip": false,
       "listed_at": "2026-10-28T12:24:06+00:00",
       "discovered_at": "2026-10-28T12:58:46.009505+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/just-kids-illustrated-edition-signed-copy/",
+      "title": "Just Kids Illustrated Edition \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a335.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/just-kids-illustrated-edition-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/Just-Kids-Illustrated-Edition.jpg",
+      "vip": false,
+      "listed_at": "2026-10-28T12:10:24+00:00",
+      "discovered_at": "2026-10-28T17:15:03.349005+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/how-winston-delivered-a-christmas-wish-signed-copy/",
@@ -17517,18 +17529,6 @@
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/coldplay-one-lens-by-victoria-smith-signed",
-      "title": "Coldplay One Lens by Victoria Smith (Signed)",
-      "author": "Victoria Smith",
-      "price": "\u00a330.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/coldplay-one-lens-by-victoria-smith-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/6a232a26-abe2-40da-9369-273342b3d595/Website+Listing+Template+-+Book+%284%29.jpg",
-      "vip": false,
-      "listed_at": "2026-08-07T11:32:46.853000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
       "id": "British Library Shop::the-book-lovers-quiz-book-novel-conundrums-1",
       "title": "The Book Lover's Quiz Book: Novel Conundrums (Signed Edition)",
       "author": "",
@@ -18319,18 +18319,6 @@
       "vip": false,
       "listed_at": "2026-07-31T08:25:01.190000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "Bookstation (Ireland)::chain-reaction-by-lee-child",
-      "title": "Chain Reaction: (Jack Reacher 31)",
-      "author": "Lee Child",
-      "price": "\u00a317.99",
-      "shop": "Bookstation (Ireland)",
-      "url": "https://bookstation.ie/products/chain-reaction-by-lee-child",
-      "image": "https://cdn.shopify.com/s/files/1/0939/6181/4281/files/9781911754251.jpg?v=1785430004",
-      "vip": false,
-      "listed_at": "2026-07-30T17:40:22+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/how-to-lose-a-lord-in-ten-days-by-sophie-irwin-signed",
@@ -35959,78 +35947,6 @@
       "vip": false,
       "listed_at": "2025-10-29T12:44:49+00:00",
       "discovered_at": "2026-10-28T11:20:50.501977+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/being-oldand-learning-to-love-it-by-prue-leith-signed",
-      "title": "Being Old...and learning to love it! by Prue Leith (Signed)",
-      "author": "Prue Leith",
-      "price": "\u00a320.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/being-oldand-learning-to-love-it-by-prue-leith-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/e66bba26-56b2-4567-a196-a20cc8aa5cbe/Copy+of+Product+Template+-+Book+-+2025-10-28T170357.720.jpg",
-      "vip": false,
-      "listed_at": "2025-10-28T17:05:54.994000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/am-i-normal-by-dr-alex-george-signed",
-      "title": "Am I Normal? by Dr Alex George (Signed)",
-      "author": "Dr Alex George",
-      "price": "\u00a322.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/am-i-normal-by-dr-alex-george-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/61710389-b3b5-4245-911b-78290c7e4339/Copy+of+Product+Template+-+Book+-+2025-10-28T170138.217.jpg",
-      "vip": false,
-      "listed_at": "2025-10-28T17:03:26.307000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/cameo-by-rob-doyle-signed",
-      "title": "Cameo by Rob Doyle (Signed)",
-      "author": "Rob Doyle",
-      "price": "\u00a320.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/cameo-by-rob-doyle-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/3a7a7d3f-aeaa-4b2e-a9eb-aa1f38cf60ad/Copy+of+Product+Template+-+Book+-+2025-10-28T165715.198.jpg",
-      "vip": false,
-      "listed_at": "2025-10-28T16:58:46.545000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-witch-and-the-wolf-by-lindsey-kelk-signed",
-      "title": "The Witch and the Wolf by Lindsey Kelk (Signed)",
-      "author": "Lindsey Kelk",
-      "price": "\u00a318.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-witch-and-the-wolf-by-lindsey-kelk-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/0b654854-0ebf-4fd9-8a3c-c6eb614aef41/Copy+of+Product+Template+-+Book+-+2025-10-28T164944.158.jpg",
-      "vip": false,
-      "listed_at": "2025-10-28T16:51:23.599000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-night-hag-by-hester-musson-signed",
-      "title": "The Night Hag by Hester Musson (Signed)",
-      "author": "Hester Musson",
-      "price": "\u00a316.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-night-hag-by-hester-musson-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/c263eb2d-9837-4b6a-9eb9-6358b5d816d2/Copy+of+Product+Template+-+Book+-+2025-10-28T163525.187.jpg",
-      "vip": false,
-      "listed_at": "2025-10-28T16:37:40.377000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "British Library Shop::poyums-annaw-signed-edition",
-      "title": "poyums annaw (Signed Edition)",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/poyums-annaw-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/puymes.png?v=1761669064",
-      "vip": false,
-      "listed_at": "2025-10-28T16:31:43+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     }
   ]
 }
