@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T03:31:06.889184+00:00",
-  "total_available": 2898,
+  "last_updated": "2026-10-28T04:21:35.457398+00:00",
+  "total_available": 2938,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "7 items",
@@ -15,10 +15,10 @@
     "Biggles Stones": "3 items",
     "London Review Bookshop": "28 items",
     "Little Apple Bookshop": "35 items",
-    "Hewson Books": "20 items",
+    "Hewson Books": "60 items",
     "Station Books": "64 items",
     "Booka Bookshop": "296 items",
-    "Coles Books": "ERROR: HTTPSConnectionPool(host='coles-books.co.uk', port=443): Read timed out. (read timeout=15)",
+    "Coles Books": "11 items",
     "West End Lane Books": "1095 items",
     "Waterstones": "188 items via feed (as of 2026-10-28T02:18:54.196072+00:00)",
     "Foyles": "137 items via feed (as of 2026-10-27T06:17:57.155067+00:00)",
@@ -37,32 +37,6 @@
       "vip": false,
       "listed_at": "2026-10-27T18:28:15.698284+00:00",
       "discovered_at": "2026-10-27T18:28:15.698284+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Waterstones::https://www.waterstones.com/book/how-to-win-at-chess-next-level/levy-rozman/gothamchess/2928377382629",
-      "title": "How to Win at Chess, Next Level",
-      "author": "Levy Rozman, Gothamchess",
-      "price": "\u00a322.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/how-to-win-at-chess-next-level/levy-rozman/gothamchess/2928377382629",
-      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377382629.jpg",
-      "vip": false,
-      "listed_at": "2026-10-27T14:56:45.110575+00:00",
-      "discovered_at": "2026-10-27T14:56:45.110575+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Waterstones::https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
-      "title": "The Goddess Queen",
-      "author": "Alice Roberts",
-      "price": "\u00a322.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398567832.jpg",
-      "vip": false,
-      "listed_at": "2026-10-27T14:56:45.110575+00:00",
-      "discovered_at": "2026-10-27T14:56:45.110575+00:00",
       "est": "seen"
     },
     {
@@ -86,6 +60,32 @@
       "shop": "Coles Books",
       "url": "https://coles-books.co.uk/tales-of-a-rock-star-s-daughter-by-nettie-baker-signed-edition",
       "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/e/nettie_baker_tales_of_a_rock_star_s_daughter_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-10-27T14:56:45.110575+00:00",
+      "discovered_at": "2026-10-27T14:56:45.110575+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/how-to-win-at-chess-next-level/levy-rozman/gothamchess/2928377382629",
+      "title": "How to Win at Chess, Next Level",
+      "author": "Levy Rozman, Gothamchess",
+      "price": "\u00a322.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/how-to-win-at-chess-next-level/levy-rozman/gothamchess/2928377382629",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377382629.jpg",
+      "vip": false,
+      "listed_at": "2026-10-27T14:56:45.110575+00:00",
+      "discovered_at": "2026-10-27T14:56:45.110575+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
+      "title": "The Goddess Queen",
+      "author": "Alice Roberts",
+      "price": "\u00a322.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398567832.jpg",
       "vip": false,
       "listed_at": "2026-10-27T14:56:45.110575+00:00",
       "discovered_at": "2026-10-27T14:56:45.110575+00:00",
@@ -3375,6 +3375,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-world-of-skandar-a-unicorn-rider-s-guide-by-a-f-steadman",
+      "title": "The World of Skandar: A Unicorn Rider's Guide by A.F. Steadman",
+      "author": "A.F. Steadman",
+      "price": "\u00a320.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/the-world-of-skandar-a-unicorn-rider-s-guide-by-a-f-steadman",
+      "image": "https://static.wixstatic.com/media/cf7295_94506d13259f45b0a9bcfcab87ac5579~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-16T04:21:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/the-neverland-thieves/katie-tsang/kevin-tsang/9781398568549",
       "title": "The Neverland Thieves",
       "author": "Katie Tsang, Kevin Tsang",
@@ -3514,6 +3527,19 @@
       "vip": false,
       "listed_at": "2026-10-15T19:24:19.069129+00:00",
       "discovered_at": "2026-10-22T15:58:36.211986+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/michael-by-bob-mortimer",
+      "title": "Michael ***Signed Indie Exclusive*** by Bob Mortimer",
+      "author": "Bob Mortimer",
+      "price": "\u00a322.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/michael-by-bob-mortimer",
+      "image": "https://static.wixstatic.com/media/cf7295_f5b0f554a0da499bb0122926c8547886~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-15T17:33:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -3908,6 +3934,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/irresistible-monsters-by-natalie-haynes",
+      "title": "Irresistible Monsters ***Signed Indie Exclusive*** by Natalie Haynes",
+      "author": "Natalie Haynes",
+      "price": "\u00a322.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/irresistible-monsters-by-natalie-haynes",
+      "image": "https://static.wixstatic.com/media/cf7295_8d44e5d39fd1450ab5828f8a8f7f6b7d~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-15T06:45:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/timeless/a-f-steadman/9781398537422",
       "title": "TimeLess",
       "author": "A F Steadman",
@@ -4113,6 +4152,19 @@
       "vip": false,
       "listed_at": "2026-10-14T20:10:14.006981+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/bury-our-bones-in-the-midnight-soil-by-v-e-schwab",
+      "title": "Bury Our Bones in the Midnight Soil by V. E. Schwab",
+      "author": "V. E. Schwab",
+      "price": "\u00a310.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/bury-our-bones-in-the-midnight-soil-by-v-e-schwab",
+      "image": "https://static.wixstatic.com/media/cf7295_f3f4b6bb3da54377837942d6513d6819~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-14T19:57:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -4739,6 +4791,19 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/traitors-nest-by-frances-hardinge",
+      "title": "Traitors' Nest ***Signed Exclusive*** by Frances Hardinge",
+      "author": "Frances Hardinge",
+      "price": "\u00a316.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/traitors-nest-by-frances-hardinge",
+      "image": "https://static.wixstatic.com/media/cf7295_697cf17fd96346a4abd8f0f7243ce763~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-14T09:09:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/caitlin-moran-signed-copies-how-to-be-hopeful-pub-date-17th-september/",
       "title": "Caitlin Moran \u2013 signed copies How To be Hopeful",
       "author": "Caitlin Moran",
@@ -4943,6 +5008,19 @@
       "vip": false,
       "listed_at": "2026-10-13T22:22:22.265584+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/let-sleeping-cats-lie-pet-poems-by-brian-bilston",
+      "title": "Let Sleeping Cats Lie - Pet Poems by Brian Bilston",
+      "author": "Brian Bilston",
+      "price": "\u00a37.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/let-sleeping-cats-lie-pet-poems-by-brian-bilston",
+      "image": "https://static.wixstatic.com/media/cf7295_2c3220aafb704ef8b192e74c58a854f4~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-13T22:21:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -5200,6 +5278,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/girl-dinner-by-olivie-blake",
+      "title": "Girl Dinner by Olivie Blake",
+      "author": "Olivie Blake",
+      "price": "\u00a39.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/girl-dinner-by-olivie-blake",
+      "image": "https://static.wixstatic.com/media/cf7295_dce21376a480475ea313d5a4757d9155~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-13T11:33:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/stewart-lee-pea-green-boat-signed-copy-hardback",
       "title": "Stewart Lee - Pea Green Boat (SIGNED COPY) (HARDBACK)",
       "author": "Stewart Lee",
@@ -5441,6 +5532,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-bridge-by-colm-toibin",
+      "title": "The Bridge ***Signed*** by Colm Toibin",
+      "author": "Colm Toibin",
+      "price": "\u00a312.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/the-bridge-by-colm-toibin",
+      "image": "https://static.wixstatic.com/media/cf7295_bf35ebc278fe48629a4f07368311ebb9~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-13T00:45:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/pre-order-signed-indie-edition-ann-cleeves/",
       "title": "Pre order signed indie edition Ann Cleeves The Dying Light",
       "author": "Ann Cleeves",
@@ -5672,6 +5776,19 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/exit-party-by-emily-st-john-mandel",
+      "title": "Exit Party ***Signed, Exclusive*** by Emily St John Mandel",
+      "author": "Emily St John Mandel",
+      "price": "\u00a318.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/exit-party-by-emily-st-john-mandel",
+      "image": "https://static.wixstatic.com/media/cf7295_bf0a97e8c6264b1aa1b500e78a0aab57~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-12T13:57:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Porty Books::https://www.theportobellobookshop.com/9781840918670-s",
       "title": "High Energy Unpleasant",
       "author": "Fern Brady",
@@ -5867,6 +5984,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/ply-by-hernan-diaz",
+      "title": "Ply ***Signed*** by Hernan Diaz",
+      "author": "Hernan Diaz",
+      "price": "\u00a320.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/ply-by-hernan-diaz",
+      "image": "https://static.wixstatic.com/media/cf7295_0df30a8d08ac4d18b52dd3008da266c8~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-12T03:09:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/letters-to-our-sons/stephen-graham/9781037209888",
       "title": "Letters to Our Sons",
       "author": "Stephen Graham",
@@ -6049,6 +6179,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-golden-hours-by-louisa-young",
+      "title": "The Golden Hours ***Signed, Exclusive*** by Louisa Young",
+      "author": "Louisa Young",
+      "price": "\u00a320.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/the-golden-hours-by-louisa-young",
+      "image": "https://static.wixstatic.com/media/cf7295_17d307b2095549088eda10a5438cbd05~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-11T16:21:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/the-teenage-diaries-of-a-stand-up-comedian-signed-pre-order/",
       "title": "The Teenage Diaries of a Stand-Up Comedian *SIGNED* (pre-order)",
       "author": "Jon Richardson",
@@ -6202,6 +6345,19 @@
       "vip": false,
       "listed_at": "2026-10-11T06:27:22.578410+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-rouse-by-china-mieville",
+      "title": "The Rouse ***Signed*** by China Mieville",
+      "author": "China Mieville",
+      "price": "\u00a335.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/the-rouse-by-china-mieville",
+      "image": "https://static.wixstatic.com/media/cf7295_ed3d8179104244c7aa3bba9a2e1a9d2e~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-11T05:33:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -6371,6 +6527,19 @@
       "vip": false,
       "listed_at": "2026-10-10T18:59:47.001110+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-ancient-ways-by-seren-hawley-plows",
+      "title": "The Ancient Ways ***Signed*** by Seren Hawley-Plows",
+      "author": "Seren Hawley-Plows",
+      "price": "\u00a316.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/the-ancient-ways-by-seren-hawley-plows",
+      "image": "https://static.wixstatic.com/media/cf7295_154fc4a10e07498eaa9b9780d2427e61~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-10T18:45:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -6592,6 +6761,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/cold-sunset-by-william-boyd",
+      "title": "Cold Sunset ***Signed*** by William Boyd",
+      "author": "William Boyd",
+      "price": "\u00a320.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/cold-sunset-by-william-boyd",
+      "image": "https://static.wixstatic.com/media/cf7295_fceaa92eb643459f9ef276910667ee17~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-10T07:57:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/sleepers-in-the-snow-by-joanne-harris",
       "title": "Sleepers in the Snow ***signed*** by Joanne Harris",
       "author": "Joanne Harris",
@@ -6771,6 +6953,19 @@
       "vip": true,
       "listed_at": "2026-10-09T22:17:02.617549+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/end-times-fascism-by-naomi-klein",
+      "title": "End Times Fascism ***Signed*** by Naomi Klein",
+      "author": "Naomi Klein",
+      "price": "\u00a325.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/end-times-fascism-by-naomi-klein",
+      "image": "https://static.wixstatic.com/media/cf7295_f8b90a8fe6cb47ee8424738ac306def4~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-09T21:09:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -6991,6 +7186,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/all-the-wrong-moves-by-anthony-scaramucci",
+      "title": "All the Wrong Moves ***Signed (Limited)*** by Anthony Scaramucci",
+      "author": "Anthony Scaramucci",
+      "price": "\u00a325.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/all-the-wrong-moves-by-anthony-scaramucci",
+      "image": "https://static.wixstatic.com/media/cf7295_bbb8c6bd2f5d40c2b8bcad9263dce46c~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-09T10:21:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/dark-reading-matter/jasper-fforde/9781399769587",
       "title": "Dark Reading Matter",
       "author": "Jasper Fforde",
@@ -7196,6 +7404,19 @@
       "vip": false,
       "listed_at": "2026-10-08T23:35:56.864124+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/indignity-by-lea-ypi-1",
+      "title": "Indignity by Lea Ypi",
+      "author": "Lea Ypi",
+      "price": "\u00a312.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/indignity-by-lea-ypi-1",
+      "image": "https://static.wixstatic.com/media/cf7295_98ab3977894b4fafa630af8c29ebf821~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-08T23:33:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -7440,6 +7661,19 @@
       "vip": false,
       "listed_at": "2026-10-08T12:52:48+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/king-zero-by-charlie-higson",
+      "title": "King Zero by Charlie Higson",
+      "author": "Charlie Higson",
+      "price": "\u00a322.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/king-zero-by-charlie-higson",
+      "image": "https://static.wixstatic.com/media/cf7295_c40b4105d5ba4867b899518f201ef4b0~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-08T12:45:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/i-once-knew-a-guy-called-charlie-signed-copy/",
@@ -7707,6 +7941,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-loneliness-of-sonia-and-sunny-by-kiran-desai-1",
+      "title": "The Loneliness of Sonia and Sunny by Kiran Desai",
+      "author": "Kiran Desai",
+      "price": "\u00a312.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/the-loneliness-of-sonia-and-sunny-by-kiran-desai-1",
+      "image": "https://static.wixstatic.com/media/cf7295_e7f98870561a4d788f9fc29dc4382e49~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-08T01:57:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/signed-a-very-dangerous-pursuit-ben-miller/",
       "title": "Signed \u2013 A Very Dangerous Pursuit \u2013 Ben Miller",
       "author": "A Very Dangerous Pursuit",
@@ -7910,6 +8157,19 @@
       "vip": false,
       "listed_at": "2026-10-07T16:44:31.149838+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/middleland-by-rory-stewart",
+      "title": "Middleland by Rory Stewart",
+      "author": "Rory Stewart",
+      "price": "\u00a312.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/middleland-by-rory-stewart",
+      "image": "https://static.wixstatic.com/media/cf7295_a67442b6eaa643fca4d5e18d322af141~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-07T15:09:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -8167,6 +8427,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/michael-palin-in-the-philippines-by-michael-palin",
+      "title": "Michael Palin in the Philippines by Michael Palin",
+      "author": "Michael Palin",
+      "price": "\u00a320.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/michael-palin-in-the-philippines-by-michael-palin",
+      "image": "https://static.wixstatic.com/media/cf7295_3fc73e01372f422aba468579cb5c59ff~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-07T04:21:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Hatchards::https://www.hatchards.co.uk/book/the-lost-voices-of-pompeii-hatchards-signed-edition/dr-jess-venner/2001797014698",
       "title": "The Lost Voices of Pompeii: Hatchards Signed Edition",
       "author": "Dr Jess Venner",
@@ -8345,6 +8618,19 @@
       "vip": false,
       "listed_at": "2026-10-06T20:05:43.725438+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/we-chase-shadows-by-richard-osman",
+      "title": "We Chase Shadows ***Signed, Indies Exclusive*** by Richard Osman",
+      "author": "Richard Osman",
+      "price": "\u00a325.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/we-chase-shadows-by-richard-osman",
+      "image": "https://static.wixstatic.com/media/cf7295_7200c07449e9405caa0c73c5a7a161ef~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-06T17:33:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -8565,6 +8851,19 @@
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/our-noble-selves-by-kate-atkinson",
+      "title": "Our Noble Selves ***Signed, Indies Exclusive*** by Kate Atkinson",
+      "author": "Kate Atkinson",
+      "price": "\u00a322.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/our-noble-selves-by-kate-atkinson",
+      "image": "https://static.wixstatic.com/media/cf7295_06bd3bb1633d43789ec013f59b46a258~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-06T06:45:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/the-dying-light/ann-cleeves/2928377394448",
       "title": "The Dying Light",
       "author": "Ann Cleeves",
@@ -8772,6 +9071,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/redwood-by-ben-macintyre",
+      "title": "Redwood ***Signed*** by Ben Macintyre",
+      "author": "Ben Macintyre",
+      "price": "\u00a325.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/redwood-by-ben-macintyre",
+      "image": "https://static.wixstatic.com/media/cf7295_d407b19f738746b6a6f260262e30dbb3~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-05T19:57:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Hatchards::https://www.hatchards.co.uk/book/the-writer-and-the-traitor-hatchards-signed-edition/robert-verkaik/2001797014711",
       "title": "The Writer and the Traitor: Hatchards Signed Edition",
       "author": "Robert Verkaik",
@@ -8937,6 +9249,19 @@
       "vip": false,
       "listed_at": "2026-10-05T09:46:46+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/my-pressures-by-andy-serkis",
+      "title": "My Pressures ***Signed*** by Andy Serkis",
+      "author": "Andy Serkis",
+      "price": "\u00a322.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/my-pressures-by-andy-serkis",
+      "image": "https://static.wixstatic.com/media/cf7295_4db26588c18c4ef98f37183bff8abbb8~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-05T09:09:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/american-hagwon-signed-copy/",
@@ -9145,6 +9470,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/from-the-world-of-percy-jackson-the-wild-zone-by-rick-riordan",
+      "title": "From the World of Percy Jackson: The Wild Zone by Rick Riordan",
+      "author": "Rick Riordan",
+      "price": "\u00a316.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/from-the-world-of-percy-jackson-the-wild-zone-by-rick-riordan",
+      "image": "https://static.wixstatic.com/media/cf7295_67f292ba53e54246a762e971398c4223~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-04T22:21:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/you-with-the-sad-eyes/",
       "title": "You With the Sad Eyes *SIGNED* Christina Applegate",
       "author": "Christina Applegate",
@@ -9298,6 +9636,19 @@
       "vip": false,
       "listed_at": "2026-10-04T12:05:32.206590+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-wizard-of-prog-by-rick-wakeman",
+      "title": "The Wizard of Prog ***Signed*** by Rick Wakeman",
+      "author": "Rick Wakeman",
+      "price": "\u00a322.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/the-wizard-of-prog-by-rick-wakeman",
+      "image": "https://static.wixstatic.com/media/cf7295_730974d90410499d9d3d71122620642d~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-04T11:33:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -9495,6 +9846,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-state-of-this-by-cody-dahler",
+      "title": "The State of This! by Cody Dahler",
+      "author": "Cody Dahler",
+      "price": "\u00a316.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/the-state-of-this-by-cody-dahler",
+      "image": "https://static.wixstatic.com/media/cf7295_507719967adb4beeac1017f6b98a1a1b~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-04T00:45:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/the-boleyn-secret-signed/",
       "title": "The Boleyn Secret *SIGNED*",
       "author": "",
@@ -9664,6 +10028,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-girl-in-cell-a-by-vaseem-khan",
+      "title": "The Girl In Cell A by Vaseem Khan",
+      "author": "Vaseem Khan",
+      "price": "\u00a310.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/the-girl-in-cell-a-by-vaseem-khan",
+      "image": "https://static.wixstatic.com/media/cf7295_bb6271b8e7fb426fa2e637ae13773291~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-03T13:57:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-raven-boys-a-graphic-novel-by-maggie-stiefvater-signed",
       "title": "The Raven Boys : (A Graphic Novel) by Maggie Stiefvater (Signed)",
       "author": "Maggie Stiefvater",
@@ -9829,6 +10206,19 @@
       "vip": false,
       "listed_at": "2026-10-03T03:32:39.603850+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/captain-sunshine-by-alex-milway",
+      "title": "Captain Sunshine by Alex Milway",
+      "author": "Alex Milway",
+      "price": "\u00a37.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/captain-sunshine-by-alex-milway",
+      "image": "https://static.wixstatic.com/media/cf7295_bb9e0d2051c540c3822d5d0573ae9742~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-03T03:09:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -10024,6 +10414,19 @@
       "vip": false,
       "listed_at": "2026-10-02T16:44:31.149838+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/vigilauntie-by-meera-syal",
+      "title": "Vigilauntie by Meera Syal",
+      "author": "Meera Syal",
+      "price": "\u00a322.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/vigilauntie-by-meera-syal",
+      "image": "https://static.wixstatic.com/media/cf7295_ab0fe38e225241bbae4aa11c725dda24~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-02T16:21:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -10231,6 +10634,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/sisters-in-yellow-by-mieko-kawakami",
+      "title": "Sisters in Yellow by Mieko Kawakami",
+      "author": "Mieko Kawakami",
+      "price": "\u00a316.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/sisters-in-yellow-by-mieko-kawakami",
+      "image": "https://static.wixstatic.com/media/cf7295_926744dbaeff489db990387151e5de8a~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-02T05:33:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/eric-idle-idle-in-provence-a-brief-history-of-thyme-signed-copy-hardback",
       "title": "Eric Idle - Idle In Provence : A Brief History Of Thyme (SIGNED COPY) (HARDBACK)",
       "author": "Eric Idle",
@@ -10422,6 +10838,19 @@
       "vip": false,
       "listed_at": "2026-10-01T18:59:47.001110+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/almost-life-by-kiran-millwood-hargrave",
+      "title": "Almost Life by Kiran Millwood Hargrave",
+      "author": "Kiran Millwood Hargrave",
+      "price": "\u00a316.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/almost-life-by-kiran-millwood-hargrave",
+      "image": "https://static.wixstatic.com/media/cf7295_1c2920e1e0eb46549bcb4517ead95a38~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-01T18:45:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -10775,6 +11204,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-magic-feather-by-julia-donaldson",
+      "title": "The Magic Feather by Julia Donaldson",
+      "author": "Julia Donaldson",
+      "price": "\u00a312.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/the-magic-feather-by-julia-donaldson",
+      "image": "https://static.wixstatic.com/media/cf7295_c0c03c2771f64af0b8b712630b5cf68a~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-01T07:57:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Foyles::https://www.foyles.co.uk/book/the-fall-of-the-west/owen-jones/2928377379926",
       "title": "The Fall of the West",
       "author": "Owen Jones",
@@ -10928,6 +11370,19 @@
       "vip": false,
       "listed_at": "2026-09-30T22:11:51.608650+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/rasputin-by-antony-beevor",
+      "title": "Rasputin ***Signed*** by Antony Beevor",
+      "author": "Antony Beevor",
+      "price": "\u00a325.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/rasputin-by-antony-beevor",
+      "image": "https://static.wixstatic.com/media/cf7295_3f2b125280014a8f98b44c376f0055e3~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-09-30T21:09:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -11160,6 +11615,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/new-gruffalo-picture-book-by-julia-donaldson",
+      "title": "New Gruffalo Picture Book by Julia Donaldson",
+      "author": "Julia Donaldson",
+      "price": "\u00a314.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/new-gruffalo-picture-book-by-julia-donaldson",
+      "image": "https://static.wixstatic.com/media/cf7295_d971338d5b984f9d9b3705197863b1fd~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-09-30T10:21:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/south/rob-biddulph/9780008841201",
       "title": "SOUTH",
       "author": "Rob Biddulph",
@@ -11326,6 +11794,19 @@
       "vip": false,
       "listed_at": "2026-09-29T23:35:56.864124+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/chain-reaction-by-lee-child",
+      "title": "Chain Reaction by Lee Child",
+      "author": "Lee Child",
+      "price": "\u00a322.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/chain-reaction-by-lee-child",
+      "image": "https://static.wixstatic.com/media/cf7295_b6f9855e5e894b3c8aa2c418ee6e00bd~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-09-29T23:33:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -11544,6 +12025,19 @@
       "vip": false,
       "listed_at": "2026-09-29T13:05:17.448066+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/diary-of-a-wimpy-kid-fight-or-flight-book-21-by-jeff-kinney",
+      "title": "Diary of a Wimpy Kid: Fight or Flight (Book 21) by Jeff Kinney",
+      "author": "Jeff Kinney",
+      "price": "\u00a314.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/diary-of-a-wimpy-kid-fight-or-flight-book-21-by-jeff-kinney",
+      "image": "https://static.wixstatic.com/media/cf7295_bd47a8fc75c94050b3404fcabd0f5025~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-09-29T12:45:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
@@ -11776,6 +12270,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/ottolenghi-simple-too-by-yotam-ottolenghi",
+      "title": "Ottolenghi SIMPLE TOO by Yotam Ottolenghi",
+      "author": "Yotam Ottolenghi",
+      "price": "\u00a330.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/ottolenghi-simple-too-by-yotam-ottolenghi",
+      "image": "https://static.wixstatic.com/media/cf7295_7c16e353bcf44cb8a1863ef262a71f60~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-09-29T01:57:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/pre-order-signed-almost-life-kiran-millwood-hargrave/",
       "title": "| Signed | Almost Life \u2013 Kiran Millwood Hargrave",
       "author": "Kiran Millwood Hargrave",
@@ -11965,6 +12472,19 @@
       "vip": false,
       "listed_at": "2026-09-28T15:16:21.353920+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-barbecue-at-no-9-signed-independent-exclusive-by-jennie-godfrey",
+      "title": "The Barbecue at No.9 **Signed, Independent Exclusive** by Jennie Godfrey",
+      "author": "Jennie Godfrey",
+      "price": "\u00a316.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/the-barbecue-at-no-9-signed-independent-exclusive-by-jennie-godfrey",
+      "image": "https://static.wixstatic.com/media/cf7295_8c22ea0ec2af486eb7fbbddc3690745a~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-09-28T15:09:35.457398+00:00",
+      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
     },
     {
