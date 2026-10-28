@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T19:28:27.008282+00:00",
-  "total_available": 2923,
+  "last_updated": "2026-10-28T20:10:59.001593+00:00",
+  "total_available": 2922,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "7 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "34 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "301 items",
+    "Booka Bookshop": "300 items",
     "Coles Books": "11 items",
     "West End Lane Books": "1085 items",
     "Waterstones": "187 items via feed (as of 2026-10-28T14:19:32.615974+00:00)",
@@ -151,18 +151,6 @@
       "vip": false,
       "listed_at": "2026-10-28T12:24:06+00:00",
       "discovered_at": "2026-10-28T12:58:46.009505+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/just-kids-illustrated-edition-signed-copy/",
-      "title": "Just Kids Illustrated Edition \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a335.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/just-kids-illustrated-edition-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/Just-Kids-Illustrated-Edition.jpg",
-      "vip": false,
-      "listed_at": "2026-10-28T12:10:24+00:00",
-      "discovered_at": "2026-10-28T17:15:03.349005+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/how-winston-delivered-a-christmas-wish-signed-copy/",
