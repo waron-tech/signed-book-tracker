@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T18:31:05.296755+00:00",
-  "total_available": 2924,
+  "last_updated": "2026-10-28T19:28:27.008282+00:00",
+  "total_available": 2923,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "7 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "34 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "302 items",
+    "Booka Bookshop": "301 items",
     "Coles Books": "11 items",
     "West End Lane Books": "1085 items",
     "Waterstones": "187 items via feed (as of 2026-10-28T14:19:32.615974+00:00)",
@@ -35574,18 +35574,6 @@
       "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/08/Rick-Steins-Christmas.jpg",
       "vip": false,
       "listed_at": "2025-11-06T15:44:12+00:00",
-      "discovered_at": "2026-10-28T11:20:50.501977+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/bread-of-angels-signed-copy/",
-      "title": "Bread of Angels \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a325.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/bread-of-angels-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/11/Bread-of-Angels.jpg",
-      "vip": false,
-      "listed_at": "2025-11-06T13:26:38+00:00",
       "discovered_at": "2026-10-28T11:20:50.501977+00:00"
     },
     {
