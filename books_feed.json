@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T00:23:56.074785+00:00",
+  "last_updated": "2026-10-28T01:28:33.713234+00:00",
   "total_available": 2939,
   "shop_status": {
     "Goldsboro Books": "13 items",
@@ -18,7 +18,7 @@
     "Hewson Books": "60 items",
     "Station Books": "64 items",
     "Booka Bookshop": "296 items",
-    "Coles Books": "11 items",
+    "Coles Books": "ERROR: 500 Server Error: Internal Server Error for url: https://coles-books.co.uk/signed/books?product_list_order=created_at",
     "West End Lane Books": "1095 items",
     "Waterstones": "189 items via feed (as of 2026-10-27T18:16:31.059692+00:00)",
     "Foyles": "137 items via feed (as of 2026-10-27T06:17:57.155067+00:00)",
@@ -37,32 +37,6 @@
       "vip": false,
       "listed_at": "2026-10-27T18:28:15.698284+00:00",
       "discovered_at": "2026-10-27T18:28:15.698284+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/cream-chronicled-by-nettie-baker-signed-edition",
-      "title": "Cream Chronicled by Nettie Baker - Signed Edition",
-      "author": "Nettie Baker",
-      "price": "\u00a318.99",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/cream-chronicled-by-nettie-baker-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/e/nettie_baker_cream_chronicled_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-27T14:56:45.110575+00:00",
-      "discovered_at": "2026-10-27T14:56:45.110575+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/tales-of-a-rock-star-s-daughter-by-nettie-baker-signed-edition",
-      "title": "Tales Of A Rock Star's Daughter by Nettie Baker - Signed Edition",
-      "author": "Nettie Baker",
-      "price": "\u00a314.99",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/tales-of-a-rock-star-s-daughter-by-nettie-baker-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/e/nettie_baker_tales_of_a_rock_star_s_daughter_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-27T14:56:45.110575+00:00",
-      "discovered_at": "2026-10-27T14:56:45.110575+00:00",
       "est": "seen"
     },
     {
@@ -86,6 +60,32 @@
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
       "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398567832.jpg",
+      "vip": false,
+      "listed_at": "2026-10-27T14:56:45.110575+00:00",
+      "discovered_at": "2026-10-27T14:56:45.110575+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Coles Books::https://coles-books.co.uk/cream-chronicled-by-nettie-baker-signed-edition",
+      "title": "Cream Chronicled by Nettie Baker - Signed Edition",
+      "author": "Nettie Baker",
+      "price": "\u00a318.99",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/cream-chronicled-by-nettie-baker-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/e/nettie_baker_cream_chronicled_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-10-27T14:56:45.110575+00:00",
+      "discovered_at": "2026-10-27T14:56:45.110575+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Coles Books::https://coles-books.co.uk/tales-of-a-rock-star-s-daughter-by-nettie-baker-signed-edition",
+      "title": "Tales Of A Rock Star's Daughter by Nettie Baker - Signed Edition",
+      "author": "Nettie Baker",
+      "price": "\u00a314.99",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/tales-of-a-rock-star-s-daughter-by-nettie-baker-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/e/nettie_baker_tales_of_a_rock_star_s_daughter_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
       "vip": false,
       "listed_at": "2026-10-27T14:56:45.110575+00:00",
       "discovered_at": "2026-10-27T14:56:45.110575+00:00",
