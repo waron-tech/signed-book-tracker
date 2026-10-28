@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T11:20:50.501977+00:00",
-  "total_available": 2938,
+  "last_updated": "2026-10-28T12:06:45.117146+00:00",
+  "total_available": 2942,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "7 items",
@@ -9,7 +9,7 @@
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "278 items",
     "Cleeve Bookshop": "146 items",
-    "Ivybridge Bookshop": "157 items",
+    "Ivybridge Bookshop": "158 items",
     "Perkology Books": "43 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "35 items",
     "Hewson Books": "60 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "297 items",
+    "Booka Bookshop": "300 items",
     "Coles Books": "11 items",
     "West End Lane Books": "1095 items",
     "Waterstones": "189 items via feed (as of 2026-10-28T10:36:28.727275+00:00)",
@@ -26,6 +26,42 @@
     "Hatchards": "98 items via feed (as of 2026-10-28T06:19:11.469998+00:00)"
   },
   "books": [
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/how-winston-delivered-a-christmas-wish-signed-copy/",
+      "title": "How Winston Delivered a Christmas Wish \u2013 Signed Copy",
+      "author": "Alex T",
+      "price": "\u00a320.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/how-winston-delivered-a-christmas-wish-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/How-Winston-Delivered-a-Christmas-Wish.jpg",
+      "vip": false,
+      "listed_at": "2026-10-28T11:58:48+00:00",
+      "discovered_at": "2026-10-28T12:06:45.117146+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/gold-dust-my-life-so-far-with-the-women-who-shaped-me-signed-copy/",
+      "title": "Gold Dust: My Life (so far) with the Women Who Shaped Me \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/gold-dust-my-life-so-far-with-the-women-who-shaped-me-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/Gold-Dust.jpg",
+      "vip": false,
+      "listed_at": "2026-10-28T11:52:25+00:00",
+      "discovered_at": "2026-10-28T12:06:45.117146+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-discworld-bestiary-signed-copy/",
+      "title": "The Discworld Bestiary \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a330.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/the-discworld-bestiary-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/The-Discworld-Bestiary.jpg",
+      "vip": false,
+      "listed_at": "2026-10-28T11:44:42+00:00",
+      "discovered_at": "2026-10-28T12:06:45.117146+00:00"
+    },
     {
       "id": "Foyles::https://www.foyles.co.uk/book/minihorror/barbi-markovic/2928377409401",
       "title": "Minihorror",
@@ -21522,6 +21558,18 @@
       "vip": false,
       "listed_at": "2026-06-17T14:27:47.658000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "Ivybridge Bookshop::9781529990874",
+      "title": "Grand: The Autobiography of Gromit: as told to Nick Park - (unsigned) Independent Edition with Sprayed Edge - Nick Park; Gromit (Hardback) 22-10-2026",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Ivybridge Bookshop",
+      "url": "https://www.ivybridgebookshop.com/products/9781529990874",
+      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9781529990874.png?v=1783605665",
+      "vip": false,
+      "listed_at": "2026-06-17T12:26:51+00:00",
+      "discovered_at": "2026-10-28T12:06:45.117146+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781786588814",
