@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T17:28:23.824360+00:00",
-  "total_available": 2883,
+  "last_updated": "2026-10-29T18:11:34.071280+00:00",
+  "total_available": 2882,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "6 items",
@@ -14,7 +14,7 @@
     "Bookstation (Ireland)": "6 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "28 items",
-    "Little Apple Bookshop": "36 items",
+    "Little Apple Bookshop": "35 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
     "Booka Bookshop": "301 items",
@@ -474,19 +474,6 @@
       "vip": false,
       "listed_at": "2026-10-25T14:00:47.951595+00:00",
       "discovered_at": "2026-10-29T14:31:56.059703+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/reece-shearsmith-things-i-took-from-the-dark-signed-copy-hardback",
-      "title": "Reece Shearsmith - Things I Took From The Dark (SIGNED COPY) (HARDBACK)",
-      "author": "Reece Shearsmith",
-      "price": "\u00a322.00",
-      "shop": "Little Apple Bookshop",
-      "url": "https://www.littleapplebookshop.co.uk/product-page/reece-shearsmith-things-i-took-from-the-dark-signed-copy-hardback",
-      "image": "https://static.wixstatic.com/media/01f334_81382796f05849d8b5392428742475bc~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-25T01:35:57.398212+00:00",
-      "discovered_at": "2026-10-29T13:35:57.398212+00:00",
       "est": "pos"
     },
     {
