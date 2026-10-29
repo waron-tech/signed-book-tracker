@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-10-29T11:09:20.149937+00:00",
+  "last_updated": "2026-10-29T11:49:19.855899+00:00",
   "total_available": 2924,
   "shop_status": {
     "Goldsboro Books": "13 items",
-    "Rare Mags": "7 items",
+    "Rare Mags": "6 items",
     "Porty Books": "15 items",
     "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
@@ -13,19 +13,31 @@
     "Perkology Books": "43 items",
     "Bookstation (Ireland)": "6 items",
     "Biggles Stones": "3 items",
-    "London Review Bookshop": "28 items",
+    "London Review Bookshop": "ERROR: HTTPSConnectionPool(host='www.londonreviewbookshop.co.uk', port=443): Read timed out. (read timeout=25)",
     "Little Apple Bookshop": "34 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
     "Booka Bookshop": "298 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1086 items",
+    "West End Lane Books": "1087 items",
     "Waterstones": "187 items via feed (as of 2026-10-28T14:19:32.615974+00:00)",
     "Foyles": "137 items via feed (as of 2026-10-28T10:36:28.727275+00:00)",
     "Linghams": "221 items via feed (as of 2026-10-28T22:21:08.161844+00:00)",
     "Hatchards": "101 items via feed (as of 2026-10-29T02:20:10.496268+00:00)"
   },
   "books": [
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/seven-by-joanna-kavenna-signed-1",
+      "title": "Seven by Joanna Kavenna (Signed)",
+      "author": "Joanna Kavenna",
+      "price": "\u00a39.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/seven-by-joanna-kavenna-signed-1",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/c882720a-92bf-4593-af98-4cc38728924c/Website+Listing+Template+-+Book.jpg",
+      "vip": false,
+      "listed_at": "2026-10-29T11:38:42.973000+00:00",
+      "discovered_at": "2026-10-29T11:49:19.855899+00:00"
+    },
     {
       "id": "Rare Mags::coffee-for-here",
       "title": "Coffee, For Here",
@@ -1028,18 +1040,6 @@
       "vip": false,
       "listed_at": "2026-10-22T12:56:32.013000+00:00",
       "discovered_at": "2026-10-22T13:17:42.297040+00:00"
-    },
-    {
-      "id": "Rare Mags::beasts-of-england",
-      "title": "Beasts Of England",
-      "author": "Ed. Nathan Connolly",
-      "price": "\u00a328.00",
-      "shop": "Rare Mags",
-      "url": "https://raremags.co.uk/products/beasts-of-england",
-      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/998EB36F-F415-4AB8-B6DF-D7BAF397C26B.jpg?v=1792151541",
-      "vip": false,
-      "listed_at": "2026-10-22T12:17:34+00:00",
-      "discovered_at": "2026-10-22T12:29:01.427487+00:00"
     },
     {
       "id": "Linghams::https://linghams.co.uk/product/proper-home-cooking/",
