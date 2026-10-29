@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T12:29:45.088880+00:00",
+  "last_updated": "2026-10-29T13:35:57.398212+00:00",
   "total_available": 2923,
   "shop_status": {
     "Goldsboro Books": "13 items",
@@ -14,18 +14,31 @@
     "Bookstation (Ireland)": "6 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "28 items",
-    "Little Apple Bookshop": "34 items",
+    "Little Apple Bookshop": "36 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "298 items",
+    "Booka Bookshop": "297 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1087 items",
+    "West End Lane Books": "1086 items",
     "Waterstones": "187 items via feed (as of 2026-10-28T14:19:32.615974+00:00)",
     "Foyles": "137 items via feed (as of 2026-10-28T10:36:28.727275+00:00)",
     "Linghams": "221 items via feed (as of 2026-10-28T22:21:08.161844+00:00)",
     "Hatchards": "101 items via feed (as of 2026-10-29T02:20:10.496268+00:00)"
   },
   "books": [
+    {
+      "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/nick-cave-susie-special-edition-signed-bookplate-edition",
+      "title": "Nick Cave - Susie (Special Edition) (SIGNED BOOKPLATE EDITION)",
+      "author": "",
+      "price": "\u00a375.00",
+      "shop": "Little Apple Bookshop",
+      "url": "https://www.littleapplebookshop.co.uk/product-page/nick-cave-susie-special-edition-signed-bookplate-edition",
+      "image": "https://static.wixstatic.com/media/01f334_150cde9433af41119e3f599b34ac3121~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-29T13:35:57.398212+00:00",
+      "discovered_at": "2026-10-29T13:35:57.398212+00:00",
+      "est": "seen"
+    },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/seven-by-joanna-kavenna-signed-1",
       "title": "Seven by Joanna Kavenna (Signed)",
@@ -450,6 +463,19 @@
       "vip": false,
       "listed_at": "2026-10-26T12:49:17+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
+      "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/reece-shearsmith-things-i-took-from-the-dark-signed-copy-hardback",
+      "title": "Reece Shearsmith - Things I Took From The Dark (SIGNED COPY) (HARDBACK)",
+      "author": "Reece Shearsmith",
+      "price": "\u00a322.00",
+      "shop": "Little Apple Bookshop",
+      "url": "https://www.littleapplebookshop.co.uk/product-page/reece-shearsmith-things-i-took-from-the-dark-signed-copy-hardback",
+      "image": "https://static.wixstatic.com/media/01f334_81382796f05849d8b5392428742475bc~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-25T01:35:57.398212+00:00",
+      "discovered_at": "2026-10-29T13:35:57.398212+00:00",
+      "est": "pos"
     },
     {
       "id": "Coles Books::https://coles-books.co.uk/seasons-by-ian-botham-signed-edition",
@@ -20844,18 +20870,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-disappearers-by-marlon-james-signed",
-      "title": "The Disappearers by Marlon James (Signed)",
-      "author": "Marlon James",
-      "price": "\u00a320.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-disappearers-by-marlon-james-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/bebfdd1f-30d3-4fdb-b06c-dc756637245d/Untitled+design+%2830%29.jpg",
-      "vip": false,
-      "listed_at": "2026-06-25T10:09:53.962000+00:00",
-      "discovered_at": "2026-10-25T13:17:18.984171+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-recovery-house-by-derek-owusu-signed",
       "title": "The Recovery House by Derek Owusu (Signed)",
       "author": "Derek Owusu",
@@ -35938,18 +35952,6 @@
       "vip": false,
       "listed_at": "2025-10-29T16:57:37+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/boys-dont-cry-signed-copy/",
-      "title": "Boys Don\u2019t Cry \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/boys-dont-cry-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/10/Boys-Dont-Cry.jpg",
-      "vip": false,
-      "listed_at": "2025-10-29T12:44:49+00:00",
-      "discovered_at": "2026-10-29T11:09:20.149937+00:00"
     }
   ]
 }
