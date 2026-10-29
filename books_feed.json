@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-29T11:49:19.855899+00:00",
-  "total_available": 2924,
+  "last_updated": "2026-10-29T12:29:45.088880+00:00",
+  "total_available": 2923,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "6 items",
-    "Porty Books": "15 items",
+    "Porty Books": "14 items",
     "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "275 items",
@@ -13,7 +13,7 @@
     "Perkology Books": "43 items",
     "Bookstation (Ireland)": "6 items",
     "Biggles Stones": "3 items",
-    "London Review Bookshop": "ERROR: HTTPSConnectionPool(host='www.londonreviewbookshop.co.uk', port=443): Read timed out. (read timeout=25)",
+    "London Review Bookshop": "28 items",
     "Little Apple Bookshop": "34 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
@@ -61,6 +61,18 @@
       "vip": false,
       "listed_at": "2026-10-29T10:22:59.938000+00:00",
       "discovered_at": "2026-10-29T11:09:20.149937+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-wizard-of-prog-the-truth-and-something-like-the-truth-signed-copy/",
+      "title": "The Wizard of Prog: The Truth and Something Like the Truth \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/the-wizard-of-prog-the-truth-and-something-like-the-truth-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/The-Wizard-of-Prog-scaled.jpg",
+      "vip": false,
+      "listed_at": "2026-10-29T07:07:58+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "Hatchards::https://www.hatchards.co.uk/book/song-of-the-cedars/robert-macfarlane/2928377382155",
@@ -10315,19 +10327,6 @@
       "vip": false,
       "listed_at": "2026-10-03T01:04:06.660042+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Porty Books::https://www.theportobellobookshop.com/9781529984781-s",
-      "title": "How Lucky Am I",
-      "author": "Christian Watson",
-      "price": "\u00a320.00",
-      "shop": "Porty Books",
-      "url": "https://www.theportobellobookshop.com/9781529984781-s",
-      "image": "https://cdn.theportobellobookshop.com/img/supplementary--10865307--main.jpg?p=search",
-      "vip": false,
-      "listed_at": "2026-10-03T00:36:39.688473+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
       "est": "pos"
     },
     {
@@ -24706,18 +24705,6 @@
       "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/Smallie.jpg",
       "vip": false,
       "listed_at": "2026-05-16T07:42:50+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-wizard-of-prog-the-truth-and-something-like-the-truth-signed-copy/",
-      "title": "The Wizard of Prog: The Truth and Something Like the Truth \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-wizard-of-prog-the-truth-and-something-like-the-truth-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/The-Wizard-of-Prog-scaled.jpg",
-      "vip": false,
-      "listed_at": "2026-05-16T07:07:58+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
