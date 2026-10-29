@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T16:31:03.602738+00:00",
-  "total_available": 2884,
+  "last_updated": "2026-10-29T17:28:23.824360+00:00",
+  "total_available": 2883,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "6 items",
@@ -8,7 +8,7 @@
     "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "274 items",
-    "Cleeve Bookshop": "143 items",
+    "Cleeve Bookshop": "141 items",
     "Ivybridge Bookshop": "163 items",
     "Perkology Books": "43 items",
     "Bookstation (Ireland)": "6 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "36 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "300 items",
+    "Booka Bookshop": "301 items",
     "Coles Books": "11 items",
     "West End Lane Books": "1086 items",
     "Waterstones": "185 items via feed (as of 2026-10-29T14:26:54.925109+00:00)",
@@ -26,6 +26,18 @@
     "Hatchards": "101 items via feed (as of 2026-10-29T02:20:10.496268+00:00)"
   },
   "books": [
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/drive-a-memoir-signed-copy/",
+      "title": "Drive: A Memoir \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a325.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/drive-a-memoir-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/Drive.jpg",
+      "vip": false,
+      "listed_at": "2026-10-29T16:46:29+00:00",
+      "discovered_at": "2026-10-29T17:28:23.824360+00:00"
+    },
     {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/nick-cave-susie-special-edition-signed-bookplate-edition",
       "title": "Nick Cave - Susie (Special Edition) (SIGNED BOOKPLATE EDITION)",
@@ -35421,30 +35433,6 @@
       "vip": false,
       "listed_at": "2025-10-30T09:00:39+00:00",
       "discovered_at": "2026-10-29T16:31:03.602738+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781529437935",
-      "title": "The Name Game - Signed First Edition",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781529437935",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-name-game-signed-first-edition-4602232.jpg?v=1786977431",
-      "vip": false,
-      "listed_at": "2025-10-29T16:57:46+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781399826969",
-      "title": "Awake Awake - Signed First Edition",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781399826969",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/awake-awake-signed-first-edition-3586715.jpg?v=1786977427",
-      "vip": false,
-      "listed_at": "2025-10-29T16:57:37+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     }
   ]
 }
