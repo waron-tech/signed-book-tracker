@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-29T06:06:27.620995+00:00",
-  "total_available": 2926,
+  "last_updated": "2026-10-29T06:58:25.588361+00:00",
+  "total_available": 2924,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "7 items",
     "Porty Books": "15 items",
     "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "276 items",
+    "British Library Shop": "275 items",
     "Cleeve Bookshop": "146 items",
     "Ivybridge Bookshop": "162 items",
     "Perkology Books": "43 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "34 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "300 items",
+    "Booka Bookshop": "299 items",
     "Coles Books": "11 items",
     "West End Lane Books": "1085 items",
     "Waterstones": "187 items via feed (as of 2026-10-28T14:19:32.615974+00:00)",
@@ -22957,18 +22957,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "British Library Shop::men-in-love-signed-edition",
-      "title": "Men in Love (Signed Edition)",
-      "author": "",
-      "price": "\u00a39.99",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/men-in-love-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/meninlovepb.png?v=1780574382",
-      "vip": false,
-      "listed_at": "2026-06-04T12:00:12+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "British Library Shop::this-immortal-heart-signed-edition",
       "title": "This Immortal Heart (Signed Edition)",
       "author": "",
@@ -24718,18 +24706,6 @@
       "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/Smallie.jpg",
       "vip": false,
       "listed_at": "2026-05-16T07:42:50+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-fear-opportunity-signed-copy/",
-      "title": "The Fear Opportunity \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a316.90",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-fear-opportunity-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/The-Fear-Opportunity.jpg",
-      "vip": false,
-      "listed_at": "2026-05-16T07:27:11+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
