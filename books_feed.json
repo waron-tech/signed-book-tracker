@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T05:50:08.190441+00:00",
-  "total_available": 2877,
+  "last_updated": "2026-10-30T06:29:59.222806+00:00",
+  "total_available": 2940,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "6 items",
@@ -20,38 +20,12 @@
     "Booka Bookshop": "300 items",
     "Coles Books": "11 items",
     "West End Lane Books": "1085 items",
-    "Waterstones": "186 items via feed (as of 2026-10-29T18:21:30.089128+00:00)",
-    "Foyles": "136 items via feed (as of 2026-10-29T18:21:30.089128+00:00)",
-    "Linghams": "221 items via feed (as of 2026-10-29T18:21:30.089128+00:00)",
-    "Hatchards": "62 items via feed (as of 2026-10-30T02:35:55.124223+00:00)"
+    "Waterstones": "187 items via feed (as of 2026-10-30T06:20:31.062040+00:00)",
+    "Foyles": "137 items via feed (as of 2026-10-30T06:20:31.062040+00:00)",
+    "Linghams": "221 items via feed (as of 2026-10-30T06:28:25.830436+00:00)",
+    "Hatchards": "123 items via feed (as of 2026-10-30T06:30:35.081363+00:00)"
   },
   "books": [
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/paddington-at-the-zoo-hatchards-exclusive-numbered-edition/michael-bond/9780008846572",
-      "title": "Hatchards Exclusive Paddington: Paddington at the Zoo by Michael Bond, illustrated by R.W. Alley, Exclusive and Numbered, Shop Now",
-      "author": "Michael Bond",
-      "price": "\u00a316.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/paddington-at-the-zoo-hatchards-exclusive-numbered-edition/michael-bond/9780008846572",
-      "image": "https://cdn.hatchards.co.uk/images/00553702-2400x772.jpeg",
-      "vip": false,
-      "listed_at": "2026-10-30T02:52:01.758203+00:00",
-      "discovered_at": "2026-10-30T02:52:01.758203+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/peter-pan-hatchards-childrens-library-edition/j-m-barrie/9780241858332",
-      "title": "New in The Hatchards Children's Librry: Peter Pan by J. M. Barrie, Numbered and Exclusive, Shop Now",
-      "author": "J. M. Barrie",
-      "price": "\u00a316.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/peter-pan-hatchards-childrens-library-edition/j-m-barrie/9780241858332",
-      "image": "https://cdn.hatchards.co.uk/images/00556048-2400x772.jpeg",
-      "vip": false,
-      "listed_at": "2026-10-30T02:52:01.758203+00:00",
-      "discovered_at": "2026-10-30T02:52:01.758203+00:00",
-      "est": "seen"
-    },
     {
       "id": "Hatchards::https://www.hatchards.co.uk/book/may-we-feed-the-king-hatchards-signed-edition/rebecca-perry/2001797015152",
       "title": "May We Feed the King: Hatchards Signed Edition by Rebecca Perry",
@@ -112,19 +86,6 @@
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/sleuth-hound/lindsey-fitzharris/2928377382612",
       "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377382612_2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-30T02:52:01.758203+00:00",
-      "discovered_at": "2026-10-30T02:52:01.758203+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/the-liberty-scarf/paul-rennie/9780500031131",
-      "title": "Hatchards Recommends: The Liberty Scarf by Paul Rennie, Shop Now",
-      "author": "Paul Rennie",
-      "price": "\u00a311.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/the-liberty-scarf/paul-rennie/9780500031131",
-      "image": "https://cdn.hatchards.co.uk/images/00556047-988x764.jpeg",
       "vip": false,
       "listed_at": "2026-10-30T02:52:01.758203+00:00",
       "discovered_at": "2026-10-30T02:52:01.758203+00:00",
@@ -254,58 +215,6 @@
       "price": "\u00a3750",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/english-bread-and-yeast-cookery/elizabeth-david/2928377380182",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
-      "vip": false,
-      "listed_at": "2026-10-30T02:52:01.758203+00:00",
-      "discovered_at": "2026-10-30T02:52:01.758203+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/the-uncommon-reader/alan-bennett/9780571378548",
-      "title": "The Uncommon Reader by Alan Bennett",
-      "author": "Alan Bennett",
-      "price": "\u00a39.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/the-uncommon-reader/alan-bennett/9780571378548",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
-      "vip": true,
-      "listed_at": "2026-10-30T02:52:01.758203+00:00",
-      "discovered_at": "2026-10-30T02:52:01.758203+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/the-lion-the-witch-and-the-wardrobe-hatchards-childrens-library-edition/c-s-lewis/9780008812676",
-      "title": "The Lion, the Witch and the Wardrobe: Hatchards Children's Library Edition by C. S. Lewis",
-      "author": "C. S. Lewis",
-      "price": "\u00a316.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/the-lion-the-witch-and-the-wardrobe-hatchards-childrens-library-edition/c-s-lewis/9780008812676",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
-      "vip": false,
-      "listed_at": "2026-10-30T02:52:01.758203+00:00",
-      "discovered_at": "2026-10-30T02:52:01.758203+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/paddington-and-the-christmas-surprise-hatchards-exclusive-edition/michael-bond/9780008661182",
-      "title": "Paddington and the Christmas Surprise: Hatchards Exclusive Edition by Michael Bond",
-      "author": "Michael Bond",
-      "price": "\u00a316.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/paddington-and-the-christmas-surprise-hatchards-exclusive-edition/michael-bond/9780008661182",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
-      "vip": false,
-      "listed_at": "2026-10-30T02:52:01.758203+00:00",
-      "discovered_at": "2026-10-30T02:52:01.758203+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/an-ideal-library/arthur-humphreys/9781785177545",
-      "title": "An Ideal Library by Arthur Humphreys",
-      "author": "Arthur Humphreys",
-      "price": "\u00a316.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/an-ideal-library/arthur-humphreys/9781785177545",
       "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": false,
       "listed_at": "2026-10-30T02:52:01.758203+00:00",
@@ -482,19 +391,6 @@
       "est": "seen"
     },
     {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/heartstopper-volume-1/alice-oseman/9781444951387",
-      "title": "Heartstopper Volume 1 by Alice Oseman",
-      "author": "Alice Oseman",
-      "price": "\u00a314.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/heartstopper-volume-1/alice-oseman/9781444951387",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
-      "vip": false,
-      "listed_at": "2026-10-30T02:52:01.758203+00:00",
-      "discovered_at": "2026-10-30T02:52:01.758203+00:00",
-      "est": "seen"
-    },
-    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/drive-a-memoir-signed-copy/",
       "title": "Drive: A Memoir \u2013 Signed Copy",
       "author": "",
@@ -566,19 +462,6 @@
       "vip": false,
       "listed_at": "2026-10-29T07:07:58+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/the-mallards-move-to-buckingham-palace-hatchards-exclusive-edition/jane-mcmorland-hunter/9781068372827",
-      "title": "The Mallards Move to Buckingham Palace: Hatchards Exclusive Edition by Jane McMorland Hunter",
-      "author": "Jane McMorland Hunter",
-      "price": "\u00a314.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/the-mallards-move-to-buckingham-palace-hatchards-exclusive-edition/jane-mcmorland-hunter/9781068372827",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
-      "vip": false,
-      "listed_at": "2026-10-29T02:26:08.714706+00:00",
-      "discovered_at": "2026-10-29T02:26:08.714706+00:00",
-      "est": "seen"
     },
     {
       "id": "Rare Mags::japanese-curry",
@@ -929,6 +812,19 @@
       "vip": false,
       "listed_at": "2026-10-25T14:00:47.951595+00:00",
       "discovered_at": "2026-10-29T14:31:56.059703+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/miss-lambert-steps-aboard-danger/kazuo-ishiguro/9780571409778",
+      "title": "Miss Lambert Steps Aboard Danger",
+      "author": "Kazuo Ishiguro",
+      "price": "\u00a318.99",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/miss-lambert-steps-aboard-danger/kazuo-ishiguro/9780571409778",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9780/5714/9780571409778.jpg",
+      "vip": true,
+      "listed_at": "2026-10-25T12:55:00.827084+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -1298,7 +1194,7 @@
       "price": "\u00a314.99",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/together-signed-murphys-sketches-pre-order/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://linghams.co.uk/wp-content/uploads/9781917894357-350x525.jpg.webp",
       "vip": false,
       "listed_at": "2026-10-22T20:58:08.370973+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -1337,7 +1233,7 @@
       "price": "\u00a38.99",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/mr-bears-christmas-2/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://linghams.co.uk/wp-content/uploads/9780702348327-1-350x525.jpg.webp",
       "vip": false,
       "listed_at": "2026-10-22T18:00:36.316179+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -1375,7 +1271,7 @@
       "price": "\u00a312.99",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/mr-bears-christmas/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://linghams.co.uk/wp-content/uploads/9780702348327-350x525.jpg.webp",
       "vip": false,
       "listed_at": "2026-10-22T15:03:04.261384+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -2113,7 +2009,7 @@
       "price": "\u00a322.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/pre-order-signed-copies-rituals-by-tim-downie/",
-      "image": "https://linghams.co.uk/wp-content/uploads/rituals.png.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-10-21T09:27:43.713439+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -2126,7 +2022,7 @@
       "price": "\u00a320.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/down-burrow-lane/",
-      "image": "https://www.bibdsl.co.uk/bds-images/m/978139/9781399760089.jpg",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-10-21T06:30:11.658645+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -2165,7 +2061,7 @@
       "price": "\u00a320.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/the-housekeeper-signed-sprayed-edged-edition/",
-      "image": "https://linghams.co.uk/wp-content/uploads/9781784745936-350x525.jpg.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-10-21T03:32:39.603850+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -2182,6 +2078,19 @@
       "vip": false,
       "listed_at": "2026-10-21T03:01:39.721267+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/song-of-the-cedars/robert-macfarlane/2928377382155",
+      "title": "Song of the Cedars",
+      "author": "Robert Macfarlane",
+      "price": "\u00a314.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/song-of-the-cedars/robert-macfarlane/2928377382155",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-21T02:59:15.320367+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -2234,6 +2143,19 @@
       "vip": false,
       "listed_at": "2026-10-20T22:51:51.966165+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-earth-transformed-illustrated-edition/peter-frankopan/9781037212970",
+      "title": "The Earth Transformed - Illustrated Edition",
+      "author": "Peter Frankopan",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-earth-transformed-illustrated-edition/peter-frankopan/9781037212970",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-20T21:43:09.466708+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -2855,7 +2777,7 @@
       "price": "\u00a322.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/pre-order-signed-exclusive-edition-michael-bob-mortimer/",
-      "image": "https://linghams.co.uk/wp-content/uploads/MICHAEL-350x525.png.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-10-19T13:04:42.891521+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -2881,7 +2803,7 @@
       "price": "\u00a320.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/sophie-standing-there-signed/",
-      "image": "https://linghams.co.uk/wp-content/uploads/9781526664006-350x525.jpg.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-10-19T10:07:10.836727+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -2907,7 +2829,7 @@
       "price": "\u00a320.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/contrapposto-signed/",
-      "image": "https://linghams.co.uk/wp-content/uploads/9781837266807-350x525.jpg.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-10-19T07:09:38.781932+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -2946,7 +2868,7 @@
       "price": "\u00a330.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/ottolenghi-simple-too-signed-including-jar-of-harissa/",
-      "image": "https://linghams.co.uk/wp-content/uploads/9781529109511-350x525.jpg.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-10-19T04:12:06.727138+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -3413,7 +3335,7 @@
       "price": "\u00a325.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/on-jokes-or-why-everything-you-know-about-comedy-is-wrong-signed-pre-order/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://linghams.co.uk/wp-content/uploads/9781529454222-350x525.jpg.webp",
       "vip": false,
       "listed_at": "2026-10-17T16:41:42.069603+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -3439,7 +3361,7 @@
       "price": "\u00a320.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/a-married-little-christmas-sprayed-edges/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://linghams.co.uk/wp-content/uploads/9780349448992-200x300.jpg.webp",
       "vip": false,
       "listed_at": "2026-10-17T13:44:10.014809+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -3478,7 +3400,7 @@
       "price": "\u00a318.99",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/soulhider-signed/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://linghams.co.uk/wp-content/uploads/9780063492837-199x300.jpg.webp",
       "vip": false,
       "listed_at": "2026-10-17T10:46:37.960014+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -3516,7 +3438,7 @@
       "price": "\u00a322.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/watch-the-quiet-snow-signed-pre-order/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://linghams.co.uk/wp-content/uploads/9781399838771-350x525.jpg.webp",
       "vip": false,
       "listed_at": "2026-10-17T07:49:05.905220+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -4456,6 +4378,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/a-fatal-love-hatchards-signed-edition/louisa-treger/2001797015398",
+      "title": "A Fatal Love: Hatchards Signed Edition",
+      "author": "Louisa Treger",
+      "price": "\u00a318.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/a-fatal-love-hatchards-signed-edition/louisa-treger/2001797015398",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-15T04:44:37.271586+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/joe-marler-vs-the-world/joe-marler/9780008850388",
       "title": "Joe Marler vs The World",
       "author": "Joe Marler",
@@ -4534,6 +4469,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/a-rebel-and-a-traitor/rory-carroll/2001797014490",
+      "title": "A Rebel and a Traitor",
+      "author": "Rory Carroll",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/a-rebel-and-a-traitor/rory-carroll/2001797014490",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797014490_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-14T23:28:31.417928+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Foyles::https://www.foyles.co.uk/book/the-wine-dark-sea/victoria-hislop/9781035448104",
       "title": "The Wine-Dark Sea",
       "author": "Victoria Hislop",
@@ -4609,6 +4557,19 @@
       "vip": false,
       "listed_at": "2026-10-14T20:10:14.006981+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/a-woman-s-work-hatchards-signed-edition/elinor-cleghorn/2001797014476",
+      "title": "A Woman\u2019s Work: Hatchards Signed Edition",
+      "author": "Elinor Cleghorn",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/a-woman-s-work-hatchards-signed-edition/elinor-cleghorn/2001797014476",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-14T18:12:25.564269+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -4914,6 +4875,19 @@
       "vip": false,
       "listed_at": "2026-10-14T13:18:48.292695+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/adam-and-eve/jeffrey-archer/9780008853099",
+      "title": "Adam and Eve",
+      "author": "Jeffrey Archer",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/adam-and-eve/jeffrey-archer/9780008853099",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/9780/0088/9780008853099_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-14T12:56:19.710611+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -5248,6 +5222,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/agrippa/robert-harris/2928377356330",
+      "title": "Agrippa",
+      "author": "Robert Harris",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/agrippa/robert-harris/2928377356330",
+      "image": "https://cdn.hatchards.co.uk/override/v2/large/2928/3773/2928377356330_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-14T07:40:13.856952+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/on-the-equality-of-all-things/carlo-rovelli/simon-carnell/2928377384524",
       "title": "On the Equality of All Things",
       "author": "Carlo Rovelli, Simon Carnell",
@@ -5326,6 +5313,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/all-the-way-to-the-river/elizabeth-gilbert/9781526693617",
+      "title": "All the Way to the River",
+      "author": "Elizabeth Gilbert",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/all-the-way-to-the-river/elizabeth-gilbert/9781526693617",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-14T02:24:08.003294+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-raven-s-gift-by-kiran-millwood-hargrave",
       "title": "The Raven's Gift ***signed*** by Kiran Millwood Hargrave",
       "author": "Kiran Millwood Hargrave",
@@ -5391,6 +5391,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/all-the-wrong-moves/anthony-scaramucci/2928377375218",
+      "title": "All the Wrong Moves",
+      "author": "Anthony Scaramucci",
+      "price": "\u00a325.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/all-the-wrong-moves/anthony-scaramucci/2928377375218",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-13T21:08:02.149635+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/cold-sunset-william-boyd",
       "title": "Cold Sunset - William Boyd",
       "author": "William Boyd",
@@ -5410,7 +5423,7 @@
       "price": "\u00a316.99",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/one-of-us-guilty-signed-steve-cavanagh-pre-order/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://linghams.co.uk/wp-content/uploads/steve-book-195x300.jpg.webp",
       "vip": false,
       "listed_at": "2026-10-13T20:58:08.370973+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -5466,6 +5479,19 @@
       "vip": false,
       "listed_at": "2026-10-13T16:44:31.149838+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/blockers/michael-lewis/2928377391843",
+      "title": "Blockers",
+      "author": "Michael Lewis",
+      "price": "\u00a325.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/blockers/michael-lewis/2928377391843",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377391843_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-13T15:51:56.295977+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -5644,6 +5670,19 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/buckeye/patrick-ryan/9781526698223",
+      "title": "Buckeye",
+      "author": "Patrick Ryan",
+      "price": "\u00a316.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/buckeye/patrick-ryan/9781526698223",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-13T10:35:50.442318+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/exit-party/emily-st-john-mandel/2928377374440",
       "title": "Exit Party",
       "author": "Emily St John Mandel",
@@ -5723,7 +5762,7 @@
     {
       "id": "Linghams::https://linghams.co.uk/product/pre-order-the-third-eye-deluxe-signed-editions/",
       "title": "Pre order The Third Eye deluxe signed editions George Harrison",
-      "author": "",
+      "author": "George Harrison",
       "price": "\u00a3600.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/pre-order-the-third-eye-deluxe-signed-editions/",
@@ -5794,6 +5833,19 @@
       "vip": false,
       "listed_at": "2026-10-13T05:24:05+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/cash-out/nick-hornby/2928377400163",
+      "title": "Cash Out",
+      "author": "Nick Hornby",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/cash-out/nick-hornby/2928377400163",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-13T05:19:44.588660+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/solace-in-winter-signed-independent-bookshop-exclusive-edition/",
@@ -5873,6 +5925,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/castles/dan-jones/9781035929771",
+      "title": "Castles",
+      "author": "Dan Jones",
+      "price": "\u00a330.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/castles/dan-jones/9781035929771",
+      "image": "https://cdn.hatchards.co.uk/override/v3/large/9781/0359/9781035929771_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-13T00:03:38.735001+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/blockers/michael-lewis/2928377391843",
       "title": "Blockers",
       "author": "Michael Lewis",
@@ -5948,6 +6013,19 @@
       "vip": false,
       "listed_at": "2026-10-12T19:46:03.308382+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/celestial-lights/cecile-pin/9780008819156",
+      "title": "Celestial Lights",
+      "author": "Cecile Pin",
+      "price": "\u00a316.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/celestial-lights/cecile-pin/9780008819156",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-12T18:47:32.881343+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -6063,6 +6141,19 @@
       "vip": false,
       "listed_at": "2026-10-12T14:22:54+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/comrades-in-art-hatchards-signed-edition/andy-friend/2001797014810",
+      "title": "Comrades in Art: Hatchards Signed Edition",
+      "author": "Andy Friend",
+      "price": "\u00a340.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/comrades-in-art-hatchards-signed-edition/andy-friend/2001797014810",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-12T13:31:27.027684+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
     },
     {
       "id": "Porty Books::https://www.theportobellobookshop.com/9781840918670-s",
@@ -6182,6 +6273,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/contrapposto/dave-eggers/9781837267859",
+      "title": "Contrapposto",
+      "author": "Dave Eggers",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/contrapposto/dave-eggers/9781837267859",
+      "image": "https://cdn.hatchards.co.uk/override/v2/large/9781/8372/9781837267859_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-12T08:15:21.174026+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/the-sixth-faction/veronica-roth/9780008848859",
       "title": "The Sixth Faction",
       "author": "Veronica Roth",
@@ -6270,6 +6374,19 @@
       "vip": false,
       "listed_at": "2026-10-12T03:01:39.721267+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/country-people/daniel-mason/9781399836685",
+      "title": "Country People",
+      "author": "Daniel Mason",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/country-people/daniel-mason/9781399836685",
+      "image": "https://cdn.hatchards.co.uk/override/v2/large/9781/3998/9781399836685_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-12T02:59:15.320367+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -6364,6 +6481,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/daughters-of-the-bamboo-grove/barbara-demick/9781803513768",
+      "title": "Daughters of the Bamboo Grove",
+      "author": "Barbara Demick",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/daughters-of-the-bamboo-grove/barbara-demick/9781803513768",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-11T21:43:09.466708+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/death-writ-large-signed-pre-order/",
       "title": "Death Writ Large *SIGNED* (pre-order)",
       "author": "",
@@ -6426,6 +6556,19 @@
       "vip": false,
       "listed_at": "2026-10-11T16:44:31.149838+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/dead-in-three-two-one/peter-james/2928377394455",
+      "title": "Dead in Three Two One",
+      "author": "Peter James",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/dead-in-three-two-one/peter-james/2928377394455",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377394455_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-11T16:27:03.613050+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -6520,6 +6663,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/decline-and-falling-over/jo-brand/2928377386139",
+      "title": "Decline and Falling Over",
+      "author": "Jo Brand",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/decline-and-falling-over/jo-brand/2928377386139",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377386139_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-11T11:10:57.759391+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/the-almanac-2027-signed-pre-order/",
       "title": "The Almanac 2027 *SIGNED*",
       "author": "Lia Leendertz",
@@ -6569,6 +6725,19 @@
       "vip": false,
       "listed_at": "2026-10-11T06:27:22.578410+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/drayton-and-mackenzie-hatchards-signed-edition/alexander-starritt/2001797014957",
+      "title": "Drayton and Mackenzie: Hatchards Signed Edition",
+      "author": "Alexander Starritt",
+      "price": "\u00a39.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/drayton-and-mackenzie-hatchards-signed-edition/alexander-starritt/2001797014957",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-11T05:54:51.905733+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -6676,6 +6845,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/end-times-fascism/naomi-klein/2928377383909",
+      "title": "End Times Fascism",
+      "author": "Naomi Klein",
+      "price": "\u00a325.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/end-times-fascism/naomi-klein/2928377383909",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-11T00:38:46.052074+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-recovery-house-derek-owusu",
       "title": "The Recovery House - Derek Owusu",
       "author": "Derek Owusu",
@@ -6738,6 +6920,19 @@
       "vip": false,
       "listed_at": "2026-10-10T20:10:14.006981+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/fires-which-burned-brightly/sebastian-faulks/2928377336660",
+      "title": "Fires Which Burned Brightly",
+      "author": "Sebastian Faulks",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/fires-which-burned-brightly/sebastian-faulks/2928377336660",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-10T19:22:40.198416+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -6842,6 +7037,19 @@
       "vip": false,
       "listed_at": "2026-10-10T16:02:14.946316+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/fly-wild-swans/jung-chang/9780008775803",
+      "title": "Fly, Wild Swans",
+      "author": "Jung Chang",
+      "price": "\u00a325.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/fly-wild-swans/jung-chang/9780008775803",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-10T14:06:34.344757+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -6972,6 +7180,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/having-spent-life-seeking/kae-tempest/2928377365639",
+      "title": "Having Spent Life Seeking",
+      "author": "Kae Tempest",
+      "price": "\u00a318.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/having-spent-life-seeking/kae-tempest/2928377365639",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377365639_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-10T08:50:28.491099+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/sleepers-in-the-snow-by-joanne-harris",
       "title": "Sleepers in the Snow ***signed*** by Joanne Harris",
       "author": "Joanne Harris",
@@ -7050,6 +7271,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/hollywood-ending/john-green/2928377394189",
+      "title": "Hollywood, Ending",
+      "author": "John Green",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/hollywood-ending/john-green/2928377394189",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377394189_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-10T03:34:22.637440+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/mending/matt-willis/9781529455359",
       "title": "Mending",
       "author": "Matt Willis",
@@ -7112,6 +7346,19 @@
       "vip": false,
       "listed_at": "2026-10-09T23:35:56.864124+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/hope-is-here/zack-polanski/2928377383114",
+      "title": "Hope is Here",
+      "author": "Zack Polanski",
+      "price": "\u00a312.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/hope-is-here/zack-polanski/2928377383114",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-09T22:18:16.783782+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -7186,7 +7433,7 @@
       "price": "\u00a322.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/things-i-took-from-the-dark-the-museum-of-me-signed-reece-shearsmith-pre-order/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://linghams.co.uk/wp-content/uploads/9781529453133-350x525.jpg.webp",
       "vip": false,
       "listed_at": "2026-10-09T19:19:30.562754+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -7219,6 +7466,32 @@
       "est": "pos"
     },
     {
+      "id": "Foyles::https://www.foyles.co.uk/book/the-goddess-queen/alice-roberts/9781398567832",
+      "title": "The Goddess Queen",
+      "author": "Alice Roberts",
+      "price": "\u00a322.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/the-goddess-queen/alice-roberts/9781398567832",
+      "image": "https://cdn.foyles.co.uk/override/v1/large/9781/3985/9781398567832_3.jpg",
+      "vip": false,
+      "listed_at": "2026-10-09T17:32:10.609667+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/how-to-art/kate-bryan/2928377330002",
+      "title": "How To Art",
+      "author": "Kate Bryan",
+      "price": "\u00a316.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/how-to-art/kate-bryan/2928377330002",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-09T17:02:10.930123+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/caught-up-nsfw-edition/navessa-allen/9781529453614",
       "title": "Caught Up NSFW Edition",
       "author": "Navessa Allen",
@@ -7238,7 +7511,7 @@
       "price": "\u00a38.99",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/pre-order-a-signed-copy-of-matt-goodfellow-six-weeks/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://linghams.co.uk/wp-content/uploads/matt-goodfellow-197x300.png.webp",
       "vip": false,
       "listed_at": "2026-10-09T16:21:58.507960+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -7300,7 +7573,7 @@
       "price": "\u00a316.99",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/dissection-of-a-murder-signed-indie-edition/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://linghams.co.uk/wp-content/uploads/CopyofProductTemplate-SquarePromotionalImage-Updated73-350x525.webp",
       "vip": false,
       "listed_at": "2026-10-09T13:24:26.453165+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -7317,6 +7590,19 @@
       "vip": false,
       "listed_at": "2026-10-09T13:18:48.292695+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/island-of-the-dead/peter-may/9781529455960",
+      "title": "Island of the Dead",
+      "author": "Peter May",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/island-of-the-dead/peter-may/9781529455960",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-09T11:46:05.076465+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -7436,6 +7722,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/kutchinskys-egg-hatchards-signed-edition/serena-kutchinsky/2001797014582",
+      "title": "Kutchinsky's Egg: Hatchards Signed Edition",
+      "author": "Serena Kutchinsky",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/kutchinskys-egg-hatchards-signed-edition/serena-kutchinsky/2001797014582",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797014582_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-09T06:29:59.222806+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/the-housekeeper/rose-tremain/2928377382278",
       "title": "The Housekeeper",
       "author": "Rose Tremain",
@@ -7524,6 +7823,19 @@
       "vip": false,
       "listed_at": "2026-10-09T01:24:19.069129+00:00",
       "discovered_at": "2026-10-22T15:58:36.211986+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/la-belle-france-hatchards-signed-edition/simon-morley/2001797014933",
+      "title": "La Belle France: Hatchards Signed Edition",
+      "author": "Simon Morley",
+      "price": "\u00a325.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/la-belle-france-hatchards-signed-edition/simon-morley/2001797014933",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797014933_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-09T01:13:53.369147+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -7643,6 +7955,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/like-a-cat-loves-a-bird-hatchards-signed-edition/james-bailey/2001797014681",
+      "title": "Like a Cat Loves a Bird: Hatchards Signed Edition",
+      "author": "James Bailey",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/like-a-cat-loves-a-bird-hatchards-signed-edition/james-bailey/2001797014681",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797014681_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-08T19:57:47.515489+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Hatchards::https://www.hatchards.co.uk/book/the-great-dictator-hatchards-signed-edition/matthew-sweet/2001797015350",
       "title": "The Great Dictator: Hatchards Signed Edition by Matthew Sweet",
       "author": "Matthew Sweet",
@@ -7718,6 +8043,19 @@
       "vip": false,
       "listed_at": "2026-10-08T16:04:31.000690+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/london-station/david-mccloskey/9781800757486",
+      "title": "London Station",
+      "author": "David Mccloskey",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/london-station/david-mccloskey/9781800757486",
+      "image": "https://cdn.hatchards.co.uk/override/v2/large/9781/8007/9781800757486_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-08T14:41:41.661830+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -7932,6 +8270,19 @@
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/long-wave/daisy-johnson/2928377379414",
+      "title": "Long Wave",
+      "author": "Daisy Johnson",
+      "price": "\u00a318.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/long-wave/daisy-johnson/2928377379414",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377379414_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-08T09:25:35.808172+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Foyles::https://www.foyles.co.uk/book/the-rouse/china-mi-ville/2928377373870",
       "title": "The Rouse",
       "author": "China Mi Ville",
@@ -8033,6 +8384,19 @@
       "vip": false,
       "listed_at": "2026-10-08T04:51:33.850425+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/miss-wolcotts-ghost/louise-penny/9781399769594",
+      "title": "Miss Wolcott's Ghost",
+      "author": "Louise Penny",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/miss-wolcotts-ghost/louise-penny/9781399769594",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-08T04:09:29.954513+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -8146,10 +8510,23 @@
       "price": "\u00a316.99",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/pea-green-boat-signed-pre-order/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://linghams.co.uk/wp-content/uploads/9781529988604-1-350x525.jpg.webp",
       "vip": false,
       "listed_at": "2026-10-07T22:56:29.740836+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/my-pressures/andy-serkis/2928377383893",
+      "title": "My Pressures",
+      "author": "Andy Serkis",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/my-pressures/andy-serkis/2928377383893",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377383893_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-07T22:53:24.100855+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -8185,7 +8562,7 @@
       "price": "\u00a325.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/welcome-to-your-life-signed/",
-      "image": "https://linghams.co.uk/wp-content/uploads/9781408724590-350x525.jpg.webp",
+      "image": "https://linghams.co.uk/wp-content/uploads/9781408724590-199x300.jpg.webp",
       "vip": false,
       "listed_at": "2026-10-07T19:58:57.686042+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -8215,6 +8592,19 @@
       "vip": false,
       "listed_at": "2026-10-07T18:19:46+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/napoleons-orangutan/katherine-rundell/9780571405251",
+      "title": "Napoleon's Orangutan",
+      "author": "Katherine Rundell",
+      "price": "\u00a310.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/napoleons-orangutan/katherine-rundell/9780571405251",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-07T17:37:18.247196+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
     },
     {
       "id": "Foyles::https://www.foyles.co.uk/book/switzy/emma-cline/2928377382599",
@@ -8338,10 +8728,23 @@
       "price": "\u00a316.99",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/autumn/kate-mosse/9781399767644",
-      "image": "https://cdn.foyles.co.uk/override/v1/large/9781/3997/9781399767644_3.jpg",
+      "image": "",
       "vip": false,
       "listed_at": "2026-10-07T12:47:08.315181+00:00",
       "discovered_at": "2026-10-29T18:57:43.609299+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/nights-out-in-the-kitchen/jay-rayner/2928377381547",
+      "title": "Nights Out in the Kitchen",
+      "author": "Jay Rayner",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/nights-out-in-the-kitchen/jay-rayner/2928377381547",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377381547_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-07T12:21:12.393538+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -8483,7 +8886,7 @@
     {
       "id": "Linghams::https://linghams.co.uk/product/celestial-lights-signed/",
       "title": "Celestial Lights *SIGNED*",
-      "author": "",
+      "author": "Cecile Pin",
       "price": "\u00a316.99",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/celestial-lights-signed/",
@@ -8504,6 +8907,19 @@
       "vip": false,
       "listed_at": "2026-10-07T08:01:15.374005+00:00",
       "discovered_at": "2026-10-29T18:57:43.609299+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/off-the-reservation/stephen-graham-jones/9781807591168",
+      "title": "Off the Reservation",
+      "author": "Stephen Graham Jones",
+      "price": "\u00a319.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/off-the-reservation/stephen-graham-jones/9781807591168",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-07T07:05:06.539879+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -8611,6 +9027,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/on-the-equality-of-all-things/carlo-rovelli/2928377384524",
+      "title": "On the Equality of All Things",
+      "author": "Carlo Rovelli",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/on-the-equality-of-all-things/carlo-rovelli/2928377384524",
+      "image": "https://cdn.hatchards.co.uk/override/v2/large/2928/3773/2928377384524_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-07T01:49:00.686221+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Foyles::https://www.foyles.co.uk/book/the-frozen-king/pari-thomson/2928377394196",
       "title": "The Frozen King",
       "author": "Pari Thomson",
@@ -8686,6 +9115,19 @@
       "vip": false,
       "listed_at": "2026-10-06T20:53:26+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/ottolenghi-simple-too/yotam-ottolenghi/2928377373856",
+      "title": "Ottolenghi Simple Too",
+      "author": "Yotam Ottolenghi",
+      "price": "\u00a330.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/ottolenghi-simple-too/yotam-ottolenghi/2928377373856",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377373856_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-06T20:32:54.832562+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
     },
     {
       "id": "Linghams::https://linghams.co.uk/product/pre-order-signed-copy-cressida-cowell-how-to-train-your-dragon-school/",
@@ -8776,6 +9218,19 @@
       "vip": false,
       "listed_at": "2026-10-06T16:44:31.149838+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/out-of-colditz-hatchards-signed-edition/david-lascelles/2001797015466",
+      "title": "Out of Colditz: Hatchards Signed Edition",
+      "author": "David Lascelles",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/out-of-colditz-hatchards-signed-edition/david-lascelles/2001797015466",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-06T15:16:48.978904+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -8893,6 +9348,19 @@
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/peck-and-peck/bonnie-garmus/9781786588975",
+      "title": "Peck & Peck",
+      "author": "Bonnie Garmus",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/peck-and-peck/bonnie-garmus/9781786588975",
+      "image": "https://cdn.hatchards.co.uk/override/v2/large/9781/7865/9781786588975_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-06T10:00:43.125245+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/autumn/kate-mosse/9781399767644",
       "title": "Autumn",
       "author": "Kate Mosse",
@@ -8980,6 +9448,19 @@
       "vip": false,
       "listed_at": "2026-10-06T04:50:46.747296+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/permanence/sophie-mackintosh/2928377373528",
+      "title": "Permanence",
+      "author": "Sophie Mackintosh",
+      "price": "\u00a318.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/permanence/sophie-mackintosh/2928377373528",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-06T04:44:37.271586+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -9073,6 +9554,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/queens-and-kings/lucy-worsley/9781399765138",
+      "title": "Queens and Kings",
+      "author": "Lucy Worsley",
+      "price": "\u00a325.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/queens-and-kings/lucy-worsley/9781399765138",
+      "image": "https://cdn.hatchards.co.uk/override/v2/large/9781/3997/9781399765138_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-05T23:28:31.417928+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Foyles::https://www.foyles.co.uk/book/scion/james-islington/9781399645041",
       "title": "Scion",
       "author": "James Islington",
@@ -9138,13 +9632,26 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/royal-witch/philippa-gregory/9780008846800",
+      "title": "Royal Witch",
+      "author": "Philippa Gregory",
+      "price": "\u00a325.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/royal-witch/philippa-gregory/9780008846800",
+      "image": "https://cdn.hatchards.co.uk/override/v2/large/9780/0088/9780008846800_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-05T18:12:25.564269+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/signed-pre-order-sleepers-in-the-snow-joanne-harris/",
       "title": "Signed | Pre-order | Sleepers in the Snow | Joanne Harris",
       "author": "",
       "price": "\u00a322.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/signed-pre-order-sleepers-in-the-snow-joanne-harris/",
-      "image": "https://linghams.co.uk/wp-content/uploads/51npPFUUvdL.jpg.webp",
+      "image": "https://linghams.co.uk/wp-content/uploads/51npPFUUvdL-206x300.jpg.webp",
       "vip": false,
       "listed_at": "2026-10-05T17:40:52.754535+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -9226,6 +9733,19 @@
       "vip": false,
       "listed_at": "2026-10-05T13:08:18.903417+00:00",
       "discovered_at": "2026-10-29T18:57:43.609299+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/tackle-hatchards-exclusive-slipcase-edition/jilly-cooper/9780857506177",
+      "title": "Tackle!: Hatchards Exclusive Slipcase Edition",
+      "author": "Jilly Cooper",
+      "price": "\u00a3100",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/tackle-hatchards-exclusive-slipcase-edition/jilly-cooper/9780857506177",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-05T12:56:19.710611+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -9355,6 +9875,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/taipei-story/rebecca-f-kuang/9780008841928",
+      "title": "Taipei Story",
+      "author": "Rebecca F Kuang",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/taipei-story/rebecca-f-kuang/9780008841928",
+      "image": "https://cdn.hatchards.co.uk/override/v2/large/9780/0088/9780008841928_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-05T07:40:13.856952+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/on-jokes-or-why-everything-you-know-about-comedy-is-wrong/jimmy-carr/amanda-baker/9781529455342",
       "title": "On Jokes (or, why everything you know about comedy is wrong)",
       "author": "Jimmy Carr, Amanda Baker",
@@ -9459,6 +9992,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/talking-classics/professor-mary-beard/9781805229674",
+      "title": "Talking Classics",
+      "author": "Professor Mary Beard",
+      "price": "\u00a316.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/talking-classics/professor-mary-beard/9781805229674",
+      "image": "https://cdn.hatchards.co.uk/override/v3/large/9781/8052/9781805229674_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-05T02:24:08.003294+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Foyles::https://www.foyles.co.uk/book/the-dying-light/ann-cleeves/2928377394448",
       "title": "The Dying Light",
       "author": "Ann Cleeves",
@@ -9521,6 +10067,19 @@
       "vip": false,
       "listed_at": "2026-10-04T22:21:35.457398+00:00",
       "discovered_at": "2026-10-28T04:21:35.457398+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-bayeux-tapestry-hatchards-signed-edition/sue-brunning/2001797015541",
+      "title": "The Bayeux Tapestry: Hatchards Signed Edition",
+      "author": "Sue Brunning",
+      "price": "\u00a345.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-bayeux-tapestry-hatchards-signed-edition/sue-brunning/2001797015541",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-04T21:08:02.149635+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -9599,6 +10158,19 @@
       "vip": false,
       "listed_at": "2026-10-04T16:03:58.615949+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-castle/jon-ronson/2928377365059",
+      "title": "The Castle",
+      "author": "Jon Ronson",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-castle/jon-ronson/2928377365059",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-04T15:51:56.295977+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -9690,6 +10262,19 @@
       "vip": false,
       "listed_at": "2026-10-04T11:33:07.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-goddess-queen/alice-roberts/9781398567832",
+      "title": "The Goddess Queen",
+      "author": "Alice Roberts",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-goddess-queen/alice-roberts/9781398567832",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-04T10:35:50.442318+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -9809,6 +10394,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-infamous-gilberts/angela-tomaski/2928377374518",
+      "title": "The Infamous Gilberts",
+      "author": "Angela Tomaski",
+      "price": "\u00a316.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-infamous-gilberts/angela-tomaski/2928377374518",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377374518_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-04T05:19:44.588660+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Foyles::https://www.foyles.co.uk/book/the-disappearers/marlon-james/2928377380007",
       "title": "The Disappearers",
       "author": "Marlon James",
@@ -9874,6 +10472,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-land-and-its-people-hatchards-signed-edition/david-sedaris/2001797015138",
+      "title": "The Land and Its People: Hatchards Signed Edition",
+      "author": "David Sedaris",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-land-and-its-people-hatchards-signed-edition/david-sedaris/2001797015138",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015138_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-04T00:03:38.735001+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/the-river-she-became/emily-varga/2928377360818",
       "title": "The River She Became",
       "author": "Emily Varga",
@@ -9919,7 +10530,7 @@
       "price": "\u00a39.99",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/pre-order-a-copy-of-jodie-ounsley-signed-strong-girls/",
-      "image": "https://linghams.co.uk/wp-content/uploads/Strong-girls-FURY-207x300.jpg.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-10-03T21:17:51.932617+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -9939,13 +10550,26 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-lost-voices-of-pompeii-hatchards-signed-edition/dr-jess-venner/2001797014698",
+      "title": "The Lost Voices of Pompeii: Hatchards Signed Edition",
+      "author": "Dr Jess Venner",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-lost-voices-of-pompeii-hatchards-signed-edition/dr-jess-venner/2001797014698",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-03T18:47:32.881343+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/signed-copies-how-to-age-by-liz-earle-pre-order-available-after-21st-april/",
       "title": "signed copies How to age by Liz Earle pre order available after 21st April",
       "author": "",
       "price": "\u00a322.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/signed-copies-how-to-age-by-liz-earle-pre-order-available-after-21st-april/",
-      "image": "https://linghams.co.uk/wp-content/uploads/how-to-age-liz-earle-350x525.jpg.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-10-03T18:20:19.877823+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -9997,10 +10621,23 @@
       "price": "\u00a322.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/letters-to-our-sons-signed-stephen-graham-pre-order/",
-      "image": "https://linghams.co.uk/wp-content/uploads/9781037204043-350x525.jpg.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-10-03T15:22:47.823028+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-secrets-of-painting-hatchards-signed-edition/lachlan-goudie/2001797014841",
+      "title": "The Secrets of Painting: Hatchards Signed Edition",
+      "author": "Lachlan Goudie",
+      "price": "\u00a338.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-secrets-of-painting-hatchards-signed-edition/lachlan-goudie/2001797014841",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797014841_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-03T13:31:27.027684+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -10094,6 +10731,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-silver-book/olivia-laing/2928377330446",
+      "title": "The Silver Book",
+      "author": "Olivia Laing",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-silver-book/olivia-laing/2928377330446",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-03T08:15:21.174026+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/how-to-be-hopeful-my-year-of-living-joyfully-caitlin-moran",
       "title": "How to Be Hopeful - Caitlin Moran",
       "author": "Caitlin Moran",
@@ -10169,6 +10819,19 @@
       "vip": false,
       "listed_at": "2026-10-03T03:01:39.721267+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-story-of-art-without-men/katy-hessel/9780241824214",
+      "title": "The Story of Art without Men",
+      "author": "Katy Hessel",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-story-of-art-without-men/katy-hessel/9780241824214",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/9780/2418/9780241824214_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-03T02:59:15.320367+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -10250,6 +10913,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-third-eye/george-harrison/9781807840754",
+      "title": "The Third Eye",
+      "author": "George Harrison",
+      "price": "\u00a3500",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-third-eye/george-harrison/9781807840754",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/9781/8078/9781807840754_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-02T21:43:09.466708+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/the-curry-bible-signed-nisha-katona-pre-order/",
       "title": "The Curry Bible *SIGNED* Nisha Katona",
       "author": "Nisha Katona",
@@ -10295,7 +10971,7 @@
       "price": "\u00a316.99",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/pea-green-boat/stewart-lee/2928377382261",
-      "image": "https://cdn.foyles.co.uk/override/v1/large/2928/3773/2928377382261_3.jpg",
+      "image": "",
       "vip": false,
       "listed_at": "2026-10-02T18:25:57.726946+00:00",
       "discovered_at": "2026-10-29T18:57:43.609299+00:00",
@@ -10325,6 +11001,19 @@
       "vip": false,
       "listed_at": "2026-10-02T16:44:31.149838+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-writer-and-the-traitor-hatchards-signed-edition/robert-verkaik/2001797014711",
+      "title": "The Writer and the Traitor: Hatchards Signed Edition",
+      "author": "Robert Verkaik",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-writer-and-the-traitor-hatchards-signed-edition/robert-verkaik/2001797014711",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-02T16:27:03.613050+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -10442,6 +11131,19 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-zorg/siddharth-kara/2928377342005",
+      "title": "The Zorg",
+      "author": "Siddharth Kara",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-zorg/siddharth-kara/2928377342005",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-02T11:10:57.759391+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/in-search-of-lost-thoughts-by-emily-crane-signed",
       "title": "In Search of Lost Thoughts by Emily Crane (Signed)",
       "author": "Emily Crane",
@@ -10529,6 +11231,19 @@
       "vip": false,
       "listed_at": "2026-10-02T06:27:22.578410+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/threads/sir-paul-smith/2928377378653",
+      "title": "Threads",
+      "author": "Sir Paul Smith",
+      "price": "\u00a325.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/threads/sir-paul-smith/2928377378653",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377378653_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-02T05:54:51.905733+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -10629,7 +11344,7 @@
       "price": "\u00a320.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/in-one-brief-moment-all-eternity/elif-shafak/2928377384555",
-      "image": "",
+      "image": "https://cdn.foyles.co.uk/override/v2/large/2928/3773/2928377384555_3.jpg",
       "vip": true,
       "listed_at": "2026-10-02T02:34:38.032007+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -10642,10 +11357,23 @@
       "price": "\u00a320.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/common-decency-signed-pre-order/",
-      "image": "https://linghams.co.uk/wp-content/uploads/Common-Decency-v2a_Signed-HB-IGG-350x525.jpg.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-10-02T00:54:51.110699+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/tom-stuart-smith/tim-richardson/2001797014445",
+      "title": "Tom Stuart-Smith",
+      "author": "Tim Richardson",
+      "price": "\u00a340.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/tom-stuart-smith/tim-richardson/2001797014445",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-02T00:38:46.052074+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -10681,7 +11409,7 @@
       "price": "\u00a322.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/feeling-fabulous-signed-pre-order/",
-      "image": "https://linghams.co.uk/wp-content/uploads/9781399756990-350x525.jpg.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-10-01T21:57:19.055905+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -10726,13 +11454,26 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/troublemaker-hatchards-signed-edition/carla-kaplan/2001797014827",
+      "title": "Troublemaker: Hatchards Signed Edition",
+      "author": "Carla Kaplan",
+      "price": "\u00a327.50",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/troublemaker-hatchards-signed-edition/carla-kaplan/2001797014827",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-01T19:22:40.198416+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/witch-trial-by-harriet-tyce-pre-order/",
       "title": "*SIGNED* Witch Trial by Harriet Tyce (pre-order)",
       "author": "Harriet Tyce",
       "price": "\u00a318.99",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/witch-trial-by-harriet-tyce-pre-order/",
-      "image": "https://linghams.co.uk/wp-content/uploads/9781035411917-350x525.jpg.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-10-01T18:59:47.001110+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -10808,7 +11549,7 @@
       "price": "\u00a316.99",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/half-his-age-signed/",
-      "image": "https://linghams.co.uk/wp-content/uploads/THE-SUNDAY-TIMES-BESTSELLING-AUTHOR-OF-IM-GLAD-MY-MOM-DIED-HALF-HIS-AGE-350x525.png.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-10-01T16:02:14.946316+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -10922,6 +11663,19 @@
       "vip": false,
       "listed_at": "2026-10-01T14:36:16+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/vigil/george-saunders/9781037201790",
+      "title": "Vigil",
+      "author": "George Saunders",
+      "price": "\u00a318.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/vigil/george-saunders/9781037201790",
+      "image": "https://cdn.hatchards.co.uk/override/v2/large/9781/0372/9781037201790_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-01T14:06:34.344757+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/dont-feed-the-troll-signed-independent-bookshop-edition-with-print/",
@@ -11077,6 +11831,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/villa-coco/andrew-sean-greer/9781399759663",
+      "title": "Villa Coco",
+      "author": "Andrew Sean Greer",
+      "price": "\u00a316.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/villa-coco/andrew-sean-greer/9781399759663",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-01T08:50:28.491099+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Cleeve Bookshop::9781529937824",
       "title": "Our Noble Selves - Signed First Edition with Sprayed Edge",
       "author": "",
@@ -11167,6 +11934,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/watch-the-quiet-snow/mick-herron/9781399842983",
+      "title": "Watch the Quiet Snow",
+      "author": "Mick Herron",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/watch-the-quiet-snow/mick-herron/9781399842983",
+      "image": "https://cdn.hatchards.co.uk/override/v2/large/9781/3998/9781399842983_2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-01T03:34:22.637440+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/between-books/ian-mcewan/2928377406523",
       "title": "Between Books",
       "author": "Ian Mcewan",
@@ -11229,6 +12009,19 @@
       "vip": false,
       "listed_at": "2026-09-30T23:10:37.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/weimar-germany-hatchards-signed-edition/victor-sebestyen/2001797015459",
+      "title": "Weimar Germany: Hatchards Signed Edition",
+      "author": "Victor Sebestyen",
+      "price": "\u00a325.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/weimar-germany-hatchards-signed-edition/victor-sebestyen/2001797015459",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015459_2.jpg",
+      "vip": false,
+      "listed_at": "2026-09-30T22:18:16.783782+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -11319,6 +12112,19 @@
       "vip": false,
       "listed_at": "2026-09-30T17:28:03.871423+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/whiteadder-wolfspider/benjamin-myers/9781037218408",
+      "title": "Whiteadder/Wolfspider",
+      "author": "Benjamin Myers",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/whiteadder-wolfspider/benjamin-myers/9781037218408",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-09-30T17:02:10.930123+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
     },
     {
@@ -11473,6 +12279,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/worship/alice-winn/2928377396046",
+      "title": "Worship",
+      "author": "Alice Winn",
+      "price": "\u00a318.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/worship/alice-winn/2928377396046",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377396046_2.jpg",
+      "vip": false,
+      "listed_at": "2026-09-30T11:46:05.076465+00:00",
+      "discovered_at": "2026-10-30T06:29:59.222806+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/the-lions-run-signed-pre-order/",
       "title": "The Lions\u2019 Run *SIGNED*",
       "author": "Sara Pennypacker",
@@ -11518,7 +12337,7 @@
       "price": "\u00a325.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/this-cursed-beautiful-land/evan-gershkovich/9780008862350",
-      "image": "",
+      "image": "https://cdn.foyles.co.uk/override/v1/large/9780/0088/9780008862350_3.jpg",
       "vip": false,
       "listed_at": "2026-09-30T09:15:22.432828+00:00",
       "discovered_at": "2026-10-29T18:57:43.609299+00:00",
@@ -11622,7 +12441,7 @@
       "price": "\u00a316.99",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/the-sea-stone-sisters-signed-pre-order/",
-      "image": "https://linghams.co.uk/wp-content/uploads/Indies-Signed-1-350x525.png.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-09-30T01:34:18.233987+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -11687,7 +12506,7 @@
       "price": "\u00a335.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/the-book-of-birds-signed-pre-order/",
-      "image": "https://linghams.co.uk/wp-content/uploads/BOB_9_16_01-350x525.jpg.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-09-29T22:36:46.179192+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -11751,7 +12570,7 @@
       "price": "\u00a325.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/the-cauldron-signed-simon-sebag-montefiore/",
-      "image": "https://linghams.co.uk/wp-content/uploads/9781399634892-350x525.jpg.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-09-29T19:39:14.124398+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -11790,7 +12609,7 @@
       "price": "\u00a320.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/queenie-is-working-on-it-signed-pre-order/",
-      "image": "https://linghams.co.uk/wp-content/uploads/Queenie-2-Holding-cover-GREEN-350x525.jpg.webp",
+      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "vip": false,
       "listed_at": "2026-09-29T16:41:42.069603+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -12413,7 +13232,7 @@
       "price": "\u00a322.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/ghost-stories-signed-pre-order/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://linghams.co.uk/wp-content/uploads/Ghost-Stories-Signed-350x525.png.webp",
       "vip": false,
       "listed_at": "2026-09-28T02:13:45.357275+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -12452,7 +13271,7 @@
       "price": "\u00a322.00",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/pre-order-signed-debatable-land-dispatches-from-the-borders-by-rory-stewart/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://linghams.co.uk/wp-content/uploads/9781787336247-350x525.jpg.webp",
       "vip": false,
       "listed_at": "2026-09-27T23:16:13.302480+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -12465,7 +13284,7 @@
       "price": "\u00a39.99",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/the-dark-that-hides-us-signed/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://linghams.co.uk/wp-content/uploads/the-dark-that-hides-us-9781398531871_xlg-350x525.jpg.webp",
       "vip": false,
       "listed_at": "2026-09-27T20:18:41.247686+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -12491,7 +13310,7 @@
       "price": "\u00a39.99",
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/the-dark-that-hides-us/",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://ping2.batch.co.uk/blcover/m/9781398531871.jpg?s=0-m-545527/1-UU6TrBlLdT%2BO2SwMoFu9OnXCr5s%3D",
       "vip": false,
       "listed_at": "2026-09-27T17:21:09.192891+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
