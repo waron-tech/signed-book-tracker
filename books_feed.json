@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T08:28:50.270083+00:00",
-  "total_available": 2940,
+  "last_updated": "2026-10-30T09:18:36.224408+00:00",
+  "total_available": 2939,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "6 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "35 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "300 items",
+    "Booka Bookshop": "299 items",
     "Coles Books": "11 items",
     "West End Lane Books": "1085 items",
     "Waterstones": "187 items via feed (as of 2026-10-30T06:20:31.062040+00:00)",
@@ -36165,18 +36165,6 @@
       "vip": false,
       "listed_at": "2025-10-30T14:45:00+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/a-complicated-woman-signed-copy/",
-      "title": "A Complicated Woman \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/a-complicated-woman-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/06/A-Complicated-woman.jpg",
-      "vip": false,
-      "listed_at": "2025-10-30T09:00:39+00:00",
-      "discovered_at": "2026-10-29T20:22:47.959086+00:00"
     }
   ]
 }
