@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T17:08:08.569898+00:00",
-  "total_available": 2933,
+  "last_updated": "2026-10-30T17:47:49.402219+00:00",
+  "total_available": 2934,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "6 items",
@@ -9,7 +9,7 @@
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "272 items",
     "Cleeve Bookshop": "141 items",
-    "Ivybridge Bookshop": "164 items",
+    "Ivybridge Bookshop": "165 items",
     "Perkology Books": "43 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
@@ -22198,6 +22198,18 @@
       "vip": false,
       "listed_at": "2026-06-11T15:16:54+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
+      "id": "Ivybridge Bookshop::9780008694821",
+      "title": "Murder at the Grand Alpine Hotel - Signed Independent Edition with sprayed edge - Lucy Foley; Agatha Christie (Hardback) 22-09-2026",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Ivybridge Bookshop",
+      "url": "https://www.ivybridgebookshop.com/products/9780008694821",
+      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9780008842093.png?v=1781181684",
+      "vip": false,
+      "listed_at": "2026-06-11T12:37:09+00:00",
+      "discovered_at": "2026-10-30T17:47:49.402219+00:00"
     },
     {
       "id": "Backstory London (Signed & Dedicated)::pre-order-now-timeless-by-a-f-steadman-signed-indie-edition-publishes-march-2027",
