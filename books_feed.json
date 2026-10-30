@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T02:52:01.758203+00:00",
+  "last_updated": "2026-10-30T03:31:37.850328+00:00",
   "total_available": 2877,
   "shop_status": {
     "Goldsboro Books": "13 items",
@@ -18,7 +18,7 @@
     "Hewson Books": "52 items",
     "Station Books": "64 items",
     "Booka Bookshop": "300 items",
-    "Coles Books": "ERROR: HTTPSConnectionPool(host='coles-books.co.uk', port=443): Read timed out. (read timeout=15)",
+    "Coles Books": "11 items",
     "West End Lane Books": "1085 items",
     "Waterstones": "186 items via feed (as of 2026-10-29T18:21:30.089128+00:00)",
     "Foyles": "136 items via feed (as of 2026-10-29T18:21:30.089128+00:00)",
@@ -794,19 +794,6 @@
       "est": "seen"
     },
     {
-      "id": "Waterstones::https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
-      "title": "The Goddess Queen",
-      "author": "Alice Roberts",
-      "price": "\u00a322.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398567832.jpg",
-      "vip": false,
-      "listed_at": "2026-10-27T14:56:45.110575+00:00",
-      "discovered_at": "2026-10-27T14:56:45.110575+00:00",
-      "est": "seen"
-    },
-    {
       "id": "Coles Books::https://coles-books.co.uk/cream-chronicled-by-nettie-baker-signed-edition",
       "title": "Cream Chronicled by Nettie Baker - Signed Edition",
       "author": "Nettie Baker",
@@ -827,6 +814,19 @@
       "shop": "Coles Books",
       "url": "https://coles-books.co.uk/tales-of-a-rock-star-s-daughter-by-nettie-baker-signed-edition",
       "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/e/nettie_baker_tales_of_a_rock_star_s_daughter_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-10-27T14:56:45.110575+00:00",
+      "discovered_at": "2026-10-27T14:56:45.110575+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
+      "title": "The Goddess Queen",
+      "author": "Alice Roberts",
+      "price": "\u00a322.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398567832.jpg",
       "vip": false,
       "listed_at": "2026-10-27T14:56:45.110575+00:00",
       "discovered_at": "2026-10-27T14:56:45.110575+00:00",
