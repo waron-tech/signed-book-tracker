@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T12:29:14.569843+00:00",
-  "total_available": 2933,
+  "last_updated": "2026-10-30T13:31:11.659056+00:00",
+  "total_available": 2934,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "6 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "35 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "298 items",
+    "Booka Bookshop": "299 items",
     "Coles Books": "11 items",
     "West End Lane Books": "1084 items",
     "Waterstones": "186 items via feed (as of 2026-10-30T10:19:10.668099+00:00)",
@@ -8244,6 +8244,18 @@
       "listed_at": "2026-10-08T09:25:35.808172+00:00",
       "discovered_at": "2026-10-30T06:29:59.222806+00:00",
       "est": "pos"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/devil-on-my-shoulder-alice-cooper-signed-copy/",
+      "title": "Devil on my Shoulder \u2013 Signed Copy",
+      "author": "Alice Cooper",
+      "price": "\u00a325.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/devil-on-my-shoulder-alice-cooper-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/03/Devil-On-My-Shoulder-scaled.jpeg",
+      "vip": false,
+      "listed_at": "2026-10-08T09:00:07+00:00",
+      "discovered_at": "2026-10-30T13:31:11.659056+00:00"
     },
     {
       "id": "Foyles::https://www.foyles.co.uk/book/the-rouse/china-mi-ville/2928377373870",
