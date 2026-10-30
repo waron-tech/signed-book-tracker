@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T21:58:53.277514+00:00",
-  "total_available": 2935,
+  "last_updated": "2026-10-30T22:29:28.033703+00:00",
+  "total_available": 2934,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "6 items",
@@ -20,9 +20,9 @@
     "Booka Bookshop": "296 items",
     "Coles Books": "11 items",
     "West End Lane Books": "1080 items",
-    "Waterstones": "186 items via feed (as of 2026-10-30T18:25:57.660819+00:00)",
-    "Foyles": "137 items via feed (as of 2026-10-30T06:20:31.062040+00:00)",
+    "Waterstones": "185 items via feed (as of 2026-10-30T22:19:42.323658+00:00)",
     "Linghams": "220 items via feed (as of 2026-10-30T14:19:21.223024+00:00)",
+    "Foyles": "137 items via feed (as of 2026-10-30T06:20:31.062040+00:00)",
     "Hatchards": "124 items via feed (as of 2026-10-30T18:25:57.660819+00:00)"
   },
   "books": [
@@ -906,19 +906,6 @@
       "est": "pos"
     },
     {
-      "id": "Foyles::https://www.foyles.co.uk/book/a-history-of-britain-in-21-paintings/alice-loxton/2928377385392",
-      "title": "A History of Britain in 21 Paintings",
-      "author": "Alice Loxton",
-      "price": "\u00a325.00",
-      "shop": "Foyles",
-      "url": "https://www.foyles.co.uk/book/a-history-of-britain-in-21-paintings/alice-loxton/2928377385392",
-      "image": "",
-      "vip": false,
-      "listed_at": "2026-10-23T23:35:56.864124+00:00",
-      "discovered_at": "2026-10-26T23:35:56.864124+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/is-it-too-late-to-make-a-run-for-it/",
       "title": "Is It Too Late to Make a Run for It? SIGNED Judy Dench",
       "author": "Judi Dench",
@@ -926,6 +913,19 @@
       "shop": "Linghams",
       "url": "https://linghams.co.uk/product/is-it-too-late-to-make-a-run-for-it/",
       "image": "https://www.bibdsl.co.uk/bds-images/m/978024/9780241799536.jpg",
+      "vip": false,
+      "listed_at": "2026-10-23T23:35:56.864124+00:00",
+      "discovered_at": "2026-10-26T23:35:56.864124+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Foyles::https://www.foyles.co.uk/book/a-history-of-britain-in-21-paintings/alice-loxton/2928377385392",
+      "title": "A History of Britain in 21 Paintings",
+      "author": "Alice Loxton",
+      "price": "\u00a325.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/a-history-of-britain-in-21-paintings/alice-loxton/2928377385392",
+      "image": "",
       "vip": false,
       "listed_at": "2026-10-23T23:35:56.864124+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
@@ -1018,19 +1018,6 @@
       "vip": false,
       "listed_at": "2026-10-23T14:08:21.389671+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Waterstones::https://www.waterstones.com/book/the-two-body-problem/ali-hazelwood/9781408739976",
-      "title": "The Two Body Problem",
-      "author": "Ali Hazelwood",
-      "price": "\u00a320.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/the-two-body-problem/ali-hazelwood/9781408739976",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/4087/9781408739976.jpg",
-      "vip": false,
-      "listed_at": "2026-10-23T13:26:43.186887+00:00",
-      "discovered_at": "2026-10-30T18:28:39.315919+00:00",
       "est": "pos"
     },
     {
