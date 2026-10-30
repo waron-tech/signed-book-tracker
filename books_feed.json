@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-30T09:18:36.224408+00:00",
-  "total_available": 2939,
+  "last_updated": "2026-10-30T10:15:29.676053+00:00",
+  "total_available": 2938,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "6 items",
     "Porty Books": "14 items",
     "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "274 items",
+    "British Library Shop": "273 items",
     "Cleeve Bookshop": "140 items",
     "Ivybridge Bookshop": "163 items",
     "Perkology Books": "43 items",
@@ -35001,18 +35001,6 @@
       "vip": false,
       "listed_at": "2025-12-02T16:20:18+00:00",
       "discovered_at": "2026-10-29T20:22:47.959086+00:00"
-    },
-    {
-      "id": "British Library Shop::home-signed-edition",
-      "title": "Home (Signed Edition)",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/home-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/home.png?v=1764675051",
-      "vip": false,
-      "listed_at": "2025-12-02T11:31:15+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-keeper-by-ana-huang-signed",
