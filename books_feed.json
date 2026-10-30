@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T14:33:21.150723+00:00",
-  "total_available": 2933,
+  "last_updated": "2026-10-30T15:28:05.478902+00:00",
+  "total_available": 2932,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "6 items",
@@ -8,18 +8,18 @@
     "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "272 items",
-    "Cleeve Bookshop": "140 items",
+    "Cleeve Bookshop": "141 items",
     "Ivybridge Bookshop": "164 items",
     "Perkology Books": "43 items",
-    "Bookstation (Ireland)": "6 items",
+    "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "28 items",
     "Little Apple Bookshop": "35 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "299 items",
+    "Booka Bookshop": "298 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1084 items",
+    "West End Lane Books": "1082 items",
     "Waterstones": "185 items via feed (as of 2026-10-30T14:19:21.223024+00:00)",
     "Foyles": "137 items via feed (as of 2026-10-30T06:20:31.062040+00:00)",
     "Linghams": "220 items via feed (as of 2026-10-30T14:19:21.223024+00:00)",
@@ -2222,18 +2222,6 @@
       "listed_at": "2026-10-20T16:15:07.884532+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
       "est": "pos"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/johnny-marr-set-the-boy-free-illustrated-anniversary-edition-signed-copy/",
-      "title": "Johnny Marr: Set the Boy Free: Illustrated Anniversary Edition \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a330.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/johnny-marr-set-the-boy-free-illustrated-anniversary-edition-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/Johnny-Marr.jpg",
-      "vip": false,
-      "listed_at": "2026-10-20T15:53:57+00:00",
-      "discovered_at": "2026-10-27T09:45:28.821630+00:00"
     },
     {
       "id": "Linghams::https://linghams.co.uk/product/the-cat-in-the-cupboard-signed/",
@@ -19172,6 +19160,18 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
+      "id": "Cleeve Bookshop::9781800756922",
+      "title": "Hobbe's Folly - Signed Bookplate First Edition",
+      "author": "",
+      "price": "\u00a313.49",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9781800756922",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/hobbes-folly-signed-bookplate-first-edition-7284764.jpg?v=1787102085",
+      "vip": false,
+      "listed_at": "2026-07-27T15:26:10+00:00",
+      "discovered_at": "2026-10-30T15:28:05.478902+00:00"
+    },
+    {
       "id": "Cleeve Bookshop::9781806490813",
       "title": "Snow Birds - Signed Bookplate First Edition",
       "author": "",
@@ -28472,6 +28472,18 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
+      "id": "Bookstation (Ireland)::where-are-the-kings",
+      "title": "Where Are the Kings",
+      "author": "Donal Ryan",
+      "price": "\u00a314.99",
+      "shop": "Bookstation (Ireland)",
+      "url": "https://bookstation.ie/products/where-are-the-kings",
+      "image": "https://cdn.shopify.com/s/files/1/0939/6181/4281/files/WherearetheKings.jpg?v=1773835259",
+      "vip": false,
+      "listed_at": "2026-03-18T12:30:12+00:00",
+      "discovered_at": "2026-10-30T15:28:05.478902+00:00"
+    },
+    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/ben-nuttalls-footy-factory-by-ben-nuttall-signed",
       "title": "Ben Nuttall's Footy Factory by Ben Nuttall (Signed)",
       "author": "Ben Nuttall",
@@ -36066,30 +36078,6 @@
       "vip": false,
       "listed_at": "2025-10-30T16:10:43+00:00",
       "discovered_at": "2026-10-29T20:22:47.959086+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/dont-let-him-in-by-lisa-jewell-signed",
-      "title": "Don't Let Him In by Lisa Jewell (Signed)",
-      "author": "Lisa Jewell",
-      "price": "\u00a320.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/dont-let-him-in-by-lisa-jewell-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/0af64204-1bec-4799-919c-ce483033f700/Copy+of+Product+Template+-+Book+-+2025-04-24T163620.309.jpg",
-      "vip": false,
-      "listed_at": "2025-10-30T15:13:42.790000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-book-of-birds-a-field-guide-to-wonder-and-loss-by-robert-macfarlane-jackie-morris-signed",
-      "title": "The Book of Birds : A Field Guide to Wonder and Loss by Robert Macfarlane , Jackie Morris (Signed)",
-      "author": "",
-      "price": "\u00a335.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-book-of-birds-a-field-guide-to-wonder-and-loss-by-robert-macfarlane-jackie-morris-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/1becdc5d-634e-4d7e-a982-76eb3c4f655a/Copy+of+Product+Template+-+Book+%2834%29.jpg",
-      "vip": false,
-      "listed_at": "2025-10-30T14:45:00+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     }
   ]
 }
