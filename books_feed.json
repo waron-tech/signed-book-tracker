@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-10-30T11:45:34.695661+00:00",
-  "total_available": 2934,
+  "last_updated": "2026-10-30T12:29:14.569843+00:00",
+  "total_available": 2933,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "6 items",
     "Porty Books": "14 items",
     "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "273 items",
+    "British Library Shop": "272 items",
     "Cleeve Bookshop": "140 items",
-    "Ivybridge Bookshop": "163 items",
+    "Ivybridge Bookshop": "164 items",
     "Perkology Books": "43 items",
     "Bookstation (Ireland)": "6 items",
     "Biggles Stones": "3 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "35 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "299 items",
+    "Booka Bookshop": "298 items",
     "Coles Books": "11 items",
     "West End Lane Books": "1084 items",
     "Waterstones": "186 items via feed (as of 2026-10-30T10:19:10.668099+00:00)",
@@ -4189,18 +4189,6 @@
       "est": "pos"
     },
     {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/my-rangers-how-i-changed-scottish-football-forever-signed-copy/",
-      "title": "My Rangers: How I Changed Scottish Football For Ever \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/my-rangers-how-i-changed-scottish-football-forever-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/07/My-Rangers.jpg",
-      "vip": false,
-      "listed_at": "2026-10-15T10:51:34+00:00",
-      "discovered_at": "2026-10-27T09:45:28.821630+00:00"
-    },
-    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/ancient-egypt-a-history-in-seven-treasures-signed-copy/",
       "title": "Ancient Egypt: A History in Seven Treasures \u2013 Signed Copy",
       "author": "",
@@ -6079,18 +6067,6 @@
       "listed_at": "2026-10-12T16:44:31.149838+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
       "est": "pos"
-    },
-    {
-      "id": "British Library Shop::bunny-vs-monkey-day-of-the-heroes",
-      "title": "Bunny vs Monkey: Day of the Heroes! (Signed Edition)",
-      "author": "",
-      "price": "\u00a312.99",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/bunny-vs-monkey-day-of-the-heroes",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/Dayoftheheroes.png?v=1791985678",
-      "vip": false,
-      "listed_at": "2026-10-12T15:34:04+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "British Library Shop::adventuremice-mini-mice-mayhem-from-bestselling-creative-dream-team-reeve-and-mcintyre",
@@ -17227,6 +17203,18 @@
       "vip": false,
       "listed_at": "2026-08-18T14:20:24+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "Ivybridge Bookshop::9781806491568",
+      "title": "One Day a Cat Came to Me - Independent Edition with sprayed edge - Bokyeong Sunim; Jinwoo Park (Translator) (Hardback) 15-10-2026",
+      "author": "",
+      "price": "\u00a314.99",
+      "shop": "Ivybridge Bookshop",
+      "url": "https://www.ivybridgebookshop.com/products/9781806491568",
+      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9781806491568.webp?v=1787055670",
+      "vip": false,
+      "listed_at": "2026-08-18T12:14:17+00:00",
+      "discovered_at": "2026-10-30T12:29:14.569843+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781526677129",
