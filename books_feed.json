@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T21:18:35.430935+00:00",
-  "total_available": 2936,
+  "last_updated": "2026-10-30T21:58:53.277514+00:00",
+  "total_available": 2935,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "6 items",
@@ -18,8 +18,8 @@
     "Hewson Books": "52 items",
     "Station Books": "64 items",
     "Booka Bookshop": "296 items",
-    "Coles Books": "ERROR: HTTPSConnectionPool(host='coles-books.co.uk', port=443): Read timed out. (read timeout=15)",
-    "West End Lane Books": "1081 items",
+    "Coles Books": "11 items",
+    "West End Lane Books": "1080 items",
     "Waterstones": "186 items via feed (as of 2026-10-30T18:25:57.660819+00:00)",
     "Foyles": "137 items via feed (as of 2026-10-30T06:20:31.062040+00:00)",
     "Linghams": "220 items via feed (as of 2026-10-30T14:19:21.223024+00:00)",
@@ -755,19 +755,6 @@
       "est": "seen"
     },
     {
-      "id": "Waterstones::https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
-      "title": "The Goddess Queen",
-      "author": "Alice Roberts",
-      "price": "\u00a322.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398567832.jpg",
-      "vip": false,
-      "listed_at": "2026-10-27T14:56:45.110575+00:00",
-      "discovered_at": "2026-10-27T14:56:45.110575+00:00",
-      "est": "seen"
-    },
-    {
       "id": "Coles Books::https://coles-books.co.uk/cream-chronicled-by-nettie-baker-signed-edition",
       "title": "Cream Chronicled by Nettie Baker - Signed Edition",
       "author": "Nettie Baker",
@@ -788,6 +775,19 @@
       "shop": "Coles Books",
       "url": "https://coles-books.co.uk/tales-of-a-rock-star-s-daughter-by-nettie-baker-signed-edition",
       "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/e/nettie_baker_tales_of_a_rock_star_s_daughter_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-10-27T14:56:45.110575+00:00",
+      "discovered_at": "2026-10-27T14:56:45.110575+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
+      "title": "The Goddess Queen",
+      "author": "Alice Roberts",
+      "price": "\u00a322.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398567832.jpg",
       "vip": false,
       "listed_at": "2026-10-27T14:56:45.110575+00:00",
       "discovered_at": "2026-10-27T14:56:45.110575+00:00",
@@ -13430,18 +13430,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/af23708c-600d-4fc2-9c68-24a5b8eef877/We+are+hiring%21+%2850%29.jpg",
       "vip": false,
       "listed_at": "2026-09-27T11:49:29.119000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/pay-attention-by-laura-kuenssberg-signed",
-      "title": "Pay Attention by Laura Kuenssberg (Signed)",
-      "author": "Laura Kuenssberg",
-      "price": "\u00a322.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/pay-attention-by-laura-kuenssberg-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/6e0b5a11-e122-47cf-882a-c1e4a4298994/We+are+hiring%21+%2849%29.jpg",
-      "vip": false,
-      "listed_at": "2026-09-27T11:46:37.019000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
