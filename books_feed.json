@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T07:35:06.459202+00:00",
+  "last_updated": "2026-10-30T08:28:50.270083+00:00",
   "total_available": 2940,
   "shop_status": {
     "Goldsboro Books": "13 items",
@@ -18,7 +18,7 @@
     "Hewson Books": "52 items",
     "Station Books": "64 items",
     "Booka Bookshop": "300 items",
-    "Coles Books": "ERROR: HTTPSConnectionPool(host='coles-books.co.uk', port=443): Read timed out. (read timeout=15)",
+    "Coles Books": "11 items",
     "West End Lane Books": "1085 items",
     "Waterstones": "187 items via feed (as of 2026-10-30T06:20:31.062040+00:00)",
     "Foyles": "137 items via feed (as of 2026-10-30T06:20:31.062040+00:00)",
@@ -677,19 +677,6 @@
       "est": "seen"
     },
     {
-      "id": "Waterstones::https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
-      "title": "The Goddess Queen",
-      "author": "Alice Roberts",
-      "price": "\u00a322.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398567832.jpg",
-      "vip": false,
-      "listed_at": "2026-10-27T14:56:45.110575+00:00",
-      "discovered_at": "2026-10-27T14:56:45.110575+00:00",
-      "est": "seen"
-    },
-    {
       "id": "Coles Books::https://coles-books.co.uk/cream-chronicled-by-nettie-baker-signed-edition",
       "title": "Cream Chronicled by Nettie Baker - Signed Edition",
       "author": "Nettie Baker",
@@ -710,6 +697,19 @@
       "shop": "Coles Books",
       "url": "https://coles-books.co.uk/tales-of-a-rock-star-s-daughter-by-nettie-baker-signed-edition",
       "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/e/nettie_baker_tales_of_a_rock_star_s_daughter_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-10-27T14:56:45.110575+00:00",
+      "discovered_at": "2026-10-27T14:56:45.110575+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
+      "title": "The Goddess Queen",
+      "author": "Alice Roberts",
+      "price": "\u00a322.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/the-goddess-queen/alice-roberts/9781398567832",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398567832.jpg",
       "vip": false,
       "listed_at": "2026-10-27T14:56:45.110575+00:00",
       "discovered_at": "2026-10-27T14:56:45.110575+00:00",
@@ -2316,7 +2316,7 @@
       "id": "Rare Mags::set-the-boy-free",
       "title": "Set The Boy Free",
       "author": "Johnny Marr",
-      "price": "\u00a341.00",
+      "price": "\u00a342.00",
       "shop": "Rare Mags",
       "url": "https://raremags.co.uk/products/set-the-boy-free",
       "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/3C2F86EE-9304-4DDB-8C9E-7D140DD14DC0.jpg?v=1792501420",
