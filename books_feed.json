@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T13:27:40.285174+00:00",
-  "total_available": 2933,
+  "last_updated": "2026-10-31T14:04:08.548819+00:00",
+  "total_available": 2935,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "6 items",
@@ -8,7 +8,7 @@
     "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "271 items",
-    "Cleeve Bookshop": "141 items",
+    "Cleeve Bookshop": "143 items",
     "Ivybridge Bookshop": "165 items",
     "Perkology Books": "43 items",
     "Bookstation (Ireland)": "7 items",
@@ -26,6 +26,18 @@
     "Hatchards": "124 items via feed (as of 2026-10-30T18:25:57.660819+00:00)"
   },
   "books": [
+    {
+      "id": "Cleeve Bookshop::9781398566231",
+      "title": "What Took You So Long? - Signed First Edition",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9781398566231",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/9781398566231.jpg?v=1793454837",
+      "vip": false,
+      "listed_at": "2026-10-31T13:53:55+00:00",
+      "discovered_at": "2026-10-31T14:04:08.548819+00:00"
+    },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/masterpiece-signed-copy/",
       "title": "Masterpiece \u2013 Signed Independent Bookshop Exclusive Edition",
@@ -19220,6 +19232,18 @@
       "vip": false,
       "listed_at": "2026-07-27T15:26:10+00:00",
       "discovered_at": "2026-10-30T15:28:05.478902+00:00"
+    },
+    {
+      "id": "Cleeve Bookshop::9781918107043",
+      "title": "The Piano Teacher of Montparnasse - Signed First Edition",
+      "author": "",
+      "price": "\u00a318.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9781918107043",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-piano-teacher-of-montparnasse-signed-first-edition-9049383.jpg?v=1787104272",
+      "vip": false,
+      "listed_at": "2026-07-27T14:06:58+00:00",
+      "discovered_at": "2026-10-31T14:04:08.548819+00:00"
     },
     {
       "id": "Cleeve Bookshop::9781806490813",
