@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-31T19:13:50.669378+00:00",
+  "last_updated": "2026-10-31T19:46:08.806292+00:00",
   "total_available": 2936,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "6 items",
-    "Porty Books": "ERROR (feed): ERROR: empty porty.jsonl",
+    "Porty Books": "12 items",
     "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "272 items",
@@ -4148,6 +4148,19 @@
       "est": "pos"
     },
     {
+      "id": "Porty Books::https://www.theportobellobookshop.com/9781836750055-s",
+      "title": "North of the Winter Sun",
+      "author": "Veronica Skotnes",
+      "price": "\u00a314.99",
+      "shop": "Porty Books",
+      "url": "https://www.theportobellobookshop.com/9781836750055-s",
+      "image": "https://cdn.theportobellobookshop.com/img/supplementary--10848132--main.jpg?p=search",
+      "vip": false,
+      "listed_at": "2026-10-15T17:33:07.923767+00:00",
+      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/naomi-klein-and-astra-taylor-end-times-fascism-signed-copy-hardback",
       "title": "Naomi Klein and Astra Taylor - End Times Fascism (SIGNED COPY) (HARDBACK)",
       "author": "Naomi Klein and Astra Taylor",
@@ -4197,19 +4210,6 @@
       "vip": false,
       "listed_at": "2026-10-15T17:33:07.923767+00:00",
       "discovered_at": "2026-10-18T15:11:24.212276+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Porty Books::https://www.theportobellobookshop.com/9781836750055-s",
-      "title": "North of the Winter Sun",
-      "author": "Veronica Skotnes",
-      "price": "\u00a314.99",
-      "shop": "Porty Books",
-      "url": "https://www.theportobellobookshop.com/9781836750055-s",
-      "image": "https://cdn.theportobellobookshop.com/img/supplementary--10848132--main.jpg?p=search",
-      "vip": false,
-      "listed_at": "2026-10-15T17:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
       "est": "pos"
     },
     {
