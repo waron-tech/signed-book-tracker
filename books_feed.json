@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T15:44:33.901720+00:00",
-  "total_available": 2937,
+  "last_updated": "2026-10-31T16:15:49.351766+00:00",
+  "total_available": 2938,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "6 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "39 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "301 items",
+    "Booka Bookshop": "302 items",
     "Coles Books": "10 items",
     "West End Lane Books": "1080 items",
     "Waterstones": "184 items via feed (as of 2026-10-31T14:21:01.497955+00:00)",
@@ -26,6 +26,18 @@
     "Hatchards": "124 items via feed (as of 2026-10-30T18:25:57.660819+00:00)"
   },
   "books": [
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/high-energy-unpleasant-signed-copy/",
+      "title": "High Energy Unpleasant \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/high-energy-unpleasant-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/High-Energy-Unpleasant.jpg",
+      "vip": false,
+      "listed_at": "2026-10-31T15:58:38+00:00",
+      "discovered_at": "2026-10-31T16:15:49.351766+00:00"
+    },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-pen-a-human-history-signed-copy/",
       "title": "The Pen: A Human History \u2013 Signed Copy",
