@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T12:33:23.725823+00:00",
-  "total_available": 2928,
+  "last_updated": "2026-10-31T13:27:40.285174+00:00",
+  "total_available": 2933,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "6 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "39 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "294 items",
+    "Booka Bookshop": "299 items",
     "Coles Books": "10 items",
     "West End Lane Books": "1080 items",
     "Waterstones": "185 items via feed (as of 2026-10-30T22:19:42.323658+00:00)",
@@ -26,6 +26,54 @@
     "Hatchards": "124 items via feed (as of 2026-10-30T18:25:57.660819+00:00)"
   },
   "books": [
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/masterpiece-signed-copy/",
+      "title": "Masterpiece \u2013 Signed Independent Bookshop Exclusive Edition",
+      "author": "",
+      "price": "\u00a318.99",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/masterpiece-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/Masterpiece.jpg",
+      "vip": false,
+      "listed_at": "2026-10-31T12:57:24+00:00",
+      "discovered_at": "2026-10-31T13:27:40.285174+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/worship-signed-independent-bookshop-exclusive-edition-with-tote-bag/",
+      "title": "Worship \u2013 Signed Independent Bookshop Exclusive Edition with Tote Bag",
+      "author": "",
+      "price": "\u00a318.99",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/worship-signed-independent-bookshop-exclusive-edition-with-tote-bag/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/Worship.jpg",
+      "vip": false,
+      "listed_at": "2026-10-31T12:36:44+00:00",
+      "discovered_at": "2026-10-31T13:27:40.285174+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-return-trip-is-shorter-signed-copy/",
+      "title": "The Return Trip is Shorter \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a314.99",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/the-return-trip-is-shorter-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/The-Return-Trip-is-Shorter.jpg",
+      "vip": false,
+      "listed_at": "2026-10-31T12:08:33+00:00",
+      "discovered_at": "2026-10-31T13:27:40.285174+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/shes-all-the-rage-signed-independent-bookshop-exclusive-edition/",
+      "title": "She\u2019s All the Rage \u2013 Signed Independent Bookshop Exclusive Edition",
+      "author": "",
+      "price": "\u00a318.99",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/shes-all-the-rage-signed-independent-bookshop-exclusive-edition/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/Shes-All-the-Rage.jpg",
+      "vip": false,
+      "listed_at": "2026-10-31T11:51:11+00:00",
+      "discovered_at": "2026-10-31T13:27:40.285174+00:00"
+    },
     {
       "id": "Coles Books::https://coles-books.co.uk/the-medicine-tree-by-nick-hayes-signed-edition",
       "title": "The Medicine Tree by Nick Hayes - Signed Edition",
@@ -77,6 +125,18 @@
       "listed_at": "2026-10-30T18:28:39.315919+00:00",
       "discovered_at": "2026-10-30T18:28:39.315919+00:00",
       "est": "seen"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/my-pressures-the-bizarrely-true-story-of-andy-serkis-signed-copy/",
+      "title": "My Pressures: The Bizarrely True Story of Andy Serkis \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/my-pressures-the-bizarrely-true-story-of-andy-serkis-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/My-Pressures.jpg",
+      "vip": false,
+      "listed_at": "2026-10-30T17:32:31+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/john-cooper-clarke-have-it-signed-copy-hardback",
@@ -4290,6 +4350,18 @@
       "listed_at": "2026-10-15T09:53:05.435553+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
       "est": "pos"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/in-one-brief-moment-all-eternity-signed-copy/",
+      "title": "In One Brief Moment All Eternity \u2013 Signed Exclusive Edition",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/in-one-brief-moment-all-eternity-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/In-One-Brief-Moment-All-Eternity-final.jpg",
+      "vip": true,
+      "listed_at": "2026-10-15T09:38:11+00:00",
+      "discovered_at": "2026-10-31T13:27:40.285174+00:00"
     },
     {
       "id": "British Library Shop::the-silent-appeal-signed-sprayed-edge",
@@ -25292,18 +25364,6 @@
       "vip": false,
       "listed_at": "2026-05-12T09:39:57+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/my-pressures-the-bizarrely-true-story-of-andy-serkis-signed-copy/",
-      "title": "My Pressures: The Bizarrely True Story of Andy Serkis \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/my-pressures-the-bizarrely-true-story-of-andy-serkis-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/My-Pressures.jpg",
-      "vip": false,
-      "listed_at": "2026-05-11T17:32:31+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "Cleeve Bookshop::9780241675755",
