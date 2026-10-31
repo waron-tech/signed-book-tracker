@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T11:57:56.311958+00:00",
-  "total_available": 2927,
+  "last_updated": "2026-10-31T12:33:23.725823+00:00",
+  "total_available": 2928,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "6 items",
@@ -26,18 +26,6 @@
     "Hatchards": "124 items via feed (as of 2026-10-30T18:25:57.660819+00:00)"
   },
   "books": [
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/shes-all-the-rage-signed-independent-bookshop-exclusive-edition/",
-      "title": "She\u2019s All the Rage \u2013 Signed Independent Bookshop Exclusive Edition",
-      "author": "",
-      "price": "\u00a318.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/shes-all-the-rage-signed-independent-bookshop-exclusive-edition/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/Shes-All-the-Rage.jpg",
-      "vip": false,
-      "listed_at": "2026-10-31T11:51:11+00:00",
-      "discovered_at": "2026-10-31T11:57:56.311958+00:00"
-    },
     {
       "id": "Coles Books::https://coles-books.co.uk/the-medicine-tree-by-nick-hayes-signed-edition",
       "title": "The Medicine Tree by Nick Hayes - Signed Edition",
@@ -89,18 +77,6 @@
       "listed_at": "2026-10-30T18:28:39.315919+00:00",
       "discovered_at": "2026-10-30T18:28:39.315919+00:00",
       "est": "seen"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/my-pressures-the-bizarrely-true-story-of-andy-serkis-signed-copy/",
-      "title": "My Pressures: The Bizarrely True Story of Andy Serkis \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/my-pressures-the-bizarrely-true-story-of-andy-serkis-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/My-Pressures.jpg",
-      "vip": false,
-      "listed_at": "2026-10-30T17:32:31+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/john-cooper-clarke-have-it-signed-copy-hardback",
@@ -4314,18 +4290,6 @@
       "listed_at": "2026-10-15T09:53:05.435553+00:00",
       "discovered_at": "2026-10-26T23:35:56.864124+00:00",
       "est": "pos"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/in-one-brief-moment-all-eternity-signed-copy/",
-      "title": "In One Brief Moment All Eternity \u2013 Signed Exclusive Edition",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/in-one-brief-moment-all-eternity-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/In-One-Brief-Moment-All-Eternity-final.jpg",
-      "vip": true,
-      "listed_at": "2026-10-15T09:38:11+00:00",
-      "discovered_at": "2026-10-31T11:57:56.311958+00:00"
     },
     {
       "id": "British Library Shop::the-silent-appeal-signed-sprayed-edge",
@@ -14565,6 +14529,18 @@
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/f1-insider-notes-from-the-pit-lane-signed-copy-2/",
+      "title": "F1 Insider: Notes from the Pit Lane \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a310.99",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/f1-insider-notes-from-the-pit-lane-signed-copy-2/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/09/F1-Insider-pb.jpg",
+      "vip": false,
+      "listed_at": "2026-09-22T09:45:43+00:00",
+      "discovered_at": "2026-10-31T12:33:23.725823+00:00"
+    },
+    {
       "id": "British Library Shop::the-four-spent-the-day-together-signed-edition",
       "title": "The Four Spent the Day Together (Signed Edition)",
       "author": "",
@@ -14895,6 +14871,18 @@
       "listed_at": "2026-09-20T07:40:11.453179+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00",
       "est": "pos"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-strangers-signed-copy/",
+      "title": "The Strangers \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/the-strangers-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/09/The-Strangers.jpg",
+      "vip": false,
+      "listed_at": "2026-09-20T07:23:32+00:00",
+      "discovered_at": "2026-10-31T12:33:23.725823+00:00"
     },
     {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/shakespeare-s-first-folio-all-the-plays-a-children-s-edition-age-7-hb",
@@ -25306,6 +25294,18 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/my-pressures-the-bizarrely-true-story-of-andy-serkis-signed-copy/",
+      "title": "My Pressures: The Bizarrely True Story of Andy Serkis \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/my-pressures-the-bizarrely-true-story-of-andy-serkis-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/My-Pressures.jpg",
+      "vip": false,
+      "listed_at": "2026-05-11T17:32:31+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
       "id": "Cleeve Bookshop::9780241675755",
       "title": "The Parkwood Murders - Signed First Edition",
       "author": "",
@@ -28556,6 +28556,18 @@
       "vip": false,
       "listed_at": "2026-03-17T09:54:46+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/look-what-you-made-me-do-signed-independent-bookshop-edition/",
+      "title": "Look What You Made Me Do \u2013 Signed Independent Bookshop Edition",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/look-what-you-made-me-do-signed-independent-bookshop-edition/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/03/Look-What-You-Made-Me-Do.jpg",
+      "vip": false,
+      "listed_at": "2026-03-16T13:24:31+00:00",
+      "discovered_at": "2026-10-31T12:33:23.725823+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/second-skin-by-anastasiia-fedorova-signed",
