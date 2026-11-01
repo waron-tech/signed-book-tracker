@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-01T21:00:37.421740+00:00",
-  "total_available": 2930,
+  "last_updated": "2026-11-01T21:40:42.985399+00:00",
+  "total_available": 2929,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "302 items",
     "Coles Books": "10 items",
-    "West End Lane Books": "1079 items",
+    "West End Lane Books": "1078 items",
     "Waterstones": "184 items via feed (as of 2026-11-01T14:21:16.794303+00:00)",
     "Linghams": "220 items via feed (as of 2026-10-31T22:22:14.676318+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-01T10:31:13.371012+00:00)",
@@ -16483,18 +16483,6 @@
       "vip": false,
       "listed_at": "2026-09-01T13:06:40+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-thief-and-the-traitor-bride-by-vl-bovalino-signed",
-      "title": "The Thief and the Traitor Bride by V.L. Bovalino (Signed)",
-      "author": "V.L. Bovalino",
-      "price": "\u00a322.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-thief-and-the-traitor-bride-by-vl-bovalino-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/60089683-0cae-4878-9d8e-115a000ee1ac/Website+Listing+Template+-+Book+%2879%29.jpg",
-      "vip": false,
-      "listed_at": "2026-09-01T09:14:44.745000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781529089523",
