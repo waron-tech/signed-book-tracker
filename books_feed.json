@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-01T11:02:22.375116+00:00",
-  "total_available": 2936,
+  "last_updated": "2026-11-01T11:40:22.437247+00:00",
+  "total_available": 2935,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "6 items",
@@ -8,7 +8,7 @@
     "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "272 items",
-    "Cleeve Bookshop": "143 items",
+    "Cleeve Bookshop": "142 items",
     "Ivybridge Bookshop": "163 items",
     "Perkology Books": "43 items",
     "Bookstation (Ireland)": "7 items",
@@ -29119,18 +29119,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-pinnacle-signed-first-edition-1143913.jpg?v=1787363040",
       "vip": false,
       "listed_at": "2026-03-12T09:44:53+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781529934779",
-      "title": "The Defence - Signed First Edition",
-      "author": "",
-      "price": "\u00a318.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781529934779",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-defence-signed-first-edition-6109906.jpg?v=1787363037",
-      "vip": false,
-      "listed_at": "2026-03-12T09:44:50+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
