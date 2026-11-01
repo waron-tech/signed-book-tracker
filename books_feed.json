@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-01T10:26:00.400302+00:00",
-  "total_available": 2935,
+  "last_updated": "2026-11-01T11:02:22.375116+00:00",
+  "total_available": 2936,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "6 items",
-    "Porty Books": "12 items via feed (as of 2026-10-31T22:22:14.676318+00:00)",
+    "Porty Books": "12 items",
     "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "272 items",
@@ -20,9 +20,9 @@
     "Booka Bookshop": "302 items",
     "Coles Books": "10 items",
     "West End Lane Books": "1079 items",
-    "Waterstones": "184 items via feed (as of 2026-10-31T14:21:01.497955+00:00)",
+    "Waterstones": "185 items via feed (as of 2026-11-01T10:31:13.371012+00:00)",
     "Linghams": "220 items via feed (as of 2026-10-31T22:22:14.676318+00:00)",
-    "Foyles": "137 items via feed (as of 2026-10-31T10:20:17.627260+00:00)",
+    "Foyles": "137 items via feed (as of 2026-11-01T10:31:13.371012+00:00)",
     "Hatchards": "124 items via feed (as of 2026-11-01T02:23:41.835333+00:00)"
   },
   "books": [
@@ -990,6 +990,19 @@
       "vip": false,
       "listed_at": "2026-10-27T10:08:36.201802+00:00",
       "discovered_at": "2026-10-31T22:25:53.001802+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/miss-lambert-steps-aboard-danger/kazuo-ishiguro/9780571409778",
+      "title": "Miss Lambert Steps Aboard Danger",
+      "author": "Kazuo Ishiguro",
+      "price": "\u00a318.99",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/miss-lambert-steps-aboard-danger/kazuo-ishiguro/9780571409778",
+      "image": "https://cdn.waterstones.com/override/v3/medium/9780/5714/9780571409778.jpg",
+      "vip": true,
+      "listed_at": "2026-10-27T10:00:06.158900+00:00",
+      "discovered_at": "2026-11-01T11:02:22.375116+00:00",
       "est": "pos"
     },
     {
@@ -2099,7 +2112,7 @@
       "price": "\u00a322.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/fronting-up/lewis-moody/9781035449170",
-      "image": "https://cdn.foyles.co.uk/override/v2/large/9781/0354/9781035449170_3.jpg",
+      "image": "",
       "vip": false,
       "listed_at": "2026-10-24T04:54:47.308371+00:00",
       "discovered_at": "2026-10-31T22:25:53.001802+00:00",
@@ -5579,6 +5592,19 @@
       "est": "pos"
     },
     {
+      "id": "Porty Books::https://www.theportobellobookshop.com/9781836750055-s",
+      "title": "North of the Winter Sun",
+      "author": "Veronica Skotnes",
+      "price": "\u00a314.99",
+      "shop": "Porty Books",
+      "url": "https://www.theportobellobookshop.com/9781836750055-s",
+      "image": "https://cdn.theportobellobookshop.com/img/supplementary--10848132--main.jpg?p=search",
+      "vip": false,
+      "listed_at": "2026-10-15T17:33:07.923767+00:00",
+      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/naomi-klein-and-astra-taylor-end-times-fascism-signed-copy-hardback",
       "title": "Naomi Klein and Astra Taylor - End Times Fascism (SIGNED COPY) (HARDBACK)",
       "author": "Naomi Klein and Astra Taylor",
@@ -5628,19 +5654,6 @@
       "vip": false,
       "listed_at": "2026-10-15T17:33:07.923767+00:00",
       "discovered_at": "2026-10-18T15:11:24.212276+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Porty Books::https://www.theportobellobookshop.com/9781836750055-s",
-      "title": "North of the Winter Sun",
-      "author": "Veronica Skotnes",
-      "price": "\u00a314.99",
-      "shop": "Porty Books",
-      "url": "https://www.theportobellobookshop.com/9781836750055-s",
-      "image": "https://cdn.theportobellobookshop.com/img/supplementary--10848132--main.jpg?p=search",
-      "vip": false,
-      "listed_at": "2026-10-15T17:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
       "est": "pos"
     },
     {
