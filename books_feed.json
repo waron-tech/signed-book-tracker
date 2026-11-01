@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-01T11:40:22.437247+00:00",
-  "total_available": 2935,
+  "last_updated": "2026-11-01T12:12:55.108579+00:00",
+  "total_available": 2932,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "6 items",
@@ -8,7 +8,7 @@
     "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "272 items",
-    "Cleeve Bookshop": "142 items",
+    "Cleeve Bookshop": "139 items",
     "Ivybridge Bookshop": "163 items",
     "Perkology Books": "43 items",
     "Bookstation (Ireland)": "7 items",
@@ -27130,18 +27130,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9780857508843",
-      "title": "Beyond the Edge of Light - Signed First Edition",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9780857508843",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/beyond-the-edge-of-light-signed-first-edition-3215343.jpg?v=1787362236",
-      "vip": false,
-      "listed_at": "2026-04-13T10:55:22+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/how-i-cook-a-chefs-guide-to-really-good-home-cooking-by-ben-lippett-signed",
       "title": "How I Cook : A Chef\u2019s Guide to Really Good Home Cooking by Ben Lippett (Signed)",
       "author": "Ben Lippett",
@@ -29098,18 +29086,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781844886982",
-      "title": "Experts in a Dying Field - Signed First Edition with Block Sprayed Edge",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781844886982",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/experts-in-a-dying-field-signed-first-edition-with-block-sprayed-edge-3401831.jpg?v=1787363041",
-      "vip": false,
-      "listed_at": "2026-03-12T09:45:01+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "Cleeve Bookshop::9781787302747",
       "title": "The Pinnacle - Signed First Edition",
       "author": "",
@@ -29119,18 +29095,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-pinnacle-signed-first-edition-1143913.jpg?v=1787363040",
       "vip": false,
       "listed_at": "2026-03-12T09:44:53+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9780241734704",
-      "title": "This Immortal Heart - Signed First Edition",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9780241734704",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/this-immortal-heart-signed-first-edition-3818822.jpg?v=1787363036",
-      "vip": false,
-      "listed_at": "2026-03-12T09:44:27+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
