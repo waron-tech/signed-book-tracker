@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-01T23:56:01.358740+00:00",
-  "total_available": 2929,
+  "last_updated": "2026-11-02T00:31:38.015324+00:00",
+  "total_available": 2928,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
@@ -17,8 +17,8 @@
     "Little Apple Bookshop": "39 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "302 items",
-    "Coles Books": "ERROR: 500 Server Error: Internal Server Error for url: https://coles-books.co.uk/signed/books?product_list_order=created_at",
+    "Booka Bookshop": "301 items",
+    "Coles Books": "10 items",
     "West End Lane Books": "1078 items",
     "Waterstones": "184 items via feed (as of 2026-11-01T14:21:16.794303+00:00)",
     "Linghams": "220 items via feed (as of 2026-11-01T22:22:46.515960+00:00)",
@@ -10380,18 +10380,6 @@
       "listed_at": "2026-10-07T11:54:05.724780+00:00",
       "discovered_at": "2026-11-01T13:39:12.294123+00:00",
       "est": "pos"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/under-the-iron-sky-signed-independent-bookshop-exclusive-edition/",
-      "title": "Under the Iron Sky \u2013 Signed Independent Bookshop Exclusive Edition",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/under-the-iron-sky-signed-independent-bookshop-exclusive-edition/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/Under-an-Emerald-Sky.jpg",
-      "vip": false,
-      "listed_at": "2026-10-07T11:36:30+00:00",
-      "discovered_at": "2026-10-27T09:45:28.821630+00:00"
     },
     {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/sebastian-faulks-farewell-to-eden-signed-copy-hardback",
