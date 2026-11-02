@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-02T15:45:08.459654+00:00",
-  "total_available": 2924,
+  "last_updated": "2026-11-02T16:43:28.439163+00:00",
+  "total_available": 2925,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
     "Porty Books": "12 items",
-    "Backstory London (Signed & Dedicated)": "34 items",
+    "Backstory London (Signed & Dedicated)": "35 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "271 items",
     "Cleeve Bookshop": "139 items",
@@ -26,6 +26,18 @@
     "Hatchards": "123 items via feed (as of 2026-11-02T14:24:36.754740+00:00)"
   },
   "books": [
+    {
+      "id": "Backstory London (Signed & Dedicated)::briefly-we-were-strangers-1",
+      "title": "Briefly, We Were Strangers",
+      "author": "Olivia Dodd",
+      "price": "\u00a314.99",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/briefly-we-were-strangers-1",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781805467656_19a7eb41-ef20-45c6-894d-5278e7dc287c.jpg?v=1793635712",
+      "vip": false,
+      "listed_at": "2026-11-02T16:12:58+00:00",
+      "discovered_at": "2026-11-02T16:43:28.439163+00:00"
+    },
     {
       "id": "Hatchards::https://www.hatchards.co.uk/book/grenade/coco-mellors/9780008870188",
       "title": "Grenade by Coco Mellors",
