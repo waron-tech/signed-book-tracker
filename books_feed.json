@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-02T05:37:46.654534+00:00",
-  "total_available": 2928,
+  "last_updated": "2026-11-02T06:38:16.164195+00:00",
+  "total_available": 2927,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
@@ -10,7 +10,7 @@
     "British Library Shop": "272 items",
     "Cleeve Bookshop": "139 items",
     "Ivybridge Bookshop": "163 items",
-    "Perkology Books": "43 items",
+    "Perkology Books": "42 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "28 items",
@@ -18,12 +18,12 @@
     "Hewson Books": "52 items",
     "Station Books": "64 items",
     "Booka Bookshop": "301 items",
-    "Coles Books": "ERROR: HTTPSConnectionPool(host='coles-books.co.uk', port=443): Read timed out. (read timeout=15)",
+    "Coles Books": "10 items",
     "West End Lane Books": "1078 items",
     "Waterstones": "184 items via feed (as of 2026-11-01T14:21:16.794303+00:00)",
     "Linghams": "220 items via feed (as of 2026-11-01T22:22:46.515960+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-01T10:31:13.371012+00:00)",
-    "Hatchards": "124 items via feed (as of 2026-11-01T02:23:41.835333+00:00)"
+    "Hatchards": "124 items via feed (as of 2026-11-02T06:21:34.575365+00:00)"
   },
   "books": [
     {
@@ -3038,7 +3038,7 @@
       "price": "\u00a320.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/the-disappearers-hatchards-signed-edition/marlon-james/2001797015336",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015336_2.jpg",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": false,
       "listed_at": "2026-10-22T09:12:06.487671+00:00",
       "discovered_at": "2026-11-01T13:39:12.294123+00:00",
@@ -36018,18 +36018,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0551/2278/8426/products/img20220629102918.jpg?v=1708812932",
       "vip": false,
       "listed_at": "2025-11-02T06:39:19+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Perkology Books::the-king-is-dead-long-live-the-king-by-martin-williams-signed-frist-edition",
-      "title": "The King is Dead, Long Live the King! by Martin Williams (Signed) Frist Edition",
-      "author": "Martin Williams",
-      "price": "\u00a335.00",
-      "shop": "Perkology Books",
-      "url": "https://www.perkology.co.uk/products/the-king-is-dead-long-live-the-king-by-martin-williams-signed-frist-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0551/2278/8426/products/img20230705094423.jpg?v=1708813447",
-      "vip": false,
-      "listed_at": "2025-11-02T06:14:46+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     }
   ]
