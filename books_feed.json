@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-02T06:38:16.164195+00:00",
-  "total_available": 2927,
+  "last_updated": "2026-11-02T07:59:48.266356+00:00",
+  "total_available": 2926,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
@@ -10,7 +10,7 @@
     "British Library Shop": "272 items",
     "Cleeve Bookshop": "139 items",
     "Ivybridge Bookshop": "163 items",
-    "Perkology Books": "42 items",
+    "Perkology Books": "41 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "28 items",
@@ -3922,7 +3922,7 @@
       "id": "Rare Mags::set-the-boy-free",
       "title": "Set The Boy Free",
       "author": "Johnny Marr",
-      "price": "\u00a341.00",
+      "price": "\u00a342.00",
       "shop": "Rare Mags",
       "url": "https://raremags.co.uk/products/set-the-boy-free",
       "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/3C2F86EE-9304-4DDB-8C9E-7D140DD14DC0.jpg?v=1792501420",
@@ -36007,18 +36007,6 @@
       "vip": false,
       "listed_at": "2025-11-02T10:17:46.732000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Perkology Books::pinch-of-nom-everyday-light-by-kay-featherstone-kate-allinson-signed",
-      "title": "Pinch of Nom Everyday Light:  by Kay Featherstone & Kate Allinson *SIGNED*",
-      "author": "Kay Allinson",
-      "price": "\u00a325.00",
-      "shop": "Perkology Books",
-      "url": "https://www.perkology.co.uk/products/pinch-of-nom-everyday-light-by-kay-featherstone-kate-allinson-signed",
-      "image": "https://cdn.shopify.com/s/files/1/0551/2278/8426/products/img20220629102918.jpg?v=1708812932",
-      "vip": false,
-      "listed_at": "2025-11-02T06:39:19+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     }
   ]
 }
