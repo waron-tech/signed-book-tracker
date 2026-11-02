@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-02T14:46:51.374859+00:00",
-  "total_available": 2922,
+  "last_updated": "2026-11-02T15:45:08.459654+00:00",
+  "total_available": 2924,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "39 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "301 items",
+    "Booka Bookshop": "303 items",
     "Coles Books": "10 items",
     "West End Lane Books": "1076 items",
     "Waterstones": "185 items via feed (as of 2026-11-02T14:24:36.754740+00:00)",
@@ -1199,6 +1199,18 @@
       "listed_at": "2026-10-27T11:34:50.475941+00:00",
       "discovered_at": "2026-11-01T13:39:12.294123+00:00",
       "est": "pos"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-grand-the-autobiography-of-gromit-signed-copy/",
+      "title": "The Grand: The Autobiography of Gromit \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/the-grand-the-autobiography-of-gromit-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/06/Grand.jpg",
+      "vip": false,
+      "listed_at": "2026-10-27T10:21:39+00:00",
+      "discovered_at": "2026-11-02T15:45:08.459654+00:00"
     },
     {
       "id": "Foyles::https://www.foyles.co.uk/book/defy-the-dusk/danielle-l-jensen/2928377381561",
@@ -15105,6 +15117,18 @@
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/90849/",
+      "title": "Massif \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/90849/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/04/Massif.jpg",
+      "vip": false,
+      "listed_at": "2026-09-17T15:01:41+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/cash-out-signed-copy/",
       "title": "Cash Out \u2013 Signed Copy",
       "author": "",
@@ -23217,6 +23241,18 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/humans-the-evolution-of-a-species-signed-copy/",
+      "title": "Humans: The Evolution of a Species \u2013 Signed Copy with Tote Bag",
+      "author": "",
+      "price": "\u00a325.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/humans-the-evolution-of-a-species-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/03/Humans.jpg",
+      "vip": false,
+      "listed_at": "2026-06-04T13:10:28+00:00",
+      "discovered_at": "2026-11-02T15:45:08.459654+00:00"
+    },
+    {
       "id": "British Library Shop::the-unicorn-hunters-signed-edition",
       "title": "The Unicorn Hunters (Signed Edition)",
       "author": "",
@@ -27354,18 +27390,6 @@
       "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/04/The-Name-Game.jpg",
       "vip": false,
       "listed_at": "2026-04-07T15:27:49+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/90849/",
-      "title": "Massif \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/90849/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/04/Massif.jpg",
-      "vip": false,
-      "listed_at": "2026-04-07T15:01:41+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
