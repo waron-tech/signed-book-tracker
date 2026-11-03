@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T11:29:41.083615+00:00",
-  "total_available": 2922,
+  "last_updated": "2026-11-03T12:15:50.860291+00:00",
+  "total_available": 2923,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
@@ -13,7 +13,7 @@
     "Perkology Books": "41 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
-    "London Review Bookshop": "28 items",
+    "London Review Bookshop": "29 items",
     "Little Apple Bookshop": "39 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
@@ -26,6 +26,19 @@
     "Hatchards": "123 items via feed (as of 2026-11-02T14:24:36.754740+00:00)"
   },
   "books": [
+    {
+      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-best-kind-of-american-murder-war-and-america-s-undoing-in-the-middle-east-kim-ghattas",
+      "title": "The Best Kind of American - Kim Ghattas",
+      "author": "Kim Ghattas",
+      "price": "\u00a325.00",
+      "shop": "London Review Bookshop",
+      "url": "https://www.londonreviewbookshop.co.uk/stock/the-best-kind-of-american-murder-war-and-america-s-undoing-in-the-middle-east-kim-ghattas",
+      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/3/6/5/9/4799563-1-eng-GB/3f28971d80a3-9781399419437.jpg",
+      "vip": false,
+      "listed_at": "2026-11-03T12:15:50.860291+00:00",
+      "discovered_at": "2026-11-03T12:15:50.860291+00:00",
+      "est": "seen"
+    },
     {
       "id": "Linghams::https://linghams.co.uk/product/no-figgy-pudding-signed-carol-ann-duffy/",
       "title": "No Figgy Pudding *SIGNED* Carol Ann Duffy",
