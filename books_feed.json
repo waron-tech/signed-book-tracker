@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-03T14:32:30.019152+00:00",
-  "total_available": 2926,
+  "last_updated": "2026-11-03T15:24:10.480495+00:00",
+  "total_available": 2928,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
     "Porty Books": "12 items",
-    "Backstory London (Signed & Dedicated)": "34 items",
+    "Backstory London (Signed & Dedicated)": "36 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "271 items",
     "Cleeve Bookshop": "139 items",
@@ -26,6 +26,30 @@
     "Hatchards": "123 items via feed (as of 2026-11-03T14:24:44.309902+00:00)"
   },
   "books": [
+    {
+      "id": "Backstory London (Signed & Dedicated)::pre-order-the-state-of-this-a-thicky-thicky-dumb-dumbs-guide-to-british-politics-by-cody-dahler-signed-personalised-dispatches-november-26",
+      "title": "The State Of This! A Thicky Thicky Dumb Dumb's Guide To British Politics",
+      "author": "",
+      "price": "\u00a316.99",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/pre-order-the-state-of-this-a-thicky-thicky-dumb-dumbs-guide-to-british-politics-by-cody-dahler-signed-personalised-dispatches-november-26",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/D3606060-1298-43F6-8508-EF66A505C485.jpg?v=1785529430",
+      "vip": false,
+      "listed_at": "2026-11-03T15:19:43+00:00",
+      "discovered_at": "2026-11-03T15:24:10.480495+00:00"
+    },
+    {
+      "id": "Backstory London (Signed & Dedicated)::pre-order-now-pay-attention-by-laura-kuenssberg-signed-personalised-publishes-november-2026",
+      "title": "Pay Attention",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/pre-order-now-pay-attention-by-laura-kuenssberg-signed-personalised-publishes-november-2026",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781472161420_4436fe9f-e75e-478f-a044-c1edd64bc0b8.jpg?v=1789063010",
+      "vip": false,
+      "listed_at": "2026-11-03T15:07:04+00:00",
+      "discovered_at": "2026-11-03T15:24:10.480495+00:00"
+    },
     {
       "id": "Linghams::https://linghams.co.uk/product/annie-lennox-retrospective-with-signed-bookplate/",
       "title": "Annie Lennox Retrospective with Signed bookplate",
