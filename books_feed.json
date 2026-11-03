@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T21:54:59.233193+00:00",
-  "total_available": 2923,
+  "last_updated": "2026-11-03T22:28:05.718425+00:00",
+  "total_available": 2926,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
@@ -18,14 +18,53 @@
     "Hewson Books": "52 items",
     "Station Books": "64 items",
     "Booka Bookshop": "303 items",
-    "Coles Books": "ERROR: HTTPSConnectionPool(host='coles-books.co.uk', port=443): Read timed out. (read timeout=15)",
+    "Coles Books": "8 items",
     "West End Lane Books": "1070 items",
     "Waterstones": "185 items via feed (as of 2026-11-03T18:24:03.200412+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-03T14:24:44.309902+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-03T14:24:44.309902+00:00)",
-    "Hatchards": "123 items via feed (as of 2026-11-03T14:24:44.309902+00:00)"
+    "Hatchards": "126 items via feed (as of 2026-11-03T22:26:36.047084+00:00)"
   },
   "books": [
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/in-one-brief-moment-all-eternity/elif-shafak/2928377384555",
+      "title": "In One Brief Moment All Eternity by Elif Shafak",
+      "author": "Elif Shafak",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/in-one-brief-moment-all-eternity/elif-shafak/2928377384555",
+      "image": "https://cdn.hatchards.co.uk/override/v2/large/2928/3773/2928377384555_2.jpg",
+      "vip": true,
+      "listed_at": "2026-11-03T22:28:05.718425+00:00",
+      "discovered_at": "2026-11-03T22:28:05.718425+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/truly-devious/maureen-johnson/9780062338068",
+      "title": "Truly Devious by Maureen Johnson",
+      "author": "Maureen Johnson",
+      "price": "\u00a38.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/truly-devious/maureen-johnson/9780062338068",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "vip": false,
+      "listed_at": "2026-11-03T22:28:05.718425+00:00",
+      "discovered_at": "2026-11-03T22:28:05.718425+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-bridge-beyond-the-stars/cornelia-funke/9781839553431",
+      "title": "The Bridge Beyond the Stars by Cornelia Funke",
+      "author": "Cornelia Funke",
+      "price": "\u00a316.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-bridge-beyond-the-stars/cornelia-funke/9781839553431",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "vip": false,
+      "listed_at": "2026-11-03T22:28:05.718425+00:00",
+      "discovered_at": "2026-11-03T22:28:05.718425+00:00",
+      "est": "seen"
+    },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/unapologetic-love-story-by-elle-mcnicoll-signed-1",
       "title": "Unapologetic Love Story by Elle McNicoll (Signed)",
@@ -3457,7 +3496,7 @@
       "price": "\u00a320.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/in-one-brief-moment-all-eternity-hatchards-signed-edition/elif-shafak/2001797015329",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015329_2.jpg",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": true,
       "listed_at": "2026-10-21T17:31:27.777994+00:00",
       "discovered_at": "2026-11-01T13:39:12.294123+00:00",
@@ -4673,7 +4712,7 @@
       "price": "\u00a320.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/lessons-in-harmony/jonathan-coe/2928377380021",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377380021_2.jpg",
       "vip": false,
       "listed_at": "2026-10-19T08:02:25.842510+00:00",
       "discovered_at": "2026-11-01T13:39:12.294123+00:00",
