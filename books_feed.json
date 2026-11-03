@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-02T23:41:58.948711+00:00",
-  "total_available": 2924,
+  "last_updated": "2026-11-03T00:14:05.954265+00:00",
+  "total_available": 2923,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "303 items",
     "Coles Books": "10 items",
-    "West End Lane Books": "1076 items",
+    "West End Lane Books": "1075 items",
     "Waterstones": "184 items via feed (as of 2026-11-02T22:23:51.457627+00:00)",
     "Linghams": "220 items via feed (as of 2026-11-02T22:23:51.457627+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-02T14:24:36.754740+00:00)",
@@ -20609,18 +20609,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/1694441621816-4H5R0PKEXX7NNV0TWY5R/Queens+Park+Books+and+West+End+Lane+Books_13.png",
       "vip": false,
       "listed_at": "2026-07-04T15:24:23.626000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/dont-trust-fish-by-neil-sharpson-signed",
-      "title": "Don't Trust Fish! by Neil Sharpson (Signed)",
-      "author": "Neil Sharpson",
-      "price": "\u00a37.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/dont-trust-fish-by-neil-sharpson-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/32e8ec9d-96e8-4695-8c2a-c455bfd747ae/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+%2872%29.jpg",
-      "vip": false,
-      "listed_at": "2026-07-04T14:35:41.016000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
