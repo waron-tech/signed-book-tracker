@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-03T10:37:54.780022+00:00",
-  "total_available": 2925,
+  "last_updated": "2026-11-03T11:29:41.083615+00:00",
+  "total_available": 2922,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
     "Porty Books": "12 items",
-    "Backstory London (Signed & Dedicated)": "35 items",
+    "Backstory London (Signed & Dedicated)": "34 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "271 items",
     "Cleeve Bookshop": "139 items",
@@ -17,9 +17,9 @@
     "Little Apple Bookshop": "39 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "302 items",
+    "Booka Bookshop": "303 items",
     "Coles Books": "10 items",
-    "West End Lane Books": "1075 items",
+    "West End Lane Books": "1072 items",
     "Waterstones": "184 items via feed (as of 2026-11-02T22:23:51.457627+00:00)",
     "Linghams": "223 items via feed (as of 2026-11-03T10:24:03.210638+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-02T14:24:36.754740+00:00)",
@@ -15683,18 +15683,6 @@
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
-      "id": "Backstory London (Signed & Dedicated)::pre-order-now-pay-attention-by-laura-kuenssberg-signed-personalised-publishes-november-2026",
-      "title": "Pay Attention",
-      "author": "Laura Kuenssberg",
-      "price": "\u00a322.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/pre-order-now-pay-attention-by-laura-kuenssberg-signed-personalised-publishes-november-2026",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781472161420_4436fe9f-e75e-478f-a044-c1edd64bc0b8.jpg?v=1789063010",
-      "vip": false,
-      "listed_at": "2026-09-10T17:57:35+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/more/",
       "title": "More \u2013 Signed Copy with Tote Bag",
       "author": "",
@@ -17849,7 +17837,7 @@
       "price": "\u00a320.00",
       "shop": "Booka Bookshop",
       "url": "https://www.bookabookshop.co.uk/shop/last-breath-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/09/Last_Breath.jpg",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/Last-Breath.jpg",
       "vip": false,
       "listed_at": "2026-08-08T16:56:38+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
@@ -24789,6 +24777,18 @@
       "vip": false,
       "listed_at": "2026-05-21T07:43:17+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-fear-opportunity-signed-copy/",
+      "title": "The Fear Opportunity \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a316.90",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/the-fear-opportunity-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/The-Fear-Opportunity.jpg",
+      "vip": false,
+      "listed_at": "2026-05-21T07:27:11+00:00",
+      "discovered_at": "2026-11-03T11:29:41.083615+00:00"
     },
     {
       "id": "Cleeve Bookshop::9780356526249",
@@ -35960,42 +35960,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/8d2fbaef-5d65-4928-a730-58249b8a91eb/Copy+of+Product+Template+-+Book+-+2025-10-28T122459.603.jpg",
       "vip": false,
       "listed_at": "2025-11-03T14:00:00+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-castle-by-jon-ronson-signed",
-      "title": "The Castle by Jon Ronson (Signed)",
-      "author": "Jon Ronson",
-      "price": "\u00a320.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-castle-by-jon-ronson-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/bc049b9d-42a9-4bef-b6ab-d68b1d188f61/Website+Listing+Template+-+Book+%2850%29.jpg",
-      "vip": false,
-      "listed_at": "2025-11-03T11:14:21.728000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/a-war-of-wyverns-by-sf-williamson-signed",
-      "title": "A War Of Wyverns by S.F. Williamson (Signed)",
-      "author": "S.F. Williamson",
-      "price": "\u00a316.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/a-war-of-wyverns-by-sf-williamson-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/2eda57c3-178f-4f73-99eb-501286201895/Copy+of+Product+Template+-+Book+-+2025-11-03T110317.344.jpg",
-      "vip": false,
-      "listed_at": "2025-11-03T11:06:26.186000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/half-his-age-by-jennette-mccurdy-signed",
-      "title": "Half His Age by Jennette McCurdy (Signed)",
-      "author": "Jennette McCurdy",
-      "price": "\u00a316.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/half-his-age-by-jennette-mccurdy-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/1bba9d91-0a25-4df3-9bc3-f3110cf05b85/Copy+of+Product+Template+-+Book+-+2025-11-03T105736.963.jpg",
-      "vip": false,
-      "listed_at": "2025-11-03T11:02:42.773000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     }
   ]
