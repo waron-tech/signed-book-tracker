@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T14:39:18.961226+00:00",
-  "total_available": 2929,
+  "last_updated": "2026-11-04T15:30:30.985197+00:00",
+  "total_available": 2930,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
@@ -18,7 +18,7 @@
     "Hewson Books": "52 items",
     "Station Books": "64 items",
     "Booka Bookshop": "306 items",
-    "Coles Books": "10 items",
+    "Coles Books": "11 items",
     "West End Lane Books": "1070 items",
     "Waterstones": "186 items via feed (as of 2026-11-04T14:26:14.404550+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-04T14:26:14.404550+00:00)",
@@ -26,6 +26,19 @@
     "Hatchards": "123 items via feed (as of 2026-11-04T02:25:32.891758+00:00)"
   },
   "books": [
+    {
+      "id": "Coles Books::https://coles-books.co.uk/the-taper-man-a-novel-of-john-le-carre-s-circus-by-nick-harkaway-signed-edition",
+      "title": "The Taper Man: A Novel of John le Carr\u00e9\u2019s Circus by Nick Harkaway - Signed Edition",
+      "author": "Nick Harkaway",
+      "price": "\u00a322.00",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/the-taper-man-a-novel-of-john-le-carre-s-circus-by-nick-harkaway-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/i/nick_harkaway_the_taper_man_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-04T15:30:30.985197+00:00",
+      "discovered_at": "2026-11-04T15:30:30.985197+00:00",
+      "est": "seen"
+    },
     {
       "id": "Coles Books::https://coles-books.co.uk/my-pressures-by-andy-serkis-signed-edition",
       "title": "My Pressures by Andy Serkis - Signed Edition",
