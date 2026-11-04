@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T18:30:38.653715+00:00",
-  "total_available": 2930,
+  "last_updated": "2026-11-04T19:39:16.302773+00:00",
+  "total_available": 2931,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "306 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1071 items",
+    "West End Lane Books": "1072 items",
     "Waterstones": "186 items via feed (as of 2026-11-04T14:26:14.404550+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-04T14:26:14.404550+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-04T18:26:06.395948+00:00)",
@@ -30242,6 +30242,18 @@
       "vip": false,
       "listed_at": "2026-02-25T11:39:56.394000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/signals-by-dr-saira-hameed-signed",
+      "title": "Signals by Dr Saira Hameed (Signed)",
+      "author": "Dr Saira Hameed",
+      "price": "\u00a320.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/signals-by-dr-saira-hameed-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/922894d8-80b6-4a20-8c23-ca54b0f81375/Website+Listing+Template+-+Book+%288%29.jpg",
+      "vip": false,
+      "listed_at": "2026-02-25T10:03:50.058000+00:00",
+      "discovered_at": "2026-11-04T19:39:16.302773+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/esther-is-now-following-you-signed-copy-with-tote-bag/",
