@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T21:15:30.895336+00:00",
-  "total_available": 2931,
+  "last_updated": "2026-11-04T22:10:40.707566+00:00",
+  "total_available": 2929,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "39 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "306 items",
+    "Booka Bookshop": "304 items",
     "Coles Books": "11 items",
     "West End Lane Books": "1072 items",
     "Waterstones": "186 items via feed (as of 2026-11-04T14:26:14.404550+00:00)",
@@ -36049,30 +36049,6 @@
       "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/10/A-Christmas-Ghost-Story.jpg",
       "vip": false,
       "listed_at": "2025-11-05T22:30:56+00:00",
-      "discovered_at": "2026-10-30T19:24:44.834279+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/maryville-signed-copy/",
-      "title": "Maryville \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a318.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/maryville-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/11/Maryville.jpg",
-      "vip": false,
-      "listed_at": "2025-11-04T21:50:13+00:00",
-      "discovered_at": "2026-10-30T19:24:44.834279+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/as-many-souls-as-stars-signed-copy/",
-      "title": "As Many Souls as Stars \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a318.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/as-many-souls-as-stars-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/11/As-Many-Souls-as-Stars.jpg",
-      "vip": false,
-      "listed_at": "2025-11-04T21:41:16+00:00",
       "discovered_at": "2026-10-30T19:24:44.834279+00:00"
     }
   ]
