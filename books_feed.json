@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-04T15:30:30.985197+00:00",
-  "total_available": 2930,
+  "last_updated": "2026-11-04T16:31:53.766733+00:00",
+  "total_available": 2929,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
     "Porty Books": "12 items",
-    "Backstory London (Signed & Dedicated)": "38 items",
+    "Backstory London (Signed & Dedicated)": "37 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "271 items",
     "Cleeve Bookshop": "139 items",
@@ -202,6 +202,18 @@
       "discovered_at": "2026-11-03T16:18:58.430572+00:00"
     },
     {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/no-figgy-pudding-signed-copy/",
+      "title": "No Figgy Pudding \u2013 Signed Copy",
+      "author": "Carol Ann Duffy",
+      "price": "\u00a312.99",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/no-figgy-pudding-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/No-Figgy-Pudding.jpg",
+      "vip": false,
+      "listed_at": "2026-11-03T15:24:14+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
       "id": "Backstory London (Signed & Dedicated)::pre-order-the-state-of-this-a-thicky-thicky-dumb-dumbs-guide-to-british-politics-by-cody-dahler-signed-personalised-dispatches-november-26",
       "title": "The State Of This! A Thicky Thicky Dumb Dumb's Guide To British Politics",
       "author": "",
@@ -224,6 +236,18 @@
       "vip": false,
       "listed_at": "2026-11-03T15:07:04+00:00",
       "discovered_at": "2026-11-03T15:24:10.480495+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/have-you-ever-heard-old-music-owen-cutts-52-essential-records-you-need-in-your-life-signed-copy/",
+      "title": "Have You Ever Heard Old Music? 52 Essential Records You Need in Your Life \u2013 Signed Copy",
+      "author": "Owen Cutts",
+      "price": "\u00a318.99",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/have-you-ever-heard-old-music-owen-cutts-52-essential-records-you-need-in-your-life-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/07/Have-You-Ever-Heard-Old-Music.jpeg",
+      "vip": false,
+      "listed_at": "2026-11-03T14:01:44+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/couples-on-loving-another-by-dr-orna-guralnik",
@@ -16732,18 +16756,6 @@
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/no-figgy-pudding-signed-copy/",
-      "title": "No Figgy Pudding \u2013 Signed Copy",
-      "author": "Carol Ann Duffy",
-      "price": "\u00a312.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/no-figgy-pudding-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/No-Figgy-Pudding.jpg",
-      "vip": false,
-      "listed_at": "2026-08-28T15:24:14+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
-    },
-    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/love-vito-signed-copy/",
       "title": "Love, Vito \u2013 Signed Copy",
       "author": "",
@@ -20882,18 +20894,6 @@
       "vip": false,
       "listed_at": "2026-07-02T14:25:28+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/have-you-ever-heard-old-music-owen-cutts-52-essential-records-you-need-in-your-life-signed-copy/",
-      "title": "Have You Ever Heard Old Music? 52 Essential Records You Need in Your Life \u2013 Signed Copy",
-      "author": "Owen Cutts",
-      "price": "\u00a318.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/have-you-ever-heard-old-music-owen-cutts-52-essential-records-you-need-in-your-life-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/07/Have-You-Ever-Heard-Old-Music.jpeg",
-      "vip": false,
-      "listed_at": "2026-07-02T14:01:44+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/love-on-the-brain-by-ali-hazelwood-signed",
@@ -29161,18 +29161,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/exit-party-signed-independent-bookshop-first-edition-with-exclusive-map-6222433.jpg?v=1787363065",
       "vip": false,
       "listed_at": "2026-03-13T11:17:44+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Backstory London (Signed & Dedicated)::pre-order-how-many-pikachus-would-it-take-to-power-a-lightbulb-by-tom-crawford-signed-personalised-with-pi-keyring-and-pokemon-trading-card-card-pi-keyring-with",
-      "title": "How Many Pikachus Would It Take To Power A Lightbulb",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/pre-order-how-many-pikachus-would-it-take-to-power-a-lightbulb-by-tom-crawford-signed-personalised-with-pi-keyring-and-pokemon-trading-card-card-pi-keyring-with",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/33F0CCFC-B86A-4D96-A2D7-3EBBAF1FE1AD.png?v=1790589893",
-      "vip": false,
-      "listed_at": "2026-03-13T10:49:42+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
