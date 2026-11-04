@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T22:10:40.707566+00:00",
+  "last_updated": "2026-11-04T22:52:20.552070+00:00",
   "total_available": 2929,
   "shop_status": {
     "Goldsboro Books": "11 items",
@@ -20,10 +20,10 @@
     "Booka Bookshop": "304 items",
     "Coles Books": "11 items",
     "West End Lane Books": "1072 items",
-    "Waterstones": "186 items via feed (as of 2026-11-04T14:26:14.404550+00:00)",
+    "Waterstones": "185 items via feed (as of 2026-11-04T22:30:31.091302+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-04T14:26:14.404550+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-04T18:26:06.395948+00:00)",
-    "Hatchards": "123 items via feed (as of 2026-11-04T02:25:32.891758+00:00)"
+    "Hatchards": "124 items via feed (as of 2026-11-04T22:30:31.091302+00:00)"
   },
   "books": [
     {
@@ -346,6 +346,19 @@
       "vip": false,
       "listed_at": "2026-11-02T09:54:01+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/in-one-brief-moment-all-eternity/elif-shafak/2928377384555",
+      "title": "In One Brief Moment All Eternity by Elif Shafak",
+      "author": "Elif Shafak",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/in-one-brief-moment-all-eternity/elif-shafak/2928377384555",
+      "image": "https://cdn.hatchards.co.uk/override/v2/large/2928/3773/2928377384555_2.jpg",
+      "vip": true,
+      "listed_at": "2026-11-01T22:52:20.552070+00:00",
+      "discovered_at": "2026-11-04T22:52:20.552070+00:00",
+      "est": "pos"
     },
     {
       "id": "Foyles::https://www.foyles.co.uk/book/minihorror/barbi-markovic/2928377409401",
@@ -3011,19 +3024,6 @@
       "est": "pos"
     },
     {
-      "id": "Waterstones::https://www.waterstones.com/book/the-two-body-problem/ali-hazelwood/9781408739976",
-      "title": "The Two Body Problem",
-      "author": "Ali Hazelwood",
-      "price": "\u00a320.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/the-two-body-problem/ali-hazelwood/9781408739976",
-      "image": "https://cdn.waterstones.com/override/v3/medium/9781/4087/9781408739976.jpg",
-      "vip": false,
-      "listed_at": "2026-10-26T01:52:51.864452+00:00",
-      "discovered_at": "2026-11-04T14:39:18.961226+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hatchards::https://www.hatchards.co.uk/book/the-earth-transformed-illustrated-edition/peter-frankopan/9781037212970",
       "title": "The Earth Transformed - Illustrated Edition",
       "author": "Peter Frankopan",
@@ -3472,7 +3472,7 @@
       "price": "\u00a320.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/serious-music/percival-everett/2928377392697",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377392697_2.jpg",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": false,
       "listed_at": "2026-10-24T16:59:48.229519+00:00",
       "discovered_at": "2026-11-04T14:39:18.961226+00:00",
@@ -4133,7 +4133,7 @@
       "price": "\u00a325.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/the-elegant-hustler-hatchards-signed-edition/celia-imrie/2001797015527",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015527_2.jpg",
       "vip": false,
       "listed_at": "2026-10-22T17:34:55.546592+00:00",
       "discovered_at": "2026-11-04T14:39:18.961226+00:00",
@@ -4372,7 +4372,7 @@
       "price": "\u00a320.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/lessons-in-harmony/jonathan-coe/2928377380021",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377380021_2.jpg",
       "vip": false,
       "listed_at": "2026-10-22T07:02:43.839275+00:00",
       "discovered_at": "2026-11-04T14:39:18.961226+00:00",
