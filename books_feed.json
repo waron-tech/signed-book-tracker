@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-04T10:33:22.173775+00:00",
+  "last_updated": "2026-11-04T11:35:11.244167+00:00",
   "total_available": 2922,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
     "Porty Books": "12 items",
-    "Backstory London (Signed & Dedicated)": "37 items",
+    "Backstory London (Signed & Dedicated)": "38 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "271 items",
     "Cleeve Bookshop": "139 items",
@@ -18,14 +18,39 @@
     "Hewson Books": "52 items",
     "Station Books": "64 items",
     "Booka Bookshop": "303 items",
-    "Coles Books": "ERROR: HTTPSConnectionPool(host='coles-books.co.uk', port=443): Read timed out. (read timeout=15)",
-    "West End Lane Books": "1069 items",
+    "Coles Books": "8 items",
+    "West End Lane Books": "1068 items",
     "Waterstones": "185 items via feed (as of 2026-11-03T18:24:03.200412+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-03T14:24:44.309902+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-03T14:24:44.309902+00:00)",
     "Hatchards": "123 items via feed (as of 2026-11-04T02:25:32.891758+00:00)"
   },
   "books": [
+    {
+      "id": "Coles Books::https://coles-books.co.uk/set-the-boy-free-illustrated-anniversary-edition-by-johnny-marr-signed-edition",
+      "title": "Set the Boy Free - Illustrated Anniversary Edition by Johnny Marr - Signed Edition",
+      "author": "Johnny Marr",
+      "price": "\u00a330.00",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/set-the-boy-free-illustrated-anniversary-edition-by-johnny-marr-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/j/o/johnny_marr_set_the_boy_free_illustrated_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-04T11:35:11.244167+00:00",
+      "discovered_at": "2026-11-04T11:35:11.244167+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Backstory London (Signed & Dedicated)::we-need-to-talk-4",
+      "title": "We Need To Talk",
+      "author": "",
+      "price": "\u00a318.99",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/we-need-to-talk-4",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781785044700_2bb6b4d3-8018-4703-967a-186208807eaf.jpg?v=1793787406",
+      "vip": false,
+      "listed_at": "2026-11-04T10:48:03+00:00",
+      "discovered_at": "2026-11-04T11:35:11.244167+00:00"
+    },
     {
       "id": "Backstory London (Signed & Dedicated)::the-return-trip-is-shorter-1",
       "title": "The Return Trip Is Shorter",
@@ -3487,19 +3512,6 @@
       "listed_at": "2026-10-21T17:08:39.566850+00:00",
       "discovered_at": "2026-11-01T13:39:12.294123+00:00",
       "est": "pos"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/the-wizard-by-chris-woakes-signed-edition",
-      "title": "The Wizard by Chris Woakes - Signed Edition",
-      "author": "Chris Woakes",
-      "price": "\u00a325.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/the-wizard-by-chris-woakes-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/c/h/chris_woakes_the_wizard_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-21T16:39:35.414525+00:00",
-      "discovered_at": "2026-10-21T16:39:35.414525+00:00",
-      "est": "seen"
     },
     {
       "id": "Waterstones::https://www.waterstones.com/book/claws-out/bella-mackie/9780008824945",
@@ -22833,18 +22845,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/1707910373048-GKUUOH2CR0VMWB7YBZC8/Copy+of+Product+Template+-+Book+-+2024-02-14T113241.154.jpg",
       "vip": false,
       "listed_at": "2026-06-06T13:06:19.735000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-book-of-lost-hours-by-hayley-gelfuso-signed-1",
-      "title": "The Book of Lost Hours by Hayley Gelfuso (Signed)",
-      "author": "Hayley Gelfuso",
-      "price": "\u00a39.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-book-of-lost-hours-by-hayley-gelfuso-signed-1",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/fd7de3ec-8937-425a-aa1b-919e5f2e7624/Website+Listing+Template+-+Book+%2829%29.jpg",
-      "vip": false,
-      "listed_at": "2026-06-05T17:16:11.664000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
