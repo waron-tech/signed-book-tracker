@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-11-04T09:27:46.310552+00:00",
+  "last_updated": "2026-11-04T10:33:22.173775+00:00",
   "total_available": 2922,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "6 items",
     "Porty Books": "12 items",
-    "Backstory London (Signed & Dedicated)": "36 items",
+    "Backstory London (Signed & Dedicated)": "37 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "271 items",
     "Cleeve Bookshop": "139 items",
-    "Ivybridge Bookshop": "162 items",
+    "Ivybridge Bookshop": "161 items",
     "Perkology Books": "41 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
@@ -18,7 +18,7 @@
     "Hewson Books": "52 items",
     "Station Books": "64 items",
     "Booka Bookshop": "303 items",
-    "Coles Books": "8 items",
+    "Coles Books": "ERROR: HTTPSConnectionPool(host='coles-books.co.uk', port=443): Read timed out. (read timeout=15)",
     "West End Lane Books": "1069 items",
     "Waterstones": "185 items via feed (as of 2026-11-03T18:24:03.200412+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-03T14:24:44.309902+00:00)",
@@ -26,6 +26,18 @@
     "Hatchards": "123 items via feed (as of 2026-11-04T02:25:32.891758+00:00)"
   },
   "books": [
+    {
+      "id": "Backstory London (Signed & Dedicated)::the-return-trip-is-shorter-1",
+      "title": "The Return Trip Is Shorter",
+      "author": "",
+      "price": "\u00a314.99",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/the-return-trip-is-shorter-1",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781784746995_d30383a2-f288-48ea-9b3b-4e2242763aa7.jpg?v=1793786817",
+      "vip": false,
+      "listed_at": "2026-11-04T10:11:25+00:00",
+      "discovered_at": "2026-11-04T10:33:22.173775+00:00"
+    },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/unapologetic-love-story-by-elle-mcnicoll-signed-1",
       "title": "Unapologetic Love Story by Elle McNicoll (Signed)",
@@ -16593,18 +16605,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9781529061543_3df96266-e136-4f41-ac30-9b9f1358621e.jpg?v=1788172085",
       "vip": false,
       "listed_at": "2026-08-31T10:21:43+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Ivybridge Bookshop::9781035087822",
-      "title": "Twist - (Pre Order) Signed Independent Edition with sprayed edge - Alice Feeney (Hardback) 09-03-2027",
-      "author": "Alice Feeney",
-      "price": "\u00a316.99",
-      "shop": "Ivybridge Bookshop",
-      "url": "https://www.ivybridgebookshop.com/products/9781035087822",
-      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9781035087822_f7e5215b-e68d-464e-9482-d39ca268e0c6.jpg?v=1788172263",
-      "vip": false,
-      "listed_at": "2026-08-31T10:21:42+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
