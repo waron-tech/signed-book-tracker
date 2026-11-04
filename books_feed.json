@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T22:52:20.552070+00:00",
+  "last_updated": "2026-11-04T23:30:59.644263+00:00",
   "total_available": 2929,
   "shop_status": {
     "Goldsboro Books": "11 items",
@@ -1571,6 +1571,18 @@
       "listed_at": "2026-10-29T12:53:57.010006+00:00",
       "discovered_at": "2026-11-04T14:39:18.961226+00:00",
       "est": "pos"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/rick-steins-cookery-course-signed-copy/",
+      "title": "Rick Stein\u2019s Cookery Course \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a330.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/rick-steins-cookery-course-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/Rick-Steins-Cookery-Course.jpg",
+      "vip": false,
+      "listed_at": "2026-10-29T12:17:02+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/seven-by-joanna-kavenna-signed-1",
@@ -18470,18 +18482,6 @@
       "vip": false,
       "listed_at": "2026-08-05T13:00:05+00:00",
       "discovered_at": "2026-10-26T16:21:01.664681+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/rick-steins-cookery-course-signed-copy/",
-      "title": "Rick Stein\u2019s Cookery Course \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a330.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/rick-steins-cookery-course-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/Rick-Steins-Cookery-Course.jpg",
-      "vip": false,
-      "listed_at": "2026-08-05T12:17:02+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/a-history-of-britain-in-21-paintings-signed-copy/",
