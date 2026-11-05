@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-05T14:46:14.537774+00:00",
-  "total_available": 2929,
+  "last_updated": "2026-11-05T15:45:20.338557+00:00",
+  "total_available": 2930,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
     "Porty Books": "12 items",
     "Backstory London (Signed & Dedicated)": "37 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "274 items",
+    "British Library Shop": "275 items",
     "Cleeve Bookshop": "139 items",
     "Ivybridge Bookshop": "161 items",
     "Perkology Books": "40 items",
@@ -17,15 +17,39 @@
     "Little Apple Bookshop": "39 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "304 items",
+    "Booka Bookshop": "303 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1073 items",
+    "West End Lane Books": "1074 items",
     "Waterstones": "186 items via feed (as of 2026-11-05T14:27:13.022207+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-05T14:27:13.022207+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-04T18:26:06.395948+00:00)",
     "Hatchards": "122 items via feed (as of 2026-11-05T14:27:13.022207+00:00)"
   },
   "books": [
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/pick-your-bottles-100-wines-to-change-the-way-you-drink-by-dan-keeling-signed",
+      "title": "Pick Your Bottles : 100 Wines to Change the Way You Drink by Dan Keeling (Signed)",
+      "author": "Dan Keeling",
+      "price": "\u00a322.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/pick-your-bottles-100-wines-to-change-the-way-you-drink-by-dan-keeling-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/c6c92183-6d0e-4654-ba54-2f2eab5f64ad/Website+Listing+Template+-+Book+%284%29.jpg",
+      "vip": false,
+      "listed_at": "2026-11-05T15:32:08.575000+00:00",
+      "discovered_at": "2026-11-05T15:45:20.338557+00:00"
+    },
+    {
+      "id": "British Library Shop::the-shadows-of-kensington-gore-signed-special-edition",
+      "title": "The Shadows of Kensington Gore (Signed, Indie Edition)",
+      "author": "",
+      "price": "\u00a315.99",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/the-shadows-of-kensington-gore-signed-special-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/TheShadowsofKensingtonGore_9780241766187.png?v=1793890069",
+      "vip": false,
+      "listed_at": "2026-11-05T14:48:12+00:00",
+      "discovered_at": "2026-11-05T15:45:20.338557+00:00"
+    },
     {
       "id": "Waterstones::https://www.waterstones.com/book/all-about-my-mother/rachael-stirling/9781399848695",
       "title": "All About My Mother",
@@ -15649,18 +15673,6 @@
       "vip": false,
       "listed_at": "2026-09-17T08:28:57+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/down-burrow-lane-life-and-love-on-the-farm-signed-copy/",
-      "title": "Down Burrow Lane: Life and Love on the Farm \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/down-burrow-lane-life-and-love-on-the-farm-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/07/Down-Burrow-Lane.jpg",
-      "vip": false,
-      "listed_at": "2026-09-16T20:00:00+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/end-times-fascism-and-the-fight-for-the-living-world-signed-copy/",
