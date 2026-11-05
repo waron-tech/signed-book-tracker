@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T05:25:40.134851+00:00",
+  "last_updated": "2026-11-05T06:24:27.594736+00:00",
   "total_available": 2926,
   "shop_status": {
     "Goldsboro Books": "11 items",
@@ -18,7 +18,7 @@
     "Hewson Books": "52 items",
     "Station Books": "64 items",
     "Booka Bookshop": "304 items",
-    "Coles Books": "ERROR: HTTPSConnectionPool(host='coles-books.co.uk', port=443): Read timed out. (read timeout=15)",
+    "Coles Books": "11 items",
     "West End Lane Books": "1073 items",
     "Waterstones": "184 items via feed (as of 2026-11-05T02:26:31.801350+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-04T14:26:14.404550+00:00)",
@@ -78,19 +78,6 @@
       "est": "seen"
     },
     {
-      "id": "Waterstones::https://www.waterstones.com/book/barren/caroline-criado-perez/2928377414962",
-      "title": "Barren",
-      "author": "Caroline Criado Perez",
-      "price": "\u00a322.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/barren/caroline-criado-perez/2928377414962",
-      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3774/2928377414962.jpg",
-      "vip": false,
-      "listed_at": "2026-11-04T14:39:18.961226+00:00",
-      "discovered_at": "2026-11-04T14:39:18.961226+00:00",
-      "est": "seen"
-    },
-    {
       "id": "Coles Books::https://coles-books.co.uk/my-pressures-by-andy-serkis-signed-edition",
       "title": "My Pressures by Andy Serkis - Signed Edition",
       "author": "Andy Serkis",
@@ -98,6 +85,19 @@
       "shop": "Coles Books",
       "url": "https://coles-books.co.uk/my-pressures-by-andy-serkis-signed-edition",
       "image": "https://cdn.coles-books.co.uk/media/catalog/product/a/n/andy_serkis_my_pressures_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-04T14:39:18.961226+00:00",
+      "discovered_at": "2026-11-04T14:39:18.961226+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/barren/caroline-criado-perez/2928377414962",
+      "title": "Barren",
+      "author": "Caroline Criado Perez",
+      "price": "\u00a322.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/barren/caroline-criado-perez/2928377414962",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3774/2928377414962.jpg",
       "vip": false,
       "listed_at": "2026-11-04T14:39:18.961226+00:00",
       "discovered_at": "2026-11-04T14:39:18.961226+00:00",
