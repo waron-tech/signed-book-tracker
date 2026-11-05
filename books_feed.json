@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T00:20:36.942080+00:00",
+  "last_updated": "2026-11-05T01:38:19.714927+00:00",
   "total_available": 2926,
   "shop_status": {
     "Goldsboro Books": "11 items",
@@ -11,7 +11,7 @@
     "Cleeve Bookshop": "139 items",
     "Ivybridge Bookshop": "161 items",
     "Perkology Books": "40 items",
-    "Bookstation (Ireland)": "7 items",
+    "Bookstation (Ireland)": "ERROR: HTTPSConnectionPool(host='bookstation.ie', port=443): Max retries exceeded with url: /collections/signed-books/products.",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "29 items",
     "Little Apple Bookshop": "39 items",
