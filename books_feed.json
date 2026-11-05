@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-05T21:55:14.573645+00:00",
-  "total_available": 2927,
+  "last_updated": "2026-11-05T22:35:43.669398+00:00",
+  "total_available": 2926,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
@@ -17,15 +17,28 @@
     "Little Apple Bookshop": "39 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "302 items",
+    "Booka Bookshop": "301 items",
     "Coles Books": "11 items",
     "West End Lane Books": "1074 items",
-    "Waterstones": "186 items via feed (as of 2026-11-05T18:27:33.461269+00:00)",
+    "Waterstones": "185 items via feed (as of 2026-11-05T22:29:29.164669+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-05T14:27:13.022207+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-05T18:27:33.461269+00:00)",
-    "Hatchards": "120 items via feed (as of 2026-11-05T18:27:33.461269+00:00)"
+    "Hatchards": "121 items via feed (as of 2026-11-05T22:29:29.164669+00:00)"
   },
   "books": [
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/from-the-world-of-percy-jackson-the-rite-of-aphrodite/rick-riordan/9780241876015",
+      "title": "From the World of Percy Jackson: The Rite of Aphrodite by Rick Riordan",
+      "author": "Rick Riordan",
+      "price": "\u00a316.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/from-the-world-of-percy-jackson-the-rite-of-aphrodite/rick-riordan/9780241876015",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "vip": false,
+      "listed_at": "2026-11-05T22:35:43.669398+00:00",
+      "discovered_at": "2026-11-05T22:35:43.669398+00:00",
+      "est": "seen"
+    },
     {
       "id": "Hatchards::https://www.hatchards.co.uk/book/get-back/hunter-davies/2928377394462",
       "title": "Get Back by Hunter Davies",
@@ -34,19 +47,6 @@
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/get-back/hunter-davies/2928377394462",
       "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377394462_2.jpg",
-      "vip": false,
-      "listed_at": "2026-11-05T18:38:34.974182+00:00",
-      "discovered_at": "2026-11-05T18:38:34.974182+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/tom-gates-is-not-famous-yet-book-25/liz-pichon/9780702351273",
-      "title": "Tom Gates Is Not Famous (Yet) (Book 25) by Liz Pichon",
-      "author": "Liz Pichon",
-      "price": "\u00a312.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/tom-gates-is-not-famous-yet-book-25/liz-pichon/9780702351273",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": false,
       "listed_at": "2026-11-05T18:38:34.974182+00:00",
       "discovered_at": "2026-11-05T18:38:34.974182+00:00",
@@ -482,6 +482,19 @@
       "vip": false,
       "listed_at": "2026-11-02T15:15:30+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/in-one-brief-moment-all-eternity/elif-shafak/2928377384555",
+      "title": "In One Brief Moment All Eternity by Elif Shafak",
+      "author": "Elif Shafak",
+      "price": "\u00a320.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/in-one-brief-moment-all-eternity/elif-shafak/2928377384555",
+      "image": "https://cdn.hatchards.co.uk/override/v2/large/2928/3773/2928377384555_2.jpg",
+      "vip": true,
+      "listed_at": "2026-11-02T11:53:04.991712+00:00",
+      "discovered_at": "2026-11-05T22:35:43.669398+00:00",
+      "est": "pos"
     },
     {
       "id": "British Library Shop::the-twelve-songs-of-christmas",
@@ -2927,19 +2940,6 @@
       "est": "pos"
     },
     {
-      "id": "Waterstones::https://www.waterstones.com/book/the-two-body-problem/ali-hazelwood/9781408739976",
-      "title": "The Two Body Problem",
-      "author": "Ali Hazelwood",
-      "price": "\u00a320.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/the-two-body-problem/ali-hazelwood/9781408739976",
-      "image": "https://cdn.waterstones.com/override/v3/medium/9781/4087/9781408739976.jpg",
-      "vip": false,
-      "listed_at": "2026-10-26T15:56:00.135472+00:00",
-      "discovered_at": "2026-11-05T18:38:34.974182+00:00",
-      "est": "pos"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/hilda-and-twig-find-a-space-rock-by-luke-pearson-signed",
       "title": "Hilda and Twig: Find a Space Rock by Luke Pearson (Signed)",
       "author": "Luke Pearson",
@@ -3682,7 +3682,7 @@
       "price": "\u00a320.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/in-one-brief-moment-all-eternity-hatchards-signed-edition/elif-shafak/2001797015329",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015329_2.jpg",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": true,
       "listed_at": "2026-10-24T11:43:42.375860+00:00",
       "discovered_at": "2026-11-04T14:39:18.961226+00:00",
@@ -4278,7 +4278,7 @@
       "price": "\u00a325.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/the-elegant-hustler-hatchards-signed-edition/celia-imrie/2001797015527",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015527_2.jpg",
       "vip": false,
       "listed_at": "2026-10-22T17:34:55.546592+00:00",
       "discovered_at": "2026-11-04T14:39:18.961226+00:00",
@@ -4517,7 +4517,7 @@
       "price": "\u00a320.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/lessons-in-harmony/jonathan-coe/2928377380021",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377380021_2.jpg",
       "vip": false,
       "listed_at": "2026-10-22T07:02:43.839275+00:00",
       "discovered_at": "2026-11-04T14:39:18.961226+00:00",
@@ -36010,18 +36010,6 @@
       "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/12/How-to-Live-an-Artful-Life.jpg",
       "vip": false,
       "listed_at": "2025-11-06T10:16:57+00:00",
-      "discovered_at": "2026-10-30T19:24:44.834279+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/a-christmas-ghost-story-signed-copy/",
-      "title": "A Christmas Ghost Story \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a312.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/a-christmas-ghost-story-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/10/A-Christmas-Ghost-Story.jpg",
-      "vip": false,
-      "listed_at": "2025-11-05T22:30:56+00:00",
       "discovered_at": "2026-10-30T19:24:44.834279+00:00"
     }
   ]
