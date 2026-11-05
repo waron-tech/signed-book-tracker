@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-05T15:45:20.338557+00:00",
-  "total_available": 2930,
+  "last_updated": "2026-11-05T16:46:02.220935+00:00",
+  "total_available": 2932,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
     "Porty Books": "12 items",
     "Backstory London (Signed & Dedicated)": "37 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "275 items",
+    "British Library Shop": "277 items",
     "Cleeve Bookshop": "139 items",
     "Ivybridge Bookshop": "161 items",
     "Perkology Books": "40 items",
@@ -26,6 +26,42 @@
     "Hatchards": "122 items via feed (as of 2026-11-05T14:27:13.022207+00:00)"
   },
   "books": [
+    {
+      "id": "British Library Shop::decline-and-falling-over",
+      "title": "Decline and Falling Over (Signed Edition)",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/decline-and-falling-over",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/declineandfallingover_9780241822197.png?v=1793895040",
+      "vip": false,
+      "listed_at": "2026-11-05T16:11:04+00:00",
+      "discovered_at": "2026-11-05T16:46:02.220935+00:00"
+    },
+    {
+      "id": "British Library Shop::everything-happens-so-much",
+      "title": "Everything Happens So Much (Signed Edition)",
+      "author": "",
+      "price": "\u00a318.99",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/everything-happens-so-much",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/EverythingHappenssomuch_9781398718074.png?v=1793894775",
+      "vip": false,
+      "listed_at": "2026-11-05T16:06:30+00:00",
+      "discovered_at": "2026-11-05T16:46:02.220935+00:00"
+    },
+    {
+      "id": "British Library Shop::chateau-reverie",
+      "title": "Ch\u00e2teau Reverie (Signed Edition)",
+      "author": "",
+      "price": "\u00a318.00",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/chateau-reverie",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/chateaureverie_9781526684653.png?v=1793893916",
+      "vip": false,
+      "listed_at": "2026-11-05T15:52:14+00:00",
+      "discovered_at": "2026-11-05T16:46:02.220935+00:00"
+    },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/pick-your-bottles-100-wines-to-change-the-way-you-drink-by-dan-keeling-signed",
       "title": "Pick Your Bottles : 100 Wines to Change the Way You Drink by Dan Keeling (Signed)",
@@ -8168,18 +8204,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/CreativeWriting9781837266364.png?v=1791980811",
       "vip": false,
       "listed_at": "2026-10-14T12:27:07+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "British Library Shop::fictional-selves-signed-edition",
-      "title": "Fictional Selves (Signed Edition)",
-      "author": "",
-      "price": "\u00a325.00",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/fictional-selves-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/FictionalSelves_9781529955057.png?v=1791980671",
-      "vip": false,
-      "listed_at": "2026-10-14T12:24:53+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
