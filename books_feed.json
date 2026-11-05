@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-05T20:26:30.986032+00:00",
-  "total_available": 2928,
+  "last_updated": "2026-11-05T21:13:24.372211+00:00",
+  "total_available": 2927,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
@@ -8,7 +8,7 @@
     "Backstory London (Signed & Dedicated)": "37 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "276 items",
-    "Cleeve Bookshop": "139 items",
+    "Cleeve Bookshop": "138 items",
     "Ivybridge Bookshop": "161 items",
     "Perkology Books": "40 items",
     "Bookstation (Ireland)": "7 items",
@@ -944,18 +944,6 @@
       "listed_at": "2026-10-31T14:16:05.412839+00:00",
       "discovered_at": "2026-11-04T14:39:18.961226+00:00",
       "est": "pos"
-    },
-    {
-      "id": "Cleeve Bookshop::9781398566231",
-      "title": "What Took You So Long? - Signed First Edition",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781398566231",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/9781398566231.jpg?v=1793581587",
-      "vip": false,
-      "listed_at": "2026-10-31T13:53:55+00:00",
-      "discovered_at": "2026-10-31T14:04:08.548819+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/masterpiece-signed-copy/",
