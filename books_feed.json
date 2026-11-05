@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-05T02:34:03.220623+00:00",
-  "total_available": 2925,
+  "last_updated": "2026-11-05T03:29:09.026515+00:00",
+  "total_available": 2926,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -19,13 +19,25 @@
     "Station Books": "64 items",
     "Booka Bookshop": "304 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1072 items",
+    "West End Lane Books": "1073 items",
     "Waterstones": "184 items via feed (as of 2026-11-05T02:26:31.801350+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-04T14:26:14.404550+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-04T18:26:06.395948+00:00)",
     "Hatchards": "124 items via feed (as of 2026-11-05T02:26:31.801350+00:00)"
   },
   "books": [
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/hunger-by-joe-hill-signed",
+      "title": "Hunger by Joe Hill (Signed)",
+      "author": "Joe Hill",
+      "price": "\u00a325.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/hunger-by-joe-hill-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/3cce7a32-e7d8-4462-8232-f6bbd9abe26f/Website+Listing+Template+-+Book+%2853%29.jpg",
+      "vip": false,
+      "listed_at": "2026-11-05T03:00:17.872000+00:00",
+      "discovered_at": "2026-11-05T03:29:09.026515+00:00"
+    },
     {
       "id": "Hatchards::https://www.hatchards.co.uk/book/esme-pepper/jacqueline-wilson/9780241854112",
       "title": "Esme Pepper by Jacqueline Wilson",
