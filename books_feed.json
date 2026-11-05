@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-05T01:38:19.714927+00:00",
-  "total_available": 2926,
+  "last_updated": "2026-11-05T02:34:03.220623+00:00",
+  "total_available": 2925,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -11,7 +11,7 @@
     "Cleeve Bookshop": "139 items",
     "Ivybridge Bookshop": "161 items",
     "Perkology Books": "40 items",
-    "Bookstation (Ireland)": "ERROR: HTTPSConnectionPool(host='bookstation.ie', port=443): Max retries exceeded with url: /collections/signed-books/products.",
+    "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "29 items",
     "Little Apple Bookshop": "39 items",
@@ -20,12 +20,25 @@
     "Booka Bookshop": "304 items",
     "Coles Books": "11 items",
     "West End Lane Books": "1072 items",
-    "Waterstones": "185 items via feed (as of 2026-11-04T22:30:31.091302+00:00)",
+    "Waterstones": "184 items via feed (as of 2026-11-05T02:26:31.801350+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-04T14:26:14.404550+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-04T18:26:06.395948+00:00)",
-    "Hatchards": "124 items via feed (as of 2026-11-04T22:30:31.091302+00:00)"
+    "Hatchards": "124 items via feed (as of 2026-11-05T02:26:31.801350+00:00)"
   },
   "books": [
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/esme-pepper/jacqueline-wilson/9780241854112",
+      "title": "Esme Pepper by Jacqueline Wilson",
+      "author": "Jacqueline Wilson",
+      "price": "\u00a314.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/esme-pepper/jacqueline-wilson/9780241854112",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "vip": false,
+      "listed_at": "2026-11-05T02:34:03.220623+00:00",
+      "discovered_at": "2026-11-05T02:34:03.220623+00:00",
+      "est": "seen"
+    },
     {
       "id": "Linghams::https://linghams.co.uk/product/royal-witch-signed-indie-edition/",
       "title": "Royal Witch SIGNED INDIE EDITION",
@@ -1180,19 +1193,6 @@
       "image": "",
       "vip": false,
       "listed_at": "2026-10-30T15:21:21.588963+00:00",
-      "discovered_at": "2026-11-04T14:39:18.961226+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/one-helluva-ride/michael-douglas/9781035451159",
-      "title": "One Helluva Ride by Michael Douglas",
-      "author": "Michael Douglas",
-      "price": "\u00a325.00",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/one-helluva-ride/michael-douglas/9781035451159",
-      "image": "https://cdn.hatchards.co.uk/override/v2/large/9781/0354/9781035451159_2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-30T15:14:26.278299+00:00",
       "discovered_at": "2026-11-04T14:39:18.961226+00:00",
       "est": "pos"
     },
@@ -5130,7 +5130,7 @@
       "price": "\u00a320.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/doom-painting/a-k-blakemore/9781803515007",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/9781/8035/9781803515007_2.jpg",
       "vip": false,
       "listed_at": "2026-10-20T18:10:02.863665+00:00",
       "discovered_at": "2026-11-04T14:39:18.961226+00:00",
@@ -8154,19 +8154,6 @@
       "vip": false,
       "listed_at": "2026-10-14T11:10:37.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Waterstones::https://www.waterstones.com/book/the-hollow/michael-connelly/9781398731202",
-      "title": "The Hollow",
-      "author": "Michael Connelly",
-      "price": "\u00a322.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/the-hollow/michael-connelly/9781398731202",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3987/9781398731202.jpg",
-      "vip": false,
-      "listed_at": "2026-10-14T11:10:17.025742+00:00",
-      "discovered_at": "2026-11-04T14:39:18.961226+00:00",
       "est": "pos"
     },
     {
