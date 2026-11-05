@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T11:43:45.242853+00:00",
+  "last_updated": "2026-11-05T12:39:08.992554+00:00",
   "total_available": 2929,
   "shop_status": {
     "Goldsboro Books": "11 items",
@@ -7,7 +7,7 @@
     "Porty Books": "12 items",
     "Backstory London (Signed & Dedicated)": "37 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "273 items",
+    "British Library Shop": "274 items",
     "Cleeve Bookshop": "139 items",
     "Ivybridge Bookshop": "161 items",
     "Perkology Books": "40 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "304 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1073 items",
+    "West End Lane Books": "1072 items",
     "Waterstones": "185 items via feed (as of 2026-11-05T06:26:48.074876+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-04T14:26:14.404550+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-04T18:26:06.395948+00:00)",
@@ -2130,6 +2130,18 @@
       "vip": false,
       "listed_at": "2026-10-28T12:48:23+00:00",
       "discovered_at": "2026-10-28T12:58:46.009505+00:00"
+    },
+    {
+      "id": "British Library Shop::murder-at-the-grand-alpine-hotel",
+      "title": "Murder at the Grand Alpine Hotel (Signed, Special Edition)",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/murder-at-the-grand-alpine-hotel",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/Murderatthegrandalpinehotel_9780008694821.png?v=1793879051",
+      "vip": false,
+      "listed_at": "2026-10-28T12:25:30+00:00",
+      "discovered_at": "2026-11-05T12:39:08.992554+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/opheus-signed-copy/",
@@ -8757,7 +8769,7 @@
       "id": "British Library Shop::life-out-of-order",
       "title": "Life Out of Order (Signed Edition)",
       "author": "",
-      "price": "\u00a322.00",
+      "price": "\u00a318.00",
       "shop": "British Library Shop",
       "url": "https://shop.bl.uk/products/life-out-of-order",
       "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/LifeOutofOrder_9781787336766.png?v=1790851343",
@@ -13167,7 +13179,7 @@
       "id": "British Library Shop::the-weight-of-angels",
       "title": "The Weight of Angels",
       "author": "",
-      "price": "\u00a320.00",
+      "price": "\u00a316.00",
       "shop": "British Library Shop",
       "url": "https://shop.bl.uk/products/the-weight-of-angels",
       "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/Weightofangels_9781529943849.png?v=1790849422",
@@ -17107,7 +17119,7 @@
       "id": "British Library Shop::claws-out-signed-exclusive-edition",
       "title": "Claws Out! (Signed, Exclusive Edition)",
       "author": "",
-      "price": "\u00a320.00",
+      "price": "\u00a316.00",
       "shop": "British Library Shop",
       "url": "https://shop.bl.uk/products/claws-out-signed-exclusive-edition",
       "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/Clawsout_9780008842901.png?v=1787580562",
@@ -28651,7 +28663,7 @@
       "id": "British Library Shop::look-what-you-made-me-do-signed-edition",
       "title": "Look What You Made Me Do (Signed Edition)",
       "author": "",
-      "price": "\u00a320.00",
+      "price": "\u00a316.00",
       "shop": "British Library Shop",
       "url": "https://shop.bl.uk/products/look-what-you-made-me-do-signed-edition",
       "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/lookwhatyoumademedo.png?v=1773913463",
@@ -32581,18 +32593,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/044845c5-921f-42cf-bc94-06c9c503c063/Copy+of+Product+Template+-+Book+%2841%29.jpg",
       "vip": false,
       "listed_at": "2026-01-23T16:49:13.760000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-house-of-hidden-meanings-by-rupaul",
-      "title": "The House of Hidden Meanings by RuPaul",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-house-of-hidden-meanings-by-rupaul",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/1705419370734-62KI5N68RBZOF23F7SG5/Copy+of+Product+Template+-+Book+-+2024-01-16T153429.972.jpg",
-      "vip": false,
-      "listed_at": "2026-01-23T16:45:52.684000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
