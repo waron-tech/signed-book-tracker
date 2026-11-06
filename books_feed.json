@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-06T17:02:49.223884+00:00",
-  "total_available": 2934,
+  "last_updated": "2026-11-06T17:52:19.452853+00:00",
+  "total_available": 2933,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "3 items",
     "Porty Books": "12 items",
     "Backstory London (Signed & Dedicated)": "37 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "288 items",
+    "British Library Shop": "287 items",
     "Cleeve Bookshop": "144 items",
     "Ivybridge Bookshop": "161 items",
     "Perkology Books": "39 items",
@@ -19163,18 +19163,6 @@
       "vip": false,
       "listed_at": "2026-08-01T08:56:24.893000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "British Library Shop::godstorm-signed-edition",
-      "title": "Godstorm (Signed Edition)",
-      "author": "",
-      "price": "\u00a310.99",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/godstorm-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/GodStorm_9781835012635.png?v=1785496074",
-      "vip": false,
-      "listed_at": "2026-07-31T11:08:08+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-river-she-became-by-emily-varga-signed",
