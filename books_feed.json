@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-06T16:14:49.730855+00:00",
-  "total_available": 2927,
+  "last_updated": "2026-11-06T17:02:49.223884+00:00",
+  "total_available": 2934,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "3 items",
@@ -8,7 +8,7 @@
     "Backstory London (Signed & Dedicated)": "37 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "288 items",
-    "Cleeve Bookshop": "138 items",
+    "Cleeve Bookshop": "144 items",
     "Ivybridge Bookshop": "161 items",
     "Perkology Books": "39 items",
     "Bookstation (Ireland)": "7 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "39 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "295 items",
+    "Booka Bookshop": "296 items",
     "Coles Books": "12 items",
     "West End Lane Books": "1069 items",
     "Waterstones": "187 items via feed (as of 2026-11-06T14:30:42.261987+00:00)",
@@ -26,6 +26,18 @@
     "Hatchards": "118 items via feed (as of 2026-11-06T14:30:42.261987+00:00)"
   },
   "books": [
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/orpheus-by-mr-carey-signed",
+      "title": "Orpheus by M.R. Carey (Signed)",
+      "author": "M.R. Carey",
+      "price": "\u00a322.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/orpheus-by-mr-carey-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/7e6c0851-bcd4-46d1-aca4-c23f19086ceb/We+are+hiring%21.jpg",
+      "vip": false,
+      "listed_at": "2026-11-06T16:48:51.630000+00:00",
+      "discovered_at": "2026-11-06T17:02:49.223884+00:00"
+    },
     {
       "id": "British Library Shop::pay-attention",
       "title": "Pay Attention (Signed Edition)",
@@ -325,6 +337,18 @@
       "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/The-Sword-of-Rome.jpg",
       "vip": false,
       "listed_at": "2026-11-05T09:33:37+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/hollow-bones-signed-copy/",
+      "title": "Hollow Bones \u2013 Signed Copy",
+      "author": "Jodi Picoult",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/hollow-bones-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/Hollow-Bones.jpg",
+      "vip": false,
+      "listed_at": "2026-11-05T09:07:18+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
@@ -5763,6 +5787,18 @@
       "vip": false,
       "listed_at": "2026-10-21T13:37:28+00:00",
       "discovered_at": "2026-10-21T14:23:44.972435+00:00"
+    },
+    {
+      "id": "Cleeve Bookshop::9781837930913",
+      "title": "The Last Handmaid - Signed First Edition",
+      "author": "",
+      "price": "\u00a318.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9781837930913",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/9781837930913.jpg?v=1792632148",
+      "vip": false,
+      "listed_at": "2026-10-21T13:35:20+00:00",
+      "discovered_at": "2026-11-06T17:02:49.223884+00:00"
     },
     {
       "id": "Linghams::https://linghams.co.uk/product/the-teenage-diaries-of-a-stand-up-comedian-signed-pre-order/",
@@ -12102,6 +12138,30 @@
       "est": "pos"
     },
     {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-third-eye-deluxe-edition/",
+      "title": "The Third Eye \u2013 Deluxe Edition",
+      "author": "",
+      "price": "\u00a3500.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/the-third-eye-deluxe-edition/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/04/The-Third-Eye.png",
+      "vip": false,
+      "listed_at": "2026-10-08T08:00:53+00:00",
+      "discovered_at": "2026-11-06T17:02:49.223884+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-elegant-hustler-my-life-in-adventures-signed-copy/",
+      "title": "The Elegant Hustler: My Life in Adventures \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a325.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/the-elegant-hustler-my-life-in-adventures-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/The-Elegant-Hustler.jpg",
+      "vip": false,
+      "listed_at": "2026-10-08T08:00:00+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/ghost-stories-signed-pre-order/",
       "title": "Ghost Stories *SIGNED*",
       "author": "Siri Hustvedt",
@@ -13350,6 +13410,18 @@
       "vip": false,
       "listed_at": "2026-10-01T13:06:50+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/black-coffee-and-red-lipstick-signed-copy/",
+      "title": "Black Coffee and Red Lipstick: Notes on Living \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/black-coffee-and-red-lipstick-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/06/Black-Coffee-Red-Lipstick.jpg",
+      "vip": false,
+      "listed_at": "2026-10-01T11:45:47+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/bonnie-garmus-peck-peck-signed-copy-hardback",
@@ -16225,6 +16297,18 @@
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/a-history-of-the-world-in-51-heroes-and-villains-signed-copy/",
+      "title": "A History of the World in 51 Heroes and Villains \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/a-history-of-the-world-in-51-heroes-and-villains-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/History-of-the-World-in-51-Heroes-and-Villains.jpg",
+      "vip": false,
+      "listed_at": "2026-09-10T10:07:13+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-story-of-the-bayeux-tapestry-unravelling-the-norman-conquest-by-michael-lewis-and-david-musgrove-signed",
       "title": "The Story of the Bayeux Tapestry : Unravelling the Norman Conquest by Michael Lewis and David Musgrove (Signed)",
       "author": "Michael Lewis and David Musgrove",
@@ -17497,18 +17581,6 @@
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/a-history-of-the-world-in-51-heroes-and-villains-signed-copy/",
-      "title": "A History of the World in 51 Heroes and Villains \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/a-history-of-the-world-in-51-heroes-and-villains-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/History-of-the-World-in-51-Heroes-and-Villains.jpg",
-      "vip": false,
-      "listed_at": "2026-08-20T10:07:13+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
-    },
-    {
       "id": "British Library Shop::little-spark-signed-edition",
       "title": "Little Spark (Signed Edition)",
       "author": "",
@@ -18217,6 +18289,30 @@
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
+      "id": "Cleeve Bookshop::9780241795309",
+      "title": "The Taper Man : A Novel of John le Carre\u2019s Circus - Signed First Edition",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9780241795309",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-taper-man-a-novel-of-john-le-carres-circus-signed-first-edition-5294087.jpg?v=1787101884",
+      "vip": false,
+      "listed_at": "2026-08-10T11:03:32+00:00",
+      "discovered_at": "2026-11-06T17:02:49.223884+00:00"
+    },
+    {
+      "id": "Cleeve Bookshop::9780241676080",
+      "title": "Hollow Bones - Signed First Edition",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9780241676080",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/hollow-bones-signed-first-edition-6941709.jpg?v=1787101882",
+      "vip": false,
+      "listed_at": "2026-08-10T11:03:30+00:00",
+      "discovered_at": "2026-11-06T17:02:49.223884+00:00"
+    },
+    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-palm-house-signed-copy/",
       "title": "The Palm House \u2013 Signed Copy",
       "author": "",
@@ -18575,18 +18671,6 @@
       "vip": false,
       "listed_at": "2026-08-06T11:45:03.306000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/hollow-bones-signed-copy/",
-      "title": "Hollow Bones \u2013 Signed Copy",
-      "author": "Jodi Picoult",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/hollow-bones-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/Hollow-Bones.jpg",
-      "vip": false,
-      "listed_at": "2026-08-06T09:07:18+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "British Library Shop::ironwood-signed-edition",
@@ -20377,6 +20461,18 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
+      "id": "Cleeve Bookshop::9781398718074",
+      "title": "Everything Happens So Much - Signed First Edition",
+      "author": "",
+      "price": "\u00a314.99",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9781398718074",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/everything-happens-so-much-signed-first-edition-8332706.jpg?v=1787188579",
+      "vip": false,
+      "listed_at": "2026-07-14T09:25:35+00:00",
+      "discovered_at": "2026-11-06T17:02:49.223884+00:00"
+    },
+    {
       "id": "Cleeve Bookshop::9781399753500",
       "title": "Miss Wolcott's Ghost - Signed First Edition",
       "author": "",
@@ -20399,6 +20495,18 @@
       "vip": false,
       "listed_at": "2026-07-14T09:24:10+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "Cleeve Bookshop::9781035431403",
+      "title": "The Sword of Rome - Singed First Edition",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9781035431403",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-sword-of-rome-singed-first-edition-9596898.jpg?v=1787188556",
+      "vip": false,
+      "listed_at": "2026-07-14T09:24:07+00:00",
+      "discovered_at": "2026-11-06T17:02:49.223884+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/mending-by-matt-willis-signed",
@@ -20675,6 +20783,18 @@
       "vip": false,
       "listed_at": "2026-07-08T13:38:15+00:00",
       "discovered_at": "2026-10-22T15:16:00.554119+00:00"
+    },
+    {
+      "id": "Cleeve Bookshop::9781037405549",
+      "title": "Orlando - Signed First Edition with Sprayed Edge",
+      "author": "",
+      "price": "\u00a323.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9781037405549",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/orlando-signed-first-edition-with-sprayed-edge-1114437.jpg?v=1787188896",
+      "vip": false,
+      "listed_at": "2026-07-08T13:38:04+00:00",
+      "discovered_at": "2026-11-06T17:02:49.223884+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/country-people-signed-copy/",
@@ -22535,18 +22655,6 @@
       "vip": false,
       "listed_at": "2026-06-12T13:07:20.164000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/black-coffee-and-red-lipstick-signed-copy/",
-      "title": "Black Coffee and Red Lipstick: Notes on Living \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/black-coffee-and-red-lipstick-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/06/Black-Coffee-Red-Lipstick.jpg",
-      "vip": false,
-      "listed_at": "2026-06-12T11:45:47+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/experts-in-a-dying-field-signed-independent-bookshop-exclusive-edition/",
@@ -25199,18 +25307,6 @@
       "vip": false,
       "listed_at": "2026-05-20T08:00:18.138000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-elegant-hustler-my-life-in-adventures-signed-copy/",
-      "title": "The Elegant Hustler: My Life in Adventures \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a325.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-elegant-hustler-my-life-in-adventures-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/The-Elegant-Hustler.jpg",
-      "vip": false,
-      "listed_at": "2026-05-20T08:00:00+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "Cleeve Bookshop::the-elegant-hustler-my-life-in-adventures-signed-first-edition",
@@ -31414,18 +31510,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/e91d6753-d2f2-4344-9554-e4a2eb91381b/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+-+2025-01-16T120240.324.jpg",
       "vip": false,
       "listed_at": "2026-02-08T12:34:58.208000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/a-private-man-by-stephanie-sy-quia-signed",
-      "title": "A Private Man by Stephanie Sy-Quia (Signed)",
-      "author": "Stephanie Sy-Quia",
-      "price": "\u00a316.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/a-private-man-by-stephanie-sy-quia-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/3f2b1d56-453e-4735-b682-cbec2e26e399/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+%2853%29.jpg",
-      "vip": false,
-      "listed_at": "2026-02-06T16:53:36.145000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
