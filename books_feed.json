@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-06T11:41:14.248792+00:00",
-  "total_available": 2915,
+  "last_updated": "2026-11-06T12:33:45.863403+00:00",
+  "total_available": 2918,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
     "Porty Books": "12 items",
     "Backstory London (Signed & Dedicated)": "37 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "276 items",
+    "British Library Shop": "278 items",
     "Cleeve Bookshop": "138 items",
     "Ivybridge Bookshop": "161 items",
     "Perkology Books": "39 items",
@@ -18,7 +18,7 @@
     "Hewson Books": "52 items",
     "Station Books": "64 items",
     "Booka Bookshop": "296 items",
-    "Coles Books": "11 items",
+    "Coles Books": "12 items",
     "West End Lane Books": "1070 items",
     "Waterstones": "186 items via feed (as of 2026-11-06T10:28:27.944497+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-05T14:27:13.022207+00:00)",
@@ -26,6 +26,43 @@
     "Hatchards": "119 items via feed (as of 2026-11-06T02:27:51.146561+00:00)"
   },
   "books": [
+    {
+      "id": "Coles Books::https://coles-books.co.uk/david-hockney-an-artist-for-life-by-paul-morley-signed-edition",
+      "title": "David Hockney: An Artist for Life by Paul Morley - Signed Edition",
+      "author": "Paul Morley",
+      "price": "\u00a325.00",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/david-hockney-an-artist-for-life-by-paul-morley-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/p/a/paul_morley_david_hockney_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-06T12:33:45.863403+00:00",
+      "discovered_at": "2026-11-06T12:33:45.863403+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "British Library Shop::as-you-wake-break-the-shell",
+      "title": "As You Wake, Break the Shell",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/as-you-wake-break-the-shell",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/AsYouWake_BreaktheShell_9781529340587.png?v=1793965931",
+      "vip": false,
+      "listed_at": "2026-11-06T11:52:53+00:00",
+      "discovered_at": "2026-11-06T12:33:45.863403+00:00"
+    },
+    {
+      "id": "British Library Shop::the-house-of-cursed-daughters",
+      "title": "The House of Cursed Daughters (Signed Edition)",
+      "author": "",
+      "price": "\u00a316.99",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/the-house-of-cursed-daughters",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/TheHouseofCursedDuaghters_9780008856885.png?v=1793965648",
+      "vip": false,
+      "listed_at": "2026-11-06T11:48:26+00:00",
+      "discovered_at": "2026-11-06T12:33:45.863403+00:00"
+    },
     {
       "id": "Hatchards::https://www.hatchards.co.uk/book/zeno-and-the-dragon-riders/a-f-steadman/9781398574045",
       "title": "Zeno and the Dragon Riders by A.F. Steadman",
