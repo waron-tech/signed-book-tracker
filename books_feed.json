@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-06T12:33:45.863403+00:00",
-  "total_available": 2918,
+  "last_updated": "2026-11-06T13:49:14.845306+00:00",
+  "total_available": 2919,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
     "Porty Books": "12 items",
     "Backstory London (Signed & Dedicated)": "37 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "278 items",
+    "British Library Shop": "282 items",
     "Cleeve Bookshop": "138 items",
     "Ivybridge Bookshop": "161 items",
     "Perkology Books": "39 items",
@@ -17,15 +17,75 @@
     "Little Apple Bookshop": "39 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "296 items",
+    "Booka Bookshop": "294 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1070 items",
+    "West End Lane Books": "1069 items",
     "Waterstones": "186 items via feed (as of 2026-11-06T10:28:27.944497+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-05T14:27:13.022207+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-05T18:27:33.461269+00:00)",
     "Hatchards": "119 items via feed (as of 2026-11-06T02:27:51.146561+00:00)"
   },
   "books": [
+    {
+      "id": "British Library Shop::the-fall-of-the-west",
+      "title": "The Fall of the West (Signed Edition)",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/the-fall-of-the-west",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/TehFalloftheWest_9780241740644.png?v=1793972471",
+      "vip": false,
+      "listed_at": "2026-11-06T13:41:45+00:00",
+      "discovered_at": "2026-11-06T13:49:14.845306+00:00"
+    },
+    {
+      "id": "British Library Shop::famous-five-christmas-with-the-famous-five",
+      "title": "Famous Five: Christmas with the Famous Five (Signed Edition)",
+      "author": "",
+      "price": "\u00a312.99",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/famous-five-christmas-with-the-famous-five",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/xmasEnidBlyton_9781444987645.png?v=1793971369",
+      "vip": false,
+      "listed_at": "2026-11-06T13:24:11+00:00",
+      "discovered_at": "2026-11-06T13:49:14.845306+00:00"
+    },
+    {
+      "id": "British Library Shop::minihorror-signed-edition",
+      "title": "Minihorror (Signed Edition)",
+      "author": "",
+      "price": "\u00a314.99",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/minihorror-signed-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/MiniHorror_9780571393183.png?v=1793971128",
+      "vip": false,
+      "listed_at": "2026-11-06T13:19:18+00:00",
+      "discovered_at": "2026-11-06T13:49:14.845306+00:00"
+    },
+    {
+      "id": "British Library Shop::behind-enemy-lines-the-special-forces-patrol-who-changed-the-course-of-wwii",
+      "title": "Behind Enemy Lines: The Special Forces Patrol Who Changed the Course of WWII (Signed Edition)",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/behind-enemy-lines-the-special-forces-patrol-who-changed-the-course-of-wwii",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/BehindEnemyLines_9781529441215.png?v=1793969679",
+      "vip": false,
+      "listed_at": "2026-11-06T13:12:40+00:00",
+      "discovered_at": "2026-11-06T13:49:14.845306+00:00"
+    },
+    {
+      "id": "British Library Shop::david-hockney-an-artist-for-life",
+      "title": "David Hockney: An Artist for Life (Signed Edition)",
+      "author": "",
+      "price": "\u00a325.00",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/david-hockney-an-artist-for-life",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/DavidHockney_9781035932801.png?v=1793968617",
+      "vip": false,
+      "listed_at": "2026-11-06T12:37:21+00:00",
+      "discovered_at": "2026-11-06T13:49:14.845306+00:00"
+    },
     {
       "id": "Coles Books::https://coles-books.co.uk/david-hockney-an-artist-for-life-by-paul-morley-signed-edition",
       "title": "David Hockney: An Artist for Life by Paul Morley - Signed Edition",
@@ -16477,18 +16537,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/frequently-happy-by-david-larbi-signed",
-      "title": "Frequently Happy by David Larbi (Signed)",
-      "author": "David Larbi",
-      "price": "\u00a316.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/frequently-happy-by-david-larbi-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/bed2ae1f-a25f-46be-9e8c-207fb7e3ac48/Copy+of+Product+Template+-+Book+-+2025-07-09T152129.529.jpg",
-      "vip": false,
-      "listed_at": "2026-09-05T08:17:50.981000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/make-change-that-lasts-9-simple-ways-to-break-free-from-the-habits-that-hold-you-back-by-dr-rangan-chatterjee",
       "title": "Make Change That Lasts : 9 Simple Ways to Break Free from the Habits that Hold You Back by Dr Rangan Chatterjee (Signed)",
       "author": "Dr Rangan Chatterjee",
@@ -24802,18 +24850,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/Shrinksolvesmurder.png?v=1779375193",
       "vip": false,
       "listed_at": "2026-05-21T14:53:36+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "British Library Shop::talking-classics-signed-edition",
-      "title": "Talking Classics (Signed Edition)",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/talking-classics-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/talkingclassics.png?v=1779372688",
-      "vip": false,
-      "listed_at": "2026-05-21T14:12:01+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -35890,30 +35926,6 @@
       "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/08/Rick-Steins-Christmas.jpg",
       "vip": false,
       "listed_at": "2025-11-06T15:44:12+00:00",
-      "discovered_at": "2026-10-30T19:24:44.834279+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-eleventh-hour-signed-copy/",
-      "title": "The Eleventh Hour \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a318.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-eleventh-hour-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/08/The-Eleventh-Hour.jpg",
-      "vip": true,
-      "listed_at": "2025-11-06T13:11:38+00:00",
-      "discovered_at": "2026-10-30T19:24:44.834279+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-silver-book-olivia-laing-signed-independent-bookshop-exclusive-edition/",
-      "title": "The Silver Book \u2013 Signed Independent Bookshop Exclusive Edition.",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-silver-book-olivia-laing-signed-independent-bookshop-exclusive-edition/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/06/TheSilverBook_B3-scaled.jpg",
-      "vip": false,
-      "listed_at": "2025-11-06T12:51:41+00:00",
       "discovered_at": "2026-10-30T19:24:44.834279+00:00"
     }
   ]
