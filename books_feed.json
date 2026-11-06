@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-06T10:51:15.853614+00:00",
-  "total_available": 2918,
+  "last_updated": "2026-11-06T11:41:14.248792+00:00",
+  "total_available": 2915,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
@@ -17,9 +17,9 @@
     "Little Apple Bookshop": "39 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "298 items",
+    "Booka Bookshop": "296 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1071 items",
+    "West End Lane Books": "1070 items",
     "Waterstones": "186 items via feed (as of 2026-11-06T10:28:27.944497+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-05T14:27:13.022207+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-05T18:27:33.461269+00:00)",
@@ -41,7 +41,7 @@
     },
     {
       "id": "British Library Shop::decline-and-falling-over",
-      "title": "Decline and Falling Over (Signed Edition)",
+      "title": "Decline and Falling Over",
       "author": "",
       "price": "\u00a322.00",
       "shop": "British Library Shop",
@@ -53,7 +53,7 @@
     },
     {
       "id": "British Library Shop::everything-happens-so-much",
-      "title": "Everything Happens So Much (Signed Edition)",
+      "title": "Everything Happens So Much",
       "author": "",
       "price": "\u00a318.99",
       "shop": "British Library Shop",
@@ -11584,18 +11584,6 @@
       "vip": false,
       "listed_at": "2026-10-07T16:53:49+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/games-of-my-life-signed-copy/",
-      "title": "Games of My Life \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a340.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/games-of-my-life-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/03/Games-of-My-Life-jacket.jpg",
-      "vip": false,
-      "listed_at": "2026-10-07T16:48:18+00:00",
-      "discovered_at": "2026-11-04T13:38:25.566858+00:00"
     },
     {
       "id": "Linghams::https://linghams.co.uk/product/fawlty-towers/",
@@ -35889,30 +35877,6 @@
       "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/06/TheSilverBook_B3-scaled.jpg",
       "vip": false,
       "listed_at": "2025-11-06T12:51:41+00:00",
-      "discovered_at": "2026-10-30T19:24:44.834279+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/my-animals-and-other-animals-by-bill-bailey",
-      "title": "My Animals, and Other Animals by Bill Bailey (Signed)",
-      "author": "Bill Bailey",
-      "price": "\u00a325.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/my-animals-and-other-animals-by-bill-bailey",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/3418f32f-f6ff-477e-837c-1ce96112e68d/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+%2816%29.jpg",
-      "vip": false,
-      "listed_at": "2025-11-06T11:16:28.982000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-world-of-skandar-the-first-unicorn-rider-signed-independent-bookshop-edition/",
-      "title": "The World of Skandar: The First Unicorn Rider \u2013 Signed Independent Bookshop Edition",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-world-of-skandar-the-first-unicorn-rider-signed-independent-bookshop-edition/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/08/The-First-Unicorn-Rider-scaled.jpg",
-      "vip": false,
-      "listed_at": "2025-11-06T11:11:36+00:00",
       "discovered_at": "2026-10-30T19:24:44.834279+00:00"
     }
   ]
