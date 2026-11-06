@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-06T09:56:16.250511+00:00",
-  "total_available": 2923,
+  "last_updated": "2026-11-06T10:51:15.853614+00:00",
+  "total_available": 2918,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
@@ -10,17 +10,17 @@
     "British Library Shop": "276 items",
     "Cleeve Bookshop": "138 items",
     "Ivybridge Bookshop": "161 items",
-    "Perkology Books": "40 items",
+    "Perkology Books": "39 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "29 items",
     "Little Apple Bookshop": "39 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "301 items",
+    "Booka Bookshop": "298 items",
     "Coles Books": "11 items",
-    "West End Lane Books": "1072 items",
-    "Waterstones": "186 items via feed (as of 2026-11-06T02:27:51.146561+00:00)",
+    "West End Lane Books": "1071 items",
+    "Waterstones": "186 items via feed (as of 2026-11-06T10:28:27.944497+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-05T14:27:13.022207+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-05T18:27:33.461269+00:00)",
     "Hatchards": "119 items via feed (as of 2026-11-06T02:27:51.146561+00:00)"
@@ -1435,6 +1435,19 @@
       "est": "pos"
     },
     {
+      "id": "Waterstones::https://www.waterstones.com/book/the-wolves-of-war/john-gwynne/9780356532264",
+      "title": "The Wolves of War",
+      "author": "John Gwynne",
+      "price": "\u00a325.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/the-wolves-of-war/john-gwynne/9780356532264",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9780/3565/9780356532264.jpg",
+      "vip": false,
+      "listed_at": "2026-10-30T09:18:21.660066+00:00",
+      "discovered_at": "2026-11-06T10:51:15.853614+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/mr-bears-christmas/",
       "title": "Mr Bear\u2019s Christmas *SIGNED*",
       "author": "Lorna Gibson",
@@ -2781,19 +2794,6 @@
       "vip": false,
       "listed_at": "2026-10-27T01:35:01.818369+00:00",
       "discovered_at": "2026-11-04T14:39:18.961226+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Waterstones::https://www.waterstones.com/book/the-two-body-problem/ali-hazelwood/9781408739976",
-      "title": "The Two Body Problem",
-      "author": "Ali Hazelwood",
-      "price": "\u00a320.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/the-two-body-problem/ali-hazelwood/9781408739976",
-      "image": "https://cdn.waterstones.com/override/v3/medium/9781/4087/9781408739976.jpg",
-      "vip": false,
-      "listed_at": "2026-10-27T00:32:12.910411+00:00",
-      "discovered_at": "2026-11-06T03:14:47.749121+00:00",
       "est": "pos"
     },
     {
@@ -35913,66 +35913,6 @@
       "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/08/The-First-Unicorn-Rider-scaled.jpg",
       "vip": false,
       "listed_at": "2025-11-06T11:11:36+00:00",
-      "discovered_at": "2026-10-30T19:24:44.834279+00:00"
-    },
-    {
-      "id": "Perkology Books::the-golden-thread-project-uk-usa-2-signed-prints",
-      "title": "The Golden Thread Project UK-USA & 2 Signed Prints",
-      "author": "",
-      "price": "\u00a350.00",
-      "shop": "Perkology Books",
-      "url": "https://www.perkology.co.uk/products/the-golden-thread-project-uk-usa-2-signed-prints",
-      "image": "https://cdn.shopify.com/s/files/1/0551/2278/8426/products/img20220612051714.jpg?v=1708792726",
-      "vip": false,
-      "listed_at": "2025-11-06T10:38:26+00:00",
-      "discovered_at": "2026-10-23T14:10:27.138921+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/joe-cole-luxury-player-signed-copy/",
-      "title": "Joe Cole, Luxury Player \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a325.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/joe-cole-luxury-player-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/08/Joe-Cole-Luxury-Player.jpg",
-      "vip": false,
-      "listed_at": "2025-11-06T10:35:57+00:00",
-      "discovered_at": "2026-10-30T19:24:44.834279+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-ashes-files-steven-finn-signed-copy/",
-      "title": "The Ashes Files \u2013 Signed Copy",
-      "author": "Steven Finn",
-      "price": "\u00a325.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-ashes-files-steven-finn-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/08/The-Ashes-Files.jpg",
-      "vip": false,
-      "listed_at": "2025-11-06T10:20:31+00:00",
-      "discovered_at": "2026-10-30T19:24:44.834279+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/colin-greenwood-signed",
-      "title": "How To Disappear by Colin Greenwood",
-      "author": "Colin Greenwood",
-      "price": "\u00a366.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/colin-greenwood-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/1711027600325-Z3DDWJ90S9F17RG44VY1/Copy+of+Product+Template+-+Book+%2828%29.jpg",
-      "vip": false,
-      "listed_at": "2025-11-06T10:17:01.768000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/how-to-live-an-artful-life-signed-copy/",
-      "title": "How to Live an Artful Life \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/how-to-live-an-artful-life-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/12/How-to-Live-an-Artful-Life.jpg",
-      "vip": false,
-      "listed_at": "2025-11-06T10:16:57+00:00",
       "discovered_at": "2026-10-30T19:24:44.834279+00:00"
     }
   ]
