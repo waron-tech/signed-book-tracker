@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T21:00:27.829551+00:00",
-  "total_available": 2925,
+  "last_updated": "2026-11-07T21:41:41.031923+00:00",
+  "total_available": 2924,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "3 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
-    "Booka Bookshop": "296 items",
+    "Booka Bookshop": "295 items",
     "Coles Books": "12 items",
     "West End Lane Books": "1065 items",
     "Waterstones": "187 items via feed (as of 2026-11-07T18:30:30.819114+00:00)",
@@ -3687,18 +3687,6 @@
       "listed_at": "2026-10-27T10:45:44.035262+00:00",
       "discovered_at": "2026-11-07T03:13:45.787087+00:00",
       "est": "pos"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-grand-the-autobiography-of-gromit-signed-copy/",
-      "title": "The Grand: The Autobiography of Gromit \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-grand-the-autobiography-of-gromit-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/06/Grand.jpg",
-      "vip": false,
-      "listed_at": "2026-10-27T10:21:39+00:00",
-      "discovered_at": "2026-11-02T15:45:08.459654+00:00"
     },
     {
       "id": "Linghams::https://linghams.co.uk/product/she-is-lying-signed/",
