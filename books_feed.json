@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T11:44:31.121095+00:00",
-  "total_available": 2930,
+  "last_updated": "2026-11-07T12:20:47.558857+00:00",
+  "total_available": 2931,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "3 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "296 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1065 items",
+    "West End Lane Books": "1066 items",
     "Waterstones": "187 items via feed (as of 2026-11-07T06:30:31.204597+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-06T14:30:42.261987+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-06T18:30:58.601236+00:00)",
@@ -19596,6 +19596,18 @@
       "vip": false,
       "listed_at": "2026-07-28T11:06:06.849000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/is-it-too-late-to-make-a-run-for-it-a-memoir-by-judi-dench-signed",
+      "title": "Is It Too Late to Make a Run for It? : A Memoir by Judi Dench (Signed)",
+      "author": "Judi Dench",
+      "price": "\u00a325.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/is-it-too-late-to-make-a-run-for-it-a-memoir-by-judi-dench-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/789d769e-5724-44a3-a8df-8e0d998ada02/Untitled+design+-+2026-07-28T115959.756.jpg",
+      "vip": false,
+      "listed_at": "2026-07-28T11:01:54.525000+00:00",
+      "discovered_at": "2026-11-07T12:20:47.558857+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/sleuth-hound-by-lindsey-fitzharris-signed",
