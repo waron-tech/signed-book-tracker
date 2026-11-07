@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T09:13:25.390970+00:00",
-  "total_available": 2932,
+  "last_updated": "2026-11-07T09:54:48.533053+00:00",
+  "total_available": 2930,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "3 items",
@@ -14,12 +14,12 @@
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "29 items",
-    "Little Apple Bookshop": "39 items",
+    "Little Apple Bookshop": "38 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
     "Booka Bookshop": "296 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1066 items",
+    "West End Lane Books": "1065 items",
     "Waterstones": "187 items via feed (as of 2026-11-07T06:30:31.204597+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-06T14:30:42.261987+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-06T18:30:58.601236+00:00)",
@@ -14382,19 +14382,6 @@
       "vip": false,
       "listed_at": "2026-09-25T13:24:19.069129+00:00",
       "discovered_at": "2026-10-22T15:58:36.211986+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/marco-pirroni-your-money-or-your-life-signed-bookplate-edition-hardback",
-      "title": "Marco Pirroni - Your Money or Your Life (SIGNED BOOKPLATE EDITION) (HARDBACK)",
-      "author": "",
-      "price": "\u00a325.00",
-      "shop": "Little Apple Bookshop",
-      "url": "https://www.littleapplebookshop.co.uk/product-page/marco-pirroni-your-money-or-your-life-signed-bookplate-edition-hardback",
-      "image": "https://static.wixstatic.com/media/01f334_1437068c11ba4682a91b6e0c53639029~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-09-25T11:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -30204,18 +30191,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/cb4dc6c3-12d9-4f89-9bd2-904b0bf160b9/Copy+of+Product+Template+-+Book+-+2026-02-18T173545.987.jpg",
       "vip": false,
       "listed_at": "2026-02-27T15:57:01.250000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/fever-dream-by-elsie-silver-signed",
-      "title": "Fever Dream by Elsie Silver (Signed)",
-      "author": "Elsie Silver",
-      "price": "\u00a310.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/fever-dream-by-elsie-silver-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/2ee359d4-936c-4f64-97c2-87d5d839b9d7/Website+Listing+Template+-+Book+%283%29.jpg",
-      "vip": false,
-      "listed_at": "2026-02-27T13:58:44.522000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
