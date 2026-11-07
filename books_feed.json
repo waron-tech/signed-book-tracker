@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-07T12:20:47.558857+00:00",
-  "total_available": 2931,
+  "last_updated": "2026-11-07T13:20:12.372795+00:00",
+  "total_available": 2930,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "3 items",
     "Porty Books": "12 items",
     "Backstory London (Signed & Dedicated)": "37 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "287 items",
+    "British Library Shop": "286 items",
     "Cleeve Bookshop": "144 items",
     "Ivybridge Bookshop": "161 items",
     "Perkology Books": "39 items",
@@ -33515,18 +33515,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/deadmendon_tbleed.png?v=1768821358",
       "vip": false,
       "listed_at": "2026-01-19T11:16:24+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "British Library Shop::this-my-second-life-signed-exclusive-edition",
-      "title": "This, My Second Life (Signed, Exclusive Edition)",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/this-my-second-life-signed-exclusive-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/AddISBNHere_2_secondlife.png?v=1768821188",
-      "vip": false,
-      "listed_at": "2026-01-19T11:13:56+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
