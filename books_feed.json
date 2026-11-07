@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T17:46:05.756067+00:00",
-  "total_available": 2928,
+  "last_updated": "2026-11-07T18:25:10.717800+00:00",
+  "total_available": 2927,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "3 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "296 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1067 items",
+    "West End Lane Books": "1066 items",
     "Waterstones": "188 items via feed (as of 2026-11-07T14:30:06.586452+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-06T14:30:42.261987+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-06T18:30:58.601236+00:00)",
@@ -14086,18 +14086,6 @@
       "vip": false,
       "listed_at": "2026-09-27T11:55:20+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-hollow-by-michael-connelly-signed",
-      "title": "The Hollow by Michael Connelly (Signed)",
-      "author": "Michael Connelly",
-      "price": "\u00a322.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-hollow-by-michael-connelly-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/af23708c-600d-4fc2-9c68-24a5b8eef877/We+are+hiring%21+%2850%29.jpg",
-      "vip": false,
-      "listed_at": "2026-09-27T11:49:29.119000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/pay-attention-by-laura-kuenssberg-signed",
