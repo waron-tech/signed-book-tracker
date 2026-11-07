@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T15:59:56.794074+00:00",
-  "total_available": 2930,
+  "last_updated": "2026-11-07T16:32:12.138778+00:00",
+  "total_available": 2932,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "3 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "296 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1065 items",
+    "West End Lane Books": "1067 items",
     "Waterstones": "188 items via feed (as of 2026-11-07T14:30:06.586452+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-06T14:30:42.261987+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-06T18:30:58.601236+00:00)",
@@ -16755,6 +16755,18 @@
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/stephen-ellcocks-esoteric-sticker-collection-by-stephen-ellcock-signed",
+      "title": "Stephen Ellcock\u2019s Esoteric Sticker Collection by Stephen Ellcock (Signed)",
+      "author": "Stephen Ellcock",
+      "price": "\u00a320.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/stephen-ellcocks-esoteric-sticker-collection-by-stephen-ellcock-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/9fa8a1b1-8e77-4ac4-8bf1-6de5d53033e9/Copy+of+Copy+of+Product+Template+-+Book+%281%29.jpg",
+      "vip": false,
+      "listed_at": "2026-09-07T08:47:49.769000+00:00",
+      "discovered_at": "2026-11-07T16:32:12.138778+00:00"
+    },
+    {
       "id": "British Library Shop::etna-botm-september-signed-edition",
       "title": "Etna (Signed Edition) - British Library BOTM September",
       "author": "",
@@ -18085,6 +18097,18 @@
       "vip": false,
       "listed_at": "2026-08-13T10:35:38.608000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-sword-of-rome-by-simon-scarrow-signed",
+      "title": "The Sword of Rome by Simon Scarrow (Signed)",
+      "author": "Simon Scarrow",
+      "price": "\u00a322.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-sword-of-rome-by-simon-scarrow-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/474d1baf-17c2-45c7-b27d-c807c504b98a/We+are+hiring%21+%281%29.jpg",
+      "vip": false,
+      "listed_at": "2026-08-13T10:27:13.691000+00:00",
+      "discovered_at": "2026-11-07T16:32:12.138778+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/persiana-one-sabrina-ghayour-signed-copy/",
