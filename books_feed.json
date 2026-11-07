@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-11-07T16:32:12.138778+00:00",
-  "total_available": 2932,
+  "last_updated": "2026-11-07T17:14:54.450917+00:00",
+  "total_available": 2928,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "3 items",
-    "Porty Books": "12 items",
+    "Porty Books": "10 items",
     "Backstory London (Signed & Dedicated)": "37 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "286 items",
     "Cleeve Bookshop": "144 items",
-    "Ivybridge Bookshop": "161 items",
+    "Ivybridge Bookshop": "159 items",
     "Perkology Books": "39 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
@@ -8274,19 +8274,6 @@
       "est": "pos"
     },
     {
-      "id": "Porty Books::https://www.theportobellobookshop.com/9781836750055-s",
-      "title": "North of the Winter Sun",
-      "author": "Veronica Skotnes",
-      "price": "\u00a314.99",
-      "shop": "Porty Books",
-      "url": "https://www.theportobellobookshop.com/9781836750055-s",
-      "image": "https://cdn.theportobellobookshop.com/img/supplementary--10848132--main.jpg?p=search",
-      "vip": false,
-      "listed_at": "2026-10-15T17:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/naomi-klein-and-astra-taylor-end-times-fascism-signed-copy-hardback",
       "title": "Naomi Klein and Astra Taylor - End Times Fascism (SIGNED COPY) (HARDBACK)",
       "author": "Naomi Klein and Astra Taylor",
@@ -14411,19 +14398,6 @@
       "est": "pos"
     },
     {
-      "id": "Porty Books::https://www.theportobellobookshop.com/9781785308659-s",
-      "title": "Hebridean Baker: A Scottish Christmas",
-      "author": "Coinneach MacLeod",
-      "price": "\u00a326.00",
-      "shop": "Porty Books",
-      "url": "https://www.theportobellobookshop.com/9781785308659-s",
-      "image": "https://cdn.theportobellobookshop.com/img/supplementary--10140550--main.jpg?p=search",
-      "vip": false,
-      "listed_at": "2026-09-25T02:01:22.041414+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Station Books::https://stationbooks.co.uk/shop/a-heist-before-bedtime-by-the-reverend-richard-coles/",
       "title": "A Heist Before Bedtime by The Reverend Richard Coles",
       "author": "",
@@ -18195,18 +18169,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "Ivybridge Bookshop::9781035416240",
-      "title": "The Boleyn Secret - Signed Edition - Alison Weir (Hardback) 21-05-2026",
-      "author": "Alison Weir",
-      "price": "\u00a325.00",
-      "shop": "Ivybridge Bookshop",
-      "url": "https://www.ivybridgebookshop.com/products/9781035416240",
-      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9781035416240.jpg?v=1786453644",
-      "vip": false,
-      "listed_at": "2026-08-11T12:30:55+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "Ivybridge Bookshop::9781529454871",
       "title": "Island of the Dead - (Pre Order) Signed First Edition - Peter May (Hardback) 14-01-2027",
       "author": "Peter May",
@@ -19044,18 +19006,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/image_eb6d58b6-83f8-4c3d-a6cf-373accfc0d5a.jpg?v=1785595740",
       "vip": false,
       "listed_at": "2026-08-01T14:48:57+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Ivybridge Bookshop::9781529984613",
-      "title": "Seasons - Signed First Edition - Sir Ian Botham (Hardback) 22-10-2026",
-      "author": "Sir Ian Botham",
-      "price": "\u00a322.00",
-      "shop": "Ivybridge Bookshop",
-      "url": "https://www.ivybridgebookshop.com/products/9781529984613",
-      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9781529984613.jpg?v=1785595738",
-      "vip": false,
-      "listed_at": "2026-08-01T14:48:55+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
