@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T18:12:20.638415+00:00",
+  "last_updated": "2026-11-08T18:52:06.509317+00:00",
   "total_available": 2922,
   "shop_status": {
     "Goldsboro Books": "11 items",
@@ -13,7 +13,7 @@
     "Perkology Books": "39 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
-    "London Review Bookshop": "29 items",
+    "London Review Bookshop": "ERROR: HTTPSConnectionPool(host='www.londonreviewbookshop.co.uk', port=443): Read timed out. (read timeout=25)",
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
