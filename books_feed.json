@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T23:05:15.871421+00:00",
-  "total_available": 2919,
+  "last_updated": "2026-11-08T23:41:48.526466+00:00",
+  "total_available": 2920,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -14,7 +14,7 @@
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "29 items",
-    "Little Apple Bookshop": "38 items",
+    "Little Apple Bookshop": "39 items",
     "Hewson Books": "52 items",
     "Station Books": "64 items",
     "Booka Bookshop": "295 items",
@@ -7885,6 +7885,19 @@
       "vip": false,
       "listed_at": "2026-10-17T15:47:11.999914+00:00",
       "discovered_at": "2026-11-08T11:45:10.991511+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/china-mieville-the-rouse-signed-copy-hardback",
+      "title": "China Mieville - The Rouse (SIGNED COPY) (HARDBACK)",
+      "author": "China Mieville",
+      "price": "\u00a335.00",
+      "shop": "Little Apple Bookshop",
+      "url": "https://www.littleapplebookshop.co.uk/product-page/china-mieville-the-rouse-signed-copy-hardback",
+      "image": "https://static.wixstatic.com/media/01f334_1c9f5e5dbf864522b286b733c6ae6e5b~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-17T14:27:57.757235+00:00",
+      "discovered_at": "2026-11-08T23:41:48.526466+00:00",
       "est": "pos"
     },
     {
