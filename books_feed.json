@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-08T17:40:56.780876+00:00",
-  "total_available": 2923,
+  "last_updated": "2026-11-08T18:12:20.638415+00:00",
+  "total_available": 2922,
   "shop_status": {
-    "Goldsboro Books": "12 items",
+    "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
     "Porty Books": "10 items",
     "Backstory London (Signed & Dedicated)": "37 items",
@@ -17912,18 +17912,6 @@
       "vip": false,
       "listed_at": "2026-08-16T08:31:27.884000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "Goldsboro Books::fawn",
-      "title": "Fawn (signed bookplate)",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Goldsboro Books",
-      "url": "https://goldsborobooks.com/products/fawn",
-      "image": "https://cdn.shopify.com/s/files/1/0733/4900/5606/files/d398c258-91e2-4f82-b22c-70d888017fd7.jpg?v=1786701705",
-      "vip": false,
-      "listed_at": "2026-08-14T10:01:41+00:00",
-      "discovered_at": "2026-10-23T10:40:25.979447+00:00"
     },
     {
       "id": "Backstory London (Signed & Dedicated)::pre-order-now-the-last-days-of-vit-coco-by-taylor-jenkins-reid-signed-exclusive-publishes-march-2027",
