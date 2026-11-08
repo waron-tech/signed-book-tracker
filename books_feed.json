@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T18:52:06.509317+00:00",
-  "total_available": 2922,
+  "last_updated": "2026-11-08T19:29:44.524856+00:00",
+  "total_available": 2921,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "295 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1066 items",
+    "West End Lane Books": "1065 items",
     "Foyles": "137 items via feed (as of 2026-11-07T18:30:30.819114+00:00)",
     "Waterstones": "186 items via feed (as of 2026-11-08T14:29:57.431124+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-08T10:45:51.884685+00:00)",
@@ -20432,18 +20432,6 @@
       "vip": false,
       "listed_at": "2026-07-13T15:15:53.520000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/watch-the-quiet-snow-by-mick-herron-signed",
-      "title": "Watch The Quiet Snow by Mick Herron (Signed)",
-      "author": "Mick Herron",
-      "price": "\u00a322.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/watch-the-quiet-snow-by-mick-herron-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/bc3570e5-333e-4298-a91e-e249e0269a7a/Untitled+design+%2818%29.jpg",
-      "vip": false,
-      "listed_at": "2026-07-13T13:46:30.494000+00:00",
-      "discovered_at": "2026-11-01T14:18:53.902260+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-first-house-signed-copy/",
