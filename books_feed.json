@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T01:40:23.774116+00:00",
-  "total_available": 2919,
+  "last_updated": "2026-11-09T02:34:15.901736+00:00",
+  "total_available": 2918,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -15,7 +15,7 @@
     "Biggles Stones": "3 items",
     "London Review Bookshop": "29 items",
     "Little Apple Bookshop": "39 items",
-    "Hewson Books": "52 items",
+    "Hewson Books": "51 items",
     "Station Books": "64 items",
     "Booka Bookshop": "295 items",
     "Coles Books": "12 items",
@@ -3493,19 +3493,6 @@
       "shop": "Hewson Books",
       "url": "https://www.hewsonbooks.co.uk/product-page/she-s-all-the-rage-by-leigh-radford",
       "image": "https://static.wixstatic.com/media/cf7295_a1f54045c46b4cdf8a9d18e01cce5a8a~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-28T16:22:18.737767+00:00",
-      "discovered_at": "2026-10-28T16:22:18.737767+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/grand-the-autobiography-of-gromit-by-nick-park",
-      "title": "Grand: The Autobiography of Gromit ***signed*** by Nick Park",
-      "author": "Nick Park",
-      "price": "\u00a322.00",
-      "shop": "Hewson Books",
-      "url": "https://www.hewsonbooks.co.uk/product-page/grand-the-autobiography-of-gromit-by-nick-park",
-      "image": "https://static.wixstatic.com/media/cf7295_176197f53fe442818ce494ff4d22f573~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-28T16:22:18.737767+00:00",
       "discovered_at": "2026-10-28T16:22:18.737767+00:00",
