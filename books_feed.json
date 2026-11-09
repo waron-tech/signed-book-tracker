@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-09T10:20:50.597767+00:00",
-  "total_available": 2916,
+  "last_updated": "2026-11-09T11:19:41.688540+00:00",
+  "total_available": 2915,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
-    "Porty Books": "10 items",
+    "Porty Books": "9 items",
     "Backstory London (Signed & Dedicated)": "37 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "285 items",
@@ -9824,19 +9824,6 @@
       "vip": false,
       "listed_at": "2026-10-14T04:34:28.134368+00:00",
       "discovered_at": "2026-11-08T11:45:10.991511+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Porty Books::https://www.theportobellobookshop.com/9780241745465-s",
-      "title": "In One Brief Moment All Eternity",
-      "author": "Elif Shafak",
-      "price": "\u00a320.00",
-      "shop": "Porty Books",
-      "url": "https://www.theportobellobookshop.com/9780241745465-s",
-      "image": "https://cdn.theportobellobookshop.com/img/supplementary--10753630--main.jpg?p=search",
-      "vip": true,
-      "listed_at": "2026-10-14T03:26:04.394355+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
       "est": "pos"
     },
     {
