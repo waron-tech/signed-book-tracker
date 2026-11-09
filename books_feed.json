@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T22:50:38.543378+00:00",
-  "total_available": 2931,
+  "last_updated": "2026-11-09T23:27:41.174312+00:00",
+  "total_available": 2919,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -18,7 +18,7 @@
     "Hewson Books": "56 items",
     "Station Books": "55 items",
     "Booka Bookshop": "296 items",
-    "Coles Books": "12 items",
+    "Coles Books": "0 items",
     "West End Lane Books": "1065 items",
     "Foyles": "137 items via feed (as of 2026-11-09T22:32:15.742761+00:00)",
     "Waterstones": "202 items via feed (as of 2026-11-09T22:32:15.742761+00:00)",
@@ -191,32 +191,6 @@
       "vip": false,
       "listed_at": "2026-11-09T14:02:33+00:00",
       "discovered_at": "2026-11-09T14:36:18.501899+00:00"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/the-world-beneath-her-feet-by-holly-ringland-signed-edition",
-      "title": "The World Beneath Her Feet by Holly Ringland - Signed Edition",
-      "author": "Holly Ringland",
-      "price": "\u00a310.99",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/the-world-beneath-her-feet-by-holly-ringland-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/h/o/holly_ringland_world_beneath_her_feet_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-11-09T13:41:27.100870+00:00",
-      "discovered_at": "2026-11-09T13:41:27.100870+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/the-summer-we-happened-by-tessa-bailey-signed-edition",
-      "title": "The Summer We Happened by Tessa Bailey - Signed Edition",
-      "author": "Tessa Bailey",
-      "price": "\u00a39.99",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/the-summer-we-happened-by-tessa-bailey-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/t/e/tessa_bailey_the_summer_we_happened_coles_signed_edition_2.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-11-09T13:41:27.100870+00:00",
-      "discovered_at": "2026-11-09T13:41:27.100870+00:00",
-      "est": "seen"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/murder-in-paris-68-by-edward-chisholm-signed",
@@ -606,19 +580,6 @@
       "vip": false,
       "listed_at": "2026-11-05T11:45:10.991511+00:00",
       "discovered_at": "2026-11-08T11:45:10.991511+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/david-hockney-an-artist-for-life-by-paul-morley-signed-edition",
-      "title": "David Hockney: An Artist for Life by Paul Morley - Signed Edition",
-      "author": "Paul Morley",
-      "price": "\u00a325.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/david-hockney-an-artist-for-life-by-paul-morley-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/p/a/paul_morley_david_hockney_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-11-05T11:07:19.057241+00:00",
-      "discovered_at": "2026-11-08T11:07:19.057241+00:00",
       "est": "pos"
     },
     {
@@ -1564,19 +1525,6 @@
       "est": "pos"
     },
     {
-      "id": "Coles Books::https://coles-books.co.uk/the-taper-man-a-novel-of-john-le-carre-s-circus-by-nick-harkaway-signed-edition",
-      "title": "The Taper Man: A Novel of John le Carr\u00e9\u2019s Circus by Nick Harkaway - Signed Edition",
-      "author": "Nick Harkaway",
-      "price": "\u00a322.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/the-taper-man-a-novel-of-john-le-carre-s-circus-by-nick-harkaway-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/i/nick_harkaway_the_taper_man_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-11-03T05:07:19.057241+00:00",
-      "discovered_at": "2026-11-08T11:07:19.057241+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/mr-bears-christmas-2/",
       "title": "Mr Bear\u2019s Christmas *SIGNED*",
       "author": "Lorna Gibson",
@@ -2362,19 +2310,6 @@
       "vip": false,
       "listed_at": "2026-11-01T00:19:50.135896+00:00",
       "discovered_at": "2026-11-08T11:45:10.991511+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/my-pressures-by-andy-serkis-signed-edition",
-      "title": "My Pressures by Andy Serkis - Signed Edition",
-      "author": "Andy Serkis",
-      "price": "\u00a322.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/my-pressures-by-andy-serkis-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/a/n/andy_serkis_my_pressures_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-31T23:07:19.057241+00:00",
-      "discovered_at": "2026-11-08T11:07:19.057241+00:00",
       "est": "pos"
     },
     {
@@ -3252,19 +3187,6 @@
       "vip": false,
       "listed_at": "2026-10-29T17:45:10.991511+00:00",
       "discovered_at": "2026-11-08T11:45:10.991511+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/fantastic-days-my-autobiography-by-nick-heyward-signed-edition",
-      "title": "Fantastic Days: My Autobiography by Nick Heyward - Signed Edition",
-      "author": "Nick Heyward",
-      "price": "\u00a325.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/fantastic-days-my-autobiography-by-nick-heyward-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/i/nick_heyward_fantastic_days_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-29T17:07:19.057241+00:00",
-      "discovered_at": "2026-11-08T11:07:19.057241+00:00",
       "est": "pos"
     },
     {
@@ -4241,19 +4163,6 @@
       "est": "pos"
     },
     {
-      "id": "Coles Books::https://coles-books.co.uk/decline-and-falling-over-by-jo-brand-signed-edition",
-      "title": "Decline and Falling Over by Jo Brand - Signed Edition",
-      "author": "Jo Brand",
-      "price": "\u00a322.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/decline-and-falling-over-by-jo-brand-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/j/o/jo_brand_decline_and_falling_over_coles_signed_edition1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-27T11:07:19.057241+00:00",
-      "discovered_at": "2026-11-08T11:07:19.057241+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/chateau-reverie-signed-natasha-siegel-pre-order/",
       "title": "Chateau Reverie *SIGNED* Natasha Siegel (pre-order)",
       "author": "Natasha Siegel",
@@ -5055,19 +4964,6 @@
       "est": "pos"
     },
     {
-      "id": "Coles Books::https://coles-books.co.uk/how-to-begin-by-edmund-de-waal-signed-edition",
-      "title": "How To Begin by Edmund de Waal - Signed Edition",
-      "author": "Edmund de Waal",
-      "price": "\u00a318.99",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/how-to-begin-by-edmund-de-waal-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/e/d/edmund_de_waal_how_to_begin_coles_signed_edition1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-25T05:07:19.057241+00:00",
-      "discovered_at": "2026-11-08T11:07:19.057241+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/the-silent-appeal-signed-pre-order/",
       "title": "The Silent Appeal *SIGNED & SPRAYED EDGE*",
       "author": "Janice Hallett",
@@ -5804,19 +5700,6 @@
       "vip": false,
       "listed_at": "2026-10-22T23:45:10.991511+00:00",
       "discovered_at": "2026-11-08T11:45:10.991511+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/the-medicine-tree-by-nick-hayes-signed-edition",
-      "title": "The Medicine Tree by Nick Hayes - Signed Edition",
-      "author": "Nick Hayes",
-      "price": "\u00a325.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/the-medicine-tree-by-nick-hayes-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/i/nick_hayes_the_medicine_tree_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-22T23:07:19.057241+00:00",
-      "discovered_at": "2026-11-08T11:07:19.057241+00:00",
       "est": "pos"
     },
     {
@@ -6932,19 +6815,6 @@
       "est": "pos"
     },
     {
-      "id": "Coles Books::https://coles-books.co.uk/cream-chronicled-by-nettie-baker-signed-edition",
-      "title": "Cream Chronicled by Nettie Baker - Signed Edition",
-      "author": "Nettie Baker",
-      "price": "\u00a318.99",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/cream-chronicled-by-nettie-baker-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/e/nettie_baker_cream_chronicled_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-20T17:07:19.057241+00:00",
-      "discovered_at": "2026-11-08T11:07:19.057241+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/the-goddess-queen-signed-alice-roberts-pre-order/",
       "title": "The Goddess Queen *SIGNED* Alice Roberts (pre-order)",
       "author": "Alice Roberts",
@@ -7820,19 +7690,6 @@
       "est": "pos"
     },
     {
-      "id": "Coles Books::https://coles-books.co.uk/tales-of-a-rock-star-s-daughter-by-nettie-baker-signed-edition",
-      "title": "Tales Of A Rock Star's Daughter by Nettie Baker - Signed Edition",
-      "author": "Nettie Baker",
-      "price": "\u00a314.99",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/tales-of-a-rock-star-s-daughter-by-nettie-baker-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/e/nettie_baker_tales_of_a_rock_star_s_daughter_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-18T11:07:19.057241+00:00",
-      "discovered_at": "2026-11-08T11:07:19.057241+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Waterstones::https://www.waterstones.com/book/may-we-feed-the-king/rebecca-perry/9781803515281",
       "title": "May We Feed the King",
       "author": "Rebecca Perry",
@@ -8657,19 +8514,6 @@
       "vip": false,
       "listed_at": "2026-10-16T05:45:10.991511+00:00",
       "discovered_at": "2026-11-08T11:45:10.991511+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/rick-stein-s-cookery-course-by-rick-stein-signed-edition",
-      "title": "Rick Stein\u2019s Cookery Course by Rick Stein - Signed Edition",
-      "author": "Rick Stein",
-      "price": "\u00a330.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/rick-stein-s-cookery-course-by-rick-stein-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/r/i/rick_stein_cookery_course_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-16T05:07:19.057241+00:00",
-      "discovered_at": "2026-11-08T11:07:19.057241+00:00",
       "est": "pos"
     },
     {
