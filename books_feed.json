@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T11:19:41.688540+00:00",
-  "total_available": 2915,
+  "last_updated": "2026-11-09T12:19:56.829358+00:00",
+  "total_available": 2905,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -16,10 +16,10 @@
     "London Review Bookshop": "29 items",
     "Little Apple Bookshop": "39 items",
     "Hewson Books": "51 items",
-    "Station Books": "64 items",
+    "Station Books": "55 items",
     "Booka Bookshop": "294 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1064 items",
+    "West End Lane Books": "1063 items",
     "Foyles": "137 items via feed (as of 2026-11-08T22:30:13.181614+00:00)",
     "Waterstones": "186 items via feed (as of 2026-11-08T14:29:57.431124+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-08T10:45:51.884685+00:00)",
@@ -12007,19 +12007,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/dark-reading-matter-by-jasper-fforde/",
-      "title": "Dark Reading Matter by Jasper Fforde",
-      "author": "Jasper Fforde",
-      "price": "\u00a325.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/dark-reading-matter-by-jasper-fforde/",
-      "image": "/shop/dark-reading-matter-by-jasper-fforde/dark-reading-matter-by-jasper-fforde-85fe65c3.jpg",
-      "vip": false,
-      "listed_at": "2026-10-09T09:40:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Porty Books::https://www.theportobellobookshop.com/9781529089523-ib",
       "title": "Irresistible Monsters",
       "author": "Natalie Haynes",
@@ -12821,19 +12808,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/the-winter-guest-by-sarah-moss/",
-      "title": "The Winter Guest by Sarah Moss",
-      "author": "Sarah Moss",
-      "price": "\u00a312.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/the-winter-guest-by-sarah-moss/",
-      "image": "/shop/the-winter-guest-by-sarah-moss/the-winter-guest-by-sarah-moss-cdd1621b.jpg",
-      "vip": false,
-      "listed_at": "2026-10-05T04:25:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/from-the-world-of-percy-jackson-the-wild-zone-by-rick-riordan",
       "title": "From the World of Percy Jackson: The Wild Zone by Rick Riordan",
       "author": "Rick Riordan",
@@ -13147,19 +13121,6 @@
       "shop": "Little Apple Bookshop",
       "url": "https://www.littleapplebookshop.co.uk/product-page/eric-idle-idle-in-provence-a-brief-history-of-thyme-signed-copy-hardback",
       "image": "https://static.wixstatic.com/media/01f334_f3956c2f9fac4b33aa9a28a3c0cb20e7~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-02T05:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/the-rouse-by-china-mieville/",
-      "title": "The Rouse by China Mieville",
-      "author": "China Mieville",
-      "price": "\u00a335.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/the-rouse-by-china-mieville/",
-      "image": "/shop/the-rouse-by-china-mieville/the-rouse-by-china-mieville-2b7e2b43.jpg",
       "vip": false,
       "listed_at": "2026-10-02T05:33:07.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
@@ -13545,19 +13506,6 @@
       "vip": false,
       "listed_at": "2026-09-30T14:52:15+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/j-algernon-pickle-in-the-mystery-at-odd-doings-house-by-alex-t-smith/",
-      "title": "J. Algernon Pickle in The Mystery at Odd-Doings House by Alex T Smith",
-      "author": "Alex T Smith",
-      "price": "\u00a37.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/j-algernon-pickle-in-the-mystery-at-odd-doings-house-by-alex-t-smith/",
-      "image": "/shop/j-algernon-pickle-in-the-mystery-at-odd-doings-house-by-alex-t-smith/j-algernon-pickle-in-the-mystery-at-odd-doings-house-by-alex-t-smith-4e8f8ce6.jpg",
-      "vip": false,
-      "listed_at": "2026-09-30T13:03:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/new-gruffalo-picture-book-by-julia-donaldson",
@@ -14296,19 +14244,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/a-heist-before-bedtime-by-the-reverend-richard-coles/",
-      "title": "A Heist Before Bedtime by The Reverend Richard Coles",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/a-heist-before-bedtime-by-the-reverend-richard-coles/",
-      "image": "/shop/a-heist-before-bedtime-by-the-reverend-richard-coles/a-heist-before-bedtime-by-the-reverend-richard-coles-d37045a4.jpg",
-      "vip": false,
-      "listed_at": "2026-09-25T01:25:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/journey-across-japan-signed-copy/",
       "title": "Journey Across Japan \u2013 Signed Copy",
       "author": "",
@@ -14699,19 +14634,6 @@
       "image": "https://static.wixstatic.com/media/01f334_026dce033a614e22a26e8c1561c4a24e~mv2.jpg",
       "vip": false,
       "listed_at": "2026-09-23T05:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/the-shipwright-and-the-shroudweaver-by-rafael-torrubia/",
-      "title": "The Shipwright and the Shroudweaver by Rafael Torrubia",
-      "author": "Rafael Torrubia",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/the-shipwright-and-the-shroudweaver-by-rafael-torrubia/",
-      "image": "/shop/the-shipwright-and-the-shroudweaver-by-rafael-torrubia/the-shipwright-and-the-shroudweaver-by-rafael-torrubia-5490655b.jpg",
-      "vip": false,
-      "listed_at": "2026-09-22T22:48:07.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
@@ -15174,19 +15096,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/raise-your-soul-by-yanis-varoufakis/",
-      "title": "Raise Your Soul by Yanis Varoufakis",
-      "author": "Yanis Varoufakis",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/raise-your-soul-by-yanis-varoufakis/",
-      "image": "/shop/raise-your-soul-by-yanis-varoufakis/raise-your-soul-by-yanis-varoufakis-21d5b6aa.jpg",
-      "vip": false,
-      "listed_at": "2026-09-22T02:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/budgie-the-absence-memoirs-of-a-banshee-drummer-signed-copy-hardback",
       "title": "Budgie - The Absence : Memoirs Of A Banshee Drummer (SIGNED COPY) (HARDBACK)",
       "author": "",
@@ -15383,19 +15292,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/the-guardians-of-dreamdark-windwitch-by-laini-taylor/",
-      "title": "The Guardians of Dreamdark: Windwitch by Laini Taylor",
-      "author": "Laini Taylor",
-      "price": "\u00a318.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/the-guardians-of-dreamdark-windwitch-by-laini-taylor/",
-      "image": "/shop/the-guardians-of-dreamdark-windwitch-by-laini-taylor/the-guardians-of-dreamdark-windwitch-by-laini-taylor-be833a78.jpg",
-      "vip": false,
-      "listed_at": "2026-09-20T20:10:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Station Books::https://stationbooks.co.uk/shop/tyrant-by-conn-iggulden/",
       "title": "Tyrant by Conn Iggulden",
       "author": "Conn Iggulden",
@@ -15494,19 +15390,6 @@
       "image": "https://static.wixstatic.com/media/01f334_35113a35a552403db4eff74950d71560~mv2.jpg",
       "vip": false,
       "listed_at": "2026-09-19T11:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/spirits-abroad-by-zen-cho/",
-      "title": "Spirits Abroad by Zen Cho",
-      "author": "Zen Cho",
-      "price": "\u00a318.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/spirits-abroad-by-zen-cho/",
-      "image": "/shop/spirits-abroad-by-zen-cho/spirits-abroad-by-zen-cho-6cfdd04d.jpg",
-      "vip": false,
-      "listed_at": "2026-09-19T03:40:37.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
@@ -24941,18 +24824,6 @@
       "vip": false,
       "listed_at": "2026-05-21T09:17:42+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-teenage-diaries-of-a-stand-up-comedian-by-jon-richardson-signed",
-      "title": "The Teenage Diaries of a Stand-Up Comedian by Jon Richardson (Signed)",
-      "author": "Jon Richardson",
-      "price": "\u00a325.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-teenage-diaries-of-a-stand-up-comedian-by-jon-richardson-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/1d9ef5ee-3e76-46be-a0ce-3a7c7366349e/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+%2831%29.jpg",
-      "vip": false,
-      "listed_at": "2026-05-21T08:00:14.957000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
       "id": "Cleeve Bookshop::9781037404191",
