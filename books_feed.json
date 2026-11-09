@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T02:34:15.901736+00:00",
-  "total_available": 2918,
+  "last_updated": "2026-11-09T03:30:48.444686+00:00",
+  "total_available": 2919,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -15,7 +15,7 @@
     "Biggles Stones": "3 items",
     "London Review Bookshop": "29 items",
     "Little Apple Bookshop": "39 items",
-    "Hewson Books": "51 items",
+    "Hewson Books": "52 items",
     "Station Books": "64 items",
     "Booka Bookshop": "295 items",
     "Coles Books": "12 items",
@@ -1165,6 +1165,19 @@
       "vip": false,
       "listed_at": "2026-11-03T13:28:02.420082+00:00",
       "discovered_at": "2026-11-08T11:45:10.991511+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/grand-the-autobiography-of-gromit-by-nick-park",
+      "title": "Grand: The Autobiography of Gromit ***signed*** by Nick Park",
+      "author": "Nick Park",
+      "price": "\u00a322.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/grand-the-autobiography-of-gromit-by-nick-park",
+      "image": "https://static.wixstatic.com/media/cf7295_176197f53fe442818ce494ff4d22f573~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-11-03T13:12:20.752378+00:00",
+      "discovered_at": "2026-11-09T03:30:48.444686+00:00",
       "est": "pos"
     },
     {
