@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T12:19:56.829358+00:00",
-  "total_available": 2905,
+  "last_updated": "2026-11-09T13:41:27.100870+00:00",
+  "total_available": 2906,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -17,15 +17,65 @@
     "Little Apple Bookshop": "39 items",
     "Hewson Books": "51 items",
     "Station Books": "55 items",
-    "Booka Bookshop": "294 items",
+    "Booka Bookshop": "293 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1063 items",
+    "West End Lane Books": "1065 items",
     "Foyles": "137 items via feed (as of 2026-11-08T22:30:13.181614+00:00)",
     "Waterstones": "186 items via feed (as of 2026-11-08T14:29:57.431124+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-08T10:45:51.884685+00:00)",
     "Hatchards": "117 items via feed (as of 2026-11-08T22:30:13.181614+00:00)"
   },
   "books": [
+    {
+      "id": "Coles Books::https://coles-books.co.uk/the-world-beneath-her-feet-by-holly-ringland-signed-edition",
+      "title": "The World Beneath Her Feet by Holly Ringland - Signed Edition",
+      "author": "Holly Ringland",
+      "price": "\u00a310.99",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/the-world-beneath-her-feet-by-holly-ringland-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/h/o/holly_ringland_world_beneath_her_feet_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-09T13:41:27.100870+00:00",
+      "discovered_at": "2026-11-09T13:41:27.100870+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Coles Books::https://coles-books.co.uk/the-summer-we-happened-by-tessa-bailey-signed-edition",
+      "title": "The Summer We Happened by Tessa Bailey - Signed Edition",
+      "author": "Tessa Bailey",
+      "price": "\u00a39.99",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/the-summer-we-happened-by-tessa-bailey-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/t/e/tessa_bailey_the_summer_we_happened_coles_signed_edition_2.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-09T13:41:27.100870+00:00",
+      "discovered_at": "2026-11-09T13:41:27.100870+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/murder-in-paris-68-by-edward-chisholm-signed",
+      "title": "Murder in Paris '68 by Edward Chisholm (Signed)",
+      "author": "Edward Chisholm",
+      "price": "\u00a312.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/murder-in-paris-68-by-edward-chisholm-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/6ea0d7e3-4a81-4329-a4e5-d5ccbec4801d/Website+Listing+Template+-+Book+-+2026-11-09T125430.557.jpg",
+      "vip": false,
+      "listed_at": "2026-11-09T12:58:04.975000+00:00",
+      "discovered_at": "2026-11-09T13:41:27.100870+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/nfzk83k9yqakukpo5j9rbtit7pke12",
+      "title": "Machines by Jean-Michel Jarre (Signed)",
+      "author": "Jean-Michel Jarre",
+      "price": "\u00a350.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/nfzk83k9yqakukpo5j9rbtit7pke12",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/ae247294-0870-4117-9530-dcaba0c98089/Website+Listing+Template+-+Book.png",
+      "vip": false,
+      "listed_at": "2026-11-09T12:53:16.013000+00:00",
+      "discovered_at": "2026-11-09T13:41:27.100870+00:00"
+    },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-beasts-of-the-black-loch-by-gay-marris-signed-1",
       "title": "The Beasts of the Black Loch by Gay Marris (Signed)",
@@ -8801,18 +8851,6 @@
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/dark-reading-matter-jasper-fforde-signed-independent-bookshop-exclusive-edition/",
-      "title": "Dark Reading Matter \u2013 Signed Independent Bookshop Exclusive Edition",
-      "author": "Jasper Fforde",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/dark-reading-matter-jasper-fforde-signed-independent-bookshop-exclusive-edition/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/04/Dark-Reading-Matter.jpeg",
-      "vip": false,
-      "listed_at": "2026-10-15T10:00:53+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00"
-    },
-    {
       "id": "Waterstones::https://www.waterstones.com/book/the-river-she-became/emily-varga/2928377360818",
       "title": "The River She Became",
       "author": "Emily Varga",
@@ -9918,19 +9956,6 @@
       "est": "pos"
     },
     {
-      "id": "Coles Books::https://coles-books.co.uk/set-the-boy-free-illustrated-anniversary-edition-by-johnny-marr-signed-edition",
-      "title": "Set the Boy Free - Illustrated Anniversary Edition by Johnny Marr - Signed Edition",
-      "author": "Johnny Marr",
-      "price": "\u00a330.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/set-the-boy-free-illustrated-anniversary-edition-by-johnny-marr-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/j/o/johnny_marr_set_the_boy_free_illustrated_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-13T23:07:19.057241+00:00",
-      "discovered_at": "2026-11-08T11:07:19.057241+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/common-decency-signed-pre-order/",
       "title": "Common Decency *SIGNED*",
       "author": "Tom Allen",
@@ -11009,19 +11034,6 @@
       "vip": false,
       "listed_at": "2026-10-11T18:12:24.604956+00:00",
       "discovered_at": "2026-11-08T11:45:10.991511+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/seasons-by-ian-botham-signed-edition",
-      "title": "Seasons by Ian Botham - Signed Edition",
-      "author": "Ian Botham",
-      "price": "\u00a322.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/seasons-by-ian-botham-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/i/a/ian_botham_seasons_coles_signed_edition_1_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-11T17:07:19.057241+00:00",
-      "discovered_at": "2026-11-08T11:07:19.057241+00:00",
       "est": "pos"
     },
     {
