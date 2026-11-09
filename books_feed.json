@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T21:15:27.974418+00:00",
-  "total_available": 2926,
+  "last_updated": "2026-11-09T22:09:10.409203+00:00",
+  "total_available": 2930,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -8,17 +8,17 @@
     "Backstory London (Signed & Dedicated)": "37 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "283 items",
-    "Cleeve Bookshop": "145 items",
-    "Ivybridge Bookshop": "159 items",
+    "Cleeve Bookshop": "144 items",
+    "Ivybridge Bookshop": "160 items",
     "Perkology Books": "39 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "29 items",
     "Little Apple Bookshop": "38 items",
-    "Hewson Books": "51 items",
+    "Hewson Books": "56 items",
     "Station Books": "55 items",
-    "Booka Bookshop": "297 items",
-    "Coles Books": "12 items",
+    "Booka Bookshop": "296 items",
+    "Coles Books": "ERROR: HTTPSConnectionPool(host='coles-books.co.uk', port=443): Read timed out. (read timeout=15)",
     "West End Lane Books": "1065 items",
     "Foyles": "137 items via feed (as of 2026-11-08T22:30:13.181614+00:00)",
     "Waterstones": "203 items via feed (as of 2026-11-09T14:31:19.309006+00:00)",
@@ -26,6 +26,84 @@
     "Hatchards": "117 items via feed (as of 2026-11-08T22:30:13.181614+00:00)"
   },
   "books": [
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-night-watchman-by-elly-griffiths",
+      "title": "The Night Watchman ***signed*** by Elly Griffiths",
+      "author": "Elly Griffiths",
+      "price": "\u00a322.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/the-night-watchman-by-elly-griffiths",
+      "image": "https://static.wixstatic.com/media/cf7295_2e1e36741ae54dc2a8f725c2d0e29093~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-11-09T22:09:10.409203+00:00",
+      "discovered_at": "2026-11-09T22:09:10.409203+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/merlin-s-way-by-alastair-reynolds",
+      "title": "Merlin's Way ***signed*** by Alastair Reynolds",
+      "author": "Alastair Reynolds",
+      "price": "\u00a325.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/merlin-s-way-by-alastair-reynolds",
+      "image": "https://static.wixstatic.com/media/cf7295_437eddc408ab4fd99230ecef58259d6e~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-11-09T22:09:10.409203+00:00",
+      "discovered_at": "2026-11-09T22:09:10.409203+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/emily-wilde-s-history-of-dark-faerie-by-heather-fawcett",
+      "title": "Emily Wilde's History of Dark Faerie ***signed*** by Heather Fawcett",
+      "author": "Heather Fawcett",
+      "price": "\u00a323.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/emily-wilde-s-history-of-dark-faerie-by-heather-fawcett",
+      "image": "https://static.wixstatic.com/media/cf7295_92ebf27328044497bcf5f9e4aa8028a8~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-11-09T22:09:10.409203+00:00",
+      "discovered_at": "2026-11-09T22:09:10.409203+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/hunger-by-joe-hill",
+      "title": "Hunger ***signed*** by Joe Hill",
+      "author": "Joe Hill",
+      "price": "\u00a325.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/hunger-by-joe-hill",
+      "image": "https://static.wixstatic.com/media/cf7295_2e1e36741ae54dc2a8f725c2d0e29093~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-11-09T22:09:10.409203+00:00",
+      "discovered_at": "2026-11-09T22:09:10.409203+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/just-one-more-chapter-by-lucy-score",
+      "title": "Just One More Chapter ***signed*** by Lucy Score",
+      "author": "Lucy Score",
+      "price": "\u00a310.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/just-one-more-chapter-by-lucy-score",
+      "image": "https://static.wixstatic.com/media/cf7295_532621e9330648908995e48e97d0844e~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-11-09T22:09:10.409203+00:00",
+      "discovered_at": "2026-11-09T22:09:10.409203+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-tale-of-kaho-by-haruki-murakami",
+      "title": "The Tale of Kaho ***signed*** by Haruki Murakami",
+      "author": "Haruki Murakami",
+      "price": "\u00a322.00",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/the-tale-of-kaho-by-haruki-murakami",
+      "image": "https://static.wixstatic.com/media/cf7295_f89d4d9229ad4c5186fd5e4c7473e360~mv2.jpg",
+      "vip": true,
+      "listed_at": "2026-11-09T22:09:10.409203+00:00",
+      "discovered_at": "2026-11-09T22:09:10.409203+00:00",
+      "est": "seen"
+    },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/one-helluva-ride-by-michael-douglas-signed",
       "title": "One Helluva Ride by Michael Douglas (Signed)",
@@ -3604,7 +3682,7 @@
       "price": "\u00a320.00",
       "shop": "Hewson Books",
       "url": "https://www.hewsonbooks.co.uk/product-page/an-amateur-s-guide-to-staying-alive-by-scottee",
-      "image": "https://static.wixstatic.com/media/cf7295_e99b1b746ca6489896de017a92c41adb~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/cf7295_d2b756b17e02417e80db0c6bf671b51c~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-28T16:22:18.737767+00:00",
       "discovered_at": "2026-10-28T16:22:18.737767+00:00",
@@ -6360,6 +6438,18 @@
       "vip": false,
       "listed_at": "2026-10-21T14:31:53+00:00",
       "discovered_at": "2026-10-21T16:03:22.544737+00:00"
+    },
+    {
+      "id": "Ivybridge Bookshop::9780241822197",
+      "title": "Decline and Falling Over - (Pre Order) Signed First Edition - Jo Brand (Hardback) 05-11-2026",
+      "author": "Jo Brand",
+      "price": "\u00a322.00",
+      "shop": "Ivybridge Bookshop",
+      "url": "https://www.ivybridgebookshop.com/products/9780241822197",
+      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9780241822197.jpg?v=1792593113",
+      "vip": false,
+      "listed_at": "2026-10-21T14:31:51+00:00",
+      "discovered_at": "2026-11-09T22:09:10.409203+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781807840020",
@@ -12702,18 +12792,6 @@
       "est": "pos"
     },
     {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/under-the-iron-sky-signed-independent-bookshop-exclusive-edition/",
-      "title": "Under the Iron Sky \u2013 Signed Independent Bookshop Exclusive Edition",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/under-the-iron-sky-signed-independent-bookshop-exclusive-edition/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/Under-an-Emerald-Sky.jpg",
-      "vip": false,
-      "listed_at": "2026-10-07T11:36:30+00:00",
-      "discovered_at": "2026-11-04T13:38:25.566858+00:00"
-    },
-    {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/sebastian-faulks-farewell-to-eden-signed-copy-hardback",
       "title": "Sebastian Faulks - Farewell To Eden (SIGNED COPY) (HARDBACK)",
       "author": "Sebastian Faulks",
@@ -13205,19 +13283,6 @@
       "est": "pos"
     },
     {
-      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-state-of-this-by-cody-dahler",
-      "title": "The State of This! by Cody Dahler",
-      "author": "Cody Dahler",
-      "price": "\u00a316.99",
-      "shop": "Hewson Books",
-      "url": "https://www.hewsonbooks.co.uk/product-page/the-state-of-this-by-cody-dahler",
-      "image": "https://static.wixstatic.com/media/cf7295_507719967adb4beeac1017f6b98a1a1b~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-04T00:45:35.457398+00:00",
-      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Station Books::https://stationbooks.co.uk/shop/stations-by-louise-kennedy/",
       "title": "Stations by Louise Kennedy",
       "author": "Louise Kennedy",
@@ -13314,7 +13379,7 @@
       "price": "\u00a322.00",
       "shop": "Hewson Books",
       "url": "https://www.hewsonbooks.co.uk/product-page/vigilauntie-by-meera-syal",
-      "image": "https://static.wixstatic.com/media/cf7295_bb6271b8e7fb426fa2e637ae13773291~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/cf7295_507719967adb4beeac1017f6b98a1a1b~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-02T16:21:35.457398+00:00",
       "discovered_at": "2026-10-28T04:21:35.457398+00:00",
@@ -27301,18 +27366,6 @@
       "vip": false,
       "listed_at": "2026-04-14T14:41:35+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781800812949",
-      "title": "The End of Everything - Signed Fifth Edition",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781800812949",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-end-of-everything-signed-first-edition-4985815.jpg?v=1787362283",
-      "vip": false,
-      "listed_at": "2026-04-14T14:14:44+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "Cleeve Bookshop::9780571396726",
