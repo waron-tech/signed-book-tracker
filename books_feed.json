@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T23:41:48.526466+00:00",
-  "total_available": 2920,
+  "last_updated": "2026-11-09T00:15:52.637738+00:00",
+  "total_available": 2919,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -19,7 +19,7 @@
     "Station Books": "64 items",
     "Booka Bookshop": "295 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1065 items",
+    "West End Lane Books": "1064 items",
     "Foyles": "137 items via feed (as of 2026-11-08T22:30:13.181614+00:00)",
     "Waterstones": "186 items via feed (as of 2026-11-08T14:29:57.431124+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-08T10:45:51.884685+00:00)",
@@ -5740,18 +5740,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/7b9c7112-fda5-4c7a-8c7f-11eaaf810b52/Website+Listing+Template+-+Book+-+2026-10-22T140045.310.jpg",
       "vip": false,
       "listed_at": "2026-10-22T13:02:48.236000+00:00",
-      "discovered_at": "2026-10-22T13:17:42.297040+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-owl-carver-by-andrew-cotter-signed",
-      "title": "The Owl Carver by Andrew Cotter (Signed)",
-      "author": "Andrew Cotter",
-      "price": "\u00a320.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-owl-carver-by-andrew-cotter-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/c2dc70ae-f732-495b-adc9-f8e027d19e43/Website+Listing+Template+-+Book+-+2026-10-22T135435.328.jpg",
-      "vip": false,
-      "listed_at": "2026-10-22T12:56:32.013000+00:00",
       "discovered_at": "2026-10-22T13:17:42.297040+00:00"
     },
     {
