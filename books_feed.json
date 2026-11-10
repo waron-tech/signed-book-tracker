@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T11:28:58.072559+00:00",
-  "total_available": 2925,
+  "last_updated": "2026-11-10T12:17:05.240900+00:00",
+  "total_available": 2924,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "55 items",
     "Station Books": "54 items",
-    "Booka Bookshop": "296 items",
+    "Booka Bookshop": "295 items",
     "Coles Books": "12 items",
     "West End Lane Books": "1064 items",
     "Foyles": "137 items via feed (as of 2026-11-10T06:32:05.990486+00:00)",
@@ -16274,18 +16274,6 @@
       "vip": false,
       "listed_at": "2026-09-12T09:55:25+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/20-minute-meals-real-fast-food-signed-copy/",
-      "title": "20 Minute Meals: Real Fast Food \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a330.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/20-minute-meals-real-fast-food-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/09/20-Minute-Meals.jpg",
-      "vip": false,
-      "listed_at": "2026-09-11T23:02:19+00:00",
-      "discovered_at": "2026-11-06T16:14:49.730855+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/more/",
