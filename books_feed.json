@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T23:27:41.174312+00:00",
+  "last_updated": "2026-11-10T00:00:49.965296+00:00",
   "total_available": 2919,
   "shop_status": {
     "Goldsboro Books": "11 items",
@@ -87,19 +87,6 @@
       "url": "https://www.hewsonbooks.co.uk/product-page/just-one-more-chapter-by-lucy-score",
       "image": "https://static.wixstatic.com/media/cf7295_532621e9330648908995e48e97d0844e~mv2.jpg",
       "vip": false,
-      "listed_at": "2026-11-09T22:09:10.409203+00:00",
-      "discovered_at": "2026-11-09T22:09:10.409203+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-tale-of-kaho-by-haruki-murakami",
-      "title": "The Tale of Kaho ***signed*** by Haruki Murakami",
-      "author": "Haruki Murakami",
-      "price": "\u00a322.00",
-      "shop": "Hewson Books",
-      "url": "https://www.hewsonbooks.co.uk/product-page/the-tale-of-kaho-by-haruki-murakami",
-      "image": "https://static.wixstatic.com/media/cf7295_f89d4d9229ad4c5186fd5e4c7473e360~mv2.jpg",
-      "vip": true,
       "listed_at": "2026-11-09T22:09:10.409203+00:00",
       "discovered_at": "2026-11-09T22:09:10.409203+00:00",
       "est": "seen"
@@ -3630,7 +3617,7 @@
       "price": "\u00a320.00",
       "shop": "Hewson Books",
       "url": "https://www.hewsonbooks.co.uk/product-page/an-amateur-s-guide-to-staying-alive-by-scottee",
-      "image": "https://static.wixstatic.com/media/cf7295_d2b756b17e02417e80db0c6bf671b51c~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/cf7295_f89d4d9229ad4c5186fd5e4c7473e360~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-28T16:22:18.737767+00:00",
       "discovered_at": "2026-10-28T16:22:18.737767+00:00",
@@ -8672,6 +8659,19 @@
       "est": "pos"
     },
     {
+      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-state-of-this-by-cody-dahler",
+      "title": "The State of This! by Cody Dahler",
+      "author": "Cody Dahler",
+      "price": "\u00a316.99",
+      "shop": "Hewson Books",
+      "url": "https://www.hewsonbooks.co.uk/product-page/the-state-of-this-by-cody-dahler",
+      "image": "https://static.wixstatic.com/media/cf7295_507719967adb4beeac1017f6b98a1a1b~mv2.jpg",
+      "vip": false,
+      "listed_at": "2026-10-15T19:43:41.393867+00:00",
+      "discovered_at": "2026-11-10T00:00:49.965296+00:00",
+      "est": "pos"
+    },
+    {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/ottolenghi-simple-too-yotam-ottolenghi",
       "title": "Ottolenghi SIMPLE TOO - Yotam Ottolenghi",
       "author": "Yotam Ottolenghi",
@@ -13236,7 +13236,7 @@
       "price": "\u00a322.00",
       "shop": "Hewson Books",
       "url": "https://www.hewsonbooks.co.uk/product-page/vigilauntie-by-meera-syal",
-      "image": "https://static.wixstatic.com/media/cf7295_507719967adb4beeac1017f6b98a1a1b~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/cf7295_bb6271b8e7fb426fa2e637ae13773291~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-02T16:21:35.457398+00:00",
       "discovered_at": "2026-10-28T04:21:35.457398+00:00",
