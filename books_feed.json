@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-11-10T13:31:13.052685+00:00",
-  "total_available": 2922,
+  "last_updated": "2026-11-10T14:31:34.774946+00:00",
+  "total_available": 2905,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
     "Porty Books": "10 items",
-    "Backstory London (Signed & Dedicated)": "37 items",
+    "Backstory London (Signed & Dedicated)": "39 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "282 items",
-    "Cleeve Bookshop": "144 items",
+    "Cleeve Bookshop": "127 items",
     "Ivybridge Bookshop": "160 items",
     "Perkology Books": "39 items",
     "Bookstation (Ireland)": "7 items",
@@ -19,13 +19,37 @@
     "Station Books": "54 items",
     "Booka Bookshop": "294 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1064 items",
+    "West End Lane Books": "1062 items",
     "Foyles": "137 items via feed (as of 2026-11-10T06:32:05.990486+00:00)",
     "Waterstones": "201 items via feed (as of 2026-11-10T10:31:52.733603+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-09T14:31:19.309006+00:00)",
     "Hatchards": "117 items via feed (as of 2026-11-10T02:32:22.251212+00:00)"
   },
   "books": [
+    {
+      "id": "Backstory London (Signed & Dedicated)::the-true-confessions-of-first-lady-freeman-1",
+      "title": "The True Confessions Of First Lady Freeman",
+      "author": "",
+      "price": "\u00a316.99",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/the-true-confessions-of-first-lady-freeman-1",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781529935912_c3451482-a475-4622-a509-c5eec0cc71b5.jpg?v=1794320386",
+      "vip": false,
+      "listed_at": "2026-11-10T14:24:56+00:00",
+      "discovered_at": "2026-11-10T14:31:34.774946+00:00"
+    },
+    {
+      "id": "Backstory London (Signed & Dedicated)::pre-order-now-games-of-my-life-by-alex-ferguson-signed-edition",
+      "title": "Games of My Life",
+      "author": "",
+      "price": "\u00a340.00",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/pre-order-now-games-of-my-life-by-alex-ferguson-signed-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781037402425_1.jpg?v=1774973111",
+      "vip": false,
+      "listed_at": "2026-11-10T13:56:40+00:00",
+      "discovered_at": "2026-11-10T14:31:34.774946+00:00"
+    },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/blessed-be-the-damned-by-caty-rogan-signed",
       "title": "Blessed be the Damned by Caty Rogan (Signed)",
@@ -20056,18 +20080,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781917764636",
-      "title": "The Deadly Inheritance of Everest Macdonald - Signed First Edition with Sprayed Edge",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781917764636",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-deadly-inheritance-of-everest-macdonald-signed-first-edition-with-sprayed-edge-8397688.jpg?v=1787102162",
-      "vip": false,
-      "listed_at": "2026-07-23T10:41:05+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/quicksilver-by-callie-hart-signed",
       "title": "Quicksilver by Callie Hart (Signed)",
       "author": "Callie Hart",
@@ -20131,7 +20143,7 @@
       "id": "Cleeve Bookshop::9781529077797",
       "title": "The Dying Light - Signed First Edition with Sprayed Edge",
       "author": "",
-      "price": "\u00a320.00",
+      "price": "\u00a318.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781529077797",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-dying-light-signed-first-edition-with-sprayed-edge-3871464.jpg?v=1787102134",
@@ -20491,7 +20503,7 @@
       "id": "Cleeve Bookshop::9781398717350",
       "title": "The Midmorning Murders - Signed First Edition",
       "author": "",
-      "price": "\u00a320.00",
+      "price": "\u00a319.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781398717350",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-midmorning-murders-signed-first-edition-1979952.jpg?v=1787188559",
@@ -20767,7 +20779,7 @@
       "id": "Cleeve Bookshop::9781529090116",
       "title": "Dead in Three Two One - Signed First Edition with Sprayed Edge",
       "author": "",
-      "price": "\u00a320.00",
+      "price": "\u00a318.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781529090116",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/dead-in-three-two-one-signed-first-edition-with-sprayed-edge-6517325.jpg?v=1787188905",
@@ -20779,7 +20791,7 @@
       "id": "Cleeve Bookshop::9781037405549",
       "title": "Orlando - Signed First Edition with Sprayed Edge",
       "author": "",
-      "price": "\u00a323.00",
+      "price": "\u00a322.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781037405549",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/orlando-signed-first-edition-with-sprayed-edge-1114437.jpg?v=1787188896",
@@ -20978,6 +20990,18 @@
       "vip": false,
       "listed_at": "2026-07-07T09:07:11+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "Cleeve Bookshop::9781803512730",
+      "title": "Doom Painting - Signed First Indie Edition with Sprayed Edge",
+      "author": "",
+      "price": "\u00a318.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9781803512730",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/doom-painting-signed-first-indie-edition-with-sprayed-edge-5940688.jpg?v=1787188834",
+      "vip": false,
+      "listed_at": "2026-07-07T09:07:02+00:00",
+      "discovered_at": "2026-11-10T14:31:34.774946+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-rolling-year-by-dr-hannah-french-signed",
@@ -22555,7 +22579,7 @@
       "id": "Cleeve Bookshop::9781398537194",
       "title": "Styx: The River - Signed First Edition",
       "author": "",
-      "price": "\u00a318.00",
+      "price": "\u00a316.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781398537194",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/styx-the-river-signed-first-edition-9370450.jpg?v=1787189957",
@@ -23500,18 +23524,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781529109511",
-      "title": "Ottolenghi SIMPLE TOO - Signed First Edition",
-      "author": "",
-      "price": "\u00a327.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781529109511",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/ottolenghi-simple-too-signed-first-edition-1432439.jpg?v=1787190123",
-      "vip": false,
-      "listed_at": "2026-06-05T13:51:29+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "Cleeve Bookshop::9781784745936",
       "title": "The Housekeeper - Signed First Edition",
       "author": "",
@@ -23539,7 +23551,7 @@
       "id": "Cleeve Bookshop::9781529153224",
       "title": "Farewell to Eden - Signed First Edition",
       "author": "",
-      "price": "\u00a320.00",
+      "price": "\u00a318.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781529153224",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/farewell-to-eden-signed-first-edition-3419093.jpg?v=1787190085",
@@ -23551,7 +23563,7 @@
       "id": "Cleeve Bookshop::9780241777664",
       "title": "The Strangers - Signed First Edition",
       "author": "",
-      "price": "\u00a318.00",
+      "price": "\u00a316.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9780241777664",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-strangers-signed-first-edition-3477528.jpg?v=1787190335",
@@ -23563,7 +23575,7 @@
       "id": "Cleeve Bookshop::9780241761090",
       "title": "Cold Sunset - Signed First Edition",
       "author": "",
-      "price": "\u00a318.00",
+      "price": "\u00a317.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9780241761090",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/cold-sunset-signed-first-edition-3692708.jpg?v=1787190332",
@@ -23572,10 +23584,22 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
+      "id": "Cleeve Bookshop::9780241714409",
+      "title": "The Disappearers - Signed First Edition",
+      "author": "",
+      "price": "\u00a318.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9780241714409",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-disappearers-signed-first-edition-2845507.jpg?v=1787190331",
+      "vip": false,
+      "listed_at": "2026-06-05T13:49:50+00:00",
+      "discovered_at": "2026-11-10T14:31:34.774946+00:00"
+    },
+    {
       "id": "Cleeve Bookshop::9780141346052",
       "title": "Hollywood, Ending - Signed First Edition",
       "author": "",
-      "price": "\u00a320.00",
+      "price": "\u00a318.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9780141346052",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/hollywood-ending-signed-first-edition-7136195.jpg?v=1787190327",
@@ -23647,7 +23671,7 @@
       "id": "Cleeve Bookshop::9781786588814",
       "title": "Peck & Peck - Signed First Edition with Illustrated Endpapers & Exclusive Bonus Content",
       "author": "",
-      "price": "\u00a320.00",
+      "price": "\u00a318.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781786588814",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/peck-peck-signed-first-edition-with-illustrated-endpapers-7607211.jpg?v=1787190320",
@@ -25147,7 +25171,7 @@
       "id": "Cleeve Bookshop::9781037407161",
       "title": "Ply - Signed First Edition",
       "author": "",
-      "price": "\u00a318.00",
+      "price": "\u00a317.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781037407161",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/ply-signed-first-edition-3878351.jpg?v=1787190881",
@@ -25262,18 +25286,6 @@
       "vip": false,
       "listed_at": "2026-05-20T08:00:18.138000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::the-elegant-hustler-my-life-in-adventures-signed-first-edition",
-      "title": "The Elegant Hustler: My Life In Adventures - Signed First Edition",
-      "author": "",
-      "price": "\u00a323.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/the-elegant-hustler-my-life-in-adventures-signed-first-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-elegant-hustler-my-life-in-adventures-signed-first-edition-3020969.jpg?v=1789867132",
-      "vip": false,
-      "listed_at": "2026-05-20T07:59:47+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/summerween-by-joss-wood-signed",
@@ -25939,7 +25951,7 @@
       "id": "Cleeve Bookshop::9780008702557",
       "title": "Taipei Story - Signed First Edition",
       "author": "",
-      "price": "\u00a320.00",
+      "price": "\u00a318.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9780008702557",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/taipei-story-signed-first-edition-3678364.jpg?v=1787361278",
@@ -26029,18 +26041,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-runner-signed-first-edition-5325686.jpg?v=1787361295",
       "vip": false,
       "listed_at": "2026-05-06T12:13:59+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781398524828",
-      "title": "Roman Mornings - Signed First Edition with Sprayed Edge",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781398524828",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/roman-mornings-signed-first-edition-with-sprayed-edge-7128365.jpg?v=1787361293",
-      "vip": false,
-      "listed_at": "2026-05-06T12:13:56+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -26539,7 +26539,7 @@
       "id": "Cleeve Bookshop::death-writ-large-signed-first-edition",
       "title": "Death Writ Large - Signed First Edition with Sprayed Edge",
       "author": "",
-      "price": "\u00a318.00",
+      "price": "\u00a316.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/death-writ-large-signed-first-edition",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/death-writ-large-signed-first-edition-with-sprayed-edge-6698482.jpg?v=1787361962",
@@ -26971,24 +26971,12 @@
       "id": "Cleeve Bookshop::9781837266807",
       "title": "Contrapposto - Signed First Edition",
       "author": "",
-      "price": "\u00a318.00",
+      "price": "\u00a316.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781837266807",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/contrapposto-signed-first-edition-9513093.jpg?v=1787362076",
       "vip": false,
       "listed_at": "2026-04-21T15:40:13+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781398514928",
-      "title": "White Spaces - Signed First Edition",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781398514928",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/white-spaces-signed-first-edition-6257913.jpg?v=1787362017",
-      "vip": false,
-      "listed_at": "2026-04-21T13:08:21+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -27259,7 +27247,7 @@
       "id": "Cleeve Bookshop::9781472263988",
       "title": "The Wine-Dark Sea - Signed First Indie Exclusive Edition",
       "author": "",
-      "price": "\u00a320.00",
+      "price": "\u00a319.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781472263988",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-wine-dark-sea-signed-first-indie-exclusive-edition-4892418.jpg?v=1787362287",
@@ -27904,18 +27892,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781399750813",
-      "title": "Fishbone Cinderella - Signed First Edition",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781399750813",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/fishbone-cinderella-signed-first-edition-8238969.jpg?v=1787362469",
-      "vip": false,
-      "listed_at": "2026-04-01T10:14:43+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "Cleeve Bookshop::9781399607940",
       "title": "Something Like Happiness - Signed First Edition",
       "author": "",
@@ -27926,6 +27902,18 @@
       "vip": false,
       "listed_at": "2026-04-01T10:12:41+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "Cleeve Bookshop::9781399755221",
+      "title": "Japanese Gothic - Signed First Edition",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9781399755221",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/japanese-gothic-signed-first-edition-5313698.jpg?v=1787362457",
+      "vip": false,
+      "listed_at": "2026-04-01T09:28:47+00:00",
+      "discovered_at": "2026-11-10T14:31:34.774946+00:00"
     },
     {
       "id": "Cleeve Bookshop::9781399638609",
@@ -29344,18 +29332,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781787302747",
-      "title": "The Pinnacle - Signed First Edition",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781787302747",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-pinnacle-signed-first-edition-1143913.jpg?v=1787363040",
-      "vip": false,
-      "listed_at": "2026-03-12T09:44:53+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/massif-by-garth-nix-signed",
       "title": "Massif by Garth Nix (Signed)",
       "author": "Garth Nix",
@@ -29671,7 +29647,7 @@
       "id": "Cleeve Bookshop::american-hagwon-signed-first",
       "title": "American Hagwon - Signed First Edition",
       "author": "",
-      "price": "\u00a322.00",
+      "price": "\u00a321.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/american-hagwon-signed-first",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/american-hagwon-signed-first-edition-3226492.jpg?v=1787533660",
@@ -29954,18 +29930,6 @@
       "vip": false,
       "listed_at": "2026-03-03T14:00:05+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781835013199",
-      "title": "Boring Asian Female - Signed Bookplate First Edition",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781835013199",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/boring-asian-female-signed-bookplate-first-edition-6471823.jpg?v=1787533775",
-      "vip": false,
-      "listed_at": "2026-03-03T11:13:08+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "British Library Shop::ghost-wedding-signed-edition",
@@ -30277,30 +30241,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/thornby-manor-signed-first-edition-2929679.jpg?v=1787533858",
       "vip": false,
       "listed_at": "2026-02-25T16:20:27+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781398539570",
-      "title": "A Plot to Die For - Signed First Edition",
-      "author": "",
-      "price": "\u00a318.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781398539570",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/a-plot-to-die-for-signed-first-edition-3186324.jpg?v=1787533850",
-      "vip": false,
-      "listed_at": "2026-02-25T16:19:59+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781398535565",
-      "title": "Body of Lies - Signed First Edition",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781398535565",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/body-of-lies-signed-first-edition-5931054.jpg?v=1787533848",
-      "vip": false,
-      "listed_at": "2026-02-25T16:19:57+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -30844,18 +30784,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9780241733684",
-      "title": "Smallie - Signed First Edition",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9780241733684",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/smallie-signed-first-edition-5066782.jpg?v=1787534002",
-      "vip": false,
-      "listed_at": "2026-02-18T09:53:59+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/sinners-anonymous-by-somme-sketcher-signed",
       "title": "Sinners Anonymous by Somme Sketcher (Signed)",
       "author": "Somme Sketcher",
@@ -30883,7 +30811,7 @@
       "id": "Cleeve Bookshop::9781035033973",
       "title": "Last One Out - Signed First Edition with Sprayed Edge",
       "author": "",
-      "price": "\u00a318.00",
+      "price": "\u00a316.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781035033973",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/last-one-out-signed-first-edition-with-sprayed-edge-3220330.jpg?v=1787533996",
@@ -31675,7 +31603,7 @@
       "id": "Cleeve Bookshop::9781911754244",
       "title": "Chain Reaction : (Jack Reacher 31) - Signed First Edition",
       "author": "",
-      "price": "\u00a320.00",
+      "price": "\u00a318.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781911754244",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/chain-reaction-jack-reacher-31-signed-first-edition-1946379.jpg?v=1787534797",
@@ -33232,18 +33160,6 @@
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781398502086",
-      "title": "Based on a True Story - Signed First Edition",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781398502086",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/based-on-a-true-story-signed-first-edition-2140944.jpg?v=1787535410",
-      "vip": false,
-      "listed_at": "2026-01-21T11:06:17+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "British Library Shop::tidespeaker-signed-edition",
       "title": "Tidespeaker (Signed Edition)",
       "author": "",
@@ -33698,18 +33614,6 @@
       "vip": false,
       "listed_at": "2026-01-14T12:58:40.208000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781835417362",
-      "title": "Wretch: or, The Unbecoming of Porcelain Khaw - Signed Bookplate First Edition",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781835417362",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/wretch-or-the-unbecoming-of-porcelain-khaw-signed-bookplate-first-edition-5441473.jpg?v=1787536269",
-      "vip": false,
-      "listed_at": "2026-01-13T16:20:32+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781035912131",
@@ -34300,18 +34204,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781526687876",
-      "title": "Femme Feral - Signed First Edition",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781526687876",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/femme-feral-signed-first-edition-1181913.jpg?v=1786974908",
-      "vip": false,
-      "listed_at": "2026-01-05T14:31:50+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/parade-by-rachel-cusk-signed",
       "title": "Parade by Rachel Cusk (Signed)",
       "author": "Rachel Cusk",
@@ -34526,18 +34418,6 @@
       "vip": false,
       "listed_at": "2025-12-17T13:03:55.585000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781837263103",
-      "title": "A Beautiful Loan - Signed Bookplate First Edition",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781837263103",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/a-beautiful-loan-signed-bookplate-first-edition-9625959.jpg?v=1786975333",
-      "vip": false,
-      "listed_at": "2025-12-17T11:24:54+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "Cleeve Bookshop::9781804711224",
@@ -35119,24 +34999,12 @@
       "id": "Cleeve Bookshop::spider-spider-signed-first-sprayed-edge-indie-exclusive-edition",
       "title": "Spider, Spider - Signed Bookplate First Indie Edition with Sprayed Edge",
       "author": "",
-      "price": "\u00a316.99",
+      "price": "\u00a314.99",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/spider-spider-signed-first-sprayed-edge-indie-exclusive-edition",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/spider-spider-signed-bookplate-first-indie-edition-with-sprayed-edge-8178161.jpg?v=1786976527",
       "vip": false,
       "listed_at": "2025-12-04T09:50:34+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781787336421",
-      "title": "Minor Black Figures - Signed First Edition",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781787336421",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/minor-black-figures-signed-first-edition-8862968.jpg?v=1786976589",
-      "vip": false,
-      "listed_at": "2025-12-03T13:35:20+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -35186,18 +35054,6 @@
       "vip": false,
       "listed_at": "2025-11-27T16:34:22+00:00",
       "discovered_at": "2026-11-09T17:38:03.848117+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781837262618",
-      "title": "Your Life Without Me - Signed First Edition",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781837262618",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/your-life-without-me-signed-first-edition-6446023.jpg?v=1786976952",
-      "vip": false,
-      "listed_at": "2025-11-27T10:25:33+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "Perkology Books::pizza-history-recipes-stories-people-places",
@@ -35548,18 +35404,6 @@
       "discovered_at": "2026-11-09T17:38:03.848117+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9780571338153",
-      "title": "Seven - Signed Bookplate First Edition",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9780571338153",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/seven-signed-bookplate-first-edition-2882179.jpg?v=1786977067",
-      "vip": false,
-      "listed_at": "2025-11-19T11:39:47+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-book-of-george-by-kate-greathead-signed",
       "title": "The Book of George by Kate Greathead (Signed)",
       "author": "Kate Greathead",
@@ -35752,18 +35596,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "Cleeve Bookshop::9781035057788",
-      "title": "Children of Strife - Signed First Edition",
-      "author": "",
-      "price": "\u00a323.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781035057788",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/children-of-strife-signed-first-edition-4758533.jpg?v=1786977009",
-      "vip": false,
-      "listed_at": "2025-11-12T15:26:08+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "Cleeve Bookshop::9781399835015",
       "title": "Country People - Signed First Edition",
       "author": "",
@@ -35773,18 +35605,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/country-people-signed-first-edition-3860760.jpg?v=1786977009",
       "vip": false,
       "listed_at": "2025-11-12T10:52:55+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781035055821",
-      "title": "Meet the Newmans - Signed Bookplate First Edition with Sprayed Edge",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781035055821",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/meet-the-newmans-signed-bookplate-first-edition-with-sprayed-edge-6148107.jpg?v=1786977067",
-      "vip": false,
-      "listed_at": "2025-11-12T10:52:43+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -35941,30 +35761,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/f4d80467-47bb-4c19-bdd0-0f42240bca39/Copy+of+Product+Template+-+Book+-+2025-11-10T145127.435.jpg",
       "vip": false,
       "listed_at": "2025-11-10T14:53:18.335000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/good-good-loving-by-yvvette-edwards-signed",
-      "title": "Good Good Loving by Yvvette Edwards (Signed)",
-      "author": "Yvvette Edwards",
-      "price": "\u00a318.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/good-good-loving-by-yvvette-edwards-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/7c685dbe-8c9f-4735-b0e9-a90f1e092b05/Copy+of+Product+Template+-+Book+-+2025-11-10T141306.394.jpg",
-      "vip": false,
-      "listed_at": "2025-11-10T14:16:18.700000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-lions-run-by-sara-pennypacker-signed",
-      "title": "The Lions' Run by Sara Pennypacker (Signed)",
-      "author": "Sara Pennypacker",
-      "price": "\u00a314.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-lions-run-by-sara-pennypacker-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/6e4abeff-f5fb-4364-bbe7-f183afc49999/Copy+of+Product+Template+-+Book+-+2025-11-10T140936.528.jpg",
-      "vip": false,
-      "listed_at": "2025-11-10T14:11:45.892000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     }
   ]
