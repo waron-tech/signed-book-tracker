@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T00:00:49.965296+00:00",
-  "total_available": 2919,
+  "last_updated": "2026-11-10T01:04:33.815745+00:00",
+  "total_available": 2917,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -15,8 +15,8 @@
     "Biggles Stones": "3 items",
     "London Review Bookshop": "29 items",
     "Little Apple Bookshop": "38 items",
-    "Hewson Books": "56 items",
-    "Station Books": "55 items",
+    "Hewson Books": "55 items",
+    "Station Books": "54 items",
     "Booka Bookshop": "296 items",
     "Coles Books": "0 items",
     "West End Lane Books": "1065 items",
@@ -8659,19 +8659,6 @@
       "est": "pos"
     },
     {
-      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-state-of-this-by-cody-dahler",
-      "title": "The State of This! by Cody Dahler",
-      "author": "Cody Dahler",
-      "price": "\u00a316.99",
-      "shop": "Hewson Books",
-      "url": "https://www.hewsonbooks.co.uk/product-page/the-state-of-this-by-cody-dahler",
-      "image": "https://static.wixstatic.com/media/cf7295_507719967adb4beeac1017f6b98a1a1b~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-15T19:43:41.393867+00:00",
-      "discovered_at": "2026-11-10T00:00:49.965296+00:00",
-      "est": "pos"
-    },
-    {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/ottolenghi-simple-too-yotam-ottolenghi",
       "title": "Ottolenghi SIMPLE TOO - Yotam Ottolenghi",
       "author": "Yotam Ottolenghi",
@@ -12095,19 +12082,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/ancient-egypt-by-bettany-hughes/",
-      "title": "Ancient Egypt by Bettany Hughes",
-      "author": "Bettany Hughes",
-      "price": "\u00a314.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/ancient-egypt-by-bettany-hughes/",
-      "image": "/shop/ancient-egypt-by-bettany-hughes/ancient-egypt-by-bettany-hughes-1f0d285b.jpg",
-      "vip": false,
-      "listed_at": "2026-10-09T19:48:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Waterstones::https://www.waterstones.com/book/j-algernon-pickle-in-the-mystery-at-odd-doings-house/alex-t-smith/9781510114968",
       "title": "J. Algernon Pickle in The Mystery at Odd-Doings House",
       "author": "Alex T Smith",
@@ -13236,7 +13210,7 @@
       "price": "\u00a322.00",
       "shop": "Hewson Books",
       "url": "https://www.hewsonbooks.co.uk/product-page/vigilauntie-by-meera-syal",
-      "image": "https://static.wixstatic.com/media/cf7295_bb6271b8e7fb426fa2e637ae13773291~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/cf7295_507719967adb4beeac1017f6b98a1a1b~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-02T16:21:35.457398+00:00",
       "discovered_at": "2026-10-28T04:21:35.457398+00:00",
