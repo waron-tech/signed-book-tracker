@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T17:15:55.433985+00:00",
-  "total_available": 2900,
+  "last_updated": "2026-11-10T18:06:05.437275+00:00",
+  "total_available": 2897,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -13,10 +13,10 @@
     "Perkology Books": "39 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
-    "London Review Bookshop": "29 items",
+    "London Review Bookshop": "27 items",
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "55 items",
-    "Station Books": "54 items",
+    "Station Books": "53 items",
     "Booka Bookshop": "295 items",
     "Coles Books": "12 items",
     "West End Lane Books": "1050 items",
@@ -9974,19 +9974,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/lessons-in-harmony-by-jonathan-coe/",
-      "title": "Lessons in Harmony by Jonathan Coe",
-      "author": "Jonathan Coe",
-      "price": "\u00a320.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/lessons-in-harmony-by-jonathan-coe/",
-      "image": "/shop/lessons-in-harmony-by-jonathan-coe/lessons-in-harmony-by-jonathan-coe-80db99ee.jpg",
-      "vip": false,
-      "listed_at": "2026-10-14T11:10:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/objects-and-empire-museums-and-the-politics-of-ownership-by-tristram-hunt-signed",
       "title": "Objects and Empire : Museums and the Politics of Ownership by Tristram Hunt (Signed)",
       "author": "Tristram Hunt",
@@ -12449,19 +12436,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/doom-painting-a.-k.-blakemore",
-      "title": "Doom Painting - A. K. Blakemore",
-      "author": "A. K. Blakemore",
-      "price": "\u00a320.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/doom-painting-a.-k.-blakemore",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/4/4/9/4/4564944-1-eng-GB/9781803512730.jpg",
-      "vip": false,
-      "listed_at": "2026-10-09T01:24:19.069129+00:00",
-      "discovered_at": "2026-10-22T15:58:36.211986+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/indignity-by-lea-ypi-1",
       "title": "Indignity by Lea Ypi",
       "author": "Lea Ypi",
@@ -13221,19 +13195,6 @@
       "vip": false,
       "listed_at": "2026-10-05T05:33:07.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-house-of-cromwell-power-family-and-the-making-of-modern-britain-miranda-malins",
-      "title": "The House of Cromwell - Miranda Malins",
-      "author": "Miranda Malins",
-      "price": "\u00a325.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/the-house-of-cromwell-power-family-and-the-making-of-modern-britain-miranda-malins",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/5/8/8/5/4765885-2-eng-GB/house.jpg",
-      "vip": false,
-      "listed_at": "2026-10-05T04:50:01.926272+00:00",
-      "discovered_at": "2026-10-22T15:58:36.211986+00:00",
       "est": "pos"
     },
     {
