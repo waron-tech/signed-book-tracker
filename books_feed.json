@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T10:37:00.548969+00:00",
-  "total_available": 2926,
+  "last_updated": "2026-11-10T11:28:58.072559+00:00",
+  "total_available": 2925,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -19,13 +19,25 @@
     "Station Books": "54 items",
     "Booka Bookshop": "296 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1065 items",
+    "West End Lane Books": "1064 items",
     "Foyles": "137 items via feed (as of 2026-11-10T06:32:05.990486+00:00)",
     "Waterstones": "201 items via feed (as of 2026-11-10T10:31:52.733603+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-09T14:31:19.309006+00:00)",
     "Hatchards": "117 items via feed (as of 2026-11-10T02:32:22.251212+00:00)"
   },
   "books": [
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/blessed-be-the-damned-by-caty-rogan-signed",
+      "title": "Blessed be the Damned by Caty Rogan (Signed)",
+      "author": "Caty Rogan",
+      "price": "\u00a325.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/blessed-be-the-damned-by-caty-rogan-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/794d1ab1-d7f6-46af-a685-201e7f2c0ecd/Website+Listing+Template+-+Book+%285%29.jpg",
+      "vip": false,
+      "listed_at": "2026-11-10T10:39:40.920000+00:00",
+      "discovered_at": "2026-11-10T11:28:58.072559+00:00"
+    },
     {
       "id": "Foyles::https://www.foyles.co.uk/book/how-ive-tried-to-change-the-world/alexei-sayle/9781399645102",
       "title": "How I've Tried to Change the World",
@@ -30316,18 +30328,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-burn-line-by-jonathan-sims-signed",
-      "title": "The Burn Line  by Jonathan Sims (Signed)",
-      "author": "Jonathan Sims",
-      "price": "\u00a325.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-burn-line-by-jonathan-sims-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/39039334-ca4a-4b6a-b882-1e25dcbeb45f/Website+Listing+Template+-+Book.jpg",
-      "vip": false,
-      "listed_at": "2026-02-25T12:48:38.004000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-visionaries-by-james-holland-signed",
       "title": "The Visionaries by James Holland (Signed)",
       "author": "James Holland",
@@ -36001,18 +36001,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/6e4abeff-f5fb-4364-bbe7-f183afc49999/Copy+of+Product+Template+-+Book+-+2025-11-10T140936.528.jpg",
       "vip": false,
       "listed_at": "2025-11-10T14:11:45.892000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/my-friend-billy-whiskers-by-david-litchfield-signed",
-      "title": "My Friend, Billy Whiskers by David Litchfield (Signed)",
-      "author": "David Litchfield",
-      "price": "\u00a312.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/my-friend-billy-whiskers-by-david-litchfield-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/500c974e-d4ee-4089-8208-2dd7937fccfe/Copy+of+Product+Template+-+Book+-+2025-11-10T112323.985.jpg",
-      "vip": false,
-      "listed_at": "2025-11-10T11:25:02.635000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     }
   ]
