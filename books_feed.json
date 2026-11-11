@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11T12:37:13.787671+00:00",
-  "total_available": 2896,
+  "last_updated": "2026-11-11T13:52:42.837139+00:00",
+  "total_available": 2897,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -19,13 +19,25 @@
     "Station Books": "53 items",
     "Booka Bookshop": "292 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1051 items",
+    "West End Lane Books": "1052 items",
     "Foyles": "137 items via feed (as of 2026-11-11T06:34:38.654358+00:00)",
     "Waterstones": "202 items via feed (as of 2026-11-10T14:34:47.976193+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-10T14:34:47.976193+00:00)",
     "Hatchards": "117 items via feed (as of 2026-11-11T02:34:14.586667+00:00)"
   },
   "books": [
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/frequently-happy-and-the-world-is-beautiful-still-bundle-by-david-larbi-signed",
+      "title": "Frequently Happy and The World is Beautiful, Still Bundle by David Larbi (Signed)",
+      "author": "David Larbi",
+      "price": "\u00a327.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/frequently-happy-and-the-world-is-beautiful-still-bundle-by-david-larbi-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/40e7f5ec-13a2-4976-aa0c-6a035d427794/We+are+hiring%21+%288%29.jpg",
+      "vip": false,
+      "listed_at": "2026-11-11T12:58:09.048000+00:00",
+      "discovered_at": "2026-11-11T13:52:42.837139+00:00"
+    },
     {
       "id": "Backstory London (Signed & Dedicated)::the-christmas-companion",
       "title": "The Christmas Companion",
