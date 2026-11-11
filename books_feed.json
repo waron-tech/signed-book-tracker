@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-11-11T09:34:22.639651+00:00",
+  "last_updated": "2026-11-11T10:38:55.159298+00:00",
   "total_available": 2896,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
     "Porty Books": "10 items",
-    "Backstory London (Signed & Dedicated)": "43 items",
+    "Backstory London (Signed & Dedicated)": "44 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "282 items",
-    "Cleeve Bookshop": "128 items",
+    "Cleeve Bookshop": "127 items",
     "Ivybridge Bookshop": "160 items",
     "Perkology Books": "39 items",
     "Bookstation (Ireland)": "7 items",
@@ -26,6 +26,18 @@
     "Hatchards": "117 items via feed (as of 2026-11-11T02:34:14.586667+00:00)"
   },
   "books": [
+    {
+      "id": "Backstory London (Signed & Dedicated)::cash-out-1",
+      "title": "Cash Out",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/cash-out-1",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9780241745069.jpg?v=1794393142",
+      "vip": false,
+      "listed_at": "2026-11-11T10:32:29+00:00",
+      "discovered_at": "2026-11-11T10:38:55.159298+00:00"
+    },
     {
       "id": "Backstory London (Signed & Dedicated)::the-starving-bride-1",
       "title": "The Starving Bride",
@@ -23616,18 +23628,6 @@
       "vip": false,
       "listed_at": "2026-06-05T13:49:52+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9780241714409",
-      "title": "The Disappearers - Signed First Edition",
-      "author": "",
-      "price": "\u00a318.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9780241714409",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-disappearers-signed-first-edition-2845507.jpg?v=1787190331",
-      "vip": false,
-      "listed_at": "2026-06-05T13:49:50+00:00",
-      "discovered_at": "2026-11-10T14:31:34.774946+00:00"
     },
     {
       "id": "Cleeve Bookshop::9780141346052",
