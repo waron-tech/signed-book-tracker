@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11T17:25:21.554566+00:00",
-  "total_available": 2900,
+  "last_updated": "2026-11-11T18:14:41.713827+00:00",
+  "total_available": 2899,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -9,7 +9,7 @@
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "282 items",
     "Cleeve Bookshop": "128 items",
-    "Ivybridge Bookshop": "159 items",
+    "Ivybridge Bookshop": "158 items",
     "Perkology Books": "39 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
@@ -21924,18 +21924,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9781529995923.jpg?v=1782211428",
       "vip": false,
       "listed_at": "2026-06-23T10:43:46+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Ivybridge Bookshop::9780241657850",
-      "title": "20 Minute Meals: Real Fast Food - Signed First Edition - Jamie Oliver (Hardback) 10-09-2026",
-      "author": "Jamie Oliver",
-      "price": "\u00a330.00",
-      "shop": "Ivybridge Bookshop",
-      "url": "https://www.ivybridgebookshop.com/products/9780241657850",
-      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9780241657850.jpg?v=1782211427",
-      "vip": false,
-      "listed_at": "2026-06-23T10:43:44+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
