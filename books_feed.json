@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11T18:14:41.713827+00:00",
-  "total_available": 2899,
+  "last_updated": "2026-11-11T19:11:25.971896+00:00",
+  "total_available": 2898,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -19,13 +19,26 @@
     "Station Books": "53 items",
     "Booka Bookshop": "294 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1051 items",
+    "West End Lane Books": "1049 items",
     "Foyles": "137 items via feed (as of 2026-11-11T06:34:38.654358+00:00)",
-    "Waterstones": "203 items via feed (as of 2026-11-11T14:33:57.657916+00:00)",
-    "Linghams": "224 items via feed (as of 2026-11-10T14:34:47.976193+00:00)",
+    "Waterstones": "204 items via feed (as of 2026-11-11T18:34:48.771600+00:00)",
+    "Linghams": "224 items via feed (as of 2026-11-11T18:34:48.771600+00:00)",
     "Hatchards": "117 items via feed (as of 2026-11-11T02:34:14.586667+00:00)"
   },
   "books": [
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/johnny-marr-set-the-boy-free/johnny-marr/noel-gallagher/9780500032053",
+      "title": "Johnny Marr: Set the Boy Free",
+      "author": "Johnny Marr, Noel Gallagher",
+      "price": "\u00a330.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/johnny-marr-set-the-boy-free/johnny-marr/noel-gallagher/9780500032053",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9780/5000/9780500032053.jpg",
+      "vip": false,
+      "listed_at": "2026-11-11T19:11:25.971896+00:00",
+      "discovered_at": "2026-11-11T19:11:25.971896+00:00",
+      "est": "seen"
+    },
     {
       "id": "Porty Books::https://www.theportobellobookshop.com/9780349127453-s",
       "title": "Virgin",
@@ -4401,7 +4414,7 @@
       "id": "Rare Mags::coffee-for-here",
       "title": "Coffee, For Here",
       "author": "Morgan Eckroth",
-      "price": "\u00a324.00",
+      "price": "\u00a323.00",
       "shop": "Rare Mags",
       "url": "https://raremags.co.uk/products/coffee-for-here",
       "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/IMG_0876.jpg?v=1793271621",
@@ -23979,18 +23992,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/o-now-by-niall-williams-signed",
-      "title": "O Now! by Niall Williams (Signed)",
-      "author": "Niall Williams",
-      "price": "\u00a39.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/o-now-by-niall-williams-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/0b2bfd2d-8c6e-4763-8975-c685e33d4dba/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+-+2026-06-03T110808.919.jpg",
-      "vip": false,
-      "listed_at": "2026-06-03T10:10:10.644000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-bishop-of-durham-attempts-to-surrender-the-city-by-susanna-clarke-signed",
       "title": "The Bishop of Durham Attempts to Surrender the City by Susanna Clarke (Signed)",
       "author": "Susanna Clarke",
@@ -25525,18 +25526,6 @@
       "vip": false,
       "listed_at": "2026-05-15T15:33:37+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/in-one-brief-moment-all-eternity-by-elif-shafak-signed-1",
-      "title": "In One Brief Moment All Eternity by Elif Shafak (Signed)",
-      "author": "Elif Shafak",
-      "price": "\u00a320.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/in-one-brief-moment-all-eternity-by-elif-shafak-signed-1",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/51c38c0c-85e2-4086-a1c4-975ef67039dc/Website+Listing+Template+-+Book+%282%29.jpg",
-      "vip": true,
-      "listed_at": "2026-05-15T09:17:25.796000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781738417056",
