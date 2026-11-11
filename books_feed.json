@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-11T11:33:37.252806+00:00",
+  "last_updated": "2026-11-11T12:37:13.787671+00:00",
   "total_available": 2896,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
     "Porty Books": "10 items",
-    "Backstory London (Signed & Dedicated)": "44 items",
+    "Backstory London (Signed & Dedicated)": "45 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "282 items",
     "Cleeve Bookshop": "127 items",
@@ -17,15 +17,27 @@
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "55 items",
     "Station Books": "53 items",
-    "Booka Bookshop": "294 items",
+    "Booka Bookshop": "292 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1050 items",
+    "West End Lane Books": "1051 items",
     "Foyles": "137 items via feed (as of 2026-11-11T06:34:38.654358+00:00)",
     "Waterstones": "202 items via feed (as of 2026-11-10T14:34:47.976193+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-10T14:34:47.976193+00:00)",
     "Hatchards": "117 items via feed (as of 2026-11-11T02:34:14.586667+00:00)"
   },
   "books": [
+    {
+      "id": "Backstory London (Signed & Dedicated)::the-christmas-companion",
+      "title": "The Christmas Companion",
+      "author": "",
+      "price": "\u00a328.00",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/the-christmas-companion",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781526681577_2.jpg?v=1794398463",
+      "vip": false,
+      "listed_at": "2026-11-11T12:04:00+00:00",
+      "discovered_at": "2026-11-11T12:37:13.787671+00:00"
+    },
     {
       "id": "Backstory London (Signed & Dedicated)::cash-out-1",
       "title": "Cash Out",
@@ -1532,18 +1544,6 @@
       "listed_at": "2026-11-05T08:43:55.968649+00:00",
       "discovered_at": "2026-11-11T03:16:04.540078+00:00",
       "est": "pos"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/lewis-moody-mbe-memoir-signed-copy/",
-      "title": "Lewis Moody MBE Memoir \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/lewis-moody-mbe-memoir-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/05/Lewis-Moody-final.jpg",
-      "vip": false,
-      "listed_at": "2026-11-05T08:31:05+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "Waterstones::https://www.waterstones.com/book/the-exile/ryan-cahill/9781836980704",
@@ -17246,18 +17246,6 @@
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/agrippa-signed-independent-bookshop-exclusive-edition/",
-      "title": "Agrippa \u2013 Signed Independent Bookshop Exclusive Edition",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/agrippa-signed-independent-bookshop-exclusive-edition/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/01/agrippa.jpg",
-      "vip": false,
-      "listed_at": "2026-08-26T16:54:58+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
-    },
-    {
       "id": "British Library Shop::life-of-m-signed-edition",
       "title": "Life of M (Signed Edition)",
       "author": "",
@@ -25932,6 +25920,18 @@
       "vip": false,
       "listed_at": "2026-05-08T16:23:24.382000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/dont-mess-up-your-rice-by-nigel-ng-signed",
+      "title": "Don't Mess Up Your Rice by Nigel Ng (Signed)",
+      "author": "Nigel Ng",
+      "price": "\u00a322.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/dont-mess-up-your-rice-by-nigel-ng-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/3d56af24-92f7-41d5-9751-510a44e7878d/Untitled+design+%2810%29.jpg",
+      "vip": false,
+      "listed_at": "2026-05-08T15:57:46.062000+00:00",
+      "discovered_at": "2026-11-11T12:37:13.787671+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/hunger-and-thirst-signed-copy/",
