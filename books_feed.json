@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11T20:05:34.496106+00:00",
-  "total_available": 2900,
+  "last_updated": "2026-11-11T21:40:29.970769+00:00",
+  "total_available": 2899,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -19,7 +19,7 @@
     "Station Books": "53 items",
     "Booka Bookshop": "294 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1049 items",
+    "West End Lane Books": "1048 items",
     "Foyles": "137 items via feed (as of 2026-11-11T06:34:38.654358+00:00)",
     "Waterstones": "204 items via feed (as of 2026-11-11T18:34:48.771600+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-11T18:34:48.771600+00:00)",
@@ -295,18 +295,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/6ea0d7e3-4a81-4329-a4e5-d5ccbec4801d/Website+Listing+Template+-+Book+-+2026-11-09T125430.557.jpg",
       "vip": false,
       "listed_at": "2026-11-09T12:58:04.975000+00:00",
-      "discovered_at": "2026-11-09T13:41:27.100870+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/nfzk83k9yqakukpo5j9rbtit7pke12",
-      "title": "Machines by Jean-Michel Jarre (Signed)",
-      "author": "Jean-Michel Jarre",
-      "price": "\u00a350.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/nfzk83k9yqakukpo5j9rbtit7pke12",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/ae247294-0870-4117-9530-dcaba0c98089/Website+Listing+Template+-+Book.png",
-      "vip": false,
-      "listed_at": "2026-11-09T12:53:16.013000+00:00",
       "discovered_at": "2026-11-09T13:41:27.100870+00:00"
     },
     {
@@ -4414,7 +4402,7 @@
       "id": "Rare Mags::coffee-for-here",
       "title": "Coffee, For Here",
       "author": "Morgan Eckroth",
-      "price": "\u00a323.00",
+      "price": "\u00a324.00",
       "shop": "Rare Mags",
       "url": "https://raremags.co.uk/products/coffee-for-here",
       "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/IMG_0876.jpg?v=1793271621",
