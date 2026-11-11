@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11T15:27:28.554237+00:00",
-  "total_available": 2901,
+  "last_updated": "2026-11-11T16:21:55.629591+00:00",
+  "total_available": 2900,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -8,12 +8,12 @@
     "Backstory London (Signed & Dedicated)": "45 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "282 items",
-    "Cleeve Bookshop": "127 items",
-    "Ivybridge Bookshop": "160 items",
+    "Cleeve Bookshop": "128 items",
+    "Ivybridge Bookshop": "159 items",
     "Perkology Books": "39 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
-    "London Review Bookshop": "28 items",
+    "London Review Bookshop": "27 items",
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "55 items",
     "Station Books": "53 items",
@@ -26,6 +26,19 @@
     "Hatchards": "117 items via feed (as of 2026-11-11T02:34:14.586667+00:00)"
   },
   "books": [
+    {
+      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/booklists/signed-editions/perilous-enchantment-the-true-history-of-faeries-sarah-clegg",
+      "title": "Perilous Enchantment - Sarah Clegg",
+      "author": "Sarah Clegg",
+      "price": "\u00a318.99",
+      "shop": "London Review Bookshop",
+      "url": "https://www.londonreviewbookshop.co.uk/booklists/signed-editions/perilous-enchantment-the-true-history-of-faeries-sarah-clegg",
+      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/6/3/0/6/4776036-2-eng-GB/9781803512839.jpg",
+      "vip": false,
+      "listed_at": "2026-11-11T16:21:55.629591+00:00",
+      "discovered_at": "2026-11-11T16:21:55.629591+00:00",
+      "est": "seen"
+    },
     {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/booklists/signed-editions/how-to-begin-waal-edmund-de",
       "title": "How to Begin - Waal, Edmund De",
@@ -3497,6 +3510,18 @@
       "discovered_at": "2026-10-31T15:44:33.901720+00:00"
     },
     {
+      "id": "Cleeve Bookshop::9781398566231",
+      "title": "What Took You So Long? - Signed First Edition",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9781398566231",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/9781398566231.jpg?v=1793581587",
+      "vip": false,
+      "listed_at": "2026-10-31T13:53:55+00:00",
+      "discovered_at": "2026-11-11T16:21:55.629591+00:00"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/watch-the-quiet-snow-signed-pre-order/",
       "title": "Watch the Quiet Snow *SIGNED* (pre-order)",
       "author": "Mick Herron",
@@ -4351,7 +4376,7 @@
       "id": "Rare Mags::coffee-for-here",
       "title": "Coffee, For Here",
       "author": "Morgan Eckroth",
-      "price": "\u00a323.00",
+      "price": "\u00a324.00",
       "shop": "Rare Mags",
       "url": "https://raremags.co.uk/products/coffee-for-here",
       "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/IMG_0876.jpg?v=1793271621",
@@ -9473,19 +9498,6 @@
       "est": "pos"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/taipei-story-rebecca-f-kuang",
-      "title": "Taipei Story - Rebecca F Kuang",
-      "author": "Rebecca F Kuang",
-      "price": "\u00a322.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/taipei-story-rebecca-f-kuang",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/7/4/9/7/4747947-3-eng-GB/9780008702557-2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-16T18:32:53.354843+00:00",
-      "discovered_at": "2026-10-22T15:58:36.211986+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hatchards::https://www.hatchards.co.uk/book/the-castle/jon-ronson/2928377365059",
       "title": "The Castle",
       "author": "Jon Ronson",
@@ -14283,19 +14295,6 @@
       "vip": false,
       "listed_at": "2026-09-28T11:31:39+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/hollywood-ending-john-green",
-      "title": "Hollywood, Ending - John Green",
-      "author": "John Green",
-      "price": "\u00a322.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/hollywood-ending-john-green",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/1/7/7/0/4760771-2-eng-GB/9780141346052.jpg",
-      "vip": false,
-      "listed_at": "2026-09-28T10:50:01.926272+00:00",
-      "discovered_at": "2026-10-22T15:58:36.211986+00:00",
-      "est": "pos"
     },
     {
       "id": "Station Books::https://stationbooks.co.uk/shop/the-ancient-ways-by-seren-hawley-plows/",
@@ -31837,18 +31836,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9780571379330.webp?v=1769775663",
       "vip": false,
       "listed_at": "2026-01-30T11:59:33+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Ivybridge Bookshop::9780241745212",
-      "title": "Diary of a Wimpy Kid: Fight or Flight (Book 21) - Signed First Edition - Jeff Kinney; Jeff Kinney (Hardback) 20-10-2026",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Ivybridge Bookshop",
-      "url": "https://www.ivybridgebookshop.com/products/9780241745212",
-      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9780241745212.jpg?v=1769774374",
-      "vip": false,
-      "listed_at": "2026-01-30T11:59:31+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
