@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-11T16:21:55.629591+00:00",
+  "last_updated": "2026-11-11T17:25:21.554566+00:00",
   "total_available": 2900,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
     "Porty Books": "10 items",
-    "Backstory London (Signed & Dedicated)": "45 items",
+    "Backstory London (Signed & Dedicated)": "46 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "282 items",
     "Cleeve Bookshop": "128 items",
@@ -19,13 +19,38 @@
     "Station Books": "53 items",
     "Booka Bookshop": "294 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1052 items",
+    "West End Lane Books": "1051 items",
     "Foyles": "137 items via feed (as of 2026-11-11T06:34:38.654358+00:00)",
     "Waterstones": "203 items via feed (as of 2026-11-11T14:33:57.657916+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-10T14:34:47.976193+00:00)",
     "Hatchards": "117 items via feed (as of 2026-11-11T02:34:14.586667+00:00)"
   },
   "books": [
+    {
+      "id": "Porty Books::https://www.theportobellobookshop.com/9780349127453-s",
+      "title": "Virgin",
+      "author": "Hollie McNish",
+      "price": "\u00a310.99",
+      "shop": "Porty Books",
+      "url": "https://www.theportobellobookshop.com/9780349127453-s",
+      "image": "https://cdn.theportobellobookshop.com/img/supplementary--10900450--main.jpg?p=search",
+      "vip": false,
+      "listed_at": "2026-11-11T17:25:21.554566+00:00",
+      "discovered_at": "2026-11-11T17:25:21.554566+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Backstory London (Signed & Dedicated)::the-measure-of-everything-1",
+      "title": "The Measure Of Everything",
+      "author": "",
+      "price": "\u00a325.00",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/the-measure-of-everything-1",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9780753561720_1edb6420-ec0b-4667-940d-614ce38eec19.jpg?v=1793726902",
+      "vip": false,
+      "listed_at": "2026-11-11T16:30:53+00:00",
+      "discovered_at": "2026-11-11T17:25:21.554566+00:00"
+    },
     {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/booklists/signed-editions/perilous-enchantment-the-true-history-of-faeries-sarah-clegg",
       "title": "Perilous Enchantment - Sarah Clegg",
@@ -14036,19 +14061,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Porty Books::https://www.theportobellobookshop.com/9780349125602-sd",
-      "title": "Empire",
-      "author": "Sabaa Tahir",
-      "price": "\u00a322.00",
-      "shop": "Porty Books",
-      "url": "https://www.theportobellobookshop.com/9780349125602-sd",
-      "image": "https://cdn.theportobellobookshop.com/img/supplementary--10620708--main.jpg?p=search",
-      "vip": false,
-      "listed_at": "2026-09-29T20:22:32.629649+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Station Books::https://stationbooks.co.uk/shop/the-newer-world-by-sebastian-barry/",
       "title": "The Newer World by Sebastian Barry",
       "author": "Sebastian Barry",
@@ -25764,18 +25776,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/9f4707e9-2ee5-4d63-90c7-6c75fdfe8bec/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+%2813%29.jpg",
       "vip": false,
       "listed_at": "2026-05-12T15:57:27.698000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/environomics-how-the-global-economy-is-going-green-by-dharshini-david-signed",
-      "title": "Environomics : How the Global Economy is Going Green by Dharshini David (Signed)",
-      "author": "Dharshini David",
-      "price": "\u00a310.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/environomics-how-the-global-economy-is-going-green-by-dharshini-david-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/541b7a4e-bce8-4644-a744-47752772f8a0/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+%2812%29.jpg",
-      "vip": false,
-      "listed_at": "2026-05-12T15:47:46.269000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
