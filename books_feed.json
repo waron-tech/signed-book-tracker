@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11T19:11:25.971896+00:00",
-  "total_available": 2898,
+  "last_updated": "2026-11-11T20:05:34.496106+00:00",
+  "total_available": 2900,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -9,7 +9,7 @@
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "282 items",
     "Cleeve Bookshop": "128 items",
-    "Ivybridge Bookshop": "158 items",
+    "Ivybridge Bookshop": "160 items",
     "Perkology Books": "39 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
@@ -4705,6 +4705,18 @@
       "discovered_at": "2026-10-28T18:31:05.296755+00:00"
     },
     {
+      "id": "Ivybridge Bookshop::9780241731321",
+      "title": "The Medicine Tree: Repairing the Rotten Roots of England - Signed First Edition (Bookplate) - Nick Hayes (Hardback) 01-10-2026",
+      "author": "Nick Hayes",
+      "price": "\u00a325.00",
+      "shop": "Ivybridge Bookshop",
+      "url": "https://www.ivybridgebookshop.com/products/9780241731321",
+      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9780241731321.jpg?v=1793211844",
+      "vip": false,
+      "listed_at": "2026-10-28T18:24:01+00:00",
+      "discovered_at": "2026-11-11T20:05:34.496106+00:00"
+    },
+    {
       "id": "Hatchards::https://www.hatchards.co.uk/book/life-out-of-order/audrey-niffenegger/2928377374457",
       "title": "Life Out of Order by Audrey Niffenegger",
       "author": "Audrey Niffenegger",
@@ -7583,7 +7595,7 @@
     },
     {
       "id": "Ivybridge Bookshop::9781035447800",
-      "title": "Fronting Up - (Pre Order) Signed First Edition - Lewis Moody (Hardback) 05-11-2026",
+      "title": "Fronting Up - Signed First Edition - Lewis Moody (Hardback) 05-11-2026",
       "author": "Lewis Moody",
       "price": "\u00a322.00",
       "shop": "Ivybridge Bookshop",
@@ -13959,6 +13971,18 @@
       "vip": false,
       "listed_at": "2026-09-30T14:53:28+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "Ivybridge Bookshop::9780008765941",
+      "title": "Percy the Park Keeper  One Christmas Eve (Percy the Park Keeper) - Signed First Edition (Bookplate) - Nick Butterworth (Hardback) 08-10-2026",
+      "author": "Nick Butterworth",
+      "price": "\u00a312.99",
+      "shop": "Ivybridge Bookshop",
+      "url": "https://www.ivybridgebookshop.com/products/9780008765941",
+      "image": "https://cdn.shopify.com/s/files/1/0535/2344/8005/files/9780008765941.jpg?v=1790779990",
+      "vip": false,
+      "listed_at": "2026-09-30T14:53:08+00:00",
+      "discovered_at": "2026-11-11T20:05:34.496106+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781398726802",
