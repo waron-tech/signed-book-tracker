@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T07:48:40.264172+00:00",
-  "total_available": 2896,
+  "last_updated": "2026-11-12T08:48:11.685932+00:00",
+  "total_available": 2895,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -19,7 +19,7 @@
     "Station Books": "53 items",
     "Booka Bookshop": "293 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1048 items",
+    "West End Lane Books": "1047 items",
     "Foyles": "137 items via feed (as of 2026-11-11T06:34:38.654358+00:00)",
     "Waterstones": "204 items via feed (as of 2026-11-11T18:34:48.771600+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-11T18:34:48.771600+00:00)",
@@ -32879,18 +32879,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/fe9a261e-2d24-4070-a853-1de26cf84af8/Copy+of+Product+Template+-+Book+-+2026-01-21T171932.550.jpg",
       "vip": false,
       "listed_at": "2026-01-21T17:24:26.479000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/son-of-nobody-by-yann-martel-signed",
-      "title": "Son of Nobody by Yann Martel (Signed)",
-      "author": "Yann Martel",
-      "price": "\u00a320.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/son-of-nobody-by-yann-martel-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/4ec6bce8-108b-4f9d-a3cb-b3e7fb85dbb1/Copy+of+Product+Template+-+Book+-+2026-01-21T171646.302.jpg",
-      "vip": false,
-      "listed_at": "2026-01-21T17:18:58.995000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
