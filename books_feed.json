@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-11-12T10:42:53.447549+00:00",
-  "total_available": 2897,
+  "last_updated": "2026-11-12T11:36:55.256934+00:00",
+  "total_available": 2896,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
     "Porty Books": "10 items",
     "Backstory London (Signed & Dedicated)": "46 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "281 items",
-    "Cleeve Bookshop": "128 items",
+    "British Library Shop": "283 items",
+    "Cleeve Bookshop": "126 items",
     "Ivybridge Bookshop": "160 items",
     "Perkology Books": "39 items",
     "Bookstation (Ireland)": "7 items",
@@ -19,7 +19,7 @@
     "Station Books": "53 items",
     "Booka Bookshop": "294 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1047 items",
+    "West End Lane Books": "1046 items",
     "Foyles": "137 items via feed (as of 2026-11-12T10:34:06.454219+00:00)",
     "Waterstones": "206 items via feed (as of 2026-11-12T10:34:06.454219+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-11T18:34:48.771600+00:00)",
@@ -989,6 +989,18 @@
       "listed_at": "2026-11-06T13:39:38.825792+00:00",
       "discovered_at": "2026-11-11T03:16:04.540078+00:00",
       "est": "pos"
+    },
+    {
+      "id": "British Library Shop::fatal-monsters-cleopatra-her-sister-queens-and-the-downfall-of-a-dynasty",
+      "title": "Fatal Monsters: Cleopatra, Her Sister Queens and the Downfall of a Dynasty (Signed Edition)",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/fatal-monsters-cleopatra-her-sister-queens-and-the-downfall-of-a-dynasty",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/Fatal_9781805465492.png?v=1794481942",
+      "vip": false,
+      "listed_at": "2026-11-06T13:34:22+00:00",
+      "discovered_at": "2026-11-12T11:36:55.256934+00:00"
     },
     {
       "id": "Foyles::https://www.foyles.co.uk/book/the-taper-man/nick-harkaway/2928377380014",
@@ -4390,7 +4402,7 @@
       "id": "Rare Mags::coffee-for-here",
       "title": "Coffee, For Here",
       "author": "Morgan Eckroth",
-      "price": "\u00a323.00",
+      "price": "\u00a324.00",
       "shop": "Rare Mags",
       "url": "https://raremags.co.uk/products/coffee-for-here",
       "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/IMG_0876.jpg?v=1793271621",
@@ -14397,18 +14409,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/pay-attention-by-laura-kuenssberg-signed",
-      "title": "Pay Attention by Laura Kuenssberg (Signed)",
-      "author": "Laura Kuenssberg",
-      "price": "\u00a322.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/pay-attention-by-laura-kuenssberg-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/6e0b5a11-e122-47cf-882a-c1e4a4298994/We+are+hiring%21+%2849%29.jpg",
-      "vip": false,
-      "listed_at": "2026-09-27T11:46:37.019000+00:00",
-      "discovered_at": "2026-11-01T17:13:52.563537+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-day-i-stole-the-future-by-iqbal-hussain-signed",
       "title": "The Day I Stole the Future by Iqbal Hussain (Signed)",
       "author": "Iqbal Hussain",
@@ -15977,12 +15977,12 @@
     },
     {
       "id": "British Library Shop::turncloak-signed-edition",
-      "title": "Turncloak (Signed Edition)",
+      "title": "Turncloak (Signed, Exclusive Edition)",
       "author": "",
       "price": "\u00a320.00",
       "shop": "British Library Shop",
       "url": "https://shop.bl.uk/products/turncloak-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/Turncoat_9781529940930.png?v=1789648174",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/turncloak2_9781529940930.png?v=1794483355",
       "vip": false,
       "listed_at": "2026-09-17T12:29:56+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
@@ -17260,6 +17260,18 @@
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-tree-zodiac-13-trees-for-13-moons-which-tree-are-you-by-luke-adam-hawker-signed",
+      "title": "The Tree Zodiac: 13 Trees for 13 Moons: Which Tree Are You? by Luke Adam Hawker (Signed)",
+      "author": "Luke Adam Hawker",
+      "price": "\u00a318.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-tree-zodiac-13-trees-for-13-moons-which-tree-are-you-by-luke-adam-hawker-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/597c6fa0-9a93-40f1-ab14-26302e24944c/Website+Listing+Template+-+Book+%2880%29.jpg",
+      "vip": false,
+      "listed_at": "2026-09-01T10:25:20.485000+00:00",
+      "discovered_at": "2026-11-12T11:36:55.256934+00:00"
+    },
+    {
       "id": "Ivybridge Bookshop::9781529089523",
       "title": "Irresistible Monsters: Creatures in Greek Myth - (Pre Order) Independent Edition with sprayed edge - Natalie Haynes (Hardback) 04-03-2027",
       "author": "Natalie Haynes",
@@ -18028,6 +18040,18 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
+      "id": "British Library Shop::the-beasts-of-the-black-loch-signed-edition",
+      "title": "The Beasts of the Black Loch (Signed Edition)",
+      "author": "",
+      "price": "\u00a39.99",
+      "shop": "British Library Shop",
+      "url": "https://shop.bl.uk/products/the-beasts-of-the-black-loch-signed-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/BeastsofBlack_9781835010143.png?v=1794481823",
+      "vip": false,
+      "listed_at": "2026-08-17T09:47:38+00:00",
+      "discovered_at": "2026-11-12T11:36:55.256934+00:00"
+    },
+    {
       "id": "British Library Shop::can-nothing-save-us-signed-edition",
       "title": "Can Nothing Save Us? (Signed Edition)",
       "author": "",
@@ -18520,18 +18544,6 @@
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/david-hockney-an-artist-for-life-by-paul-morley-signed",
-      "title": "David Hockney: An Artist for Life by Paul Morley (Signed)",
-      "author": "Paul Morley",
-      "price": "\u00a325.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/david-hockney-an-artist-for-life-by-paul-morley-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/0757af1f-5e9a-48bd-adbc-4c7e226ea28e/Website+Listing+Template+-+Book+%2854%29.jpg",
-      "vip": false,
-      "listed_at": "2026-08-09T15:22:23.210000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/last-breath-signed-copy/",
       "title": "Last Breath \u2013 Signed Copy",
       "author": "",
@@ -18689,7 +18701,7 @@
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-voices-of-the-dead-by-nicola-upson-signed",
-      "title": "The Voice's of the Dead by Nicola Upson (Signed)",
+      "title": "The Voices of the Dead by Nicola Upson (Signed)",
       "author": "Nicola Upson",
       "price": "\u00a316.99",
       "shop": "West End Lane Books",
@@ -35642,30 +35654,6 @@
       "vip": false,
       "listed_at": "2025-11-12T17:04:37.152000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781399835015",
-      "title": "Country People - Signed First Edition",
-      "author": "",
-      "price": "\u00a318.00",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781399835015",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/country-people-signed-first-edition-3860760.jpg?v=1786977009",
-      "vip": false,
-      "listed_at": "2025-11-12T10:52:55+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781035024131",
-      "title": "Sisters in Yellow - Signed First Edition",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781035024131",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/sisters-in-yellow-signed-first-edition-5247282.jpg?v=1786977068",
-      "vip": false,
-      "listed_at": "2025-11-12T10:52:36+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     }
   ]
 }
