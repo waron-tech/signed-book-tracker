@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-11-12T16:40:33.683950+00:00",
-  "total_available": 2906,
+  "last_updated": "2026-11-12T17:31:52.904571+00:00",
+  "total_available": 2908,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
     "Porty Books": "10 items",
-    "Backstory London (Signed & Dedicated)": "47 items",
+    "Backstory London (Signed & Dedicated)": "49 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "297 items",
-    "Cleeve Bookshop": "128 items",
+    "Cleeve Bookshop": "131 items",
     "Ivybridge Bookshop": "160 items",
     "Perkology Books": "39 items",
     "Bookstation (Ireland)": "7 items",
@@ -19,13 +19,37 @@
     "Station Books": "53 items",
     "Booka Bookshop": "294 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1054 items",
+    "West End Lane Books": "1053 items",
     "Linghams": "224 items via feed (as of 2026-11-11T18:34:48.771600+00:00)",
     "Waterstones": "186 items via feed (as of 2026-11-12T14:37:29.748555+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-12T10:34:06.454219+00:00)",
     "Hatchards": "117 items via feed (as of 2026-11-12T14:37:29.748555+00:00)"
   },
   "books": [
+    {
+      "id": "Backstory London (Signed & Dedicated)::couples-1",
+      "title": "Couples",
+      "author": "",
+      "price": "\u00a325.00",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/couples-1",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781847928696_17e0b1d8-eecb-40a6-99cd-24a806c5f5d1.jpg?v=1794504338",
+      "vip": false,
+      "listed_at": "2026-11-12T17:27:54+00:00",
+      "discovered_at": "2026-11-12T17:31:52.904571+00:00"
+    },
+    {
+      "id": "Backstory London (Signed & Dedicated)::masterpiece-1",
+      "title": "Masterpiece",
+      "author": "",
+      "price": "\u00a318.99",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/masterpiece-1",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781529154689_fd3ad146-7b13-4a77-ae2e-0d4a9dbaad48.jpg?v=1794503874",
+      "vip": false,
+      "listed_at": "2026-11-12T17:20:23+00:00",
+      "discovered_at": "2026-11-12T17:31:52.904571+00:00"
+    },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/why-music-by-norman-lebrecht-signed",
       "title": "Why Music? by Norman Lebrecht (Signed)",
@@ -5779,6 +5803,18 @@
       "listed_at": "2026-10-26T23:05:21.682935+00:00",
       "discovered_at": "2026-11-11T03:16:04.540078+00:00",
       "est": "pos"
+    },
+    {
+      "id": "Cleeve Bookshop::9780571406500",
+      "title": "The Collected Harauld Hughes : edited by Richard Ayoade - Signed & Numbered First Edition",
+      "author": "Richard Ayoade",
+      "price": "\u00a332.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9780571406500",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/9780571406500.jpg?v=1793149673",
+      "vip": false,
+      "listed_at": "2026-10-26T22:45:54+00:00",
+      "discovered_at": "2026-11-12T17:31:52.904571+00:00"
     },
     {
       "id": "Foyles::https://www.foyles.co.uk/book/life-out-of-order/audrey-niffenegger/2928377374457",
@@ -13784,18 +13820,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/drawn-to-nature-signed-copy/",
-      "title": "Drawn to Nature \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/drawn-to-nature-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/Drawn-to-Nature.jpg",
-      "vip": false,
-      "listed_at": "2026-10-01T15:25:58+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00"
-    },
-    {
       "id": "British Library Shop::the-ravens-gift-signed-edition",
       "title": "The Raven's Gift (Signed Edition)",
       "author": "",
@@ -13830,18 +13854,6 @@
       "vip": false,
       "listed_at": "2026-10-01T14:36:16+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/dont-feed-the-troll-signed-independent-bookshop-edition-with-print/",
-      "title": "Don\u2019t Feed the Troll \u2013 Signed Independent Bookshop Edition with Print",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/dont-feed-the-troll-signed-independent-bookshop-edition-with-print/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/07/Dont-Feed-the-Troll.jpg",
-      "vip": false,
-      "listed_at": "2026-10-01T13:56:08+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-winter-guest-signed-copy/",
@@ -18577,6 +18589,18 @@
       "discovered_at": "2026-11-12T09:45:18.246107+00:00"
     },
     {
+      "id": "Cleeve Bookshop::9780241796665",
+      "title": "Lessons in Harmony - Signed First Edition",
+      "author": "",
+      "price": "\u00a318.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9780241796665",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/lessons-in-harmony-signed-first-edition-6300309.jpg?v=1787101887",
+      "vip": false,
+      "listed_at": "2026-08-10T11:03:33+00:00",
+      "discovered_at": "2026-11-12T17:31:52.904571+00:00"
+    },
+    {
       "id": "Cleeve Bookshop::9780241795309",
       "title": "The Taper Man : A Novel of John le Carre\u2019s Circus - Signed First Edition",
       "author": "",
@@ -19067,6 +19091,18 @@
       "vip": false,
       "listed_at": "2026-08-05T11:24:19.624000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
+    },
+    {
+      "id": "Cleeve Bookshop::chateau-reverie-signed-first-edition",
+      "title": "Chateau Reverie - Signed First Edition",
+      "author": "",
+      "price": "\u00a318.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/chateau-reverie-signed-first-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/chateau-reverie-signed-first-edition-3966351.jpg?v=1787101999",
+      "vip": false,
+      "listed_at": "2026-08-05T11:15:20+00:00",
+      "discovered_at": "2026-11-12T17:31:52.904571+00:00"
     },
     {
       "id": "Goldsboro Books::the-killers-mark-trade-edition",
@@ -35747,18 +35783,6 @@
       "vip": false,
       "listed_at": "2025-11-13T13:00:33+00:00",
       "discovered_at": "2026-11-11T04:23:48.194277+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/murder-at-the-christmas-emporium-by-andreina-cordani-signed",
-      "title": "Murder at the Christmas Emporium by Andreina Cordani (Signed)",
-      "author": "Andreina Cordani",
-      "price": "\u00a39.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/murder-at-the-christmas-emporium-by-andreina-cordani-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/2900a9cc-2a32-46c3-9d7d-44ac6b5f631e/Copy+of+Product+Template+-+Book+-+2025-07-02T195133.471.jpg",
-      "vip": false,
-      "listed_at": "2025-11-12T17:04:37.152000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     }
   ]
 }
