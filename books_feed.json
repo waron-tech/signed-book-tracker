@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T17:31:52.904571+00:00",
-  "total_available": 2908,
+  "last_updated": "2026-11-12T18:29:54.756001+00:00",
+  "total_available": 2911,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -19,7 +19,7 @@
     "Station Books": "53 items",
     "Booka Bookshop": "294 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1053 items",
+    "West End Lane Books": "1054 items",
     "Linghams": "224 items via feed (as of 2026-11-11T18:34:48.771600+00:00)",
     "Waterstones": "186 items via feed (as of 2026-11-12T14:37:29.748555+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-12T10:34:06.454219+00:00)",
@@ -434,6 +434,18 @@
       "discovered_at": "2026-11-12T12:36:38.111795+00:00"
     },
     {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/a-history-of-britain-in-21-paintings-signed-copy/",
+      "title": "A History of Britain in 21 Paintings \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a325.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/a-history-of-britain-in-21-paintings-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/A-History-of-Britain-21-Paintings.jpg",
+      "vip": false,
+      "listed_at": "2026-11-12T12:08:14+00:00",
+      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/game-on-nsfw-edition/navessa-allen/9781529453621",
       "title": "Game On NSFW Edition",
       "author": "Navessa Allen",
@@ -532,6 +544,18 @@
       "vip": false,
       "listed_at": "2026-11-11T10:32:29+00:00",
       "discovered_at": "2026-11-11T10:38:55.159298+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/lessons-in-harmony-signed-copy/",
+      "title": "Lessons in Harmony \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/lessons-in-harmony-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/09/Lessons-in-Harmony.jpg",
+      "vip": false,
+      "listed_at": "2026-11-10T21:17:21+00:00",
+      "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
       "id": "Backstory London (Signed & Dedicated)::the-starving-bride-1",
@@ -13820,6 +13844,18 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/drawn-to-nature-signed-copy/",
+      "title": "Drawn to Nature \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/drawn-to-nature-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/Drawn-to-Nature.jpg",
+      "vip": false,
+      "listed_at": "2026-10-01T15:25:58+00:00",
+      "discovered_at": "2026-11-12T18:29:54.756001+00:00"
+    },
+    {
       "id": "British Library Shop::the-ravens-gift-signed-edition",
       "title": "The Raven's Gift (Signed Edition)",
       "author": "",
@@ -13854,6 +13890,18 @@
       "vip": false,
       "listed_at": "2026-10-01T14:36:16+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/dont-feed-the-troll-signed-independent-bookshop-edition-with-print/",
+      "title": "Don\u2019t Feed the Troll \u2013 Signed Independent Bookshop Edition with Print",
+      "author": "",
+      "price": "\u00a314.99",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/dont-feed-the-troll-signed-independent-bookshop-edition-with-print/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/07/Dont-Feed-the-Troll.jpg",
+      "vip": false,
+      "listed_at": "2026-10-01T13:56:08+00:00",
+      "discovered_at": "2026-11-12T18:29:54.756001+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-winter-guest-signed-copy/",
@@ -14303,18 +14351,6 @@
       "listed_at": "2026-09-29T05:33:07.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/lessons-in-harmony-signed-copy/",
-      "title": "Lessons in Harmony \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/lessons-in-harmony-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/09/Lessons-in-Harmony.jpg",
-      "vip": false,
-      "listed_at": "2026-09-28T21:17:21+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/what-a-time-to-be-alive-signed-copy/",
@@ -19067,18 +19103,6 @@
       "vip": false,
       "listed_at": "2026-08-05T13:00:05+00:00",
       "discovered_at": "2026-10-26T16:21:01.664681+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/a-history-of-britain-in-21-paintings-signed-copy/",
-      "title": "A History of Britain in 21 Paintings \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a325.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/a-history-of-britain-in-21-paintings-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/A-History-of-Britain-21-Paintings.jpg",
-      "vip": false,
-      "listed_at": "2026-08-05T12:08:14+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/you-choose-party-time-by-pippa-goodhart-and-nick-sharratt-signed",
@@ -30455,6 +30479,18 @@
       "vip": false,
       "listed_at": "2026-02-25T16:20:27+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-burn-line-by-jonathan-sims-signed",
+      "title": "The Burn Line  by Jonathan Sims (Signed)",
+      "author": "Jonathan Sims",
+      "price": "\u00a325.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-burn-line-by-jonathan-sims-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/39039334-ca4a-4b6a-b882-1e25dcbeb45f/Website+Listing+Template+-+Book.jpg",
+      "vip": false,
+      "listed_at": "2026-02-25T12:48:38.004000+00:00",
+      "discovered_at": "2026-11-12T18:29:54.756001+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-visionaries-by-james-holland-signed",
