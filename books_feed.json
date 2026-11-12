@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T08:48:11.685932+00:00",
-  "total_available": 2895,
+  "last_updated": "2026-11-12T09:45:18.246107+00:00",
+  "total_available": 2896,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "55 items",
     "Station Books": "53 items",
-    "Booka Bookshop": "293 items",
+    "Booka Bookshop": "294 items",
     "Coles Books": "12 items",
     "West End Lane Books": "1047 items",
     "Foyles": "137 items via feed (as of 2026-11-11T06:34:38.654358+00:00)",
@@ -3513,7 +3513,7 @@
       "id": "Cleeve Bookshop::9781398566231",
       "title": "What Took You So Long? - Signed First Edition",
       "author": "",
-      "price": "\u00a320.00",
+      "price": "\u00a318.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781398566231",
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/9781398566231.jpg?v=1793581587",
@@ -18458,6 +18458,18 @@
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/gary-numan-a-peoples-history-signed-copy/",
+      "title": "Gary Numan: A Peoples History \u2013 Gary Numan Signed Copy",
+      "author": "",
+      "price": "\u00a345.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/gary-numan-a-peoples-history-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/06/Gary-Numan-A-Peoples-History.jpg",
+      "vip": false,
+      "listed_at": "2026-08-10T11:32:16+00:00",
+      "discovered_at": "2026-11-12T09:45:18.246107+00:00"
+    },
+    {
       "id": "Cleeve Bookshop::9780241795309",
       "title": "The Taper Man : A Novel of John le Carre\u2019s Circus - Signed First Edition",
       "author": "",
@@ -31575,7 +31587,7 @@
     },
     {
       "id": "Cleeve Bookshop::9780008742768",
-      "title": "Yesteryear - Signed Edition First Edition",
+      "title": "Yesteryear - Signed First Edition",
       "author": "",
       "price": "\u00a314.99",
       "shop": "Cleeve Bookshop",
