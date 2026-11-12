@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-11-12T15:39:25.580750+00:00",
-  "total_available": 2900,
+  "last_updated": "2026-11-12T16:40:33.683950+00:00",
+  "total_available": 2906,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
     "Porty Books": "10 items",
-    "Backstory London (Signed & Dedicated)": "46 items",
+    "Backstory London (Signed & Dedicated)": "47 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "297 items",
-    "Cleeve Bookshop": "127 items",
+    "Cleeve Bookshop": "128 items",
     "Ivybridge Bookshop": "160 items",
     "Perkology Books": "39 items",
     "Bookstation (Ireland)": "7 items",
@@ -19,13 +19,61 @@
     "Station Books": "53 items",
     "Booka Bookshop": "294 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1050 items",
+    "West End Lane Books": "1054 items",
     "Linghams": "224 items via feed (as of 2026-11-11T18:34:48.771600+00:00)",
     "Waterstones": "186 items via feed (as of 2026-11-12T14:37:29.748555+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-12T10:34:06.454219+00:00)",
     "Hatchards": "117 items via feed (as of 2026-11-12T14:37:29.748555+00:00)"
   },
   "books": [
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/why-music-by-norman-lebrecht-signed",
+      "title": "Why Music? by Norman Lebrecht (Signed)",
+      "author": "Norman Lebrecht",
+      "price": "\u00a325.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/why-music-by-norman-lebrecht-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/d6db2c99-8e1a-4aa2-95bd-b736a35a1430/Website+Listing+Template+-+Book+%288%29.jpg",
+      "vip": false,
+      "listed_at": "2026-11-12T16:12:06.470000+00:00",
+      "discovered_at": "2026-11-12T16:40:33.683950+00:00"
+    },
+    {
+      "id": "Backstory London (Signed & Dedicated)::worship-1",
+      "title": "Worship",
+      "author": "",
+      "price": "\u00a318.99",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/worship-1",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9780241771068.jpg?v=1794499581",
+      "vip": false,
+      "listed_at": "2026-11-12T16:09:10+00:00",
+      "discovered_at": "2026-11-12T16:40:33.683950+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/bedtime-stories-for-privileged-children-charming-tales-of-wealth-and-entitlement-for-tots-who-were-simply-born-better-by-daniel-foxx",
+      "title": "Bedtime Stories for Privileged Children : Charming Tales of Wealth and Entitlement for Tots Who Were Simply Born Better by Daniel Foxx (Signed)",
+      "author": "Daniel Foxx",
+      "price": "\u00a314.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/bedtime-stories-for-privileged-children-charming-tales-of-wealth-and-entitlement-for-tots-who-were-simply-born-better-by-daniel-foxx",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/287e6796-ae2d-4685-b6a9-6944601d1a5e/Copy+of+Product+Template+-+Book+%2861%29.jpg",
+      "vip": false,
+      "listed_at": "2026-11-12T15:53:15.361000+00:00",
+      "discovered_at": "2026-11-12T16:40:33.683950+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/budget-friendly-food-by-jamie-oliver-signed",
+      "title": "Budget Friendly Food by Jamie Oliver (Signed)",
+      "author": "Jamie Oliver",
+      "price": "\u00a326.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/budget-friendly-food-by-jamie-oliver-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/64c68be8-7bbe-49a0-b567-4eb5293075e0/Website+Listing+Template+-+Book+%287%29.jpg",
+      "vip": false,
+      "listed_at": "2026-11-12T15:40:27.277000+00:00",
+      "discovered_at": "2026-11-12T16:40:33.683950+00:00"
+    },
     {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-palm-house-gwendoline-riley",
       "title": "The Palm House - Gwendoline Riley",
@@ -484,6 +532,18 @@
       "vip": false,
       "listed_at": "2026-11-10T15:24:42+00:00",
       "discovered_at": "2026-11-10T15:24:36.772742+00:00"
+    },
+    {
+      "id": "Cleeve Bookshop::9780008745035",
+      "title": "Royal Witch - Signed Bookplate First Edition with Sprayed Edge",
+      "author": "",
+      "price": "\u00a323.00",
+      "shop": "Cleeve Bookshop",
+      "url": "https://thecleevebookshop.co.uk/products/9780008745035",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/royal-witch-signed-first-edition-with-sprayed-edge-4882713.jpg?v=1787188406",
+      "vip": false,
+      "listed_at": "2026-11-10T15:16:05+00:00",
+      "discovered_at": "2026-11-12T16:40:33.683950+00:00"
     },
     {
       "id": "Backstory London (Signed & Dedicated)::a-body-in-the-pyramid-2",
@@ -29879,6 +29939,18 @@
       "vip": false,
       "listed_at": "2026-03-05T11:44:38.183000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/little-red-riding-hood-blows-her-trust-fund-by-daniel-foxx-signed",
+      "title": "Little Red Riding Hood Blows Her Trust Fund by Daniel Foxx (Signed)",
+      "author": "Daniel Foxx",
+      "price": "\u00a314.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/little-red-riding-hood-blows-her-trust-fund-by-daniel-foxx-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/b800e1b8-8e82-4e9f-9e57-413d86672864/Website+Listing+Template+-+Book+%2810%29.jpg",
+      "vip": false,
+      "listed_at": "2026-03-05T10:45:14.401000+00:00",
+      "discovered_at": "2026-11-12T16:40:33.683950+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/it-seemed-like-a-good-idea-by-lauren-blakely-signed",
