@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T14:44:04.441239+00:00",
-  "total_available": 2903,
+  "last_updated": "2026-11-12T15:39:25.580750+00:00",
+  "total_available": 2900,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -13,7 +13,7 @@
     "Perkology Books": "39 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
-    "London Review Bookshop": "33 items",
+    "London Review Bookshop": "30 items",
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "55 items",
     "Station Books": "53 items",
@@ -26,6 +26,19 @@
     "Hatchards": "117 items via feed (as of 2026-11-12T14:37:29.748555+00:00)"
   },
   "books": [
+    {
+      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-palm-house-gwendoline-riley",
+      "title": "The Palm House - Gwendoline Riley",
+      "author": "Gwendoline Riley",
+      "price": "\u00a316.99",
+      "shop": "London Review Bookshop",
+      "url": "https://www.londonreviewbookshop.co.uk/stock/the-palm-house-gwendoline-riley",
+      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/4/1/0/4/4484014-1-eng-GB/9781035021048.jpg",
+      "vip": false,
+      "listed_at": "2026-11-12T15:39:25.580750+00:00",
+      "discovered_at": "2026-11-12T15:39:25.580750+00:00",
+      "est": "seen"
+    },
     {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-floating-world-ben-eastham",
       "title": "The Floating World - Ben Eastham",
@@ -13424,19 +13437,6 @@
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/on-the-equality-of-all-things-physics-and-philosophy-carlo-rovelli",
-      "title": "On the Equality of All Things - Carlo Rovelli",
-      "author": "Carlo Rovelli",
-      "price": "\u00a320.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/on-the-equality-of-all-things-physics-and-philosophy-carlo-rovelli",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/9/5/1/5/4755159-3-eng-GB/9780241733707.jpg",
-      "vip": false,
-      "listed_at": "2026-10-04T05:41:27.640557+00:00",
-      "discovered_at": "2026-10-22T15:58:36.211986+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Station Books::https://stationbooks.co.uk/shop/stations-by-louise-kennedy/",
       "title": "Stations by Louise Kennedy",
       "author": "Louise Kennedy",
@@ -13485,19 +13485,6 @@
       "vip": false,
       "listed_at": "2026-10-03T11:55:37.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/how-to-be-hopeful-my-year-of-living-joyfully-caitlin-moran",
-      "title": "How to Be Hopeful - Caitlin Moran",
-      "author": "Caitlin Moran",
-      "price": "\u00a322.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/how-to-be-hopeful-my-year-of-living-joyfully-caitlin-moran",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/5/4/1/4/4754145-3-eng-GB/9781529974799.jpg",
-      "vip": false,
-      "listed_at": "2026-10-03T06:32:53.354843+00:00",
-      "discovered_at": "2026-10-22T15:58:36.211986+00:00",
       "est": "pos"
     },
     {
@@ -13599,19 +13586,6 @@
       "vip": false,
       "listed_at": "2026-10-02T11:00:07.805000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-strangers-naomi-alderman",
-      "title": "The Strangers - Naomi Alderman",
-      "author": "Naomi Alderman",
-      "price": "\u00a320.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/the-strangers-naomi-alderman",
-      "image": "/assets/lrb/images/fallback/no-cover.jpg",
-      "vip": false,
-      "listed_at": "2026-10-02T07:24:19.069129+00:00",
-      "discovered_at": "2026-10-22T15:58:36.211986+00:00",
-      "est": "pos"
     },
     {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/sisters-in-yellow-by-mieko-kawakami",
@@ -14467,19 +14441,6 @@
       "vip": false,
       "listed_at": "2026-09-27T11:42:19.803000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-fall-of-the-west-how-they-really-lost-it-owen-jones",
-      "title": "The Fall of the West - Owen Jones",
-      "author": "Owen Jones",
-      "price": "\u00a325.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/the-fall-of-the-west-how-they-really-lost-it-owen-jones",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/3/0/2/9/4769203-2-eng-GB/9780241740644.jpg",
-      "vip": false,
-      "listed_at": "2026-09-27T11:41:27.640557+00:00",
-      "discovered_at": "2026-10-22T15:58:36.211986+00:00",
-      "est": "pos"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/a-body-in-the-pyramid-by-tom-hindle-signed",
