@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-13T18:59:21.136253+00:00",
-  "total_available": 2895,
+  "last_updated": "2026-11-13T19:47:51.683800+00:00",
+  "total_available": 2894,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
     "Porty Books": "10 items",
     "Backstory London (Signed & Dedicated)": "49 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "295 items",
+    "British Library Shop": "294 items",
     "Cleeve Bookshop": "131 items",
     "Ivybridge Bookshop": "159 items",
     "Perkology Books": "38 items",
@@ -26549,18 +26549,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/quiteuglyoneevening.png?v=1777544399",
       "vip": false,
       "listed_at": "2026-04-30T10:20:42+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "British Library Shop::japanese-gothic-signed-edition",
-      "title": "Japanese Gothic (Signed Edition)",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/japanese-gothic-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/japanesegothic.png?v=1777543921",
-      "vip": false,
-      "listed_at": "2026-04-30T10:12:33+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
