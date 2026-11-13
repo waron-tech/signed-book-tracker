@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T08:45:19.898673+00:00",
-  "total_available": 2905,
+  "last_updated": "2026-11-13T09:45:44.334153+00:00",
+  "total_available": 2904,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
@@ -10,7 +10,7 @@
     "British Library Shop": "296 items",
     "Cleeve Bookshop": "131 items",
     "Ivybridge Bookshop": "160 items",
-    "Perkology Books": "39 items",
+    "Perkology Books": "38 items",
     "Bookstation (Ireland)": "7 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "30 items",
@@ -26,6 +26,32 @@
     "Hatchards": "115 items via feed (as of 2026-11-12T22:36:14.815340+00:00)"
   },
   "books": [
+    {
+      "id": "Coles Books::https://coles-books.co.uk/a-history-of-britain-in-21-paintings-by-alice-loxton-signed-edition",
+      "title": "A History of Britain in 21 Paintings by Alice Loxton - Signed Edition",
+      "author": "Alice Loxton",
+      "price": "\u00a325.00",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/a-history-of-britain-in-21-paintings-by-alice-loxton-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/a/l/alice_loxton_21_paintings_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-13T09:45:44.334153+00:00",
+      "discovered_at": "2026-11-13T09:45:44.334153+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Coles Books::https://coles-books.co.uk/the-law-of-the-sublime-by-robert-greene-signed-edition",
+      "title": "The Law of the Sublime by Robert Greene - Signed Edition",
+      "author": "Robert Greene",
+      "price": "\u00a325.00",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/the-law-of-the-sublime-by-robert-greene-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/r/o/robert_greene_sublime_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-13T09:45:44.334153+00:00",
+      "discovered_at": "2026-11-13T09:45:44.334153+00:00",
+      "est": "seen"
+    },
     {
       "id": "Backstory London (Signed & Dedicated)::couples-1",
       "title": "Couples",
@@ -10158,19 +10184,6 @@
       "est": "pos"
     },
     {
-      "id": "Coles Books::https://coles-books.co.uk/tales-of-a-rock-star-s-daughter-by-nettie-baker-signed-edition",
-      "title": "Tales Of A Rock Star's Daughter by Nettie Baker - Signed Edition",
-      "author": "Nettie Baker",
-      "price": "\u00a314.99",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/tales-of-a-rock-star-s-daughter-by-nettie-baker-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/e/nettie_baker_tales_of_a_rock_star_s_daughter_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-15T21:43:25.320151+00:00",
-      "discovered_at": "2026-11-10T09:43:25.320151+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Foyles::https://www.foyles.co.uk/book/arthur/amy-jeffs/9781529455632",
       "title": "Arthur",
       "author": "Amy Jeffs",
@@ -11666,19 +11679,6 @@
       "vip": false,
       "listed_at": "2026-10-13T16:52:30.254364+00:00",
       "discovered_at": "2026-11-11T03:16:04.540078+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/rick-stein-s-cookery-course-by-rick-stein-signed-edition",
-      "title": "Rick Stein\u2019s Cookery Course by Rick Stein - Signed Edition",
-      "author": "Rick Stein",
-      "price": "\u00a330.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/rick-stein-s-cookery-course-by-rick-stein-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/r/i/rick_stein_cookery_course_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-13T15:43:25.320151+00:00",
-      "discovered_at": "2026-11-10T09:43:25.320151+00:00",
       "est": "pos"
     },
     {
@@ -20840,18 +20840,6 @@
       "vip": false,
       "listed_at": "2026-07-10T12:29:26+00:00",
       "discovered_at": "2026-10-22T15:16:00.554119+00:00"
-    },
-    {
-      "id": "Perkology Books::marco-made-easy-a-three-star-chef-makes-it-simple-signed",
-      "title": "Marco Made Easy: A Three-Star Chef Makes It Simple *SIGNED*",
-      "author": "Marco Pierre White",
-      "price": "\u00a338.80",
-      "shop": "Perkology Books",
-      "url": "https://www.perkology.co.uk/products/marco-made-easy-a-three-star-chef-makes-it-simple-signed",
-      "image": "https://cdn.shopify.com/s/files/1/0551/2278/8426/files/file_37fd96f2-4303-4532-bb9f-68e0a7ad7070.jpg?v=1783605486",
-      "vip": false,
-      "listed_at": "2026-07-10T07:26:03+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/beyond-the-edge-f-light-signed-copy/",
