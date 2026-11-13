@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T22:14:05.833909+00:00",
-  "total_available": 2893,
+  "last_updated": "2026-11-13T22:54:06.174378+00:00",
+  "total_available": 2894,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
@@ -20,10 +20,10 @@
     "Booka Bookshop": "290 items",
     "Coles Books": "12 items",
     "West End Lane Books": "1052 items",
-    "Linghams": "224 items via feed (as of 2026-11-12T22:36:14.815340+00:00)",
-    "Waterstones": "182 items via feed (as of 2026-11-13T14:36:07.200067+00:00)",
+    "Linghams": "224 items via feed (as of 2026-11-13T22:37:32.763084+00:00)",
+    "Waterstones": "183 items via feed (as of 2026-11-13T22:37:32.763084+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-13T10:37:37.065623+00:00)",
-    "Hatchards": "115 items via feed (as of 2026-11-12T22:36:14.815340+00:00)"
+    "Hatchards": "115 items via feed (as of 2026-11-13T22:37:32.763084+00:00)"
   },
   "books": [
     {
@@ -1362,6 +1362,19 @@
       "vip": false,
       "listed_at": "2026-11-08T21:54:39.397123+00:00",
       "discovered_at": "2026-11-13T18:59:21.136253+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/how-to-win-at-chess-next-level/levy-rozman/gothamchess/2928377382629",
+      "title": "How to Win at Chess, Next Level",
+      "author": "Levy Rozman, Gothamchess",
+      "price": "\u00a322.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/how-to-win-at-chess-next-level/levy-rozman/gothamchess/2928377382629",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377382629.jpg",
+      "vip": false,
+      "listed_at": "2026-11-08T21:19:40.600608+00:00",
+      "discovered_at": "2026-11-13T22:54:06.174378+00:00",
       "est": "pos"
     },
     {
