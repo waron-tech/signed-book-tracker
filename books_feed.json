@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-13T15:27:05.398105+00:00",
-  "total_available": 2898,
+  "last_updated": "2026-11-13T16:18:59.336672+00:00",
+  "total_available": 2897,
   "shop_status": {
-    "Goldsboro Books": "11 items",
+    "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
     "Porty Books": "10 items",
     "Backstory London (Signed & Dedicated)": "49 items",
@@ -11,21 +11,33 @@
     "Cleeve Bookshop": "131 items",
     "Ivybridge Bookshop": "160 items",
     "Perkology Books": "38 items",
-    "Bookstation (Ireland)": "7 items",
+    "Bookstation (Ireland)": "5 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "31 items",
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "55 items",
     "Station Books": "53 items",
-    "Booka Bookshop": "292 items",
+    "Booka Bookshop": "291 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1052 items",
+    "West End Lane Books": "1053 items",
     "Linghams": "224 items via feed (as of 2026-11-12T22:36:14.815340+00:00)",
     "Waterstones": "182 items via feed (as of 2026-11-13T14:36:07.200067+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-13T10:37:37.065623+00:00)",
     "Hatchards": "115 items via feed (as of 2026-11-12T22:36:14.815340+00:00)"
   },
   "books": [
+    {
+      "id": "Goldsboro Books::the-ascended-trade-edition-signed",
+      "title": "The Ascended - Trade edition (Signed)",
+      "author": "",
+      "price": "\u00a329.99",
+      "shop": "Goldsboro Books",
+      "url": "https://goldsborobooks.com/products/the-ascended-trade-edition-signed",
+      "image": "https://cdn.shopify.com/s/files/1/0733/4900/5606/files/RMCopyofBOOKSforWEBSITEDONOTDELETE_72.png?v=1794584499",
+      "vip": false,
+      "listed_at": "2026-11-13T15:42:31+00:00",
+      "discovered_at": "2026-11-13T16:18:59.336672+00:00"
+    },
     {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/alexander-god-king-man-edmund-richardson",
       "title": "Alexander - Edmund Richardson",
@@ -17912,18 +17924,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Bookstation (Ireland)::hollow-bones-by-jodi-picoult",
-      "title": "Hollow Bones",
-      "author": "Jodi Picoult",
-      "price": "\u00a316.99",
-      "shop": "Bookstation (Ireland)",
-      "url": "https://bookstation.ie/products/hollow-bones-by-jodi-picoult",
-      "image": "https://cdn.shopify.com/s/files/1/0939/6181/4281/files/9780241676097.jpg?v=1787044616",
-      "vip": false,
-      "listed_at": "2026-08-18T14:20:24+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "Ivybridge Bookshop::9781806491568",
       "title": "One Day a Cat Came to Me - Independent Edition with sprayed edge - Bokyeong Sunim; Jinwoo Park (Translator) (Hardback) 15-10-2026",
       "author": "",
@@ -20358,18 +20358,6 @@
       "vip": true,
       "listed_at": "2026-07-21T13:54:50+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
-    },
-    {
-      "id": "Bookstation (Ireland)::winnie-the-pooh-a-little-boy-and-his-bear-1",
-      "title": "Winnie-the-Pooh: A Little Boy and His Bear",
-      "author": "Jane Riordan",
-      "price": "\u00a329.99",
-      "shop": "Bookstation (Ireland)",
-      "url": "https://bookstation.ie/products/winnie-the-pooh-a-little-boy-and-his-bear-1",
-      "image": "https://cdn.shopify.com/s/files/1/0939/6181/4281/files/9780008740894.jpg?v=1784632607",
-      "vip": false,
-      "listed_at": "2026-07-21T13:52:40+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/serious-music-signed-copy/",
@@ -26094,6 +26082,18 @@
       "vip": false,
       "listed_at": "2026-05-06T14:39:26.487000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-polar-night-adventure-by-cecilia-blomdahl-signed",
+      "title": "The Polar Night Adventure by Cecilia Blomdahl (Signed)",
+      "author": "Cecilia Blomdahl",
+      "price": "\u00a314.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-polar-night-adventure-by-cecilia-blomdahl-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/84bff8e9-256f-4af4-8a41-f15a6e71e624/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+-+2026-05-06T144355.059.jpg",
+      "vip": false,
+      "listed_at": "2026-05-06T13:45:58.497000+00:00",
+      "discovered_at": "2026-11-13T16:18:59.336672+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/man-dog-a-love-story-by-tony-parsons-signed",
@@ -35646,18 +35646,6 @@
       "vip": false,
       "listed_at": "2025-11-13T17:54:33.360000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-christas-magpie-signed-and-dedicated-copy/",
-      "title": "The Christmas Magpie \u2013 Signed  Copy",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-christas-magpie-signed-and-dedicated-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/09/The-Christmas-Magpie.jpg",
-      "vip": false,
-      "listed_at": "2025-11-13T15:36:10+00:00",
-      "discovered_at": "2026-11-13T15:27:05.398105+00:00"
     }
   ]
 }
