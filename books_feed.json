@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-13T12:40:00.446066+00:00",
-  "total_available": 2906,
+  "last_updated": "2026-11-13T13:51:47.011540+00:00",
+  "total_available": 2901,
   "shop_status": {
     "Goldsboro Books": "11 items",
-    "Rare Mags": "3 items",
+    "Rare Mags": "2 items",
     "Porty Books": "10 items",
     "Backstory London (Signed & Dedicated)": "49 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "296 items",
+    "British Library Shop": "295 items",
     "Cleeve Bookshop": "131 items",
     "Ivybridge Bookshop": "160 items",
     "Perkology Books": "38 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "55 items",
     "Station Books": "53 items",
-    "Booka Bookshop": "294 items",
+    "Booka Bookshop": "291 items",
     "Coles Books": "12 items",
     "West End Lane Books": "1052 items",
     "Linghams": "224 items via feed (as of 2026-11-12T22:36:14.815340+00:00)",
@@ -4954,18 +4954,6 @@
       "listed_at": "2026-10-29T00:16:04.540078+00:00",
       "discovered_at": "2026-11-11T03:16:04.540078+00:00",
       "est": "pos"
-    },
-    {
-      "id": "Rare Mags::japanese-curry",
-      "title": "Japanese Curry",
-      "author": "Tim Anderson",
-      "price": "\u00a321.00",
-      "shop": "Rare Mags",
-      "url": "https://raremags.co.uk/products/japanese-curry",
-      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/28D9BD32-BDB3-4255-9A73-A8D232D9281B.jpg?v=1792579444",
-      "vip": false,
-      "listed_at": "2026-10-29T00:00:01+00:00",
-      "discovered_at": "2026-10-29T00:32:39.304418+00:00"
     },
     {
       "id": "Hatchards::https://www.hatchards.co.uk/book/the-last-days-of-vic-and-coco/taylor-jenkins-reid/2928377396312",
@@ -15481,18 +15469,6 @@
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
-      "id": "British Library Shop::switzy-signed-edition",
-      "title": "Switzy (Signed Edition)",
-      "author": "",
-      "price": "\u00a318.99",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/switzy-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/Switzy_9781784746643.png?v=1787925550",
-      "vip": false,
-      "listed_at": "2026-09-22T12:34:17+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/plunder-signed-copy/",
       "title": "Plunder \u2013 Signed Copy",
       "author": "",
@@ -17350,18 +17326,6 @@
       "vip": false,
       "listed_at": "2026-08-31T10:21:43+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/domesday-signed-copy/",
-      "title": "Domesday \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a325.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/domesday-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/Domesday.jpg",
-      "vip": false,
-      "listed_at": "2026-08-29T12:46:57+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/traitors-nest-signed-independent-bookshop-edition/",
@@ -35733,30 +35697,6 @@
       "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/09/The-Christmas-Magpie.jpg",
       "vip": false,
       "listed_at": "2025-11-13T15:36:10+00:00",
-      "discovered_at": "2026-11-11T04:23:48.194277+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/one-aladdin-two-lamps-signed-copy/",
-      "title": "One Aladdin Two Lamps \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a318.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/one-aladdin-two-lamps-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/08/One-Aladdin-Two-Lamps.jpg",
-      "vip": false,
-      "listed_at": "2025-11-13T13:24:52+00:00",
-      "discovered_at": "2026-11-11T04:23:48.194277+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/brigands-and-breadknives-signed-indepedendent-bookshop-edition/",
-      "title": "Brigands and Breadknives \u2013 Signed Indepedendent Bookshop Edition",
-      "author": "",
-      "price": "\u00a318.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/brigands-and-breadknives-signed-indepedendent-bookshop-edition/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/08/Brigands-and-Breadknives-jacket.jpg",
-      "vip": false,
-      "listed_at": "2025-11-13T13:00:33+00:00",
       "discovered_at": "2026-11-11T04:23:48.194277+00:00"
     }
   ]
