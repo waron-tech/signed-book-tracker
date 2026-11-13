@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-11-12T23:21:58.859430+00:00",
-  "total_available": 2909,
+  "last_updated": "2026-11-13T00:04:44.001109+00:00",
+  "total_available": 2908,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "3 items",
     "Porty Books": "10 items",
     "Backstory London (Signed & Dedicated)": "49 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "297 items",
+    "British Library Shop": "296 items",
     "Cleeve Bookshop": "131 items",
     "Ivybridge Bookshop": "160 items",
     "Perkology Books": "39 items",
-    "Bookstation (Ireland)": "7 items",
+    "Bookstation (Ireland)": "ERROR: HTTPSConnectionPool(host='bookstation.ie', port=443): Max retries exceeded with url: /collections/signed-books/products.",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "30 items",
     "Little Apple Bookshop": "38 items",
@@ -173,18 +173,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/OnJokes_9781529454222.png?v=1794493775",
       "vip": false,
       "listed_at": "2026-11-12T14:29:50+00:00",
-      "discovered_at": "2026-11-12T14:44:04.441239+00:00"
-    },
-    {
-      "id": "British Library Shop::fry-laurie-every-funny-thing-theyve-ever-written-signed-edition",
-      "title": "Fry & Laurie: Every Funny Thing They've Ever Written (Signed Edition)",
-      "author": "",
-      "price": "\u00a325.00",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/fry-laurie-every-funny-thing-theyve-ever-written-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/fry_laurie_9780241819852.png?v=1794493531",
-      "vip": false,
-      "listed_at": "2026-11-12T14:25:57+00:00",
       "discovered_at": "2026-11-12T14:44:04.441239+00:00"
     },
     {
