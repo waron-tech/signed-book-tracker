@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-14T09:57:06.481828+00:00",
-  "total_available": 2841,
+  "last_updated": "2026-11-14T10:30:38.922582+00:00",
+  "total_available": 2842,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
-    "Porty Books": "10 items",
+    "Porty Books": "11 items",
     "Backstory London (Signed & Dedicated)": "49 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "294 items",
@@ -26,6 +26,19 @@
     "Hatchards": "115 items via feed (as of 2026-11-13T22:37:32.763084+00:00)"
   },
   "books": [
+    {
+      "id": "Porty Books::https://www.theportobellobookshop.com/9781837264674-s",
+      "title": "Born Lucky",
+      "author": "Lemn Sissay",
+      "price": "\u00a318.99",
+      "shop": "Porty Books",
+      "url": "https://www.theportobellobookshop.com/9781837264674-s",
+      "image": "https://cdn.theportobellobookshop.com/img/supplementary--10897325--main.jpg?p=search",
+      "vip": false,
+      "listed_at": "2026-11-14T10:30:38.922582+00:00",
+      "discovered_at": "2026-11-14T10:30:38.922582+00:00",
+      "est": "seen"
+    },
     {
       "id": "Coles Books::https://coles-books.co.uk/the-self-and-the-portrait-by-sam-taylor-johnson-signed-edition",
       "title": "The Self and the Portrait by Sam Taylor-Johnson - Signed Edition",
