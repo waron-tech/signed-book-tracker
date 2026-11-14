@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-14T13:41:01.717179+00:00",
-  "total_available": 2845,
+  "last_updated": "2026-11-14T14:24:00.375344+00:00",
+  "total_available": 2844,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
     "Porty Books": "11 items",
     "Backstory London (Signed & Dedicated)": "49 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "292 items",
+    "British Library Shop": "291 items",
     "Cleeve Bookshop": "131 items",
     "Ivybridge Bookshop": "159 items",
     "Perkology Books": "38 items",
@@ -17,9 +17,9 @@
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "55 items",
     "Station Books": "0 items",
-    "Booka Bookshop": "290 items",
+    "Booka Bookshop": "289 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1056 items",
+    "West End Lane Books": "1057 items",
     "Linghams": "224 items via feed (as of 2026-11-13T22:37:32.763084+00:00)",
     "Waterstones": "184 items via feed (as of 2026-11-14T10:39:35.479366+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-14T10:39:35.479366+00:00)",
@@ -17646,18 +17646,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "British Library Shop::more-days-at-the-torunka-cafe-signed-edition",
-      "title": "More Days at the Torunka Caf\u00e9 (Signed Edition)",
-      "author": "",
-      "price": "\u00a310.99",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/more-days-at-the-torunka-cafe-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/MoreDaysattheTorunkaCafe_9781786589521.png?v=1786533342",
-      "vip": false,
-      "listed_at": "2026-08-12T11:15:47+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/homework-a-memoir-by-geoff-dyer-signed",
       "title": "Homework : A Memoir by Geoff Dyer (Signed)",
       "author": "Geoff Dyer",
@@ -23344,6 +23332,18 @@
       "vip": false,
       "listed_at": "2026-06-03T10:20:05.820000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/harry-potter-and-the-half-blood-prince-illustrated-edition-by-jk-rowling-levi-pinfold-signed",
+      "title": "Harry Potter and the Half-Blood Prince : Illustrated Edition by J.K. Rowling & Levi Pinfold (Signed)",
+      "author": "J.K. Rowling & Levi Pinfold",
+      "price": "\u00a340.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/harry-potter-and-the-half-blood-prince-illustrated-edition-by-jk-rowling-levi-pinfold-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/f1d27131-6c3d-42f2-94a6-b2c4de25ec28/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+-+2026-06-03T111350.035.jpg",
+      "vip": false,
+      "listed_at": "2026-06-03T10:16:49.759000+00:00",
+      "discovered_at": "2026-11-14T14:24:00.375344+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/castles-by-dan-jones-signed",
@@ -34959,18 +34959,6 @@
       "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/11/Night-Life.jpg",
       "vip": false,
       "listed_at": "2025-11-16T12:39:23+00:00",
-      "discovered_at": "2026-11-14T09:57:06.481828+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-unfinished-harauld-hughes-signed-copy-2/",
-      "title": "The Unfinished Harauld Hughes \u2013 Signed Copy",
-      "author": "Richard Ayoade",
-      "price": "\u00a39.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-unfinished-harauld-hughes-signed-copy-2/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/11/The-Unfinishedpb.jpg",
-      "vip": true,
-      "listed_at": "2025-11-14T14:11:19+00:00",
       "discovered_at": "2026-11-14T09:57:06.481828+00:00"
     }
   ]
