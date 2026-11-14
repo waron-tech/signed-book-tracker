@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T07:31:58.816470+00:00",
-  "total_available": 2894,
+  "last_updated": "2026-11-14T08:27:00.521429+00:00",
+  "total_available": 2841,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
@@ -16,7 +16,7 @@
     "London Review Bookshop": "31 items",
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "55 items",
-    "Station Books": "53 items",
+    "Station Books": "0 items",
     "Booka Bookshop": "290 items",
     "Coles Books": "12 items",
     "West End Lane Books": "1052 items",
@@ -10990,19 +10990,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/serious-music-by-percival-everett/",
-      "title": "Serious Music by Percival Everett",
-      "author": "Percival Everett",
-      "price": "\u00a320.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/serious-music-by-percival-everett/",
-      "image": "/shop/serious-music-by-percival-everett/serious-music-by-percival-everett-e903769f.jpg",
-      "vip": false,
-      "listed_at": "2026-10-15T17:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hatchards::https://www.hatchards.co.uk/book/watch-the-quiet-snow/mick-herron/9781399842983",
       "title": "Watch the Quiet Snow",
       "author": "Mick Herron",
@@ -11302,19 +11289,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/solace-in-winter-by-mary-lawson/",
-      "title": "Solace in Winter by Mary Lawson",
-      "author": "Mary Lawson",
-      "price": "\u00a318.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/solace-in-winter-by-mary-lawson/",
-      "image": "/shop/solace-in-winter-by-mary-lawson/solace-in-winter-by-mary-lawson-c4d614cc.jpg",
-      "vip": false,
-      "listed_at": "2026-10-15T07:25:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/irresistible-monsters-by-natalie-haynes",
       "title": "Irresistible Monsters ***Signed Indie Exclusive*** by Natalie Haynes",
       "author": "Natalie Haynes",
@@ -11493,19 +11467,6 @@
       "image": "https://static.wixstatic.com/media/cf7295_8a7c68939b194555bd24e2a87b60d045~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-14T21:36:49.462229+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/a-history-of-britain-in-21-paintings-by-alice-loxton/",
-      "title": "A History of Britain in 21 Paintings by Alice Loxton",
-      "author": "Alice Loxton",
-      "price": "\u00a325.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/a-history-of-britain-in-21-paintings-by-alice-loxton/",
-      "image": "/shop/a-history-of-britain-in-21-paintings-by-alice-loxton/a-history-of-britain-in-21-paintings-by-alice-loxton-faddf9a6.jpg",
-      "vip": false,
-      "listed_at": "2026-10-14T21:18:07.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
@@ -11969,19 +11930,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/christmas-crimes-at-the-mysterious-bookshop-by-otto-penzler/",
-      "title": "Christmas Crimes at the Mysterious Bookshop by Otto Penzler",
-      "author": "Otto Penzler",
-      "price": "\u00a312.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/christmas-crimes-at-the-mysterious-bookshop-by-otto-penzler/",
-      "image": "/shop/christmas-crimes-at-the-mysterious-bookshop-by-otto-penzler/christmas-crimes-at-the-mysterious-bookshop-by-otto-penzler-b56864c1.jpg",
-      "vip": false,
-      "listed_at": "2026-10-14T01:03:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/cold-sunset-william-boyd",
       "title": "Cold Sunset - William Boyd",
       "author": "William Boyd",
@@ -12018,19 +11966,6 @@
       "vip": false,
       "listed_at": "2026-10-13T15:18:04+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/decline-and-falling-over-by-jo-brand/",
-      "title": "Decline and Falling Over by Jo Brand",
-      "author": "Jo Brand",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/decline-and-falling-over-by-jo-brand/",
-      "image": "/shop/decline-and-falling-over-by-jo-brand/decline-and-falling-over-by-jo-brand-dd63d9ee.jpg",
-      "vip": false,
-      "listed_at": "2026-10-13T14:55:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "British Library Shop::corpse-talk-dead-famous-and-very-chatty-signed-edition",
@@ -12143,19 +12078,6 @@
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/orlando-by-harry-whittaker/",
-      "title": "Orlando by Harry Whittaker",
-      "author": "Harry Whittaker",
-      "price": "\u00a325.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/orlando-by-harry-whittaker/",
-      "image": "/shop/orlando-by-harry-whittaker/orlando-by-harry-whittaker-d4ba3f4a.jpg",
-      "vip": false,
-      "listed_at": "2026-10-13T04:48:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/pea-green-boat-stewart-lee",
       "title": "Pea Green Boat - Stewart Lee",
       "author": "Stewart Lee",
@@ -12178,19 +12100,6 @@
       "image": "https://static.wixstatic.com/media/cf7295_bb7d2d990b5e4a0b9432cc96a8a276a3~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-12T19:46:03.308382+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/the-taper-man-by-nick-harkaway/",
-      "title": "The Taper Man by Nick Harkaway",
-      "author": "Nick Harkaway",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/the-taper-man-by-nick-harkaway/",
-      "image": "/shop/the-taper-man-by-nick-harkaway/the-taper-man-by-nick-harkaway-ef67f80a.jpg",
-      "vip": false,
-      "listed_at": "2026-10-12T18:40:37.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
@@ -12258,19 +12167,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/a-carol-and-a-killing-by-reverend-richard-coles/",
-      "title": "A Carol and a Killing by Reverend Richard Coles",
-      "author": "Reverend Richard Coles",
-      "price": "\u00a314.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/a-carol-and-a-killing-by-reverend-richard-coles/",
-      "image": "/shop/a-carol-and-a-killing-by-reverend-richard-coles/a-carol-and-a-killing-by-reverend-richard-coles-7b3d1a63.jpg",
-      "vip": false,
-      "listed_at": "2026-10-12T08:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/ply-by-hernan-diaz",
       "title": "Ply ***Signed*** by Hernan Diaz",
       "author": "Hernan Diaz",
@@ -12323,19 +12219,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/as-you-wake-break-the-shell-by-becky-chambers/",
-      "title": "As You Wake Break The Shell by Becky Chambers",
-      "author": "Becky Chambers",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/as-you-wake-break-the-shell-by-becky-chambers/",
-      "image": "/shop/as-you-wake-break-the-shell-by-becky-chambers/as-you-wake-break-the-shell-by-becky-chambers-0a23946a.jpg",
-      "vip": false,
-      "listed_at": "2026-10-11T22:25:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-golden-hours-by-louisa-young",
       "title": "The Golden Hours ***Signed, Exclusive*** by Louisa Young",
       "author": "Louisa Young",
@@ -12362,19 +12245,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/bitter-melon-by-liv-little/",
-      "title": "Bitter Melon by Liv Little",
-      "author": "Liv Little",
-      "price": "\u00a320.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/bitter-melon-by-liv-little/",
-      "image": "/shop/bitter-melon-by-liv-little/bitter-melon-by-liv-little-d375b3a3.jpg",
-      "vip": false,
-      "listed_at": "2026-10-11T12:18:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-rouse-by-china-mieville",
       "title": "The Rouse ***Signed*** by China Mieville",
       "author": "China Mieville",
@@ -12397,19 +12267,6 @@
       "image": "https://static.wixstatic.com/media/01f334_74dbed24bfa6457e9c95eea498c9479d~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-11T05:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/nonesuch-by-francis-spufford/",
-      "title": "Nonesuch by Francis Spufford",
-      "author": "Francis Spufford",
-      "price": "\u00a39.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/nonesuch-by-francis-spufford/",
-      "image": "/shop/nonesuch-by-francis-spufford/nonesuch-by-francis-spufford-d81e2195.jpg",
-      "vip": false,
-      "listed_at": "2026-10-11T02:10:37.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
@@ -12449,19 +12306,6 @@
       "image": "https://static.wixstatic.com/media/cf7295_e0ce7f6179ca46558737900a4f0aa995~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-10T17:55:17.154536+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/the-bishop-of-durham-attempts-to-surrender-the-city-by-susanna-clarke/",
-      "title": "The Bishop of Durham Attempts to Surrender the City by Susanna Clarke",
-      "author": "Susanna Clarke",
-      "price": "\u00a310.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/the-bishop-of-durham-attempts-to-surrender-the-city-by-susanna-clarke/",
-      "image": "/shop/the-bishop-of-durham-attempts-to-surrender-the-city-by-susanna-clarke/the-bishop-of-durham-attempts-to-surrender-the-city-by-susanna-clarke-7181b55d.jpg",
-      "vip": false,
-      "listed_at": "2026-10-10T16:03:07.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
@@ -12524,19 +12368,6 @@
       "image": "https://static.wixstatic.com/media/cf7295_46cb51176d734496a10c083342cec931~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-10T07:57:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/the-christmas-clue-by-nicola-upson/",
-      "title": "The Christmas Clue by Nicola Upson",
-      "author": "Nicola Upson",
-      "price": "\u00a39.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/the-christmas-clue-by-nicola-upson/",
-      "image": "/shop/the-christmas-clue-by-nicola-upson/the-christmas-clue-by-nicola-upson-9b2df7da.jpg",
-      "vip": false,
-      "listed_at": "2026-10-10T05:55:37.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
@@ -12655,19 +12486,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/london-station-by-david-mccloskey/",
-      "title": "London Station by David McCloskey",
-      "author": "David McCloskey",
-      "price": "\u00a320.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/london-station-by-david-mccloskey/",
-      "image": "/shop/london-station-by-david-mccloskey/london-station-by-david-mccloskey-02fa44ee.jpg",
-      "vip": false,
-      "listed_at": "2026-10-08T23:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/mouse-goes-to-the-mountains-signed-copy/",
       "title": "Mouse Goes to the Mountains \u2013 Signed Copy",
       "author": "",
@@ -12715,19 +12533,6 @@
       "vip": false,
       "listed_at": "2026-10-08T13:57:13+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/o-now-by-niall-williams/",
-      "title": "O Now! by Niall Williams",
-      "author": "Niall Williams",
-      "price": "\u00a39.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/o-now-by-niall-williams/",
-      "image": "/shop/o-now-by-niall-williams/o-now-by-niall-williams-86085186.jpg",
-      "vip": false,
-      "listed_at": "2026-10-08T13:25:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "Perkology Books::shakespeare-by-judy-dench-signed",
@@ -12889,19 +12694,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/perilous-enchantment-by-sarah-clegg/",
-      "title": "Perilous Enchantment by Sarah Clegg",
-      "author": "Sarah Clegg",
-      "price": "\u00a318.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/perilous-enchantment-by-sarah-clegg/",
-      "image": "/shop/perilous-enchantment-by-sarah-clegg/perilous-enchantment-by-sarah-clegg-0e870364.jpg",
-      "vip": false,
-      "listed_at": "2026-10-08T03:18:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/farewell-to-eden-sebastian-faulks",
       "title": "Farewell to Eden - Sebastian Faulks",
       "author": "Sebastian Faulks",
@@ -12964,19 +12756,6 @@
       "vip": false,
       "listed_at": "2026-10-07T18:19:46+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/sleepers-in-the-snow-by-joanne-harris/",
-      "title": "Sleepers in the Snow by Joanne Harris",
-      "author": "Joanne Harris",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/sleepers-in-the-snow-by-joanne-harris/",
-      "image": "/shop/sleepers-in-the-snow-by-joanne-harris/sleepers-in-the-snow-by-joanne-harris-b8b7f364.jpg",
-      "vip": false,
-      "listed_at": "2026-10-07T17:10:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "Ivybridge Bookshop::9781800755765",
@@ -13077,19 +12856,6 @@
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/the-case-of-the-christmas-card-by-elly-griffiths/",
-      "title": "The Case of the Christmas Card by Elly Griffiths",
-      "author": "Elly Griffiths",
-      "price": "\u00a314.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/the-case-of-the-christmas-card-by-elly-griffiths/",
-      "image": "/shop/the-case-of-the-christmas-card-by-elly-griffiths/the-case-of-the-christmas-card-by-elly-griffiths-14bcb524.jpg",
-      "vip": false,
-      "listed_at": "2026-10-07T07:03:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/michael-palin-in-the-philippines-by-michael-palin",
       "title": "Michael Palin in the Philippines by Michael Palin",
       "author": "Michael Palin",
@@ -13113,19 +12879,6 @@
       "vip": false,
       "listed_at": "2026-10-07T03:07:10.497700+00:00",
       "discovered_at": "2026-10-22T15:58:36.211986+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/the-christmas-book-by-katherine-woodfine/",
-      "title": "The Christmas Book by Katherine Woodfine",
-      "author": "Katherine Woodfine",
-      "price": "\u00a310.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/the-christmas-book-by-katherine-woodfine/",
-      "image": "/shop/the-christmas-book-by-katherine-woodfine/the-christmas-book-by-katherine-woodfine-f232e31a.jpg",
-      "vip": false,
-      "listed_at": "2026-10-06T20:55:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -13191,19 +12944,6 @@
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/the-ravens-gift-by-kiran-millwood-hargrave/",
-      "title": "The Raven's Gift by Kiran Millwood Hargrave",
-      "author": "Kiran Millwood Hargrave",
-      "price": "\u00a314.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/the-ravens-gift-by-kiran-millwood-hargrave/",
-      "image": "/shop/the-ravens-gift-by-kiran-millwood-hargrave/the-ravens-gift-by-kiran-millwood-hargrave-af93eabd.jpg",
-      "vip": false,
-      "listed_at": "2026-10-06T10:48:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-two-body-problem-by-ali-hazelwood-signed",
       "title": "The Two-Body Problem by Ali Hazelwood (Signed)",
       "author": "Ali Hazelwood",
@@ -13238,19 +12978,6 @@
       "vip": false,
       "listed_at": "2026-10-06T06:45:35.457398+00:00",
       "discovered_at": "2026-10-28T04:21:35.457398+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/witch-trial-by-harriet-tyce/",
-      "title": "Witch Trial by Harriet Tyce",
-      "author": "Harriet Tyce",
-      "price": "\u00a310.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/witch-trial-by-harriet-tyce/",
-      "image": "/shop/witch-trial-by-harriet-tyce/witch-trial-by-harriet-tyce-cd289783.jpg",
-      "vip": false,
-      "listed_at": "2026-10-06T00:40:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -13289,19 +13016,6 @@
       "vip": false,
       "listed_at": "2026-10-05T19:57:35.457398+00:00",
       "discovered_at": "2026-10-28T04:21:35.457398+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/tales-from-the-territory-by-travis-baldree/",
-      "title": "Tales from the Territory by Travis Baldree",
-      "author": "Travis Baldree",
-      "price": "\u00a318.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/tales-from-the-territory-by-travis-baldree/",
-      "image": "/shop/tales-from-the-territory-by-travis-baldree/tales-from-the-territory-by-travis-baldree-ac750b52.jpg",
-      "vip": false,
-      "listed_at": "2026-10-05T14:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -13392,19 +13106,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/doom-painting-by-a-k-blakemore/",
-      "title": "Doom Painting by A K Blakemore",
-      "author": "A K Blakemore",
-      "price": "\u00a320.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/doom-painting-by-a-k-blakemore/",
-      "image": "/shop/doom-painting-by-a-k-blakemore/doom-painting-by-a-k-blakemore-2030e522.jpg",
-      "vip": false,
-      "listed_at": "2026-10-04T18:18:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Porty Books::https://www.theportobellobookshop.com/9780008846459-s",
       "title": "A Licence to Live",
       "author": "Jordan Adams",
@@ -13444,19 +13145,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/letters-to-our-sons-by-stephen-graham/",
-      "title": "Letters To Our Sons by Stephen Graham",
-      "author": "Stephen Graham",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/letters-to-our-sons-by-stephen-graham/",
-      "image": "/shop/letters-to-our-sons-by-stephen-graham/letters-to-our-sons-by-stephen-graham-a4997aaf.jpg",
-      "vip": false,
-      "listed_at": "2026-10-04T08:10:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/tidy-in-10-by-iwan-carrington-signed",
       "title": "Tidy in 10 by Iwan Carrington (Signed)",
       "author": "Iwan Carrington",
@@ -13467,19 +13155,6 @@
       "vip": false,
       "listed_at": "2026-10-04T08:00:29.824000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/stations-by-louise-kennedy/",
-      "title": "Stations by Louise Kennedy",
-      "author": "Louise Kennedy",
-      "price": "\u00a320.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/stations-by-louise-kennedy/",
-      "image": "/shop/stations-by-louise-kennedy/stations-by-louise-kennedy-5db15c6d.jpg",
-      "vip": false,
-      "listed_at": "2026-10-03T22:03:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/william-boyd-cold-sunset-hardback",
@@ -13505,32 +13180,6 @@
       "vip": false,
       "listed_at": "2026-10-03T13:27:57.510000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/the-wine-dark-sea-by-victoria-hislop/",
-      "title": "The Wine-Dark Sea by Victoria Hislop",
-      "author": "Victoria Hislop",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/the-wine-dark-sea-by-victoria-hislop/",
-      "image": "/shop/the-wine-dark-sea-by-victoria-hislop/the-wine-dark-sea-by-victoria-hislop-a2649527.jpg",
-      "vip": false,
-      "listed_at": "2026-10-03T11:55:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/exit-party-by-emily-st-john-mandel/",
-      "title": "Exit Party by Emily St John Mandel",
-      "author": "Emily St John Mandel",
-      "price": "\u00a318.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/exit-party-by-emily-st-john-mandel/",
-      "image": "/shop/exit-party-by-emily-st-john-mandel/exit-party-by-emily-st-john-mandel-6e133c85.jpg",
-      "vip": false,
-      "listed_at": "2026-10-03T01:48:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/janice-hallett-the-silent-appeal-signed-copy-hardback",
@@ -13569,19 +13218,6 @@
       "vip": false,
       "listed_at": "2026-10-02T16:16:42.025000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/massif-by-garth-nix/",
-      "title": "Massif by Garth Nix",
-      "author": "Garth Nix",
-      "price": "\u00a325.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/massif-by-garth-nix/",
-      "image": "/shop/massif-by-garth-nix/massif-by-garth-nix-fedbc79a.jpg",
-      "vip": false,
-      "listed_at": "2026-10-02T15:40:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "Ivybridge Bookshop::9781915780942",
@@ -13656,19 +13292,6 @@
       "vip": true,
       "listed_at": "2026-10-01T21:32:58+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/a-history-of-the-world-in-51-heroes-and-villains-by-dominic-sandbrook-tom-holland/",
-      "title": "A History of the World in 51 Heroes and Villains by Dominic Sandbrook, Tom Holland",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/a-history-of-the-world-in-51-heroes-and-villains-by-dominic-sandbrook-tom-holland/",
-      "image": "/shop/a-history-of-the-world-in-51-heroes-and-villains-by-dominic-sandbrook-tom-holland/a-history-of-the-world-in-51-heroes-and-villains-by-dominic-sandbrook-tom-holland-4b795db2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-01T19:25:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/almost-life-by-kiran-millwood-hargrave",
@@ -13865,19 +13488,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/arthur-by-amy-jeffs/",
-      "title": "Arthur by Amy Jeffs",
-      "author": "Amy Jeffs",
-      "price": "\u00a330.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/arthur-by-amy-jeffs/",
-      "image": "/shop/arthur-by-amy-jeffs/arthur-by-amy-jeffs-d182300a.jpg",
-      "vip": false,
-      "listed_at": "2026-10-01T09:18:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Cleeve Bookshop::9781529937824",
       "title": "Our Noble Selves - Signed First Edition with Sprayed Edge",
       "author": "",
@@ -13913,19 +13523,6 @@
       "vip": false,
       "listed_at": "2026-10-01T07:57:35.457398+00:00",
       "discovered_at": "2026-10-28T04:21:35.457398+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/disenchanted-by-lucy-jane-wood/",
-      "title": "Disenchanted by Lucy Jane Wood",
-      "author": "Lucy Jane Wood",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/disenchanted-by-lucy-jane-wood/",
-      "image": "/shop/disenchanted-by-lucy-jane-wood/disenchanted-by-lucy-jane-wood-e47cbb70.jpg",
-      "vip": false,
-      "listed_at": "2026-09-30T23:10:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -14065,19 +13662,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/more-by-gillian-anderson/",
-      "title": "More by Gillian Anderson",
-      "author": "Gillian Anderson",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/more-by-gillian-anderson/",
-      "image": "/shop/more-by-gillian-anderson/more-by-gillian-anderson-ff33e367.jpg",
-      "vip": false,
-      "listed_at": "2026-09-30T02:55:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/chain-reaction-by-lee-child",
       "title": "Chain Reaction by Lee Child",
       "author": "Lee Child",
@@ -14114,19 +13698,6 @@
       "vip": false,
       "listed_at": "2026-09-29T21:16:24+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/the-newer-world-by-sebastian-barry/",
-      "title": "The Newer World by Sebastian Barry",
-      "author": "Sebastian Barry",
-      "price": "\u00a320.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/the-newer-world-by-sebastian-barry/",
-      "image": "/shop/the-newer-world-by-sebastian-barry/the-newer-world-by-sebastian-barry-92a46f71.jpg",
-      "vip": false,
-      "listed_at": "2026-09-29T16:48:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/what-the-world-needs-now-messages-of-love-and-hope-signed-copy/",
@@ -14239,19 +13810,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/diary-of-an-oxygen-thief-by-anonymous/",
-      "title": "Diary of an Oxygen Thief by Anonymous",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/diary-of-an-oxygen-thief-by-anonymous/",
-      "image": "/shop/diary-of-an-oxygen-thief-by-anonymous/diary-of-an-oxygen-thief-by-anonymous-15b0c34a.jpg",
-      "vip": false,
-      "listed_at": "2026-09-29T06:40:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/sebastian-barry-the-newer-world-signed-copy-hardback",
       "title": "Sebastian Barry - The Newer World (SIGNED COPY) (HARDBACK)",
       "author": "Sebastian Barry",
@@ -14275,19 +13833,6 @@
       "vip": false,
       "listed_at": "2026-09-28T21:02:38+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/how-ive-tried-to-change-the-world-by-alexei-sayle/",
-      "title": "How I've Tried to Change the World by Alexei Sayle",
-      "author": "Alexei Sayle",
-      "price": "\u00a316.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/how-ive-tried-to-change-the-world-by-alexei-sayle/",
-      "image": "/shop/how-ive-tried-to-change-the-world-by-alexei-sayle/how-ive-tried-to-change-the-world-by-alexei-sayle-836ce30b.jpg",
-      "vip": false,
-      "listed_at": "2026-09-28T20:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "Backstory London (Signed & Dedicated)::pre-order-now-american-hagwon-by-min-jin-lee-signed-publishes-september-2026",
@@ -14352,19 +13897,6 @@
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/the-ancient-ways-by-seren-hawley-plows/",
-      "title": "The Ancient Ways by Seren Hawley-Plows",
-      "author": "Seren Hawley-Plows",
-      "price": "\u00a316.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/the-ancient-ways-by-seren-hawley-plows/",
-      "image": "/shop/the-ancient-ways-by-seren-hawley-plows/the-ancient-ways-by-seren-hawley-plows-a2aa85fb.jpg",
-      "vip": false,
-      "listed_at": "2026-09-28T10:25:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/compensation-by-augustine-cerf-signed",
       "title": "Compensation by Augustine Cerf (Signed)",
       "author": "Augustine Cerf",
@@ -14389,19 +13921,6 @@
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/forgive-us-our-trespasses-by-reverend-penny-stephens/",
-      "title": "Forgive Us Our Trespasses by Reverend Penny Stephens",
-      "author": "Reverend Penny Stephens",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/forgive-us-our-trespasses-by-reverend-penny-stephens/",
-      "image": "/shop/forgive-us-our-trespasses-by-reverend-penny-stephens/forgive-us-our-trespasses-by-reverend-penny-stephens-144ef5aa.jpg",
-      "vip": false,
-      "listed_at": "2026-09-28T00:18:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-hebridean-baker-the-scottish-cookbook-by-coinneach-macleod",
       "title": "The Hebridean Baker: The Scottish Cookbook by Coinneach MacLeod (Signed)",
       "author": "Coinneach MacLeod",
@@ -14412,19 +13931,6 @@
       "vip": false,
       "listed_at": "2026-09-27T15:59:15.949000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/canon-by-paige-lewis/",
-      "title": "Canon by Paige Lewis",
-      "author": "Paige Lewis",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/canon-by-paige-lewis/",
-      "image": "/shop/canon-by-paige-lewis/canon-by-paige-lewis-5967f769.jpg",
-      "vip": false,
-      "listed_at": "2026-09-27T14:10:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "Perkology Books::a-season-of-wonder-poems-reflections-and-stories-for-cherishing-christmas-2",
@@ -14583,19 +14089,6 @@
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/father-alberto-the-flying-girl-by-timothy-x-atack/",
-      "title": "Father Alberto & The Flying Girl by Timothy X Atack",
-      "author": "Timothy X Atack",
-      "price": "\u00a318.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/father-alberto-the-flying-girl-by-timothy-x-atack/",
-      "image": "/shop/father-alberto-the-flying-girl-by-timothy-x-atack/father-alberto-the-flying-girl-by-timothy-x-atack-a0a430af.jpg",
-      "vip": false,
-      "listed_at": "2026-09-27T04:03:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/john-robb-punk-rock-ruined-my-life-signed-bookplate-ed-hardback",
       "title": "John Robb - Punk Rock Ruined My Life (SIGNED BOOKPLATE ED) (HARDBACK)",
       "author": "",
@@ -14605,19 +14098,6 @@
       "image": "https://static.wixstatic.com/media/01f334_ec5c7dca306e420cb7a03064e19cebc6~mv2.jpg",
       "vip": false,
       "listed_at": "2026-09-26T23:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/awake-awake-by-fiona-mozley/",
-      "title": "Awake Awake by Fiona Mozley",
-      "author": "Fiona Mozley",
-      "price": "\u00a320.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/awake-awake-by-fiona-mozley/",
-      "image": "/shop/awake-awake-by-fiona-mozley/awake-awake-by-fiona-mozley-f512a078.jpg",
-      "vip": false,
-      "listed_at": "2026-09-26T17:55:37.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
@@ -14635,19 +14115,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/on-we-go-by-mike-gayle/",
-      "title": "On We Go by Mike Gayle",
-      "author": "Mike Gayle",
-      "price": "\u00a320.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/on-we-go-by-mike-gayle/",
-      "image": "/shop/on-we-go-by-mike-gayle/on-we-go-by-mike-gayle-f57c9948.jpg",
-      "vip": false,
-      "listed_at": "2026-09-26T07:48:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/get-your-shit-together-by-david-shrigley-signed",
       "title": "Get Your Shit Together by David Shrigley (Signed)",
       "author": "David Shrigley",
@@ -14658,19 +14125,6 @@
       "vip": false,
       "listed_at": "2026-09-26T07:47:44.564000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/the-boleyn-secret-by-alison-weir/",
-      "title": "The Boleyn Secret by Alison Weir",
-      "author": "Alison Weir",
-      "price": "\u00a325.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/the-boleyn-secret-by-alison-weir/",
-      "image": "/shop/the-boleyn-secret-by-alison-weir/the-boleyn-secret-by-alison-weir-f3ddf198.jpg",
-      "vip": false,
-      "listed_at": "2026-09-25T21:40:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-killers-mark-washington-poe-signed-copy/",
@@ -14695,19 +14149,6 @@
       "vip": false,
       "listed_at": "2026-09-25T13:24:19.069129+00:00",
       "discovered_at": "2026-10-22T15:58:36.211986+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/till-death-us-do-part-by-reverend-penny-stephens/",
-      "title": "Till Death Us Do Part by Reverend Penny Stephens",
-      "author": "Reverend Penny Stephens",
-      "price": "\u00a310.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/till-death-us-do-part-by-reverend-penny-stephens/",
-      "image": "/shop/till-death-us-do-part-by-reverend-penny-stephens/till-death-us-do-part-by-reverend-penny-stephens-1001540e.jpg",
-      "vip": false,
-      "listed_at": "2026-09-25T11:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
     {
@@ -14770,19 +14211,6 @@
       "vip": false,
       "listed_at": "2026-09-24T15:41:18+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/the-palm-house-by-gwendoline-riley/",
-      "title": "The Palm House by Gwendoline Riley",
-      "author": "Gwendoline Riley",
-      "price": "\u00a316.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/the-palm-house-by-gwendoline-riley/",
-      "image": "/shop/the-palm-house-by-gwendoline-riley/the-palm-house-by-gwendoline-riley-23625462.jpg",
-      "vip": false,
-      "listed_at": "2026-09-24T15:18:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/fictional-selves-kyle-maclachlan",
@@ -14966,19 +14394,6 @@
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/a-remedy-for-fate-by-m-a-kuzniar/",
-      "title": "A Remedy For Fate by M A Kuzniar",
-      "author": "M A Kuzniar",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/a-remedy-for-fate-by-m-a-kuzniar/",
-      "image": "/shop/a-remedy-for-fate-by-m-a-kuzniar/a-remedy-for-fate-by-m-a-kuzniar-707c8095.jpg",
-      "vip": false,
-      "listed_at": "2026-09-24T05:10:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/john-robins-thirst-signed-copy-hardback",
       "title": "John Robins - Thirst (SIGNED COPY) (HARDBACK)",
       "author": "John Robins",
@@ -14988,19 +14403,6 @@
       "image": "https://static.wixstatic.com/media/01f334_57aa26cc3bc64730a761cd51c756612d~mv2.jpg",
       "vip": false,
       "listed_at": "2026-09-23T23:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/a-song-of-legends-lost-by-m-h-ayinde/",
-      "title": "A Song Of Legends Lost by M H Ayinde",
-      "author": "M H Ayinde",
-      "price": "\u00a310.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/a-song-of-legends-lost-by-m-h-ayinde/",
-      "image": "/shop/a-song-of-legends-lost-by-m-h-ayinde/a-song-of-legends-lost-by-m-h-ayinde-848c6f26.jpg",
-      "vip": false,
-      "listed_at": "2026-09-23T19:03:07.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
@@ -15077,19 +14479,6 @@
       "vip": false,
       "listed_at": "2026-09-23T09:04:21.124000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/a-testimony-of-blood-by-rogba-payne/",
-      "title": "A Testimony Of Blood by Rogba Payne",
-      "author": "Rogba Payne",
-      "price": "\u00a312.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/a-testimony-of-blood-by-rogba-payne/",
-      "image": "/shop/a-testimony-of-blood-by-rogba-payne/a-testimony-of-blood-by-rogba-payne-d0955cb3.jpg",
-      "vip": false,
-      "listed_at": "2026-09-23T08:55:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/brian-bilston-how-to-lay-an-egg-with-a-horse-inside-signed-copy-hardback",
@@ -15393,19 +14782,6 @@
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/kiss-marry-kill-by-laura-marshall/",
-      "title": "Kiss Marry Kill by Laura Marshall",
-      "author": "Laura Marshall",
-      "price": "\u00a320.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/kiss-marry-kill-by-laura-marshall/",
-      "image": "/shop/kiss-marry-kill-by-laura-marshall/kiss-marry-kill-by-laura-marshall-c5be85c1.jpg",
-      "vip": false,
-      "listed_at": "2026-09-22T12:40:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/murder-at-the-grand-alpine-hotel-signed-copy/",
       "title": "Murder at the Grand Alpine Hotel \u2013 Signed Copy",
       "author": "",
@@ -15564,19 +14940,6 @@
       "est": "pos"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/somewhere-a-boy-and-a-bear-by-gyles-brandreth/",
-      "title": "Somewhere, A Boy And A Bear by Gyles Brandreth",
-      "author": "Gyles Brandreth",
-      "price": "\u00a325.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/somewhere-a-boy-and-a-bear-by-gyles-brandreth/",
-      "image": "/shop/somewhere-a-boy-and-a-bear-by-gyles-brandreth/somewhere-a-boy-and-a-bear-by-gyles-brandreth-a8bc2608.jpg",
-      "vip": false,
-      "listed_at": "2026-09-21T16:25:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/rise-align-by-clarisse-monahan-signed",
       "title": "Rise & Align by Clarisse Monahan (Signed)",
       "author": "Clarisse Monahan",
@@ -15721,19 +15084,6 @@
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
-      "id": "Station Books::https://stationbooks.co.uk/shop/jesus-christ-kinski-by-benjamin-myers/",
-      "title": "Jesus Christ Kinski by Benjamin Myers",
-      "author": "Benjamin Myers",
-      "price": "\u00a318.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/jesus-christ-kinski-by-benjamin-myers/",
-      "image": "/shop/jesus-christ-kinski-by-benjamin-myers/jesus-christ-kinski-by-benjamin-myers-91792955.jpg",
-      "vip": false,
-      "listed_at": "2026-09-21T06:18:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/edward-tudor-pole-the-pen-is-mightier-signed-copy-hardback",
       "title": "Edward Tudor Pole - The Pen is Mightier (SIGNED COPY) (HARDBACK)",
       "author": "Edward Tudor Pole",
@@ -15743,19 +15093,6 @@
       "image": "https://static.wixstatic.com/media/01f334_dfbbe515cedf427d81608bb7a5303d74~mv2.jpg",
       "vip": false,
       "listed_at": "2026-09-20T23:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/tyrant-by-conn-iggulden/",
-      "title": "Tyrant by Conn Iggulden",
-      "author": "Conn Iggulden",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/tyrant-by-conn-iggulden/",
-      "image": "/shop/tyrant-by-conn-iggulden/tyrant-by-conn-iggulden-e6596877.jpg",
-      "vip": false,
-      "listed_at": "2026-09-20T10:03:07.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
@@ -15794,32 +15131,6 @@
       "image": "https://static.wixstatic.com/media/01f334_f66114804ee94a9b91bda6d1adcfb975~mv2.jpg",
       "vip": false,
       "listed_at": "2026-09-20T05:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/taking-the-lead-by-john-crace/",
-      "title": "Taking The Lead by John Crace",
-      "author": "John Crace",
-      "price": "\u00a318.99",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/taking-the-lead-by-john-crace/",
-      "image": "/shop/taking-the-lead-by-john-crace/taking-the-lead-by-john-crace-899817bc.jpg",
-      "vip": false,
-      "listed_at": "2026-09-19T23:55:37.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Station Books::https://stationbooks.co.uk/shop/brothersong-by-tj-klune/",
-      "title": "Brothersong by TJ Klune",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Station Books",
-      "url": "https://stationbooks.co.uk/shop/brothersong-by-tj-klune/",
-      "image": "/shop/brothersong-by-tj-klune/brothersong-by-tj-klune-ac1954e2.jpg",
-      "vip": false,
-      "listed_at": "2026-09-19T13:48:07.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
     },
