@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-14T17:02:38.000751+00:00",
-  "total_available": 2842,
+  "last_updated": "2026-11-14T17:42:20.467204+00:00",
+  "total_available": 2841,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
     "Porty Books": "11 items",
     "Backstory London (Signed & Dedicated)": "49 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "290 items",
+    "British Library Shop": "289 items",
     "Cleeve Bookshop": "131 items",
     "Ivybridge Bookshop": "159 items",
     "Perkology Books": "38 items",
@@ -11078,18 +11078,6 @@
       "listed_at": "2026-10-15T15:14:21.136253+00:00",
       "discovered_at": "2026-11-13T18:59:21.136253+00:00",
       "est": "pos"
-    },
-    {
-      "id": "British Library Shop::medea-sang-me-a-corrido-signed-edition",
-      "title": "Medea Sang Me a Corrido (Signed Edition)",
-      "author": "",
-      "price": "\u00a310.99",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/medea-sang-me-a-corrido-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/MedeasangmeaCorrido.png?v=1792583699",
-      "vip": false,
-      "listed_at": "2026-10-15T14:57:17+00:00",
-      "discovered_at": "2026-10-21T12:21:27.220275+00:00"
     },
     {
       "id": "Perkology Books::the-heart-of-communication-signed-how-facts-convey-information-but-emotion-delivers-meaning",
