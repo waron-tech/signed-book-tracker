@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T21:25:09.348327+00:00",
-  "total_available": 2844,
+  "last_updated": "2026-11-14T22:00:07.933659+00:00",
+  "total_available": 2843,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
@@ -19,7 +19,7 @@
     "Station Books": "0 items",
     "Booka Bookshop": "289 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1058 items",
+    "West End Lane Books": "1057 items",
     "Linghams": "224 items via feed (as of 2026-11-13T22:37:32.763084+00:00)",
     "Waterstones": "184 items via feed (as of 2026-11-14T14:37:28.480115+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-14T10:39:35.479366+00:00)",
@@ -24976,18 +24976,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/d53c46b6-b946-49c3-941f-23f978fd2752/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+%2824%29.jpg",
       "vip": false,
       "listed_at": "2026-05-14T14:52:19.399000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/harry-baker-four-book-bundle-signed",
-      "title": "Harry Baker Four Book Bundle (Signed)",
-      "author": "",
-      "price": "\u00a343.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/harry-baker-four-book-bundle-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/b696d4df-6df3-4dc0-995b-52ededec47ea/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+%2822%29.jpg",
-      "vip": false,
-      "listed_at": "2026-05-14T14:36:53.805000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
