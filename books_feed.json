@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-14T15:03:26.693917+00:00",
-  "total_available": 2844,
+  "last_updated": "2026-11-14T15:44:19.972372+00:00",
+  "total_available": 2842,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
     "Porty Books": "11 items",
     "Backstory London (Signed & Dedicated)": "49 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "291 items",
+    "British Library Shop": "290 items",
     "Cleeve Bookshop": "131 items",
     "Ivybridge Bookshop": "159 items",
     "Perkology Books": "38 items",
@@ -19,7 +19,7 @@
     "Station Books": "0 items",
     "Booka Bookshop": "289 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1057 items",
+    "West End Lane Books": "1056 items",
     "Linghams": "224 items via feed (as of 2026-11-13T22:37:32.763084+00:00)",
     "Waterstones": "184 items via feed (as of 2026-11-14T14:37:28.480115+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-14T10:39:35.479366+00:00)",
@@ -11570,18 +11570,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "British Library Shop::range-signed-edition",
-      "title": "Range (Signed Edition)",
-      "author": "",
-      "price": "\u00a318.99",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/range-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/therange_9781805680185.png?v=1787832995",
-      "vip": false,
-      "listed_at": "2026-10-14T15:10:12+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "British Library Shop::mending-busted-breaking-and-getting-better-signed-edition",
       "title": "Mending: Busted, Breaking and Getting Better (Signed Edition)",
       "author": "",
@@ -18015,18 +18003,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/19614806-1be6-4224-961c-27f64a4ae05f/Website+Listing+Template+-+Book+%2846%29.jpg",
       "vip": false,
       "listed_at": "2026-08-06T12:59:39.825000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-falling-by-carole-hailey-signed",
-      "title": "The Falling by Carole Hailey (Signed)",
-      "author": "Carole Hailey",
-      "price": "\u00a317.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-falling-by-carole-hailey-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/657bc7b9-2e08-46ac-b3e3-fe9ff000ae0f/Website+Listing+Template+-+Book+%2845%29.jpg",
-      "vip": false,
-      "listed_at": "2026-08-06T12:57:14.859000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
