@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T11:16:05.278874+00:00",
-  "total_available": 2843,
+  "last_updated": "2026-11-14T12:01:57.608211+00:00",
+  "total_available": 2848,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
@@ -19,13 +19,37 @@
     "Station Books": "0 items",
     "Booka Bookshop": "290 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1052 items",
+    "West End Lane Books": "1057 items",
     "Linghams": "224 items via feed (as of 2026-11-13T22:37:32.763084+00:00)",
     "Waterstones": "184 items via feed (as of 2026-11-14T10:39:35.479366+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-14T10:39:35.479366+00:00)",
     "Hatchards": "115 items via feed (as of 2026-11-13T22:37:32.763084+00:00)"
   },
   "books": [
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-future-of-truth-by-werner-herzog-signed",
+      "title": "The Future of Truth by Werner Herzog (Signed)",
+      "author": "Werner Herzog",
+      "price": "\u00a314.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-future-of-truth-by-werner-herzog-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/cecb6a38-a35e-43b2-8388-45b9ebfa0c03/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+%2831%29.jpg",
+      "vip": false,
+      "listed_at": "2026-11-14T11:45:47.221000+00:00",
+      "discovered_at": "2026-11-14T12:01:57.608211+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-secret-of-secrets-by-dan-brown-signed",
+      "title": "The Secret of Secrets by Dan Brown (Signed)",
+      "author": "Dan Brown",
+      "price": "\u00a325.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-secret-of-secrets-by-dan-brown-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/03e9c2e2-ed7c-4b7b-87c0-76092cd98080/Copy+of+Product+Template+-+Book+-+2025-09-07T143937.747.jpg",
+      "vip": false,
+      "listed_at": "2026-11-14T11:28:07.861000+00:00",
+      "discovered_at": "2026-11-14T12:01:57.608211+00:00"
+    },
     {
       "id": "Porty Books::https://www.theportobellobookshop.com/9781837264674-s",
       "title": "Born Lucky",
@@ -21114,6 +21138,18 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/20-minute-meals-by-jamie-oliver-signed",
+      "title": "20 Minute Meals by Jamie Oliver (Signed)",
+      "author": "Jamie Oliver",
+      "price": "\u00a330.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/20-minute-meals-by-jamie-oliver-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/39c71f1d-fafb-481c-8393-fdd76c6e5a90/Untitled+design+%2838%29.jpg",
+      "vip": false,
+      "listed_at": "2026-06-25T10:33:52.812000+00:00",
+      "discovered_at": "2026-11-14T12:01:57.608211+00:00"
+    },
+    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/nights-out-in-the-kitchen-by-jay-rayner-signed",
       "title": "Nights Out In The Kitchen by Jay Rayner (Signed)",
       "author": "Jay Rayner",
@@ -26272,6 +26308,18 @@
       "vip": false,
       "listed_at": "2026-04-22T11:35:16+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/an-expert-witness-by-professor-sue-black-signed",
+      "title": "An Expert Witness by Professor Sue Black (Signed)",
+      "author": "Professor Sue Black",
+      "price": "\u00a322.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/an-expert-witness-by-professor-sue-black-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/105f943f-0ec2-43e3-8f2c-9ebe821e2419/Website+Listing+Template+-+Book+%2860%29.jpg",
+      "vip": false,
+      "listed_at": "2026-04-22T11:33:17.227000+00:00",
+      "discovered_at": "2026-11-14T12:01:57.608211+00:00"
     },
     {
       "id": "British Library Shop::turn-the-dial-for-death-signed-indie-exclusive-edition",
@@ -34780,6 +34828,18 @@
       "vip": false,
       "listed_at": "2025-11-20T12:24:20.567000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-magic-feather-by-julia-donaldson-signed",
+      "title": "The Magic Feather by Julia Donaldson (Signed)",
+      "author": "Julia Donaldson",
+      "price": "\u00a312.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-magic-feather-by-julia-donaldson-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/e940a71f-1e79-4d9c-ab84-ab87736de768/Copy+of+Product+Template+-+Book+-+2025-11-20T114044.719.jpg",
+      "vip": false,
+      "listed_at": "2025-11-20T12:05:13.310000+00:00",
+      "discovered_at": "2026-11-14T12:01:57.608211+00:00"
     },
     {
       "id": "Cleeve Bookshop::9780571399925",
