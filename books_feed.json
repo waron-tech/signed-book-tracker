@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15T20:26:21.682960+00:00",
-  "total_available": 2837,
+  "last_updated": "2026-11-15T21:03:36.516191+00:00",
+  "total_available": 2839,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
@@ -11,13 +11,13 @@
     "Cleeve Bookshop": "131 items",
     "Ivybridge Bookshop": "159 items",
     "Perkology Books": "37 items",
-    "Bookstation (Ireland)": "ERROR: HTTPSConnectionPool(host='bookstation.ie', port=443): Max retries exceeded with url: /collections/signed-books/products.",
+    "Bookstation (Ireland)": "5 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "33 items",
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "55 items",
     "Station Books": "0 items",
-    "Booka Bookshop": "287 items",
+    "Booka Bookshop": "289 items",
     "Coles Books": "12 items",
     "West End Lane Books": "1056 items",
     "Linghams": "224 items via feed (as of 2026-11-14T22:39:34.976883+00:00)",
@@ -26,6 +26,18 @@
     "Hatchards": "116 items via feed (as of 2026-11-14T22:39:34.976883+00:00)"
   },
   "books": [
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/on-jokes-or-why-everything-you-know-about-comedy-is-wrong-the-hidden-mechanics-of-funny-signed-copy/",
+      "title": "On Jokes: (or, why everything you know about comedy is wrong): The Hidden Mechanics of Funny \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a325.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/on-jokes-or-why-everything-you-know-about-comedy-is-wrong-the-hidden-mechanics-of-funny-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/11/On-Jokes-1.jpg",
+      "vip": false,
+      "listed_at": "2026-11-15T20:45:37+00:00",
+      "discovered_at": "2026-11-15T21:03:36.516191+00:00"
+    },
     {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-taper-man-a-novel-of-john-le-carre-s-circus-nick-harkaway",
       "title": "The Taper Man - Nick Harkaway",
@@ -9957,6 +9969,18 @@
       "listed_at": "2026-10-20T11:44:47.288112+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
       "est": "pos"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/royal-witch-signed-independent-bookshop-edition/",
+      "title": "Royal Witch \u2013 Signed Independent Bookshop Edition",
+      "author": "",
+      "price": "\u00a325.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/royal-witch-signed-independent-bookshop-edition/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/Royal-Witch.jpg",
+      "vip": false,
+      "listed_at": "2026-10-20T10:30:27+00:00",
+      "discovered_at": "2026-11-15T21:03:36.516191+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/chain-reaction-signed-copy/",
