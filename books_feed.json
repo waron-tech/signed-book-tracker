@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-15T15:45:16.475000+00:00",
-  "total_available": 2841,
+  "last_updated": "2026-11-15T16:21:50.661551+00:00",
+  "total_available": 2838,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
     "Porty Books": "11 items",
     "Backstory London (Signed & Dedicated)": "49 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "287 items",
+    "British Library Shop": "286 items",
     "Cleeve Bookshop": "131 items",
     "Ivybridge Bookshop": "159 items",
     "Perkology Books": "37 items",
@@ -17,9 +17,9 @@
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "55 items",
     "Station Books": "0 items",
-    "Booka Bookshop": "288 items",
+    "Booka Bookshop": "287 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1057 items",
+    "West End Lane Books": "1056 items",
     "Linghams": "224 items via feed (as of 2026-11-14T22:39:34.976883+00:00)",
     "Waterstones": "184 items via feed (as of 2026-11-15T14:38:05.700430+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-15T14:38:05.700430+00:00)",
@@ -9484,18 +9484,6 @@
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
-      "id": "British Library Shop::diary-of-a-wimpy-kid-fight-or-flight-book-21",
-      "title": "Diary of a Wimpy Kid: Fight or Flight (Signed Edition)",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/diary-of-a-wimpy-kid-fight-or-flight-book-21",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/DiaryofaWimpyKid21_9780241745212.png?v=1790852750",
-      "vip": false,
-      "listed_at": "2026-10-21T11:18:34+00:00",
-      "discovered_at": "2026-10-21T11:46:57.672770+00:00"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/glyph-signed/",
       "title": "Glyph *SIGNED*",
       "author": "Ali Smith",
@@ -15186,18 +15174,6 @@
       "listed_at": "2026-09-20T05:33:07.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
       "est": "pos"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/miriams-full-english-a-grand-tour-of-all-our-best-bits-signed-copy/",
-      "title": "Miriam\u2019s Full English: A Grand Tour of All Our Best Bits \u2013 Signed Copy",
-      "author": "Miriam Margolyes",
-      "price": "\u00a325.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/miriams-full-english-a-grand-tour-of-all-our-best-bits-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/Miriams-Full-English.jpg",
-      "vip": false,
-      "listed_at": "2026-09-19T13:38:51+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/rupi-kaur-home-body-signed-bookplate-edition-hardback",
@@ -21210,18 +21186,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/9a5590f0-57b2-4333-b92b-752a69f2ae42/Untitled+design+%2825%29.jpg",
       "vip": false,
       "listed_at": "2026-06-25T09:21:46.641000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/pastures-new-by-clare-balding-signed",
-      "title": "Pastures New by Clare Balding (Signed)",
-      "author": "Clare Balding",
-      "price": "\u00a320.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/pastures-new-by-clare-balding-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/54abc670-4eb1-41f7-bcea-7434c15cf239/Copy+of+Product+Template+-+Book+-+2025-06-19T181723.578.jpg",
-      "vip": false,
-      "listed_at": "2026-06-24T14:01:14.199000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
