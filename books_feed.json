@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15T09:56:20.804116+00:00",
-  "total_available": 2842,
+  "last_updated": "2026-11-15T10:32:40.035992+00:00",
+  "total_available": 2843,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
@@ -17,7 +17,7 @@
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "55 items",
     "Station Books": "0 items",
-    "Booka Bookshop": "288 items",
+    "Booka Bookshop": "289 items",
     "Coles Books": "12 items",
     "West End Lane Books": "1057 items",
     "Linghams": "224 items via feed (as of 2026-11-14T22:39:34.976883+00:00)",
@@ -16398,6 +16398,18 @@
       "vip": false,
       "listed_at": "2026-09-04T08:43:37.635000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/pea-green-boat-signed-copy/",
+      "title": "Pea Green Boat \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a316.99",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/pea-green-boat-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/04/Pea-Green-Boat.jpg",
+      "vip": false,
+      "listed_at": "2026-09-03T23:24:40+00:00",
+      "discovered_at": "2026-11-15T10:32:40.035992+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/simple-too-signed-copy/",
