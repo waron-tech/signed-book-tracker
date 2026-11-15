@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T12:04:10.796112+00:00",
+  "last_updated": "2026-11-15T12:56:43.530934+00:00",
   "total_available": 2842,
   "shop_status": {
     "Goldsboro Books": "12 items",
@@ -7,13 +7,13 @@
     "Porty Books": "11 items",
     "Backstory London (Signed & Dedicated)": "49 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "288 items",
+    "British Library Shop": "287 items",
     "Cleeve Bookshop": "131 items",
     "Ivybridge Bookshop": "159 items",
     "Perkology Books": "38 items",
     "Bookstation (Ireland)": "5 items",
     "Biggles Stones": "3 items",
-    "London Review Bookshop": "32 items",
+    "London Review Bookshop": "33 items",
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "55 items",
     "Station Books": "0 items",
@@ -26,6 +26,19 @@
     "Hatchards": "116 items via feed (as of 2026-11-14T22:39:34.976883+00:00)"
   },
   "books": [
+    {
+      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-taper-man-a-novel-of-john-le-carre-s-circus-nick-harkaway",
+      "title": "The Taper Man - Nick Harkaway",
+      "author": "Nick Harkaway",
+      "price": "\u00a322.00",
+      "shop": "London Review Bookshop",
+      "url": "https://www.londonreviewbookshop.co.uk/stock/the-taper-man-a-novel-of-john-le-carre-s-circus-nick-harkaway",
+      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/1/3/1/6/4806131-6-eng-GB/3a23cdbcd045-taper.jpg",
+      "vip": false,
+      "listed_at": "2026-11-15T12:56:43.530934+00:00",
+      "discovered_at": "2026-11-15T12:56:43.530934+00:00",
+      "est": "seen"
+    },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/an-amateurs-guide-to-staying-alive-by-scottee-signed",
       "title": "an amateur's guide to staying alive by Scottee (Signed)",
@@ -14276,18 +14289,6 @@
       "listed_at": "2026-09-24T14:15:44.783415+00:00",
       "discovered_at": "2026-10-22T15:58:36.211986+00:00",
       "est": "pos"
-    },
-    {
-      "id": "British Library Shop::doom-painting-signed-edition",
-      "title": "Doom Painting (Signed Edition)",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/doom-painting-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/DoomPainting_9781803512730.png?v=1790255230",
-      "vip": false,
-      "listed_at": "2026-09-24T13:07:28+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/stations-signed-copy/",
