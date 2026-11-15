@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-15T08:28:49.987617+00:00",
-  "total_available": 2844,
+  "last_updated": "2026-11-15T09:13:59.566385+00:00",
+  "total_available": 2843,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
     "Porty Books": "11 items",
     "Backstory London (Signed & Dedicated)": "49 items",
     "Backstory London (Exclusives)": "1 items",
-    "British Library Shop": "289 items",
+    "British Library Shop": "288 items",
     "Cleeve Bookshop": "131 items",
     "Ivybridge Bookshop": "159 items",
     "Perkology Books": "38 items",
@@ -2682,18 +2682,6 @@
       "listed_at": "2026-11-06T15:07:33.264086+00:00",
       "discovered_at": "2026-11-10T02:54:27.809541+00:00",
       "est": "pos"
-    },
-    {
-      "id": "British Library Shop::pay-attention",
-      "title": "Pay Attention (Signed Edition)",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/pay-attention",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/PayAttention9781472161420.png?v=1793977235",
-      "vip": false,
-      "listed_at": "2026-11-06T15:00:46+00:00",
-      "discovered_at": "2026-11-06T15:26:50.417332+00:00"
     },
     {
       "id": "Waterstones::https://www.waterstones.com/book/watch-the-quiet-snow/mick-herron/9781399842983",
