@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T00:30:12.095847+00:00",
+  "last_updated": "2026-11-15T01:43:04.586511+00:00",
   "total_available": 2844,
   "shop_status": {
     "Goldsboro Books": "12 items",
@@ -413,19 +413,6 @@
       "est": "seen"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/kitchening-day-to-day-good-food-come-rain-or-shine-jeremy-lee",
-      "title": "Kitchening - Jeremy Lee",
-      "author": "Jeremy Lee",
-      "price": "\u00a330.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/kitchening-day-to-day-good-food-come-rain-or-shine-jeremy-lee",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/6/0/3/1/4621306-2-eng-GB/9780008645786-2.jpg",
-      "vip": false,
-      "listed_at": "2026-11-12T13:54:34.043905+00:00",
-      "discovered_at": "2026-11-12T13:54:34.043905+00:00",
-      "est": "seen"
-    },
-    {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/heidegger-thinking-being-and-time-explained-simon-critchley",
       "title": "Heidegger Thinking - Simon Critchley",
       "author": "Simon Critchley",
@@ -433,6 +420,19 @@
       "shop": "London Review Bookshop",
       "url": "https://www.londonreviewbookshop.co.uk/stock/heidegger-thinking-being-and-time-explained-simon-critchley",
       "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/0/4/9/5/4605940-1-eng-GB/9798896231080.jpg",
+      "vip": false,
+      "listed_at": "2026-11-12T13:54:34.043905+00:00",
+      "discovered_at": "2026-11-12T13:54:34.043905+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/kitchening-day-to-day-good-food-come-rain-or-shine-jeremy-lee",
+      "title": "Kitchening - Jeremy Lee",
+      "author": "Jeremy Lee",
+      "price": "\u00a330.00",
+      "shop": "London Review Bookshop",
+      "url": "https://www.londonreviewbookshop.co.uk/stock/kitchening-day-to-day-good-food-come-rain-or-shine-jeremy-lee",
+      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/6/0/3/1/4621306-2-eng-GB/9780008645786-2.jpg",
       "vip": false,
       "listed_at": "2026-11-12T13:54:34.043905+00:00",
       "discovered_at": "2026-11-12T13:54:34.043905+00:00",
