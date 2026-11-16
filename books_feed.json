@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-16T15:33:03.676924+00:00",
-  "total_available": 2830,
+  "last_updated": "2026-11-16T16:56:22.145111+00:00",
+  "total_available": 2831,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
     "Porty Books": "11 items",
-    "Backstory London (Signed & Dedicated)": "47 items",
+    "Backstory London (Signed & Dedicated)": "48 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "284 items",
     "Cleeve Bookshop": "131 items",
@@ -26,6 +26,18 @@
     "Hatchards": "116 items via feed (as of 2026-11-15T22:39:53.281601+00:00)"
   },
   "books": [
+    {
+      "id": "Backstory London (Signed & Dedicated)::only-children",
+      "title": "Only Children",
+      "author": "",
+      "price": "\u00a318.99",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/only-children",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781787336995.jpg?v=1794843170",
+      "vip": false,
+      "listed_at": "2026-11-16T15:35:48+00:00",
+      "discovered_at": "2026-11-16T16:56:22.145111+00:00"
+    },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/only-children-by-ottessa-moshfegh-signed",
       "title": "Only Children by Ottessa Moshfegh (Signed)",
