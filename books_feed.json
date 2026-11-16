@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-16T18:41:38.868559+00:00",
-  "total_available": 2828,
+  "last_updated": "2026-11-16T19:39:23.472321+00:00",
+  "total_available": 2827,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
@@ -19,7 +19,7 @@
     "Station Books": "0 items",
     "Booka Bookshop": "284 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1056 items",
+    "West End Lane Books": "1055 items",
     "Linghams": "224 items via feed (as of 2026-11-15T22:39:53.281601+00:00)",
     "Waterstones": "182 items via feed (as of 2026-11-16T14:40:23.263175+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-16T14:40:23.263175+00:00)",
@@ -16143,18 +16143,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/f70c45c4-b59e-42d5-8e6c-83be3284adde/Website+Listing+Template+-+Book+-+2026-09-08T131030.521.jpg",
       "vip": false,
       "listed_at": "2026-09-08T12:12:25.555000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/how-to-begin-by-edmund-de-waal-signed",
-      "title": "How to Begin by Edmund de Waal (Signed)",
-      "author": "Edmund de Waal",
-      "price": "\u00a318.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/how-to-begin-by-edmund-de-waal-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/8ce320a0-bb6f-4562-a769-9a3297f77c8a/Website+Listing+Template+-+Book+-+2026-09-08T130447.615.jpg",
-      "vip": false,
-      "listed_at": "2026-09-08T12:09:23.903000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
