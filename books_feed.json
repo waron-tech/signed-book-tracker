@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T05:18:58.827690+00:00",
+  "last_updated": "2026-11-16T06:58:48.296449+00:00",
   "total_available": 2838,
   "shop_status": {
     "Goldsboro Books": "12 items",
@@ -18,7 +18,7 @@
     "Hewson Books": "55 items",
     "Station Books": "0 items",
     "Booka Bookshop": "289 items",
-    "Coles Books": "ERROR: HTTPSConnectionPool(host='coles-books.co.uk', port=443): Read timed out. (read timeout=15)",
+    "Coles Books": "12 items",
     "West End Lane Books": "1055 items",
     "Linghams": "224 items via feed (as of 2026-11-15T22:39:53.281601+00:00)",
     "Waterstones": "183 items via feed (as of 2026-11-15T18:40:13.084660+00:00)",
