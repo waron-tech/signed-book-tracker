@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-17T06:25:50.788064+00:00",
-  "total_available": 2827,
+  "last_updated": "2026-11-17T07:47:07.327871+00:00",
+  "total_available": 2826,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
     "Porty Books": "11 items",
-    "Backstory London (Signed & Dedicated)": "48 items",
+    "Backstory London (Signed & Dedicated)": "47 items",
     "Backstory London (Exclusives)": "1 items",
     "British Library Shop": "284 items",
     "Cleeve Bookshop": "130 items",
@@ -1566,18 +1566,6 @@
       "listed_at": "2026-11-10T14:06:25.648768+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
       "est": "pos"
-    },
-    {
-      "id": "Backstory London (Signed & Dedicated)::pre-order-now-games-of-my-life-by-alex-ferguson-signed-edition",
-      "title": "Games of My Life",
-      "author": "",
-      "price": "\u00a340.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/pre-order-now-games-of-my-life-by-alex-ferguson-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781037402425_1.jpg?v=1774973111",
-      "vip": false,
-      "listed_at": "2026-11-10T13:56:40+00:00",
-      "discovered_at": "2026-11-10T14:31:34.774946+00:00"
     },
     {
       "id": "Linghams::https://linghams.co.uk/product/mr-bears-christmas-2/",
