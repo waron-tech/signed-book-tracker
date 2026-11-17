@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-17T02:35:42.855893+00:00",
-  "total_available": 2808,
+  "last_updated": "2026-11-17T03:29:35.013656+00:00",
+  "total_available": 2827,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
@@ -18,12 +18,12 @@
     "Hewson Books": "55 items",
     "Station Books": "0 items",
     "Booka Bookshop": "284 items",
-    "Coles Books": "12 items",
+    "Coles Books": "ERROR: HTTPSConnectionPool(host='coles-books.co.uk', port=443): Read timed out. (read timeout=15)",
     "West End Lane Books": "1054 items",
     "Linghams": "224 items via feed (as of 2026-11-16T22:42:13.439063+00:00)",
     "Waterstones": "182 items via feed (as of 2026-11-16T14:40:23.263175+00:00)",
-    "Foyles": "119 items via feed (as of 2026-11-16T22:42:13.439063+00:00)",
-    "Hatchards": "116 items via feed (as of 2026-11-16T22:42:13.439063+00:00)"
+    "Foyles": "137 items via feed (as of 2026-11-17T02:41:25.753491+00:00)",
+    "Hatchards": "117 items via feed (as of 2026-11-17T02:41:25.753491+00:00)"
   },
   "books": [
     {
@@ -208,6 +208,32 @@
       "listed_at": "2026-11-14T10:30:38.922582+00:00",
       "discovered_at": "2026-11-14T10:30:38.922582+00:00",
       "est": "seen"
+    },
+    {
+      "id": "Foyles::https://www.foyles.co.uk/book/how-ive-tried-to-change-the-world/alexei-sayle/9781399645102",
+      "title": "How I've Tried to Change the World",
+      "author": "Alexei Sayle",
+      "price": "\u00a316.99",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/how-ive-tried-to-change-the-world/alexei-sayle/9781399645102",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-11-14T03:29:35.013656+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/get-back/hunter-davies/2928377394462",
+      "title": "Get Back by Hunter Davies",
+      "author": "Hunter Davies",
+      "price": "\u00a325.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/get-back/hunter-davies/2928377394462",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377394462_2.jpg",
+      "vip": false,
+      "listed_at": "2026-11-13T21:57:16.552118+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
+      "est": "pos"
     },
     {
       "id": "Coles Books::https://coles-books.co.uk/the-self-and-the-portrait-by-sam-taylor-johnson-signed-edition",
@@ -4466,7 +4492,7 @@
       "price": "\u00a322.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/the-wine-dark-sea/victoria-hislop/9781035448104",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/9781/0354/9781035448104_2.jpg",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": false,
       "listed_at": "2026-11-03T11:46:24.970419+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -8597,6 +8623,19 @@
       "est": "pos"
     },
     {
+      "id": "Foyles::https://www.foyles.co.uk/book/the-stretch/martina-cole/9781035452187",
+      "title": "The Stretch",
+      "author": "Martina Cole",
+      "price": "\u00a325.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/the-stretch/martina-cole/9781035452187",
+      "image": "https://cdn.foyles.co.uk/override/v1/large/9781/0354/9781035452187_3.jpg",
+      "vip": false,
+      "listed_at": "2026-10-23T11:12:03.918765+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/firstborn-daughter/katherine-ryan/9781806176403",
       "title": "Firstborn Daughter",
       "author": "Katherine Ryan",
@@ -8672,6 +8711,19 @@
       "vip": false,
       "listed_at": "2026-10-23T07:01:30.566801+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Foyles::https://www.foyles.co.uk/book/the-disappearers/marlon-james/2928377380007",
+      "title": "The Disappearers",
+      "author": "Marlon James",
+      "price": "\u00a320.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/the-disappearers/marlon-james/2928377380007",
+      "image": "https://cdn.foyles.co.uk/override/v2/large/2928/3773/2928377380007_3.jpg",
+      "vip": false,
+      "listed_at": "2026-10-23T06:28:16.181539+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
       "est": "pos"
     },
     {
@@ -8763,6 +8815,19 @@
       "vip": false,
       "listed_at": "2026-10-22T22:45:27.334951+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Foyles::https://www.foyles.co.uk/book/all-the-wrong-moves/anthony-scaramucci/2928377375218",
+      "title": "All the Wrong Moves",
+      "author": "Anthony Scaramucci",
+      "price": "\u00a325.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/all-the-wrong-moves/anthony-scaramucci/2928377375218",
+      "image": "https://cdn.foyles.co.uk/override/v2/large/2928/3773/2928377375218_3.jpg",
+      "vip": false,
+      "listed_at": "2026-10-22T21:00:40.707087+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
       "est": "pos"
     },
     {
@@ -8957,6 +9022,19 @@
       "est": "pos"
     },
     {
+      "id": "Foyles::https://www.foyles.co.uk/book/doom-painting/a-k-blakemore/9781803515007",
+      "title": "Doom Painting",
+      "author": "A K Blakemore",
+      "price": "\u00a320.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/doom-painting/a-k-blakemore/9781803515007",
+      "image": "https://cdn.foyles.co.uk/override/v1/large/9781/8035/9781803515007_3.jpg",
+      "vip": false,
+      "listed_at": "2026-10-22T11:33:05.232634+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/lessons-from-a-default-parent/",
       "title": "Lessons From a Default Parent signed by Lou Beckett",
       "author": "Lou Beckett",
@@ -9082,6 +9160,19 @@
       "est": "pos"
     },
     {
+      "id": "Foyles::https://www.foyles.co.uk/book/the-american-way-of-killing/malcolm-gladwell/9780349149721",
+      "title": "The American Way of Killing",
+      "author": "Malcolm Gladwell",
+      "price": "\u00a325.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/the-american-way-of-killing/malcolm-gladwell/9780349149721",
+      "image": "https://cdn.foyles.co.uk/override/v1/large/9780/3491/9780349149721_3.jpg",
+      "vip": false,
+      "listed_at": "2026-10-22T06:49:17.495408+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/the-housekeeper/rose-tremain/2928377382278",
       "title": "The Housekeeper",
       "author": "Rose Tremain",
@@ -9157,6 +9248,19 @@
       "vip": false,
       "listed_at": "2026-10-22T02:30:27.334951+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Foyles::https://www.foyles.co.uk/book/arthur/amy-jeffs/9781529455632",
+      "title": "Arthur",
+      "author": "Amy Jeffs",
+      "price": "\u00a330.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/arthur/amy-jeffs/9781529455632",
+      "image": "https://cdn.foyles.co.uk/override/v1/large/9781/5294/9781529455632_3.jpg",
+      "vip": false,
+      "listed_at": "2026-10-22T02:05:29.758182+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
       "est": "pos"
     },
     {
@@ -9532,6 +9636,19 @@
       "discovered_at": "2026-10-21T12:21:27.220275+00:00"
     },
     {
+      "id": "Foyles::https://www.foyles.co.uk/book/down-burrow-lane/michael-morpurgo/9781399767651",
+      "title": "Down Burrow Lane",
+      "author": "Michael Morpurgo",
+      "price": "\u00a320.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/down-burrow-lane/michael-morpurgo/9781399767651",
+      "image": "https://cdn.foyles.co.uk/override/v2/large/9781/3997/9781399767651_3.jpg",
+      "vip": false,
+      "listed_at": "2026-10-21T11:54:06.546503+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/dead-in-three-two-one-signed-independent-bookshop-edition/",
       "title": "Dead in Three Two One \u2013 Signed Independent Bookshop Edition",
       "author": "",
@@ -9619,6 +9736,19 @@
       "est": "pos"
     },
     {
+      "id": "Foyles::https://www.foyles.co.uk/book/ply/hernan-diaz/2928377379711",
+      "title": "Ply",
+      "author": "Hernan Diaz",
+      "price": "\u00a320.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/ply/hernan-diaz/2928377379711",
+      "image": "https://cdn.foyles.co.uk/override/v1/large/2928/3773/2928377379711_3.jpg",
+      "vip": false,
+      "listed_at": "2026-10-21T07:10:18.809276+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/common-decency-signed-pre-order/",
       "title": "Common Decency *SIGNED*",
       "author": "Tom Allen",
@@ -9668,6 +9798,19 @@
       "vip": false,
       "listed_at": "2026-10-21T03:21:53.049236+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Foyles::https://www.foyles.co.uk/book/king-zero/charlie-higson/2928377380373",
+      "title": "King Zero",
+      "author": "Charlie Higson",
+      "price": "\u00a322.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/king-zero/charlie-higson/2928377380373",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-21T02:26:31.072050+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
       "est": "pos"
     },
     {
@@ -9736,6 +9879,19 @@
       "est": "pos"
     },
     {
+      "id": "Foyles::https://www.foyles.co.uk/book/the-corrections/jonathan-franzen/9780008858797",
+      "title": "The Corrections",
+      "author": "Jonathan Franzen",
+      "price": "\u00a325.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/the-corrections/jonathan-franzen/9780008858797",
+      "image": "",
+      "vip": true,
+      "listed_at": "2026-10-20T21:42:43.334824+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/half-his-age-signed/",
       "title": "Half His Age *SIGNED*",
       "author": "Jennette McCurdy",
@@ -9785,6 +9941,19 @@
       "vip": false,
       "listed_at": "2026-10-20T18:11:14.625591+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Foyles::https://www.foyles.co.uk/book/nights-out-in-the-kitchen/jay-rayner/2928377381547",
+      "title": "Nights Out in the Kitchen",
+      "author": "Jay Rayner",
+      "price": "\u00a322.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/nights-out-in-the-kitchen/jay-rayner/2928377381547",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-20T16:58:55.597598+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
       "est": "pos"
     },
     {
@@ -9863,6 +10032,19 @@
       "vip": false,
       "listed_at": "2026-10-20T12:36:04.280763+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Foyles::https://www.foyles.co.uk/book/under-story/chloe-benjamin/9781035448029",
+      "title": "Under Story",
+      "author": "Chloe Benjamin",
+      "price": "\u00a320.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/under-story/chloe-benjamin/9781035448029",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-20T12:15:07.860371+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
       "est": "pos"
     },
     {
@@ -10014,6 +10196,19 @@
       "est": "pos"
     },
     {
+      "id": "Foyles::https://www.foyles.co.uk/book/kitchening/jeremy-lee/9780008846039",
+      "title": "Kitchening",
+      "author": "Jeremy Lee",
+      "price": "\u00a330.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/kitchening/jeremy-lee/9780008846039",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-20T07:31:20.123145+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/the-seriously-epic-holiday-of-lottie-brooks-signed-pre-order/",
       "title": "The Seriously Epic Holiday of Lottie Brooks *SIGNED* (pre-order)",
       "author": "Katie Kirby",
@@ -10063,6 +10258,19 @@
       "vip": false,
       "listed_at": "2026-10-20T04:13:18.763522+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Foyles::https://www.foyles.co.uk/book/pea-green-boat/stewart-lee/2928377382261",
+      "title": "Pea Green Boat",
+      "author": "Stewart Lee",
+      "price": "\u00a316.99",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/pea-green-boat/stewart-lee/2928377382261",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-20T02:47:32.385919+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
       "est": "pos"
     },
     {
@@ -10167,6 +10375,19 @@
       "vip": false,
       "listed_at": "2026-10-19T18:02:29.583194+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Foyles::https://www.foyles.co.uk/book/the-strangers/naomi-alderman/2928377379995",
+      "title": "The Strangers",
+      "author": "Naomi Alderman",
+      "price": "\u00a320.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/the-strangers/naomi-alderman/2928377379995",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-19T17:19:56.911466+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
       "est": "pos"
     },
     {
@@ -10312,6 +10533,19 @@
       "est": "pos"
     },
     {
+      "id": "Foyles::https://www.foyles.co.uk/book/the-thief-and-the-traitor-bride/v-l-bovalino/9780356532806",
+      "title": "The Thief and the Traitor Bride",
+      "author": "V L Bovalino",
+      "price": "\u00a322.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/the-thief-and-the-traitor-bride/v-l-bovalino/9780356532806",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-19T07:52:21.437014+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/how-to-hero/ross-edgley/9781408738207",
       "title": "How to Hero",
       "author": "Ross Edgley",
@@ -10348,6 +10582,19 @@
       "vip": false,
       "listed_at": "2026-10-19T03:52:39.419260+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Foyles::https://www.foyles.co.uk/book/this-cursed-beautiful-land/evan-gershkovich/9780008862350",
+      "title": "This Cursed Beautiful Land",
+      "author": "Evan Gershkovich",
+      "price": "\u00a325.00",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/this-cursed-beautiful-land/evan-gershkovich/9780008862350",
+      "image": "",
+      "vip": false,
+      "listed_at": "2026-10-19T03:08:33.699787+00:00",
+      "discovered_at": "2026-11-17T03:29:35.013656+00:00",
       "est": "pos"
     },
     {
