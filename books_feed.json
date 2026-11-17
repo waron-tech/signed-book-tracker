@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-17T01:43:12.342056+00:00",
-  "total_available": 2809,
+  "last_updated": "2026-11-17T02:35:42.855893+00:00",
+  "total_available": 2808,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
@@ -19,7 +19,7 @@
     "Station Books": "0 items",
     "Booka Bookshop": "284 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1055 items",
+    "West End Lane Books": "1054 items",
     "Linghams": "224 items via feed (as of 2026-11-16T22:42:13.439063+00:00)",
     "Waterstones": "182 items via feed (as of 2026-11-16T14:40:23.263175+00:00)",
     "Foyles": "119 items via feed (as of 2026-11-16T22:42:13.439063+00:00)",
@@ -16725,18 +16725,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/62ec8408-5696-43f9-984b-0cea682c8f4a/Website+Listing+Template+-+Book+%2899%29.jpg",
       "vip": false,
       "listed_at": "2026-08-22T13:32:14.983000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/beneath-a-midnight-moon-by-catherine-cowles-signed",
-      "title": "Beneath a Midnight Moon by Catherine Cowles (Signed)",
-      "author": "Catherine Cowles",
-      "price": "\u00a39.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/beneath-a-midnight-moon-by-catherine-cowles-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/b18f161f-19f6-46db-aba3-8769dbf40ff0/Website+Listing+Template+-+Book+%2898%29.jpg",
-      "vip": false,
-      "listed_at": "2026-08-22T13:24:50.625000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
