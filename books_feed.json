@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T02:59:14.400105+00:00",
+  "last_updated": "2026-11-18T11:16:15.912853+00:00",
   "total_available": 2847,
   "shop_status": {
     "Goldsboro Books": "12 items",
@@ -14,18 +14,30 @@
     "Bookstation (Ireland)": "5 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "35 items",
-    "Little Apple Bookshop": "38 items",
+    "Little Apple Bookshop": "37 items",
     "Hewson Books": "55 items",
     "Station Books": "0 items",
     "Booka Bookshop": "286 items",
-    "Coles Books": "ERROR: HTTPSConnectionPool(host='coles-books.co.uk', port=443): Read timed out. (read timeout=15)",
-    "West End Lane Books": "1070 items",
+    "Coles Books": "ERROR: 403 Client Error: Forbidden for url: https://coles-books.co.uk/signed/books?product_list_order=created_at",
+    "West End Lane Books": "1071 items",
     "Waterstones": "183 items via feed (as of 2026-11-17T22:43:10.857523+00:00)",
     "Hatchards": "117 items via feed (as of 2026-11-17T22:43:10.857523+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-17T22:43:10.857523+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-18T02:45:16.110469+00:00)"
   },
   "books": [
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-story-orchestra-alices-adventures-in-wonderland-by-jessica-courtney-tickle-signed",
+      "title": "The Story Orchestra: Alice's Adventures in Wonderland by Jessica Courtney-Tickle (Signed)",
+      "author": "Jessica Courtney-Tickle",
+      "price": "\u00a318.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-story-orchestra-alices-adventures-in-wonderland-by-jessica-courtney-tickle-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/f56d5669-fcc9-4114-b20b-d7bdab5ae548/We+are+hiring%21+%289%29.jpg",
+      "vip": false,
+      "listed_at": "2026-11-18T10:38:24.087000+00:00",
+      "discovered_at": "2026-11-18T11:16:15.912853+00:00"
+    },
     {
       "id": "Porty Books::https://www.theportobellobookshop.com/9780571400010-sib",
       "title": "Astralabe",
@@ -9389,18 +9401,6 @@
       "discovered_at": "2026-10-22T10:58:23.027080+00:00"
     },
     {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/persevilience-the-word-the-world-needs-now-signed-copy/",
-      "title": "Persevilience: The Word the World Needs Now \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/persevilience-the-word-the-world-needs-now-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/10/Persevilience.jpg",
-      "vip": false,
-      "listed_at": "2026-10-22T10:34:45+00:00",
-      "discovered_at": "2026-10-18T16:36:05.456626+00:00"
-    },
-    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-shadows-of-kensington-gore-signed-copy/",
       "title": "The Shadows of Kensington Gore \u2013 Signed Independent Bookshop Exclusive Edition",
       "author": "",
@@ -10311,19 +10311,6 @@
       "listed_at": "2026-10-20T14:22:49.061139+00:00",
       "discovered_at": "2026-10-20T14:22:49.061139+00:00",
       "est": "seen"
-    },
-    {
-      "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/shakespeare-s-first-folio-all-the-plays-a-children-s-edition-age-7-hb",
-      "title": "Shakespeare's First Folio: All The Plays (SIGNED COPY) (AGE 7+) (HB)",
-      "author": "",
-      "price": "\u00a330.00",
-      "shop": "Little Apple Bookshop",
-      "url": "https://www.littleapplebookshop.co.uk/product-page/shakespeare-s-first-folio-all-the-plays-a-children-s-edition-age-7-hb",
-      "image": "https://static.wixstatic.com/media/01f334_f66114804ee94a9b91bda6d1adcfb975~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-20T13:05:33.347473+00:00",
-      "discovered_at": "2026-11-18T02:59:14.400105+00:00",
-      "est": "pos"
     },
     {
       "id": "Foyles::https://www.foyles.co.uk/book/the-fall-of-the-west/owen-jones/2928377379926",
@@ -12928,6 +12915,18 @@
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/games-of-my-life-signed-copy/",
+      "title": "Games of My Life \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a340.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/games-of-my-life-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/03/Games-of-My-Life-jacket.jpg",
+      "vip": false,
+      "listed_at": "2026-10-08T16:48:18+00:00",
+      "discovered_at": "2026-11-18T11:16:15.912853+00:00"
+    },
+    {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/a-history-of-the-world-in-51-heroes-and-villains-by-goalhanger",
       "title": "A History of the World in 51 Heroes and Villains ***Signed*** by Goalhanger",
       "author": "",
@@ -13624,18 +13623,6 @@
       "listed_at": "2026-10-02T16:21:35.457398+00:00",
       "discovered_at": "2026-10-28T04:21:35.457398+00:00",
       "est": "pos"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/have-you-ever-heard-old-music-52-essential-records-you-need-in-your-life-by-owen-cutts-signed",
-      "title": "Have You Ever Heard Old Music? : 52 Essential Records You Need in Your Life by Owen Cutts (Signed)",
-      "author": "Owen Cutts",
-      "price": "\u00a318.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/have-you-ever-heard-old-music-52-essential-records-you-need-in-your-life-by-owen-cutts-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/bac5c16b-2873-475a-ad6e-f8db61faf5c6/Untitled+design+%2885%29.jpg",
-      "vip": false,
-      "listed_at": "2026-10-02T16:16:42.025000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781915780942",
@@ -15534,7 +15521,7 @@
       "price": "\u00a314.99",
       "shop": "Little Apple Bookshop",
       "url": "https://www.littleapplebookshop.co.uk/product-page/rupi-kaur-home-body-signed-bookplate-edition-hardback",
-      "image": "https://static.wixstatic.com/media/01f334_35113a35a552403db4eff74950d71560~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/01f334_f66114804ee94a9b91bda6d1adcfb975~mv2.jpg",
       "vip": false,
       "listed_at": "2026-09-19T11:33:07.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
@@ -16211,6 +16198,18 @@
       "vip": false,
       "listed_at": "2026-09-10T10:07:13+00:00",
       "discovered_at": "2026-10-19T02:24:08.500074+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-bayeux-tapestry-fold-out-edition-signed",
+      "title": "The Bayeux Tapestry: Fold-Out Edition (Signed)",
+      "author": "",
+      "price": "\u00a315.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-bayeux-tapestry-fold-out-edition-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/c93c489c-06e4-4966-8d20-2276bbead1c4/Website+Listing+Template+-+Book+-+2026-09-10T105810.252.jpg",
+      "vip": false,
+      "listed_at": "2026-09-10T10:00:21.382000+00:00",
+      "discovered_at": "2026-11-18T11:16:15.912853+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-story-of-the-bayeux-tapestry-unravelling-the-norman-conquest-by-michael-lewis-and-david-musgrove-signed",
@@ -29317,6 +29316,18 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/how-to-enter-the-art-world-by-hettie-judah-signed",
+      "title": "How to Enter the Art World by Hettie Judah (Signed)",
+      "author": "Hettie Judah",
+      "price": "\u00a314.95",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/how-to-enter-the-art-world-by-hettie-judah-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/009366f7-949f-4133-9717-fd2f24808283/Website+Listing+Template+-+Book+%287%29.jpg",
+      "vip": false,
+      "listed_at": "2026-03-05T11:01:48.416000+00:00",
+      "discovered_at": "2026-11-18T11:16:15.912853+00:00"
+    },
+    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/little-red-riding-hood-blows-her-trust-fund-by-daniel-foxx-signed",
       "title": "Little Red Riding Hood Blows Her Trust Fund by Daniel Foxx (Signed)",
       "author": "Daniel Foxx",
@@ -32999,18 +33010,6 @@
       "vip": false,
       "listed_at": "2026-01-15T18:47:29+00:00",
       "discovered_at": "2026-11-17T11:38:32.110124+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/collectors-edition-twisted-bundle-by-ana-huang-signed",
-      "title": "Collector's Edition Twisted Bundle by Ana Huang (Signed)",
-      "author": "Ana Huang",
-      "price": "\u00a3100.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/collectors-edition-twisted-bundle-by-ana-huang-signed",
-      "image": "https://static1.squarespace.com/static/5eef48074fae902f27d8deb4/5eef6c30efa3e3278d90c396/696910f5d17db30d32ffa28f/1791574432809/",
-      "vip": false,
-      "listed_at": "2026-01-15T16:12:36.871000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/survival-show-by-juno-dawson-signed",
