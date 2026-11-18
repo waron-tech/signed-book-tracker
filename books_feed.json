@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-18T11:16:15.912853+00:00",
+  "last_updated": "2026-11-18T19:28:02.454600+00:00",
   "total_available": 2847,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "2 items",
-    "Porty Books": "13 items",
+    "Porty Books": "15 items",
     "Backstory London (Signed & Dedicated)": "48 items",
     "Backstory London (Exclusives)": "0 items",
-    "British Library Shop": "283 items",
+    "British Library Shop": "282 items",
     "Cleeve Bookshop": "130 items",
     "Ivybridge Bookshop": "157 items",
     "Perkology Books": "37 items",
@@ -17,15 +17,66 @@
     "Little Apple Bookshop": "37 items",
     "Hewson Books": "55 items",
     "Station Books": "0 items",
-    "Booka Bookshop": "286 items",
-    "Coles Books": "ERROR: 403 Client Error: Forbidden for url: https://coles-books.co.uk/signed/books?product_list_order=created_at",
-    "West End Lane Books": "1071 items",
-    "Waterstones": "183 items via feed (as of 2026-11-17T22:43:10.857523+00:00)",
+    "Booka Bookshop": "289 items",
+    "Coles Books": "12 items",
+    "West End Lane Books": "1066 items",
+    "Waterstones": "184 items via feed (as of 2026-11-18T18:42:45.903152+00:00)",
     "Hatchards": "117 items via feed (as of 2026-11-17T22:43:10.857523+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-17T22:43:10.857523+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-18T02:45:16.110469+00:00)"
   },
   "books": [
+    {
+      "id": "Porty Books::https://www.theportobellobookshop.com/9781917719407-s",
+      "title": "An Opinionated Guide to Edinburgh",
+      "author": "Pippa Perriam",
+      "price": "\u00a312.95",
+      "shop": "Porty Books",
+      "url": "https://www.theportobellobookshop.com/9781917719407-s",
+      "image": "https://cdn.theportobellobookshop.com/img/supplementary--10866709--main.jpg?p=search",
+      "vip": false,
+      "listed_at": "2026-11-18T19:28:02.454600+00:00",
+      "discovered_at": "2026-11-18T19:28:02.454600+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Porty Books::https://www.theportobellobookshop.com/9781837265473-se",
+      "title": "poyums annaw",
+      "author": "Len Pennie",
+      "price": "\u00a314.99",
+      "shop": "Porty Books",
+      "url": "https://www.theportobellobookshop.com/9781837265473-se",
+      "image": "https://cdn.theportobellobookshop.com/img/supplementary--8551616--main.jpg?p=search",
+      "vip": false,
+      "listed_at": "2026-11-18T19:28:02.454600+00:00",
+      "discovered_at": "2026-11-18T19:28:02.454600+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/blue/rachel-schneider/9781399650854",
+      "title": "Blue",
+      "author": "Rachel Schneider",
+      "price": "\u00a325.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/blue/rachel-schneider/9781399650854",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3996/9781399650854.jpg",
+      "vip": false,
+      "listed_at": "2026-11-18T19:28:02.454600+00:00",
+      "discovered_at": "2026-11-18T19:28:02.454600+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-unwelcome-guest-signed-copy/",
+      "title": "The Unwelcome Guest \u2013 Signed Copy",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/the-unwelcome-guest-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/11/The-Unwelcome-Guest.jpg",
+      "vip": false,
+      "listed_at": "2026-11-18T17:55:12+00:00",
+      "discovered_at": "2026-11-18T19:28:02.454600+00:00"
+    },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-story-orchestra-alices-adventures-in-wonderland-by-jessica-courtney-tickle-signed",
       "title": "The Story Orchestra: Alice's Adventures in Wonderland by Jessica Courtney-Tickle (Signed)",
@@ -37,6 +88,18 @@
       "vip": false,
       "listed_at": "2026-11-18T10:38:24.087000+00:00",
       "discovered_at": "2026-11-18T11:16:15.912853+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/michael-signed-independent-bookshop-edition/",
+      "title": "Michael \u2013 Signed Independent Bookshop Edition",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/michael-signed-independent-bookshop-edition/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/09/MICHAEL-scaled.png",
+      "vip": false,
+      "listed_at": "2026-11-18T09:00:13+00:00",
+      "discovered_at": "2026-11-18T19:28:02.454600+00:00"
     },
     {
       "id": "Porty Books::https://www.theportobellobookshop.com/9780571400010-sib",
@@ -1186,7 +1249,7 @@
       "price": "\u00a318.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/black-bag/luke-kennard/9781399847995",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9781/3998/9781399847995.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3998/9781399847995.jpg",
       "vip": false,
       "listed_at": "2026-11-12T08:35:56.140571+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -3312,7 +3375,7 @@
       "price": "\u00a314.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/lottie-brooks-s-twelve-disasters-of-christmas/katie-kirby/9780241857724",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9780/2418/9780241857724.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9780/2418/9780241857724.jpg",
       "vip": false,
       "listed_at": "2026-11-06T14:30:02.042211+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -3377,6 +3440,19 @@
       "vip": false,
       "listed_at": "2026-11-06T13:41:45+00:00",
       "discovered_at": "2026-11-06T13:49:14.845306+00:00"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/the-two-body-problem/ali-hazelwood/9781408739976",
+      "title": "The Two Body Problem",
+      "author": "Ali Hazelwood",
+      "price": "\u00a320.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/the-two-body-problem/ali-hazelwood/9781408739976",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/4087/9781408739976.jpg",
+      "vip": false,
+      "listed_at": "2026-11-06T13:35:52.019817+00:00",
+      "discovered_at": "2026-11-18T19:28:02.454600+00:00",
+      "est": "pos"
     },
     {
       "id": "British Library Shop::fatal-monsters-cleopatra-her-sister-queens-and-the-downfall-of-a-dynasty",
@@ -4095,7 +4171,7 @@
       "price": "\u00a320.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/in-one-brief-moment-all-eternity/elif-shafak/2928377384555",
-      "image": "https://cdn.waterstones.com/override/v2/medium/2928/3773/2928377384555.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377384555.jpg",
       "vip": true,
       "listed_at": "2026-11-05T03:05:26.632374+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -4350,7 +4426,7 @@
       "price": "\u00a314.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-neverland-thieves/katie-tsang/kevin-tsang/9781398568549",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398568549.jpg",
+      "image": "https://cdn.waterstones.com/override/v3/medium/9781/3985/9781398568549.jpg",
       "vip": false,
       "listed_at": "2026-11-04T12:55:36.468440+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -4684,7 +4760,7 @@
       "price": "\u00a318.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-last-testimony/veronica-roth/9780008863234",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9780/0088/9780008863234.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9780/0088/9780008863234.jpg",
       "vip": false,
       "listed_at": "2026-11-03T15:40:51.222538+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -4809,7 +4885,7 @@
       "price": "\u00a314.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-thieves-beneath-the-floorboards/mikey-please/9780008840334",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9780/0088/9780008840334.jpg",
+      "image": "https://cdn.waterstones.com/override/v4/medium/9780/0088/9780008840334.jpg",
       "vip": false,
       "listed_at": "2026-11-03T12:08:23.681555+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -4848,7 +4924,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/of-darkness-and-light/ryan-cahill/9781836980162",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/8369/9781836980162.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/8369/9781836980162.jpg",
       "vip": false,
       "listed_at": "2026-11-03T08:35:56.140571+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -5532,7 +5608,7 @@
       "price": "\u00a320.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/styx-the-river-volume-2/nikita-gill/9781398560710",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398560710.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/3985/9781398560710.jpg",
       "vip": false,
       "listed_at": "2026-11-01T10:33:58.107784+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -6148,7 +6224,7 @@
       "price": "\u00a39.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/cardinal-rule/liz-tomforde/9781399764025",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3997/9781399764025.jpg",
+      "image": "https://cdn.waterstones.com/override/v9/medium/9781/3997/9781399764025.jpg",
       "vip": false,
       "listed_at": "2026-10-30T19:36:55.156965+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -6252,7 +6328,7 @@
       "price": "\u00a320.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/london-station/david-mccloskey/9781800757486",
-      "image": "https://cdn.waterstones.com/override/v3/medium/9781/8007/9781800757486.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/8007/9781800757486.jpg",
       "vip": false,
       "listed_at": "2026-10-30T16:04:27.615981+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -6356,7 +6432,7 @@
       "price": "\u00a320.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/michael-palin-in-the-philippines/michael-palin/2928377382605",
-      "image": "https://cdn.waterstones.com/override/v2/medium/2928/3773/2928377382605.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377382605.jpg",
       "vip": false,
       "listed_at": "2026-10-30T08:59:32.534014+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -7732,7 +7808,7 @@
       "price": "\u00a316.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/villa-coco/andrew-sean-greer/9781399759663",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3997/9781399759663.jpg",
+      "image": "https://cdn.waterstones.com/override/v3/medium/9781/3997/9781399759663.jpg",
       "vip": false,
       "listed_at": "2026-10-26T23:32:59.091391+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -9088,7 +9164,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/no-one-knows-what-theyre-doing/hannah-fry/2928377406141",
-      "image": "https://cdn.waterstones.com/override/v2/medium/2928/3774/2928377406141.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3774/2928377406141.jpg",
       "vip": false,
       "listed_at": "2026-10-23T03:29:03.025817+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -10228,7 +10304,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/31-inventions-that-built-our-world/jonn-elledge/9781035448036",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/0354/9781035448036.jpg",
+      "image": "https://cdn.waterstones.com/override/v6/medium/9781/0354/9781035448036.jpg",
       "vip": false,
       "listed_at": "2026-10-20T18:49:42.370079+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -11524,19 +11600,6 @@
       "est": "pos"
     },
     {
-      "id": "Waterstones::https://www.waterstones.com/book/never-say-die/ke-huy-quan/9781399645959",
-      "title": "Never Say Die",
-      "author": "Ke Huy Quan",
-      "price": "\u00a322.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/never-say-die/ke-huy-quan/9781399645959",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3996/9781399645959.jpg",
-      "vip": false,
-      "listed_at": "2026-10-17T05:50:41.386473+00:00",
-      "discovered_at": "2026-11-15T19:13:18.763522+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Foyles::https://www.foyles.co.uk/book/owning-it/andy-carroll/2928377397890",
       "title": "Owning It",
       "author": "Andy Carroll",
@@ -11822,6 +11885,18 @@
       "vip": false,
       "listed_at": "2026-10-15T10:00:53+00:00",
       "discovered_at": "2026-11-09T17:38:03.848117+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/life-out-of-order-signed-copy/",
+      "title": "Life Out of Order \u2013 Signed Independent Bookshop Exclusive Edition",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/life-out-of-order-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/Life-Out-of-Order.jpg",
+      "vip": false,
+      "listed_at": "2026-10-15T09:59:59+00:00",
+      "discovered_at": "2026-11-18T19:28:02.454600+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/in-one-brief-moment-all-eternity-signed-copy/",
@@ -12409,18 +12484,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "British Library Shop::corpse-talk-dead-famous-and-very-chatty-signed-edition",
-      "title": "Corpse Talk: Dead, Famous and Very Chatty (Signed Edition)",
-      "author": "",
-      "price": "\u00a310.99",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/corpse-talk-dead-famous-and-very-chatty-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/CorpseTalk_9781788454094.png?v=1791900677",
-      "vip": false,
-      "listed_at": "2026-10-13T14:11:35+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "British Library Shop::a-scrap-of-moss-and-magick-signed-edition",
       "title": "A Scrap of Moss and Magick (Signed Edition)",
       "author": "",
@@ -12913,18 +12976,6 @@
       "vip": false,
       "listed_at": "2026-10-08T21:01:06+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/games-of-my-life-signed-copy/",
-      "title": "Games of My Life \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a340.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/games-of-my-life-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/03/Games-of-My-Life-jacket.jpg",
-      "vip": false,
-      "listed_at": "2026-10-08T16:48:18+00:00",
-      "discovered_at": "2026-11-18T11:16:15.912853+00:00"
     },
     {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/a-history-of-the-world-in-51-heroes-and-villains-by-goalhanger",
@@ -15224,6 +15275,18 @@
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
     },
     {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/hollywood-ending-john-green-signed-copy/",
+      "title": "Hollywood, Ending \u2013 Signed Copy.",
+      "author": "John Green",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/hollywood-ending-john-green-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/06/HollywoodEnding.jpg",
+      "vip": false,
+      "listed_at": "2026-09-22T10:33:17+00:00",
+      "discovered_at": "2026-11-18T19:28:02.454600+00:00"
+    },
+    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/f1-insider-notes-from-the-pit-lane-signed-copy-2/",
       "title": "F1 Insider: Notes from the Pit Lane \u2013 Signed Copy",
       "author": "",
@@ -16269,18 +16332,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/cecf003f-a554-4bf4-9c55-09b71ca815cf/Website+Listing+Template+-+Book+-+2026-09-10T103251.247.jpg",
       "vip": false,
       "listed_at": "2026-09-10T09:35:19.409000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-pen-a-human-history-by-simon-garfield-signed",
-      "title": "The Pen : A Human History by Simon Garfield (Signed)",
-      "author": "Simon Garfield",
-      "price": "\u00a320.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-pen-a-human-history-by-simon-garfield-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/14129318-6f44-49a2-93b4-955fccba2668/Website+Listing+Template+-+Book+-+2026-09-10T103011.194.jpg",
-      "vip": false,
-      "listed_at": "2026-09-10T09:31:13.940000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
@@ -18514,18 +18565,6 @@
       "vip": false,
       "listed_at": "2026-08-05T15:20:02+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/plant-lady-by-minyoung-kang-signed",
-      "title": "Plant Lady by Minyoung Kang (Signed)",
-      "author": "Minyoung Kang",
-      "price": "\u00a314.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/plant-lady-by-minyoung-kang-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/17513644-dc45-4780-ad17-e6cf656e0fcb/Website+Listing+Template+-+Book+%2868%29.jpg",
-      "vip": false,
-      "listed_at": "2026-08-05T14:50:44.300000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/bitter-fruit-by-tempest-black-signed",
@@ -22812,18 +22851,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/my-name-is-red-by-orhan-pamuk-signed",
-      "title": "My Name Is Red by Orhan Pamuk (Signed)",
-      "author": "Orhan Pamuk",
-      "price": "\u00a325.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/my-name-is-red-by-orhan-pamuk-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/06dfd97d-4927-4641-badd-81c7f62dcc4d/Website+Listing+Template+-+Book+%2812%29.jpg",
-      "vip": false,
-      "listed_at": "2026-06-06T15:53:39.612000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/do-you-see-what-i-see-by-peter-swanson-signed",
       "title": "Do You See What I See? by Peter Swanson (Signed)",
       "author": "Peter Swanson",
@@ -25246,6 +25273,18 @@
       "vip": false,
       "listed_at": "2026-05-13T12:19:19.709000+00:00",
       "discovered_at": "2026-10-19T11:09:45.303672+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-goddess-queen-by-alice-roberts-signed",
+      "title": "The Goddess Queen by Alice Roberts (Signed)",
+      "author": "Alice Roberts",
+      "price": "\u00a322.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-goddess-queen-by-alice-roberts-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/150e2f00-8d14-48c2-a10e-ed23cd97c611/Website+Listing+Template+-+Book+%2856%29.jpg",
+      "vip": false,
+      "listed_at": "2026-05-13T12:13:13.856000+00:00",
+      "discovered_at": "2026-11-18T19:28:02.454600+00:00"
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/my-pressures-the-bizarrely-true-story-of-andy-serkis-by-andy-serkis-signed",
@@ -34966,42 +35005,6 @@
       "vip": false,
       "listed_at": "2025-11-19T14:59:01+00:00",
       "discovered_at": "2026-11-17T11:38:32.110124+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-book-of-george-by-kate-greathead-signed",
-      "title": "The Book of George by Kate Greathead (Signed)",
-      "author": "Kate Greathead",
-      "price": "\u00a39.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-book-of-george-by-kate-greathead-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/d1fc5af4-87e2-432e-ba76-e2c614690206/Copy+of+Product+Template+-+Book+-+2025-11-18T172504.120.jpg",
-      "vip": false,
-      "listed_at": "2025-11-18T17:26:44.435000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/belgrave-road-by-manish-chauhan-signed",
-      "title": "Belgrave Road by Manish Chauhan (Signed)",
-      "author": "Manish Chauhan",
-      "price": "\u00a316.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/belgrave-road-by-manish-chauhan-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/95c6c0b5-48fe-441c-856b-848bcc24fb77/Copy+of+Product+Template+-+Book+-+2025-11-18T171938.182.jpg",
-      "vip": false,
-      "listed_at": "2025-11-18T17:23:57.606000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/seven-by-joanna-kavenna-signed",
-      "title": "Seven by Joanna Kavenna (Signed)",
-      "author": "Joanna Kavenna",
-      "price": "\u00a316.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/seven-by-joanna-kavenna-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/b83a19f5-bb4e-4133-b250-1ad33dd19fe9/Copy+of+Product+Template+-+Book+-+2025-11-18T171708.957.jpg",
-      "vip": false,
-      "listed_at": "2025-11-18T17:19:04.788000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     }
   ]
 }
