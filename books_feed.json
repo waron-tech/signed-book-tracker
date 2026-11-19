@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-18T19:28:02.454600+00:00",
-  "total_available": 2847,
+  "last_updated": "2026-11-19T01:20:31.278986+00:00",
+  "total_available": 2842,
   "shop_status": {
     "Goldsboro Books": "12 items",
-    "Rare Mags": "2 items",
+    "Rare Mags": "1 items",
     "Porty Books": "15 items",
     "Backstory London (Signed & Dedicated)": "48 items",
     "Backstory London (Exclusives)": "0 items",
@@ -17,12 +17,12 @@
     "Little Apple Bookshop": "37 items",
     "Hewson Books": "55 items",
     "Station Books": "0 items",
-    "Booka Bookshop": "289 items",
+    "Booka Bookshop": "288 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1066 items",
-    "Waterstones": "184 items via feed (as of 2026-11-18T18:42:45.903152+00:00)",
-    "Hatchards": "117 items via feed (as of 2026-11-17T22:43:10.857523+00:00)",
-    "Linghams": "224 items via feed (as of 2026-11-17T22:43:10.857523+00:00)",
+    "West End Lane Books": "1064 items",
+    "Waterstones": "183 items via feed (as of 2026-11-18T22:44:52.728471+00:00)",
+    "Hatchards": "117 items via feed (as of 2026-11-18T22:44:52.728471+00:00)",
+    "Linghams": "224 items via feed (as of 2026-11-18T22:44:52.728471+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-18T02:45:16.110469+00:00)"
   },
   "books": [
@@ -1868,7 +1868,7 @@
       "price": "\u00a322.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/the-taper-man/nick-harkaway/2928377380014",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377380014_2.jpg",
       "vip": false,
       "listed_at": "2026-11-10T16:56:45.660074+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -2005,7 +2005,7 @@
       "price": "\u00a318.99",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/how-to-begin/edmund-de-waal/2928377395599",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377395599_2.jpg",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": false,
       "listed_at": "2026-11-10T11:21:35.315246+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -3442,19 +3442,6 @@
       "discovered_at": "2026-11-06T13:49:14.845306+00:00"
     },
     {
-      "id": "Waterstones::https://www.waterstones.com/book/the-two-body-problem/ali-hazelwood/9781408739976",
-      "title": "The Two Body Problem",
-      "author": "Ali Hazelwood",
-      "price": "\u00a320.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/the-two-body-problem/ali-hazelwood/9781408739976",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/4087/9781408739976.jpg",
-      "vip": false,
-      "listed_at": "2026-11-06T13:35:52.019817+00:00",
-      "discovered_at": "2026-11-18T19:28:02.454600+00:00",
-      "est": "pos"
-    },
-    {
       "id": "British Library Shop::fatal-monsters-cleopatra-her-sister-queens-and-the-downfall-of-a-dynasty",
       "title": "Fatal Monsters: Cleopatra, Her Sister Queens and the Downfall of a Dynasty (Signed Edition)",
       "author": "",
@@ -3714,7 +3701,7 @@
       "price": "\u00a320.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/the-golden-hours-hatchards-signed-edition/louisa-young/2001797015367",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015367_2.jpg",
       "vip": false,
       "listed_at": "2026-11-06T01:13:18.763522+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -6761,18 +6748,6 @@
       "discovered_at": "2026-10-29T11:49:19.855899+00:00"
     },
     {
-      "id": "Rare Mags::coffee-for-here",
-      "title": "Coffee, For Here",
-      "author": "Morgan Eckroth",
-      "price": "\u00a323.00",
-      "shop": "Rare Mags",
-      "url": "https://raremags.co.uk/products/coffee-for-here",
-      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/IMG_0876.jpg?v=1793271621",
-      "vip": false,
-      "listed_at": "2026-10-29T11:00:41+00:00",
-      "discovered_at": "2026-10-29T11:09:20.149937+00:00"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/pre-order-signed-copy-gary-newman-a-peoples-history/",
       "title": "Signed copy Gary Numan \u2013 A Peoples History",
       "author": "A Peoples History",
@@ -9327,18 +9302,6 @@
       "est": "pos"
     },
     {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-bishop-of-durham-attempts-to-surrender-the-city-signed-copy/",
-      "title": "The Bishop of Durham Attempts to Surrender the City \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a310.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/the-bishop-of-durham-attempts-to-surrender-the-city-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/08/The-Bishop-of-Durham.jpg",
-      "vip": false,
-      "listed_at": "2026-10-22T15:04:55+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
-    },
-    {
       "id": "Hatchards::https://www.hatchards.co.uk/book/royal-witch/philippa-gregory/9780008846800",
       "title": "Royal Witch",
       "author": "Philippa Gregory",
@@ -9761,12 +9724,12 @@
     },
     {
       "id": "Hatchards::https://www.hatchards.co.uk/book/the-bayeux-tapestry-hatchards-signed-edition/sue-brunning/2001797015541",
-      "title": "The Bayeux Tapestry: Hatchards Signed Edition by Sue Brunning",
+      "title": "The Bayeux Tapestry: Hatchards Signed Edition",
       "author": "Sue Brunning",
       "price": "\u00a345.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/the-bayeux-tapestry-hatchards-signed-edition/sue-brunning/2001797015541",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015541_2.jpg",
+      "image": "",
       "vip": false,
       "listed_at": "2026-10-21T16:31:56.004901+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -19035,18 +18998,6 @@
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/rituals-by-tim-downie-signed",
-      "title": "Rituals: A Folk Journey Through The British Isles by Tim Downie (Signed)",
-      "author": "Tim Downie",
-      "price": "\u00a322.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/rituals-by-tim-downie-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/f8f7285f-3fc4-445b-8a86-7810234b89f4/Website+Listing+Template+-+Book+%2824%29.jpg",
-      "vip": false,
-      "listed_at": "2026-07-30T12:57:00.831000+00:00",
-      "discovered_at": "2026-11-11T09:34:22.639651+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/lumi-and-the-wolf-by-lottie-saahko-signed",
       "title": "Lumi and the Wolf by Lottie Saahko (Signed)",
       "author": "Lottie Saahko",
@@ -23569,18 +23520,6 @@
       "vip": false,
       "listed_at": "2026-06-03T10:16:49.759000+00:00",
       "discovered_at": "2026-11-14T14:24:00.375344+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/castles-by-dan-jones-signed",
-      "title": "Castles by Dan Jones (Signed)",
-      "author": "Dan Jones",
-      "price": "\u00a330.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/castles-by-dan-jones-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/f894aa47-2a39-4624-8f7f-d1c4c9e7a572/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+-+2026-06-03T111049.642.jpg",
-      "vip": false,
-      "listed_at": "2026-06-03T10:12:47.389000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
       "id": "Backstory London (Signed & Dedicated)::pre-order-now-the-almanac-2027-by-lia-leendertz-signed-publishes-august-2026",
