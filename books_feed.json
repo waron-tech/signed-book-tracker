@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-19T01:20:31.278986+00:00",
-  "total_available": 2842,
+  "last_updated": "2026-11-19T08:59:07.630097+00:00",
+  "total_available": 2837,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "1 items",
     "Porty Books": "15 items",
-    "Backstory London (Signed & Dedicated)": "48 items",
+    "Backstory London (Signed & Dedicated)": "47 items",
     "Backstory London (Exclusives)": "0 items",
     "British Library Shop": "282 items",
     "Cleeve Bookshop": "130 items",
@@ -19,13 +19,26 @@
     "Station Books": "0 items",
     "Booka Bookshop": "288 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1064 items",
-    "Waterstones": "183 items via feed (as of 2026-11-18T22:44:52.728471+00:00)",
-    "Hatchards": "117 items via feed (as of 2026-11-18T22:44:52.728471+00:00)",
+    "West End Lane Books": "1060 items",
+    "Waterstones": "184 items via feed (as of 2026-11-19T06:44:56.076232+00:00)",
+    "Hatchards": "116 items via feed (as of 2026-11-19T02:44:59.178922+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-18T22:44:52.728471+00:00)",
-    "Foyles": "137 items via feed (as of 2026-11-18T02:45:16.110469+00:00)"
+    "Foyles": "137 items via feed (as of 2026-11-19T06:44:56.076232+00:00)"
   },
   "books": [
+    {
+      "id": "Coles Books::https://coles-books.co.uk/michael-by-bob-mortimer-1",
+      "title": "Michael by Bob Mortimer - Signed Edition",
+      "author": "Bob Mortimer",
+      "price": "\u00a322.00",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/michael-by-bob-mortimer-1",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/9/7/9781398548091_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-19T08:59:07.630097+00:00",
+      "discovered_at": "2026-11-19T08:59:07.630097+00:00",
+      "est": "seen"
+    },
     {
       "id": "Porty Books::https://www.theportobellobookshop.com/9781917719407-s",
       "title": "An Opinionated Guide to Edinburgh",
@@ -951,7 +964,7 @@
       "price": "\u00a325.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/a-history-of-britain-in-21-paintings/alice-loxton/2928377385392",
-      "image": "https://cdn.foyles.co.uk/override/v2/large/2928/3773/2928377385392_3.jpg",
+      "image": "",
       "vip": false,
       "listed_at": "2026-11-12T14:29:31.026296+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -992,19 +1005,6 @@
       "vip": false,
       "listed_at": "2026-11-12T14:08:18.082000+00:00",
       "discovered_at": "2026-11-12T14:44:04.441239+00:00"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/plunder/max-hastings/9780008839024",
-      "title": "Plunder by Max Hastings",
-      "author": "Max Hastings",
-      "price": "\u00a325.00",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/plunder/max-hastings/9780008839024",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/9780/0088/9780008839024_2.jpg",
-      "vip": false,
-      "listed_at": "2026-11-12T14:03:51.323182+00:00",
-      "discovered_at": "2026-11-18T02:59:14.400105+00:00",
-      "est": "pos"
     },
     {
       "id": "British Library Shop::two-women-signed-edition",
@@ -1370,6 +1370,19 @@
       "vip": false,
       "listed_at": "2026-11-12T00:18:07.814617+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/bastards/jay-kristoff/9780008871819",
+      "title": "Bastards",
+      "author": "Jay Kristoff",
+      "price": "\u00a325.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/bastards/jay-kristoff/9780008871819",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9780/0088/9780008871819.jpg",
+      "vip": false,
+      "listed_at": "2026-11-11T23:19:59.804010+00:00",
+      "discovered_at": "2026-11-19T08:59:07.630097+00:00",
       "est": "pos"
     },
     {
@@ -2005,7 +2018,7 @@
       "price": "\u00a318.99",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/how-to-begin/edmund-de-waal/2928377395599",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377395599_2.jpg",
       "vip": false,
       "listed_at": "2026-11-10T11:21:35.315246+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -2225,7 +2238,7 @@
       "price": "\u00a322.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/fronting-up/lewis-moody/9781035449170",
-      "image": "",
+      "image": "https://cdn.foyles.co.uk/override/v2/large/9781/0354/9781035449170_3.jpg",
       "vip": false,
       "listed_at": "2026-11-09T20:16:22.705128+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -3336,7 +3349,7 @@
       "price": "\u00a320.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/serious-music/percival-everett/2928377392697",
-      "image": "https://cdn.foyles.co.uk/override/v1/large/2928/3773/2928377392697_3.jpg",
+      "image": "",
       "vip": false,
       "listed_at": "2026-11-06T16:35:38.909507+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -3546,7 +3559,7 @@
       "price": "\u00a314.99",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/the-ghost-leopard/hannah-gold/9780008859947",
-      "image": "",
+      "image": "https://cdn.foyles.co.uk/override/v2/large/9780/0088/9780008859947_3.jpg",
       "vip": false,
       "listed_at": "2026-11-06T11:51:51.172281+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -4885,7 +4898,7 @@
       "price": "\u00a322.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/the-wine-dark-sea/victoria-hislop/9781035448104",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/9781/0354/9781035448104_2.jpg",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": false,
       "listed_at": "2026-11-03T11:46:24.970419+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -8388,7 +8401,7 @@
       "price": "\u00a325.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/dark-reading-matter/jasper-fforde/9781399769587",
-      "image": "https://cdn.foyles.co.uk/override/v1/large/9781/3997/9781399769587_3.jpg",
+      "image": "",
       "vip": false,
       "listed_at": "2026-10-25T06:36:31.464252+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -8509,19 +8522,6 @@
       "vip": false,
       "listed_at": "2026-10-24T21:58:33.517620+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/decline-and-falling-over-by-jo-brand-signed-edition",
-      "title": "Decline and Falling Over by Jo Brand - Signed Edition",
-      "author": "Jo Brand",
-      "price": "\u00a322.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/decline-and-falling-over-by-jo-brand-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/j/o/jo_brand_decline_and_falling_over_coles_signed_edition1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-24T21:43:25.320151+00:00",
-      "discovered_at": "2026-11-10T09:43:25.320151+00:00",
       "est": "pos"
     },
     {
@@ -8713,7 +8713,7 @@
       "price": "\u00a330.00",
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/the-discworld-bestiary/terry-pratchett/2928377379391",
-      "image": "",
+      "image": "https://cdn.foyles.co.uk/override/v1/large/2928/3773/2928377379391_3.jpg",
       "vip": false,
       "listed_at": "2026-10-24T06:57:32.778121+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -14848,18 +14848,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781037212178_7b4cea7f-65e5-453a-a2fa-1ed4f4ce4e6e.jpg?v=1790167800",
       "vip": false,
       "listed_at": "2026-09-23T12:50:49+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Backstory London (Signed & Dedicated)::christmas-signed-and-personalised-private-eye-annual-2026-edited-by-ian-hislop",
-      "title": "Private Eye Annual 2026",
-      "author": "",
-      "price": "\u00a312.99",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/christmas-signed-and-personalised-private-eye-annual-2026-edited-by-ian-hislop",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781901784770_70a3c03e-a25d-4860-bfcb-e7f0ec136a82.jpg?v=1790167390",
-      "vip": false,
-      "listed_at": "2026-09-23T12:44:11+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -23534,18 +23522,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-bishop-of-durham-attempts-to-surrender-the-city-by-susanna-clarke-signed",
-      "title": "The Bishop of Durham Attempts to Surrender the City by Susanna Clarke (Signed)",
-      "author": "Susanna Clarke",
-      "price": "\u00a310.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/the-bishop-of-durham-attempts-to-surrender-the-city-by-susanna-clarke-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/9a23cd0c-e788-4a12-99f8-6c48c6fa53e2/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+-+2026-06-03T110542.572.jpg",
-      "vip": false,
-      "listed_at": "2026-06-03T10:07:39.175000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/a-history-of-the-world-in-51-heroes-and-villains-by-tom-holland-dominic-sandbrook-signed",
       "title": "A History of the World in 51 Heroes and Villains by Tom Holland & Dominic Sandbrook (Signed)",
       "author": "Tom Holland & Dominic Sandbrook",
@@ -31910,18 +31886,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/house-of-gold-by-natasha-solomons-signed",
-      "title": "House of Gold by Natasha Solomons (Signed)",
-      "author": "Natasha Solomons",
-      "price": "\u00a314.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/house-of-gold-by-natasha-solomons-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/5e877943-1a04-4e7b-aff7-511cf8060b5a/Copy+of+Product+Template+-+Book+-+2026-01-25T151746.862.jpg",
-      "vip": false,
-      "listed_at": "2026-01-25T15:24:18.924000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/a-little-trickerie-by-rosanna-pike-signed",
       "title": "A Little Trickerie by Rosanna Pike (Signed)",
       "author": "Rosanna Pike",
@@ -33506,18 +33470,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/flesh-by-david-szalay-signed",
-      "title": "Flesh by David Szalay (Signed)",
-      "author": "David Szalay",
-      "price": "\u00a39.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/flesh-by-david-szalay-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/58eec442-3acf-4925-b6e0-95ee411059a2/Copy+of+Product+Template+-+Book+-+2026-01-08T175904.806.jpg",
-      "vip": false,
-      "listed_at": "2026-01-08T18:00:42.446000+00:00",
-      "discovered_at": "2026-10-21T16:03:22.544737+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/minor-black-figures-by-brandon-taylor-signed",
       "title": "Minor Black Figures by Brandon Taylor (Signed)",
       "author": "Brandon Taylor",
@@ -34811,18 +34763,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/4b25d66d-76a9-46e1-a9ce-7821cb6207a5/Copy+of+Product+Template+-+Book+-+2025-11-20T124258.814.jpg",
       "vip": false,
       "listed_at": "2025-11-20T12:44:21.120000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/stowaways-by-andre-aciman-signed",
-      "title": "Stowaways by Andre Aciman (Signed)",
-      "author": "Andre Aciman",
-      "price": "\u00a312.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/stowaways-by-andre-aciman-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/54c2a9e4-0384-424a-9cc3-dd34e50718da/Copy+of+Product+Template+-+Book+-+2025-11-20T124031.703.jpg",
-      "vip": false,
-      "listed_at": "2025-11-20T12:42:24.092000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
