@@ -1,31 +1,131 @@
 {
-  "last_updated": "2026-11-19T08:59:07.630097+00:00",
-  "total_available": 2837,
+  "last_updated": "2026-11-19T17:59:45.998739+00:00",
+  "total_available": 2836,
   "shop_status": {
-    "Goldsboro Books": "12 items",
+    "Goldsboro Books": "13 items",
     "Rare Mags": "1 items",
     "Porty Books": "15 items",
-    "Backstory London (Signed & Dedicated)": "47 items",
+    "Backstory London (Signed & Dedicated)": "48 items",
     "Backstory London (Exclusives)": "0 items",
-    "British Library Shop": "282 items",
-    "Cleeve Bookshop": "130 items",
+    "British Library Shop": "281 items",
+    "Cleeve Bookshop": "127 items",
     "Ivybridge Bookshop": "157 items",
     "Perkology Books": "37 items",
     "Bookstation (Ireland)": "5 items",
     "Biggles Stones": "3 items",
-    "London Review Bookshop": "35 items",
+    "London Review Bookshop": "36 items",
     "Little Apple Bookshop": "37 items",
     "Hewson Books": "55 items",
     "Station Books": "0 items",
-    "Booka Bookshop": "288 items",
+    "Booka Bookshop": "287 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1060 items",
-    "Waterstones": "184 items via feed (as of 2026-11-19T06:44:56.076232+00:00)",
-    "Hatchards": "116 items via feed (as of 2026-11-19T02:44:59.178922+00:00)",
+    "West End Lane Books": "1059 items",
+    "Waterstones": "184 items via feed (as of 2026-11-19T14:48:28.663793+00:00)",
+    "Hatchards": "118 items via feed (as of 2026-11-19T14:48:28.663793+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-18T22:44:52.728471+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-19T06:44:56.076232+00:00)"
   },
   "books": [
+    {
+      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/alone-with-a-book-on-reading-writing-and-looking-tessa-hadley",
+      "title": "Alone With a Book - Tessa Hadley",
+      "author": "Tessa Hadley",
+      "price": "\u00a322.00",
+      "shop": "London Review Bookshop",
+      "url": "https://www.londonreviewbookshop.co.uk/stock/alone-with-a-book-on-reading-writing-and-looking-tessa-hadley",
+      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/0/1/7/1/4771710-1-eng-GB/9781787336797.jpg",
+      "vip": false,
+      "listed_at": "2026-11-19T17:59:45.998739+00:00",
+      "discovered_at": "2026-11-19T17:59:45.998739+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Coles Books::https://coles-books.co.uk/strange-powers-a-novel-by-ian-jackman-signed-edition",
+      "title": "Strange Powers: A Novel by Ian Jackman - Signed Edition",
+      "author": "Ian Jackman",
+      "price": "\u00a310.99",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/strange-powers-a-novel-by-ian-jackman-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/i/a/ian_jackman_strange_powers_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-19T17:59:45.998739+00:00",
+      "discovered_at": "2026-11-19T17:59:45.998739+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Coles Books::https://coles-books.co.uk/the-art-of-gravity-falls-by-alex-hirsch-with-rob-renzetti-signed-edition",
+      "title": "The Art of Gravity Falls by Alex Hirsch with Rob Renzetti - Signed Edition",
+      "author": "",
+      "price": "\u00a347.99",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/the-art-of-gravity-falls-by-alex-hirsch-with-rob-renzetti-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/a/l/alex_hirsch_gravity_falls_coles_signed_edition_a.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-19T17:59:45.998739+00:00",
+      "discovered_at": "2026-11-19T17:59:45.998739+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/blade-of-honey/hafsah-faizal/2928377416904",
+      "title": "Blade of Honey",
+      "author": "Hafsah Faizal",
+      "price": "\u00a318.99",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/blade-of-honey/hafsah-faizal/2928377416904",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3774/2928377416904.jpg",
+      "vip": false,
+      "listed_at": "2026-11-19T17:59:45.998739+00:00",
+      "discovered_at": "2026-11-19T17:59:45.998739+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Backstory London (Signed & Dedicated)::the-book-of-nanas-1",
+      "title": "The Book Of Nanas",
+      "author": "",
+      "price": "\u00a322.00",
+      "shop": "Backstory London (Signed & Dedicated)",
+      "url": "https://backstory.london/products/the-book-of-nanas-1",
+      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781408739204.jpg?v=1795107733",
+      "vip": false,
+      "listed_at": "2026-11-19T17:05:10+00:00",
+      "discovered_at": "2026-11-19T17:59:45.998739+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/how-to-kill-a-gardener-alan-titchmarsh-the-brilliant-new-cosy-crime-mystery-from-the-beloved-gardener-and-national-treasure-signed-copy/",
+      "title": "How To Kill A Gardener  \u2013 Signed Copy",
+      "author": "Alan Titchmarsh",
+      "price": "\u00a320.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/how-to-kill-a-gardener-alan-titchmarsh-the-brilliant-new-cosy-crime-mystery-from-the-beloved-gardener-and-national-treasure-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/11/How-to-Kill-a-Gardener.jpg",
+      "vip": false,
+      "listed_at": "2026-11-19T15:46:30+00:00",
+      "discovered_at": "2026-11-19T17:59:45.998739+00:00"
+    },
+    {
+      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/sons-of-the-reich-ci-schenke-simon-scarrow-signed-copy/",
+      "title": "Sons of the Reich \u2013 CI Schenke \u2013 Signed Copy",
+      "author": "Simon Scarrow",
+      "price": "\u00a322.00",
+      "shop": "Booka Bookshop",
+      "url": "https://www.bookabookshop.co.uk/shop/sons-of-the-reich-ci-schenke-simon-scarrow-signed-copy/",
+      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/11/Sons-of-the-Reich.avif",
+      "vip": false,
+      "listed_at": "2026-11-19T15:35:52+00:00",
+      "discovered_at": "2026-11-19T17:59:45.998739+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-unordinary-book-of-ideas-everywhen-projects-for-rainy-days-by-half-asleep-chris-signed",
+      "title": "The Unordinary Book of Ideas : Everywhen Projects For Rainy Days by Half-Asleep Chris (Signed)",
+      "author": "Half-Asleep Chris",
+      "price": "\u00a324.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/the-unordinary-book-of-ideas-everywhen-projects-for-rainy-days-by-half-asleep-chris-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/3a73c85b-f2a4-45d4-ac21-8527f4eb04a8/Website+Listing+Template+-+Book+%2835%29.jpg",
+      "vip": false,
+      "listed_at": "2026-11-19T13:48:54.437000+00:00",
+      "discovered_at": "2026-11-19T17:59:45.998739+00:00"
+    },
     {
       "id": "Coles Books::https://coles-books.co.uk/michael-by-bob-mortimer-1",
       "title": "Michael by Bob Mortimer - Signed Edition",
@@ -101,18 +201,6 @@
       "vip": false,
       "listed_at": "2026-11-18T10:38:24.087000+00:00",
       "discovered_at": "2026-11-18T11:16:15.912853+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/michael-signed-independent-bookshop-edition/",
-      "title": "Michael \u2013 Signed Independent Bookshop Edition",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/michael-signed-independent-bookshop-edition/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/09/MICHAEL-scaled.png",
-      "vip": false,
-      "listed_at": "2026-11-18T09:00:13+00:00",
-      "discovered_at": "2026-11-18T19:28:02.454600+00:00"
     },
     {
       "id": "Porty Books::https://www.theportobellobookshop.com/9780571400010-sib",
@@ -654,6 +742,19 @@
       "est": "seen"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/a-history-of-britain-in-21-paintings/alice-loxton/2928377385392",
+      "title": "A History of Britain in 21 Paintings by Alice Loxton",
+      "author": "Alice Loxton",
+      "price": "\u00a325.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/a-history-of-britain-in-21-paintings/alice-loxton/2928377385392",
+      "image": "https://cdn.hatchards.co.uk/override/v2/large/2928/3773/2928377385392_2.jpg",
+      "vip": false,
+      "listed_at": "2026-11-14T05:35:21.591959+00:00",
+      "discovered_at": "2026-11-19T17:59:45.998739+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Foyles::https://www.foyles.co.uk/book/how-ive-tried-to-change-the-world/alexei-sayle/9781399645102",
       "title": "How I've Tried to Change the World",
       "author": "Alexei Sayle",
@@ -664,6 +765,19 @@
       "vip": false,
       "listed_at": "2026-11-14T03:29:35.013656+00:00",
       "discovered_at": "2026-11-17T03:29:35.013656+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/michael/bob-mortimer/9781398571853",
+      "title": "Michael by Bob Mortimer",
+      "author": "Bob Mortimer",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/michael/bob-mortimer/9781398571853",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/9781/3985/9781398571853_2.jpg",
+      "vip": false,
+      "listed_at": "2026-11-13T18:36:22.608908+00:00",
+      "discovered_at": "2026-11-19T17:59:45.998739+00:00",
       "est": "pos"
     },
     {
@@ -1249,7 +1363,7 @@
       "price": "\u00a318.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/black-bag/luke-kennard/9781399847995",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3998/9781399847995.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/3998/9781399847995.jpg",
       "vip": false,
       "listed_at": "2026-11-12T08:35:56.140571+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -1370,19 +1484,6 @@
       "vip": false,
       "listed_at": "2026-11-12T00:18:07.814617+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Waterstones::https://www.waterstones.com/book/bastards/jay-kristoff/9780008871819",
-      "title": "Bastards",
-      "author": "Jay Kristoff",
-      "price": "\u00a325.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/bastards/jay-kristoff/9780008871819",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9780/0088/9780008871819.jpg",
-      "vip": false,
-      "listed_at": "2026-11-11T23:19:59.804010+00:00",
-      "discovered_at": "2026-11-19T08:59:07.630097+00:00",
       "est": "pos"
     },
     {
@@ -2572,7 +2673,7 @@
       "price": "\u00a320.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/victorious/v-e-schwab/9781807591243",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9781/8075/9781807591243.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/8075/9781807591243.jpg",
       "vip": false,
       "listed_at": "2026-11-08T23:09:22.697948+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -3311,7 +3412,7 @@
       "price": "\u00a322.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/peck-and-peck/bonnie-garmus/9781786588975",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9781/7865/9781786588975.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/7865/9781786588975.jpg",
       "vip": false,
       "listed_at": "2026-11-06T18:02:29.583194+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -3388,7 +3489,7 @@
       "price": "\u00a314.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/lottie-brooks-s-twelve-disasters-of-christmas/katie-kirby/9780241857724",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9780/2418/9780241857724.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9780/2418/9780241857724.jpg",
       "vip": false,
       "listed_at": "2026-11-06T14:30:02.042211+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -4579,7 +4680,7 @@
       "price": "\u00a320.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/on-the-equality-of-all-things-hatchards-signed-edition/carlo-rovelli/2001797015428",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015428_2.jpg",
       "vip": false,
       "listed_at": "2026-11-04T04:31:56.004901+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -4644,7 +4745,7 @@
       "price": "\u00a325.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/the-elegant-hustler-hatchards-signed-edition/celia-imrie/2001797015527",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015527_2.jpg",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": false,
       "listed_at": "2026-11-03T22:56:45.660074+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -4885,7 +4986,7 @@
       "price": "\u00a314.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-thieves-beneath-the-floorboards/mikey-please/9780008840334",
-      "image": "https://cdn.waterstones.com/override/v4/medium/9780/0088/9780008840334.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9780/0088/9780008840334.jpg",
       "vip": false,
       "listed_at": "2026-11-03T12:08:23.681555+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -4924,7 +5025,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/of-darkness-and-light/ryan-cahill/9781836980162",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9781/8369/9781836980162.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/8369/9781836980162.jpg",
       "vip": false,
       "listed_at": "2026-11-03T08:35:56.140571+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -5144,7 +5245,7 @@
       "price": "\u00a322.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/timeless/a-f-steadman/9781398537422",
-      "image": "https://cdn.waterstones.com/override/v3/medium/9781/3985/9781398537422.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398537422.jpg",
       "vip": false,
       "listed_at": "2026-11-02T18:26:05.976637+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -5608,7 +5709,7 @@
       "price": "\u00a320.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/styx-the-river-volume-2/nikita-gill/9781398560710",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9781/3985/9781398560710.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398560710.jpg",
       "vip": false,
       "listed_at": "2026-11-01T10:33:58.107784+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -6224,7 +6325,7 @@
       "price": "\u00a39.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/cardinal-rule/liz-tomforde/9781399764025",
-      "image": "https://cdn.waterstones.com/override/v9/medium/9781/3997/9781399764025.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3997/9781399764025.jpg",
       "vip": false,
       "listed_at": "2026-10-30T19:36:55.156965+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -6799,19 +6900,6 @@
       "est": "pos"
     },
     {
-      "id": "Coles Books::https://coles-books.co.uk/my-pressures-by-andy-serkis-signed-edition",
-      "title": "My Pressures by Andy Serkis - Signed Edition",
-      "author": "Andy Serkis",
-      "price": "\u00a322.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/my-pressures-by-andy-serkis-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/a/n/andy_serkis_my_pressures_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-29T09:43:25.320151+00:00",
-      "discovered_at": "2026-11-10T09:43:25.320151+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hatchards::https://www.hatchards.co.uk/book/contrapposto/dave-eggers/9781837267859",
       "title": "Contrapposto",
       "author": "Dave Eggers",
@@ -7049,7 +7137,7 @@
       "price": "\u00a320.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/on-the-equality-of-all-things/carlo-rovelli/simon-carnell/2928377384524",
-      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377384524.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/2928/3773/2928377384524.jpg",
       "vip": false,
       "listed_at": "2026-10-28T18:02:29.583194+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -7208,18 +7296,6 @@
       "vip": false,
       "listed_at": "2026-10-28T12:48:23+00:00",
       "discovered_at": "2026-10-28T12:58:46.009505+00:00"
-    },
-    {
-      "id": "British Library Shop::murder-at-the-grand-alpine-hotel",
-      "title": "Murder at the Grand Alpine Hotel (Signed, Special Edition)",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/murder-at-the-grand-alpine-hotel",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/Murderatthegrandalpinehotel_9780008694821.png?v=1793879051",
-      "vip": false,
-      "listed_at": "2026-10-28T12:25:30+00:00",
-      "discovered_at": "2026-11-05T12:39:08.992554+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/opheus-signed-copy/",
@@ -7725,19 +7801,6 @@
       "est": "pos"
     },
     {
-      "id": "Coles Books::https://coles-books.co.uk/fantastic-days-my-autobiography-by-nick-heyward-signed-edition",
-      "title": "Fantastic Days: My Autobiography by Nick Heyward - Signed Edition",
-      "author": "Nick Heyward",
-      "price": "\u00a325.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/fantastic-days-my-autobiography-by-nick-heyward-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/n/i/nick_heyward_fantastic_days_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-10-27T03:43:25.320151+00:00",
-      "discovered_at": "2026-11-10T09:43:25.320151+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Waterstones::https://www.waterstones.com/book/the-frozen-king/pari-thomson/elisa-paganelli/2928377394196",
       "title": "The Frozen King",
       "author": "Pari Thomson, Elisa Paganelli",
@@ -7796,7 +7859,7 @@
       "price": "\u00a316.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/villa-coco/andrew-sean-greer/9781399759663",
-      "image": "https://cdn.waterstones.com/override/v3/medium/9781/3997/9781399759663.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3997/9781399759663.jpg",
       "vip": false,
       "listed_at": "2026-10-26T23:32:59.091391+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -7847,7 +7910,7 @@
       "price": "\u00a320.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-silent-appeal/janice-hallett/9781806490141",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9781/8064/9781806490141.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/8064/9781806490141.jpg",
       "vip": false,
       "listed_at": "2026-10-26T20:00:31.550407+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -8323,7 +8386,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/on-jokes-or-why-everything-you-know-about-comedy-is-wrong/jimmy-carr/amanda-baker/9781529455342",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/5294/9781529455342.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/5294/9781529455342.jpg",
       "vip": false,
       "listed_at": "2026-10-25T12:08:23.681555+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -8388,7 +8451,7 @@
       "price": "\u00a314.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/may-we-feed-the-king/rebecca-perry/9781803515281",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9781/8035/9781803515281.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/8035/9781803515281.jpg",
       "vip": false,
       "listed_at": "2026-10-25T08:35:56.140571+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -9139,7 +9202,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/no-one-knows-what-theyre-doing/hannah-fry/2928377406141",
-      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3774/2928377406141.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/2928/3774/2928377406141.jpg",
       "vip": false,
       "listed_at": "2026-10-23T03:29:03.025817+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -10267,7 +10330,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/31-inventions-that-built-our-world/jonn-elledge/9781035448036",
-      "image": "https://cdn.waterstones.com/override/v6/medium/9781/0354/9781035448036.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/0354/9781035448036.jpg",
       "vip": false,
       "listed_at": "2026-10-20T18:49:42.370079+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -10999,7 +11062,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-elegant-hustler/celia-imrie/9781408738597",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/4087/9781408738597.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/4087/9781408738597.jpg",
       "vip": false,
       "listed_at": "2026-10-19T00:20:11.878276+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -11453,7 +11516,7 @@
       "price": "\u00a320.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/country-people/daniel-mason/9781399836685",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3998/9781399836685.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/3998/9781399836685.jpg",
       "vip": false,
       "listed_at": "2026-10-17T12:55:36.468440+00:00",
       "discovered_at": "2026-11-15T19:13:18.763522+00:00",
@@ -15347,6 +15410,18 @@
       "est": "pos"
     },
     {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/ready-player-one-the-graphic-novel-by-ernest-cline-signed",
+      "title": "Ready Player One : The Graphic Novel by Ernest Cline (Signed)",
+      "author": "Ernest Cline",
+      "price": "\u00a325.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/ready-player-one-the-graphic-novel-by-ernest-cline-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/d4b851f2-d557-4014-ba53-791ca4276b1c/Website+Listing+Template+-+Book+%2814%29.jpg",
+      "vip": false,
+      "listed_at": "2026-09-21T15:38:59.278000+00:00",
+      "discovered_at": "2026-11-19T17:59:45.998739+00:00"
+    },
+    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/rise-align-by-clarisse-monahan-signed",
       "title": "Rise & Align by Clarisse Monahan (Signed)",
       "author": "Clarisse Monahan",
@@ -16560,18 +16635,6 @@
       "vip": false,
       "listed_at": "2026-09-07T15:14:06+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/raising-hare-childrens-edition-signed-copy/",
-      "title": "Raising Hare Children\u2019s Edition \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a314.99",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/raising-hare-childrens-edition-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2026/09/Raising-Hare-Childrens.jpg",
-      "vip": false,
-      "listed_at": "2026-09-07T14:00:24+00:00",
-      "discovered_at": "2026-10-19T02:24:08.500074+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/making-rumours-the-inside-story-of-how-fleetwood-mac-made-a-masterpiece-signed-copy/",
@@ -21639,7 +21702,7 @@
     },
     {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/ark-a-visual-treasury-of-earths-living-wonders-by-stephen-ellcock-signed",
-      "title": "Ark : A visual treasury of Earth's living wonders by Stephen Ellcock (Signed)",
+      "title": "Ark: A visual treasury of Earth's living wonders by Stephen Ellcock (Signed)",
       "author": "Stephen Ellcock",
       "price": "\u00a340.00",
       "shop": "West End Lane Books",
@@ -25010,6 +25073,18 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/things-i-took-from-the-dark-the-museum-of-me-by-reece-shearsmith-signed",
+      "title": "Things I Took from the Dark : The Museum of Me by Reece Shearsmith (Signed)",
+      "author": "Reece Shearsmith",
+      "price": "\u00a322.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/things-i-took-from-the-dark-the-museum-of-me-by-reece-shearsmith-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/80260bb0-5461-42c9-8e1b-1bb5aacf3b05/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+%2823%29.jpg",
+      "vip": false,
+      "listed_at": "2026-05-15T10:00:38.871000+00:00",
+      "discovered_at": "2026-11-19T17:59:45.998739+00:00"
+    },
+    {
       "id": "Ivybridge Bookshop::9781738417056",
       "title": "Flora's Day: A Cornish Love Story - Limited Signed Edition with sprayed edge, available 2nd July - Liz Fenwick (Paperback) 07-05-2026",
       "author": "Liz Fenwick",
@@ -25406,18 +25481,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/abyss-by-nicholas-binge-signed",
-      "title": "Abyss by Nicholas Binge (Signed)",
-      "author": "Nicholas Binge",
-      "price": "\u00a314.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/abyss-by-nicholas-binge-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/c42dae74-d654-40dc-b6e1-9b91a27e86d7/Untitled+design+%2811%29.jpg",
-      "vip": false,
-      "listed_at": "2026-05-08T16:23:24.382000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/hunger-and-thirst-signed-copy/",
       "title": "Hunger and Thirst \u2013 Signed Copy",
       "author": "Claire Fuller",
@@ -25571,18 +25634,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-runner-signed-first-edition-5325686.jpg?v=1787361295",
       "vip": false,
       "listed_at": "2026-05-06T12:13:59+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781398520738",
-      "title": "The Scandalous Ladies Football Club - Signed First Edition with Sprayed Edge",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781398520738",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-scandalous-ladies-football-club-signed-first-edition-with-sprayed-edge-9192886.jpg?v=1787361291",
-      "vip": false,
-      "listed_at": "2026-05-06T12:13:54+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -26222,6 +26273,18 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/how-lucky-am-i-by-christian-watson-signed",
+      "title": "How Lucky Am I by Christian Watson (Signed)",
+      "author": "Christian Watson",
+      "price": "\u00a320.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/how-lucky-am-i-by-christian-watson-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/6b2625fd-bad0-4705-b990-a0280ee14198/Website+Listing+Template+-+Book+%2853%29.jpg",
+      "vip": false,
+      "listed_at": "2026-04-23T12:46:28.946000+00:00",
+      "discovered_at": "2026-11-19T17:59:45.998739+00:00"
+    },
+    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/teenage-daydream-by-debsey-wykes-signed",
       "title": "Teenage Daydream by Debsey Wykes (Signed)",
       "author": "Debsey Wykes",
@@ -26831,18 +26894,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/death-and-deja-vu-signed-first-edition-9135694.jpg?v=1787362272",
       "vip": false,
       "listed_at": "2026-04-14T14:12:53+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9781787706460",
-      "title": "Tata - Signed Bookplate First Edition",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9781787706460",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/tata-signed-bookplate-first-edition-2697919.jpg?v=1787362270",
-      "vip": false,
-      "listed_at": "2026-04-14T14:12:51+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -27564,6 +27615,18 @@
       "vip": false,
       "listed_at": "2026-03-30T11:26:09+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/queens-and-kings-by-lucy-worsley-signed",
+      "title": "Queens and Kings by Lucy Worsley (Signed)",
+      "author": "Lucy Worsley",
+      "price": "\u00a325.00",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/queens-and-kings-by-lucy-worsley-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/335c2d3f-1cd3-468c-87ad-dac2528c9b5f/Website+Listing+Template+-+Book+%2834%29.jpg",
+      "vip": false,
+      "listed_at": "2026-03-30T10:00:06.506000+00:00",
+      "discovered_at": "2026-11-19T17:59:45.998739+00:00"
     },
     {
       "id": "Ivybridge Bookshop::9781529061567",
@@ -28979,18 +29042,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/2098b624-211d-422c-80f6-ed78cb94bda9/Copy+of+Product+Template+-+Square+Promotional+Image+-+Updated+-+2026-05-20T130956.749.jpg",
       "vip": false,
       "listed_at": "2026-03-10T15:17:42.596000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/put-your-records-on-by-corinne-bailey-rae-signed",
-      "title": "Put Your Records On by Corinne Bailey Rae (Signed)",
-      "author": "Corinne Bailey Rae",
-      "price": "\u00a38.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/put-your-records-on-by-corinne-bailey-rae-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/496d9022-efcb-448e-a114-352506c7bd3f/Website+Listing+Template+-+Book+%2844%29.jpg",
-      "vip": false,
-      "listed_at": "2026-03-10T13:31:26.964000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
@@ -30458,18 +30509,6 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/bethnal-green-by-amelie-skoda-signed",
-      "title": "Bethnal Green by Amelie Skoda (Signed)",
-      "author": "Amelie Skoda",
-      "price": "\u00a39.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/bethnal-green-by-amelie-skoda-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/7a882dab-92c7-4834-8ccb-5f3f805f0bd2/Copy+of+Product+Template+-+Book+-+2026-02-13T122333.133.jpg",
-      "vip": false,
-      "listed_at": "2026-02-13T12:26:51.944000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/loss-by-donna-ashworth-signed",
       "title": "Loss by Donna Ashworth (Signed)",
       "author": "Donna Ashworth",
@@ -30671,18 +30710,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/ee474e20-94b4-4e8b-a673-a3d623069748/Copy+of+Product+Template+-+Book+-+2026-02-12T101158.406.jpg",
       "vip": false,
       "listed_at": "2026-02-12T10:13:35.443000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/nineteen-eighty-four-the-illustrated-edition-by-george-orwell-murugiah-illustrator",
-      "title": "Nineteen Eighty-Four : The Illustrated Edition by George Orwell & MURUGIAH (Illustrator)",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/nineteen-eighty-four-the-illustrated-edition-by-george-orwell-murugiah-illustrator",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/e2dcbbe8-7696-4535-9e91-986d4aa51716/Copy+of+Product+Template+-+Book+-+2025-08-24T123126.690.jpg",
-      "vip": false,
-      "listed_at": "2026-02-11T17:54:14.419000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
@@ -32291,18 +32318,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/81069c7f-3393-403c-b610-8eb458679829/Copy+of+Product+Template+-+Book+-+2026-01-22T173536.507.jpg",
       "vip": false,
       "listed_at": "2026-01-22T17:37:31.493000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/they-by-helle-helle-signed",
-      "title": "they by Helle Helle (Signed)",
-      "author": "Helle Helle",
-      "price": "\u00a312.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/they-by-helle-helle-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/c4d13be1-247b-4e92-b829-cc1c8cd430fd/Copy+of+Product+Template+-+Book+-+2026-01-22T164224.384.jpg",
-      "vip": false,
-      "listed_at": "2026-01-22T16:50:55.206000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
@@ -34466,6 +34481,18 @@
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
+      "id": "Goldsboro Books::red-rising-deluxe-edition",
+      "title": "Red Rising: Deluxe Edition",
+      "author": "",
+      "price": "\u00a3150.00",
+      "shop": "Goldsboro Books",
+      "url": "https://goldsborobooks.com/products/red-rising-deluxe-edition",
+      "image": "https://cdn.shopify.com/s/files/1/0733/4900/5606/files/6881f38c-f29b-49a9-bd1f-5e374934b179.jpg?v=1765191761",
+      "vip": false,
+      "listed_at": "2025-12-08T11:02:37+00:00",
+      "discovered_at": "2026-11-19T17:59:45.998739+00:00"
+    },
+    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/all-in-football-life-and-learning-to-be-unapologetically-me-signed-copy/",
       "title": "All In: Football, Life and Learning to be Unapologetically Me \u2013 Signed Copy",
       "author": "",
@@ -34848,42 +34875,6 @@
       "vip": false,
       "listed_at": "2025-11-20T12:05:13.310000+00:00",
       "discovered_at": "2026-11-14T12:01:57.608211+00:00"
-    },
-    {
-      "id": "Cleeve Bookshop::9780571399925",
-      "title": "Stowaways - Signed Bookplate First Edition",
-      "author": "",
-      "price": "\u00a311.99",
-      "shop": "Cleeve Bookshop",
-      "url": "https://thecleevebookshop.co.uk/products/9780571399925",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/stowaways-signed-bookplate-first-edition-3715023.jpg?v=1786977009",
-      "vip": false,
-      "listed_at": "2025-11-20T09:31:48+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/honey-by-imani-thompson-signed",
-      "title": "Honey by Imani Thompson (Signed)",
-      "author": "Imani Thompson",
-      "price": "\u00a316.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/honey-by-imani-thompson-signed",
-      "image": "https://static1.squarespace.com/static/5eef48074fae902f27d8deb4/5eef6c30efa3e3278d90c396/691e03f72a89150293a52a3e/1788112768717/",
-      "vip": false,
-      "listed_at": "2025-11-19T17:55:58.973000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/sunset-at-zero-point-signed-copy/",
-      "title": "Sunset at Zero Point \u2013 Signed Copy",
-      "author": "",
-      "price": "\u00a335.00",
-      "shop": "Booka Bookshop",
-      "url": "https://www.bookabookshop.co.uk/shop/sunset-at-zero-point-signed-copy/",
-      "image": "https://www.bookabookshop.co.uk/wp-content/uploads/2025/11/Sunset-at-Zero-Point.jpg",
-      "vip": false,
-      "listed_at": "2025-11-19T14:59:01+00:00",
-      "discovered_at": "2026-11-17T11:38:32.110124+00:00"
     }
   ]
 }
