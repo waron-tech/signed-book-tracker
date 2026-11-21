@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T18:12:08.044537+00:00",
+  "last_updated": "2026-11-21T23:13:33.795965+00:00",
   "total_available": 2810,
   "shop_status": {
     "Goldsboro Books": "13 items",
@@ -13,19 +13,32 @@
     "Perkology Books": "37 items",
     "Bookstation (Ireland)": "5 items",
     "Biggles Stones": "3 items",
-    "London Review Bookshop": "37 items",
+    "London Review Bookshop": "36 items",
     "Little Apple Bookshop": "38 items",
     "Hewson Books": "55 items",
     "Station Books": "0 items",
     "Booka Bookshop": "289 items",
     "Coles Books": "10 items",
     "West End Lane Books": "1040 items",
-    "Waterstones": "188 items via feed (as of 2026-11-21T14:48:08.718610+00:00)",
-    "Hatchards": "109 items via feed (as of 2026-11-21T02:51:08.563848+00:00)",
-    "Linghams": "224 items via feed (as of 2026-11-20T22:49:23.396347+00:00)",
-    "Foyles": "137 items via feed (as of 2026-11-21T06:46:17.251582+00:00)"
+    "Waterstones": "189 items via feed (as of 2026-11-21T22:49:25.643362+00:00)",
+    "Linghams": "224 items via feed (as of 2026-11-21T22:49:25.643362+00:00)",
+    "Foyles": "137 items via feed (as of 2026-11-21T06:46:17.251582+00:00)",
+    "Hatchards": "109 items via feed (as of 2026-11-21T22:49:25.643362+00:00)"
   },
   "books": [
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/rabbit-and-bear-rabbits-bad-habits-christmas-gift-edition/julian-gough/9781510114661",
+      "title": "Rabbit and Bear: Rabbit's Bad Habits Christmas Gift Edition by Julian Gough",
+      "author": "Julian Gough",
+      "price": "\u00a314.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/rabbit-and-bear-rabbits-bad-habits-christmas-gift-edition/julian-gough/9781510114661",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "vip": false,
+      "listed_at": "2026-11-21T23:13:33.795965+00:00",
+      "discovered_at": "2026-11-21T23:13:33.795965+00:00",
+      "est": "seen"
+    },
     {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-book-of-lost-languages-an-epic-quest-to-decipher-the-past-daniel-harbour",
       "title": "The Book of Lost Languages - Daniel Harbour",
@@ -352,19 +365,6 @@
       "est": "pos"
     },
     {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/dodge-city-hatchards-signed-edition/patrick-dewitt/2001797015848",
-      "title": "Dodge City: Hatchards Signed Edition by Patrick deWitt",
-      "author": "Patrick deWitt",
-      "price": "\u00a318.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/dodge-city-hatchards-signed-edition/patrick-dewitt/2001797015848",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
-      "vip": false,
-      "listed_at": "2026-11-18T03:30:05.523033+00:00",
-      "discovered_at": "2026-11-21T03:30:05.523033+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/royal-witch-signed-indie-edition/",
       "title": "Royal Witch SIGNED INDIE EDITION",
       "author": "Philippa Gregory",
@@ -385,6 +385,19 @@
       "shop": "Foyles",
       "url": "https://www.foyles.co.uk/book/how-ive-tried-to-change-the-world/alexei-sayle/9781399645102",
       "image": "",
+      "vip": false,
+      "listed_at": "2026-11-18T03:30:05.523033+00:00",
+      "discovered_at": "2026-11-21T03:30:05.523033+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/dodge-city-hatchards-signed-edition/patrick-dewitt/2001797015848",
+      "title": "Dodge City: Hatchards Signed Edition by Patrick deWitt",
+      "author": "Patrick deWitt",
+      "price": "\u00a318.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/dodge-city-hatchards-signed-edition/patrick-dewitt/2001797015848",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": false,
       "listed_at": "2026-11-18T03:30:05.523033+00:00",
       "discovered_at": "2026-11-21T03:30:05.523033+00:00",
@@ -1559,19 +1572,6 @@
       "est": "pos"
     },
     {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/michael/bob-mortimer/9781398571853",
-      "title": "Michael by Bob Mortimer",
-      "author": "Bob Mortimer",
-      "price": "\u00a322.00",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/michael/bob-mortimer/9781398571853",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/9781/3985/9781398571853_2.jpg",
-      "vip": false,
-      "listed_at": "2026-11-15T16:03:07.174409+00:00",
-      "discovered_at": "2026-11-21T03:30:05.523033+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/proper-home-cooking/",
       "title": "Proper Home Cooking SIGNED",
       "author": "Si King",
@@ -2165,6 +2165,19 @@
       "est": "pos"
     },
     {
+      "id": "Waterstones::https://www.waterstones.com/book/bastards/jay-kristoff/9780008871819",
+      "title": "Bastards",
+      "author": "Jay Kristoff",
+      "price": "\u00a325.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/bastards/jay-kristoff/9780008871819",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9780/0088/9780008871819.jpg",
+      "vip": false,
+      "listed_at": "2026-11-14T02:39:16.653108+00:00",
+      "discovered_at": "2026-11-21T23:13:33.795965+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/get-back-signed/",
       "title": "Get Back *signed*",
       "author": "Hunter Davies",
@@ -2417,7 +2430,7 @@
       "price": "\u00a318.99",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/how-to-begin/edmund-de-waal/2928377395599",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377395599_2.jpg",
       "vip": false,
       "listed_at": "2026-11-13T10:32:50.660648+00:00",
       "discovered_at": "2026-11-21T03:30:05.523033+00:00",
@@ -2780,19 +2793,6 @@
       "listed_at": "2026-11-12T15:03:48.880697+00:00",
       "discovered_at": "2026-11-21T03:30:05.523033+00:00",
       "est": "pos"
-    },
-    {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-floating-world-ben-eastham",
-      "title": "The Floating World - Ben Eastham",
-      "author": "Ben Eastham",
-      "price": "\u00a314.99",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/the-floating-world-ben-eastham",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/2/7/3/7/4567372-1-eng-GB/9781804272619.jpg",
-      "vip": false,
-      "listed_at": "2026-11-12T14:44:04.441239+00:00",
-      "discovered_at": "2026-11-12T14:44:04.441239+00:00",
-      "est": "seen"
     },
     {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/changing-gender-the-history-and-future-of-a-concept-susan-stryker",
@@ -3731,7 +3731,7 @@
       "price": "\u00a325.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/the-great-dictator-hatchards-signed-edition/matthew-sweet/2001797015350",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015350_2.jpg",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": false,
       "listed_at": "2026-11-10T17:09:10.477161+00:00",
       "discovered_at": "2026-11-21T03:30:05.523033+00:00",
