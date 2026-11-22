@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-21T23:13:33.795965+00:00",
-  "total_available": 2810,
+  "last_updated": "2026-11-22T03:10:23.083645+00:00",
+  "total_available": 2807,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "0 items",
@@ -14,31 +14,18 @@
     "Bookstation (Ireland)": "5 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "36 items",
-    "Little Apple Bookshop": "38 items",
+    "Little Apple Bookshop": "37 items",
     "Hewson Books": "55 items",
     "Station Books": "0 items",
     "Booka Bookshop": "289 items",
     "Coles Books": "10 items",
     "West End Lane Books": "1040 items",
-    "Waterstones": "189 items via feed (as of 2026-11-21T22:49:25.643362+00:00)",
+    "Waterstones": "188 items via feed (as of 2026-11-22T02:48:43.721228+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-21T22:49:25.643362+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-21T06:46:17.251582+00:00)",
-    "Hatchards": "109 items via feed (as of 2026-11-21T22:49:25.643362+00:00)"
+    "Hatchards": "108 items via feed (as of 2026-11-22T02:48:43.721228+00:00)"
   },
   "books": [
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/rabbit-and-bear-rabbits-bad-habits-christmas-gift-edition/julian-gough/9781510114661",
-      "title": "Rabbit and Bear: Rabbit's Bad Habits Christmas Gift Edition by Julian Gough",
-      "author": "Julian Gough",
-      "price": "\u00a314.99",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/rabbit-and-bear-rabbits-bad-habits-christmas-gift-edition/julian-gough/9781510114661",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
-      "vip": false,
-      "listed_at": "2026-11-21T23:13:33.795965+00:00",
-      "discovered_at": "2026-11-21T23:13:33.795965+00:00",
-      "est": "seen"
-    },
     {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/the-book-of-lost-languages-an-epic-quest-to-decipher-the-past-daniel-harbour",
       "title": "The Book of Lost Languages - Daniel Harbour",
@@ -47,19 +34,6 @@
       "shop": "London Review Bookshop",
       "url": "https://www.londonreviewbookshop.co.uk/stock/the-book-of-lost-languages-an-epic-quest-to-decipher-the-past-daniel-harbour",
       "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/6/6/7/2/4792766-1-eng-GB/79db69dbb929-9781526645975.jpg",
-      "vip": false,
-      "listed_at": "2026-11-21T18:12:08.044537+00:00",
-      "discovered_at": "2026-11-21T18:12:08.044537+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/nick-heyward-fantastic-days-signed-bookplate-edition-hardback",
-      "title": "Nick Heyward - Fantastic Days (SIGNED BOOKPLATE EDITION) (HARDBACK)",
-      "author": "Fantastic Days",
-      "price": "\u00a325.00",
-      "shop": "Little Apple Bookshop",
-      "url": "https://www.littleapplebookshop.co.uk/product-page/nick-heyward-fantastic-days-signed-bookplate-edition-hardback",
-      "image": "https://static.wixstatic.com/media/01f334_81382796f05849d8b5392428742475bc~mv2.jpg",
       "vip": false,
       "listed_at": "2026-11-21T18:12:08.044537+00:00",
       "discovered_at": "2026-11-21T18:12:08.044537+00:00",
@@ -953,6 +927,19 @@
       "vip": false,
       "listed_at": "2026-11-17T09:13:06+00:00",
       "discovered_at": "2026-11-17T09:49:30.461755+00:00"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/drive/christian-horner/2928377396831",
+      "title": "Drive by Christian Horner",
+      "author": "Christian Horner",
+      "price": "\u00a325.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/drive/christian-horner/2928377396831",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377396831_2.jpg",
+      "vip": false,
+      "listed_at": "2026-11-17T09:10:23.083645+00:00",
+      "discovered_at": "2026-11-22T03:10:23.083645+00:00",
+      "est": "pos"
     },
     {
       "id": "Foyles::https://www.foyles.co.uk/book/kill-shot/jo-nesbo/2928377374730",
@@ -2162,19 +2149,6 @@
       "vip": false,
       "listed_at": "2026-11-14T02:59:27.225161+00:00",
       "discovered_at": "2026-11-21T03:30:05.523033+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Waterstones::https://www.waterstones.com/book/bastards/jay-kristoff/9780008871819",
-      "title": "Bastards",
-      "author": "Jay Kristoff",
-      "price": "\u00a325.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/bastards/jay-kristoff/9780008871819",
-      "image": "https://cdn.waterstones.com/override/v2/medium/9780/0088/9780008871819.jpg",
-      "vip": false,
-      "listed_at": "2026-11-14T02:39:16.653108+00:00",
-      "discovered_at": "2026-11-21T23:13:33.795965+00:00",
       "est": "pos"
     },
     {
@@ -3576,7 +3550,7 @@
       "price": "\u00a325.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/the-elegant-hustler-hatchards-signed-edition/celia-imrie/2001797015527",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015527_2.jpg",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": false,
       "listed_at": "2026-11-11T05:02:34.146886+00:00",
       "discovered_at": "2026-11-21T03:30:05.523033+00:00",
@@ -3644,19 +3618,6 @@
       "image": "https://cdn.waterstones.com/override/v1/medium/9781/3997/9781399763905.jpg",
       "vip": false,
       "listed_at": "2026-11-10T23:09:39.991118+00:00",
-      "discovered_at": "2026-11-21T03:30:05.523033+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/the-wine-dark-sea/victoria-hislop/9781035448104",
-      "title": "The Wine-Dark Sea by Victoria Hislop",
-      "author": "Victoria Hislop",
-      "price": "\u00a322.00",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/the-wine-dark-sea/victoria-hislop/9781035448104",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/9781/0354/9781035448104_2.jpg",
-      "vip": false,
-      "listed_at": "2026-11-10T23:05:52.312024+00:00",
       "discovered_at": "2026-11-21T03:30:05.523033+00:00",
       "est": "pos"
     },
@@ -4357,7 +4318,7 @@
       "price": "\u00a320.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/on-the-equality-of-all-things-hatchards-signed-edition/carlo-rovelli/2001797015428",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015428_2.jpg",
       "vip": false,
       "listed_at": "2026-11-09T05:28:59.467987+00:00",
       "discovered_at": "2026-11-21T03:30:05.523033+00:00",
@@ -7742,7 +7703,7 @@
       "price": "\u00a318.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781398566231",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/what-took-you-so-long-signed-first-edition-9868768.jpg?v=1795169406",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/what-took-you-so-long-signed-first-edition-9868768.jpg?v=1795310151",
       "vip": false,
       "listed_at": "2026-10-31T13:53:55+00:00",
       "discovered_at": "2026-11-11T16:21:55.629591+00:00"
@@ -8516,7 +8477,7 @@
       "price": "\u00a375.00",
       "shop": "Little Apple Bookshop",
       "url": "https://www.littleapplebookshop.co.uk/product-page/nick-cave-susie-special-edition-signed-bookplate-edition",
-      "image": "https://static.wixstatic.com/media/01f334_9d46bf54abbf486ca312b3678e2650d1~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/01f334_81382796f05849d8b5392428742475bc~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-29T13:35:57.398212+00:00",
       "discovered_at": "2026-10-29T13:35:57.398212+00:00",
@@ -9582,7 +9543,7 @@
       "price": "\u00a332.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9780571406500",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-collected-harauld-hughes-edited-by-richard-ayoade-signed-numbered-first-edition-3240222.jpg?v=1795169045",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-collected-harauld-hughes-edited-by-richard-ayoade-signed-numbered-first-edition-3240222.jpg?v=1795310340",
       "vip": false,
       "listed_at": "2026-10-26T22:45:54+00:00",
       "discovered_at": "2026-11-12T17:31:52.904571+00:00"
@@ -11424,7 +11385,7 @@
       "price": "\u00a316.99",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9780008863432",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-bookshop-book-signed-first-edition-2158147.jpg?v=1795169285",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-bookshop-book-signed-first-edition-2158147.jpg?v=1795310405",
       "vip": false,
       "listed_at": "2026-10-21T13:37:28+00:00",
       "discovered_at": "2026-10-21T14:23:44.972435+00:00"
@@ -11436,7 +11397,7 @@
       "price": "\u00a318.00",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781837930913",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-last-handmaid-signed-first-edition-5336337.jpg?v=1795169107",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/the-last-handmaid-signed-first-edition-5336337.jpg?v=1795310564",
       "vip": false,
       "listed_at": "2026-10-21T13:35:20+00:00",
       "discovered_at": "2026-11-06T17:02:49.223884+00:00"
@@ -11804,7 +11765,7 @@
       "price": "\u00a325.00",
       "shop": "Little Apple Bookshop",
       "url": "https://www.littleapplebookshop.co.uk/product-page/naomi-klein-and-astra-taylor-end-times-fascism-signed-copy-hardback",
-      "image": "https://static.wixstatic.com/media/01f334_9d46bf54abbf486ca312b3678e2650d1~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/01f334_daa98cd2d96b492691467e4476d4bf24~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-15T17:33:07.923767+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
@@ -29070,7 +29031,7 @@
       "price": "\u00a313.49",
       "shop": "Cleeve Bookshop",
       "url": "https://thecleevebookshop.co.uk/products/9781800963870",
-      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/fairytales-for-privileged-children-signed-first-edition-7278463.jpg?v=1795171085",
+      "image": "https://cdn.shopify.com/s/files/1/0758/0729/3737/files/fairytales-for-privileged-children-signed-first-edition-7278463.jpg?v=1795309797",
       "vip": false,
       "listed_at": "2026-03-09T16:08:40+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
