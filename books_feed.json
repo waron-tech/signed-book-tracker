@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-11-22T23:48:48.409100+00:00",
-  "total_available": 2793,
+  "last_updated": "2026-11-23T04:49:51.299707+00:00",
+  "total_available": 2789,
   "shop_status": {
     "Goldsboro Books": "13 items",
     "Rare Mags": "0 items",
     "Porty Books": "15 items",
     "Backstory London (Signed & Dedicated)": "48 items",
     "Backstory London (Exclusives)": "0 items",
-    "British Library Shop": "279 items",
+    "British Library Shop": "278 items",
     "Cleeve Bookshop": "127 items",
     "Ivybridge Bookshop": "155 items",
     "Perkology Books": "37 items",
     "Bookstation (Ireland)": "5 items",
     "Biggles Stones": "3 items",
     "London Review Bookshop": "36 items",
-    "Little Apple Bookshop": "38 items",
+    "Little Apple Bookshop": "37 items",
     "Hewson Books": "51 items",
     "Station Books": "0 items",
     "Booka Bookshop": "288 items",
     "Coles Books": "10 items",
     "West End Lane Books": "1029 items",
-    "Waterstones": "188 items via feed (as of 2026-11-22T14:52:25.793420+00:00)",
+    "Waterstones": "187 items via feed (as of 2026-11-23T02:53:53.188068+00:00)",
     "Linghams": "224 items via feed (as of 2026-11-22T22:53:24.425711+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-22T06:49:49.032626+00:00)",
-    "Hatchards": "110 items via feed (as of 2026-11-22T22:53:24.425711+00:00)"
+    "Hatchards": "109 items via feed (as of 2026-11-23T02:53:53.188068+00:00)"
   },
   "books": [
     {
@@ -3114,19 +3114,6 @@
       "est": "pos"
     },
     {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/the-wine-dark-sea/victoria-hislop/9781035448104",
-      "title": "The Wine-Dark Sea by Victoria Hislop",
-      "author": "Victoria Hislop",
-      "price": "\u00a322.00",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/the-wine-dark-sea/victoria-hislop/9781035448104",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/9781/0354/9781035448104_2.jpg",
-      "vip": false,
-      "listed_at": "2026-11-12T20:58:37.500009+00:00",
-      "discovered_at": "2026-11-22T23:48:48.409100+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Foyles::https://www.foyles.co.uk/book/hope-is-here/zack-polanski/2928377383114",
       "title": "Hope is Here",
       "author": "Zack Polanski",
@@ -3724,7 +3711,7 @@
       "price": "\u00a325.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/the-great-dictator-hatchards-signed-edition/matthew-sweet/2001797015350",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015350_2.jpg",
       "vip": false,
       "listed_at": "2026-11-12T00:30:36.307855+00:00",
       "discovered_at": "2026-11-22T18:30:36.307855+00:00",
@@ -6139,19 +6126,6 @@
       "image": "https://linghams.co.uk/wp-content/uploads/9781529155549-350x525.jpg.webp",
       "vip": false,
       "listed_at": "2026-11-05T21:49:53.450712+00:00",
-      "discovered_at": "2026-11-22T18:30:36.307855+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Waterstones::https://www.waterstones.com/book/from-the-world-of-percy-jackson-the-rite-of-aphrodite/rick-riordan/kyle-lukoff/9780241876015",
-      "title": "From the World of Percy Jackson: The Rite of Aphrodite",
-      "author": "Rick Riordan, Kyle Lukoff",
-      "price": "\u00a316.99",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/from-the-world-of-percy-jackson-the-rite-of-aphrodite/rick-riordan/kyle-lukoff/9780241876015",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9780/2418/9780241876015.jpg",
-      "vip": false,
-      "listed_at": "2026-11-05T20:10:10.775940+00:00",
       "discovered_at": "2026-11-22T18:30:36.307855+00:00",
       "est": "pos"
     },
@@ -11994,19 +11968,6 @@
       "est": "pos"
     },
     {
-      "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/clint-boon-the-manchester-chronicles-signed-copy-hardback",
-      "title": "Clint Boon - The Manchester Chronicles (SIGNED COPY) (HARDBACK)",
-      "author": "Clint Boon",
-      "price": "\u00a325.00",
-      "shop": "Little Apple Bookshop",
-      "url": "https://www.littleapplebookshop.co.uk/product-page/clint-boon-the-manchester-chronicles-signed-copy-hardback",
-      "image": "https://static.wixstatic.com/media/01f334_c67a793db74640589d47e641fd736522~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-14T23:33:07.923767+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/the-american-way-of-killing-by-malcolm-gladwell",
       "title": "The American Way of Killing ***signed*** by Malcolm Gladwell",
       "author": "Malcolm Gladwell",
@@ -12282,18 +12243,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/NightofaThousandHells_9781787706637.png?v=1791981385",
       "vip": false,
       "listed_at": "2026-10-14T12:36:51+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "British Library Shop::the-discworld-bestiary-signed-edition",
-      "title": "The Discworld Bestiary (Signed Edition)",
-      "author": "",
-      "price": "\u00a330.00",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/the-discworld-bestiary-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/PratchettBeastiary_9780857529497.png?v=1791981095",
-      "vip": false,
-      "listed_at": "2026-10-14T12:32:00+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
