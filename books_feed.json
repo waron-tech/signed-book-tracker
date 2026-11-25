@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-25T15:32:29.617049+00:00",
-  "total_available": 2792,
+  "last_updated": "2026-11-25T23:46:51.740903+00:00",
+  "total_available": 2787,
   "shop_status": {
-    "Goldsboro Books": "11 items",
-    "Rare Mags": "0 items",
+    "Goldsboro Books": "12 items",
+    "Rare Mags": "1 items",
     "Porty Books": "15 items",
-    "Backstory London (Signed & Dedicated)": "51 items",
+    "Backstory London (Signed & Dedicated)": "49 items",
     "Backstory London (Exclusives)": "0 items",
     "British Library Shop": "280 items",
     "Cleeve Bookshop": "131 items",
@@ -19,13 +19,102 @@
     "Station Books": "0 items",
     "Booka Bookshop": "287 items",
     "Coles Books": "12 items",
-    "West End Lane Books": "1027 items",
-    "Waterstones": "182 items via feed (as of 2026-11-25T15:05:29.142600+00:00)",
-    "Linghams": "224 items via feed (as of 2026-11-24T23:02:43.920476+00:00)",
-    "Foyles": "137 items via feed (as of 2026-11-25T07:03:38.229980+00:00)",
-    "Hatchards": "110 items via feed (as of 2026-11-25T15:05:29.142600+00:00)"
+    "West End Lane Books": "1025 items",
+    "Linghams": "224 items via feed (as of 2026-11-25T23:06:39.135946+00:00)",
+    "Hatchards": "108 items via feed (as of 2026-11-25T23:06:39.135946+00:00)",
+    "Waterstones": "181 items via feed (as of 2026-11-25T23:06:39.135946+00:00)",
+    "Foyles": "137 items via feed (as of 2026-11-25T07:03:38.229980+00:00)"
   },
   "books": [
+    {
+      "id": "Coles Books::https://coles-books.co.uk/the-storyteller-s-secret-by-lucy-diamond-signed-edition",
+      "title": "The Storyteller's Secret by Lucy Diamond - Signed Edition",
+      "author": "Lucy Diamond",
+      "price": "\u00a318.99",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/the-storyteller-s-secret-by-lucy-diamond-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/l/u/lucy_diamond_the_storyteller_s_secret_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-25T23:46:51.740903+00:00",
+      "discovered_at": "2026-11-25T23:46:51.740903+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Coles Books::https://coles-books.co.uk/milk-bread-teeth-by-amy-twigg-signed-edition",
+      "title": "Milk, Bread, Teeth by Amy Twigg - Signed Edition",
+      "author": "Amy Twigg",
+      "price": "\u00a318.99",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/milk-bread-teeth-by-amy-twigg-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/m/i/milk_bread_teeth_amy_twigg_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-25T23:46:51.740903+00:00",
+      "discovered_at": "2026-11-25T23:46:51.740903+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Coles Books::https://coles-books.co.uk/growing-everything-from-seed-by-jekka-mcvicar-signed-edition",
+      "title": "Growing Everything From Seed by Jekka McVicar - Signed Edition",
+      "author": "Jekka McVicar",
+      "price": "\u00a322.00",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/growing-everything-from-seed-by-jekka-mcvicar-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/j/e/jekka_mcvicar_growing_everything-from_seed_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-25T23:46:51.740903+00:00",
+      "discovered_at": "2026-11-25T23:46:51.740903+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Coles Books::https://coles-books.co.uk/drowned-in-the-name-of-love-by-rut-s-diaz",
+      "title": "Drowned in the Name of Love by Rut S. Diaz - Signed Edition",
+      "author": "Rut S. Diaz",
+      "price": "\u00a39.99",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/drowned-in-the-name-of-love-by-rut-s-diaz",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/r/u/rut_s._diaz_drowned_in_the_name_of_love_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-25T23:46:51.740903+00:00",
+      "discovered_at": "2026-11-25T23:46:51.740903+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Coles Books::https://coles-books.co.uk/hear-me-out-by-mishal-husain-signed-edition",
+      "title": "Hear Me Out by Mishal Husain - Signed Edition",
+      "author": "Mishal Husain",
+      "price": "\u00a316.99",
+      "shop": "Coles Books",
+      "url": "https://coles-books.co.uk/hear-me-out-by-mishal-husain-signed-edition",
+      "image": "https://cdn.coles-books.co.uk/media/catalog/product/m/i/mishal_husain_hear_me_out_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
+      "vip": false,
+      "listed_at": "2026-11-25T23:46:51.740903+00:00",
+      "discovered_at": "2026-11-25T23:46:51.740903+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "Rare Mags::a-plane-a-crane-a-train",
+      "title": "A Plane, A Crane, A Train",
+      "author": "Maia Judith",
+      "price": "\u00a311.00",
+      "shop": "Rare Mags",
+      "url": "https://raremags.co.uk/products/a-plane-a-crane-a-train",
+      "image": "https://cdn.shopify.com/s/files/1/0003/6778/8068/files/IMG_1911.jpg?v=1795627399",
+      "vip": false,
+      "listed_at": "2026-11-25T17:23:48+00:00",
+      "discovered_at": "2026-11-25T23:46:51.740903+00:00"
+    },
+    {
+      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/have-you-ever-heard-old-music-52-essential-records-you-need-in-your-life-by-owen-cutts-signed",
+      "title": "Have You Ever Heard Old Music? : 52 Essential Records You Need in Your Life by Owen Cutts (Signed)",
+      "author": "Owen Cutts",
+      "price": "\u00a318.99",
+      "shop": "West End Lane Books",
+      "url": "https://www.welbooks.co.uk/shop/p/have-you-ever-heard-old-music-52-essential-records-you-need-in-your-life-by-owen-cutts-signed",
+      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/bac5c16b-2873-475a-ad6e-f8db61faf5c6/Untitled+design+%2885%29.jpg",
+      "vip": false,
+      "listed_at": "2026-11-25T17:23:17.242000+00:00",
+      "discovered_at": "2026-11-25T23:46:51.740903+00:00"
+    },
     {
       "id": "Coles Books::https://coles-books.co.uk/britain-s-weird-and-wonderful-country-side-by-hannah-roe-signed-edition",
       "title": "Britain's Weird and Wonderful Country Side by Hannah Roe - Signed Edition",
@@ -112,71 +201,6 @@
       "shop": "Coles Books",
       "url": "https://coles-books.co.uk/tidy-in-10-by-iwan-carrington-signed-edition",
       "image": "https://cdn.coles-books.co.uk/media/catalog/product/i/w/iwan_carrington_tidy_in_10_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-11-25T15:32:29.617049+00:00",
-      "discovered_at": "2026-11-25T15:32:29.617049+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/the-measure-of-everything-by-tim-harford-signed-edition",
-      "title": "The Measure of Everything by Tim Harford - Signed Edition",
-      "author": "Tim Harford",
-      "price": "\u00a325.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/the-measure-of-everything-by-tim-harford-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/t/i/tim_harford_the_measure_of_everything-coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-11-25T15:32:29.617049+00:00",
-      "discovered_at": "2026-11-25T15:32:29.617049+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/dawn-by-john-lewis-stempel-signed-edition",
-      "title": "Dawn by John Lewis-Stempel - Signed Edition",
-      "author": "John Lewis-Stempel",
-      "price": "\u00a316.99",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/dawn-by-john-lewis-stempel-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/j/o/john_lewis_stempel_dawn_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-11-25T15:32:29.617049+00:00",
-      "discovered_at": "2026-11-25T15:32:29.617049+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/jane-anger-by-rosanna-pike-signed-edition",
-      "title": "Jane Anger by Rosanna Pike - Signed Edition",
-      "author": "Rosanna Pike",
-      "price": "\u00a318.99",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/jane-anger-by-rosanna-pike-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/r/o/rosanna_pike_jane_anger_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-11-25T15:32:29.617049+00:00",
-      "discovered_at": "2026-11-25T15:32:29.617049+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/maria-maria-by-jennifer-galv-o-signed-edition",
-      "title": "Maria, Maria by Jennifer Galv\u00e3o - Signed Edition",
-      "author": "",
-      "price": "\u00a316.99",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/maria-maria-by-jennifer-galv-o-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/j/e/jennifer_galvao_maria_maria_coles_signed_edition_1.jpg?width=240&height=300&store=default&image-type=small_image",
-      "vip": false,
-      "listed_at": "2026-11-25T15:32:29.617049+00:00",
-      "discovered_at": "2026-11-25T15:32:29.617049+00:00",
-      "est": "seen"
-    },
-    {
-      "id": "Coles Books::https://coles-books.co.uk/the-last-days-of-vic-and-coco-by-taylor-jenkins-reid-signed-edition",
-      "title": "The Last Days of Vic and Coco by Taylor Jenkins Reid - Signed Edition",
-      "author": "Taylor Jenkins Reid",
-      "price": "\u00a320.00",
-      "shop": "Coles Books",
-      "url": "https://coles-books.co.uk/the-last-days-of-vic-and-coco-by-taylor-jenkins-reid-signed-edition",
-      "image": "https://cdn.coles-books.co.uk/media/catalog/product/t/h/the_last_days_of_vic_and_coco_taylor_jenkins_reid_coles_signed_edition1.jpg?width=240&height=300&store=default&image-type=small_image",
       "vip": false,
       "listed_at": "2026-11-25T15:32:29.617049+00:00",
       "discovered_at": "2026-11-25T15:32:29.617049+00:00",
@@ -418,19 +442,6 @@
       "est": "pos"
     },
     {
-      "id": "Foyles::https://www.foyles.co.uk/book/how-ive-tried-to-change-the-world/alexei-sayle/9781399645102",
-      "title": "How I've Tried to Change the World",
-      "author": "Alexei Sayle",
-      "price": "\u00a316.99",
-      "shop": "Foyles",
-      "url": "https://www.foyles.co.uk/book/how-ive-tried-to-change-the-world/alexei-sayle/9781399645102",
-      "image": "",
-      "vip": false,
-      "listed_at": "2026-11-21T12:56:30.021886+00:00",
-      "discovered_at": "2026-11-24T12:56:30.021886+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Hatchards::https://www.hatchards.co.uk/book/dodge-city-hatchards-signed-edition/patrick-dewitt/2001797015848",
       "title": "Dodge City: Hatchards Signed Edition by Patrick deWitt",
       "author": "Patrick deWitt",
@@ -438,6 +449,19 @@
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/dodge-city-hatchards-signed-edition/patrick-dewitt/2001797015848",
       "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "vip": false,
+      "listed_at": "2026-11-21T12:56:30.021886+00:00",
+      "discovered_at": "2026-11-24T12:56:30.021886+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Foyles::https://www.foyles.co.uk/book/how-ive-tried-to-change-the-world/alexei-sayle/9781399645102",
+      "title": "How I've Tried to Change the World",
+      "author": "Alexei Sayle",
+      "price": "\u00a316.99",
+      "shop": "Foyles",
+      "url": "https://www.foyles.co.uk/book/how-ive-tried-to-change-the-world/alexei-sayle/9781399645102",
+      "image": "",
       "vip": false,
       "listed_at": "2026-11-21T12:56:30.021886+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -1524,19 +1548,6 @@
       "est": "pos"
     },
     {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/michael/bob-mortimer/9781398571853",
-      "title": "Michael by Bob Mortimer",
-      "author": "Bob Mortimer",
-      "price": "\u00a322.00",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/michael/bob-mortimer/9781398571853",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/9781/3985/9781398571853_2.jpg",
-      "vip": false,
-      "listed_at": "2026-11-18T14:22:48.419161+00:00",
-      "discovered_at": "2026-11-25T05:09:56.990590+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Foyles::https://www.foyles.co.uk/book/the-moth-reborn/samantha-shannon/9781037209253",
       "title": "The Moth Reborn",
       "author": "Samantha Shannon",
@@ -1983,7 +1994,7 @@
       "price": "\u00a320.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/black-coffee-and-red-lipstick/alexandra-shulman/9781846018350",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/9781/8460/9781846018350_2.jpg",
       "vip": false,
       "listed_at": "2026-11-17T12:56:30.021886+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -3210,19 +3221,6 @@
       "est": "pos"
     },
     {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/the-wine-dark-sea/victoria-hislop/9781035448104",
-      "title": "The Wine-Dark Sea by Victoria Hislop",
-      "author": "Victoria Hislop",
-      "price": "\u00a322.00",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/the-wine-dark-sea/victoria-hislop/9781035448104",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/9781/0354/9781035448104_2.jpg",
-      "vip": false,
-      "listed_at": "2026-11-14T12:56:30.021886+00:00",
-      "discovered_at": "2026-11-24T12:56:30.021886+00:00",
-      "est": "pos"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/the-future-of-truth-by-werner-herzog-signed",
       "title": "The Future of Truth by Werner Herzog (Signed)",
       "author": "Werner Herzog",
@@ -3799,7 +3797,7 @@
       "price": "\u00a320.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/on-the-equality-of-all-things-hatchards-signed-edition/carlo-rovelli/2001797015428",
-      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015428_2.jpg",
       "vip": false,
       "listed_at": "2026-11-12T18:56:30.021886+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -4766,19 +4764,6 @@
       "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797014490_2.jpg",
       "vip": false,
       "listed_at": "2026-11-11T00:56:30.021886+00:00",
-      "discovered_at": "2026-11-24T12:56:30.021886+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Waterstones::https://www.waterstones.com/book/fictional-selves/kyle-maclachlan/2928377376550",
-      "title": "Fictional Selves",
-      "author": "Kyle Maclachlan",
-      "price": "\u00a325.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/fictional-selves/kyle-maclachlan/2928377376550",
-      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377376550.jpg",
-      "vip": false,
-      "listed_at": "2026-11-10T23:58:44.781244+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
       "est": "pos"
     },
@@ -11261,6 +11246,18 @@
       "discovered_at": "2026-10-23T13:30:04.572054+00:00"
     },
     {
+      "id": "Goldsboro Books::partita-indie-edition-unsigned",
+      "title": "Partita - Indie Edition (Unsigned)",
+      "author": "",
+      "price": "\u00a320.00",
+      "shop": "Goldsboro Books",
+      "url": "https://goldsborobooks.com/products/partita-indie-edition-unsigned",
+      "image": "https://cdn.shopify.com/s/files/1/0733/4900/5606/files/3f90b031-347c-45cc-8e56-b7cb45aa5c53.jpg?v=1790163384",
+      "vip": false,
+      "listed_at": "2026-10-23T08:33:05+00:00",
+      "discovered_at": "2026-11-25T23:46:51.740903+00:00"
+    },
+    {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/a-carol-and-a-killing-a-canon-clement-christmas-novella-richard-coles-signed-copy/",
       "title": "A Carol and a Killing \u2013 A Canon Clement Christmas Novella \u2013 Signed Copy",
       "author": "",
@@ -13526,18 +13523,6 @@
       "est": "pos"
     },
     {
-      "id": "Backstory London (Signed & Dedicated)::christmas-signed-personalised-trinity-the-cookbook-by-adam-byatt",
-      "title": "Trinity: The Cookbook",
-      "author": "Adam Byatt",
-      "price": "\u00a355.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/christmas-signed-personalised-trinity-the-cookbook-by-adam-byatt",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781837836222_5fea0283-11ac-41d1-b299-af1f220ed7b0.jpg?v=1791202009",
-      "vip": false,
-      "listed_at": "2026-10-05T12:07:52+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
       "id": "Backstory London (Signed & Dedicated)::pre-order-happy-life-by-oisin-mckenna-signed-publishes-may-2027",
       "title": "Happy Life",
       "author": "",
@@ -14778,18 +14763,6 @@
       "vip": false,
       "listed_at": "2026-09-24T11:10:26.321000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "Backstory London (Signed & Dedicated)::christmas-signed-personalised-eat-like-a-sardinian-by-francesco-mattana",
-      "title": "Eat Like A Sardinian",
-      "author": "Francesco Mattana",
-      "price": "\u00a322.00",
-      "shop": "Backstory London (Signed & Dedicated)",
-      "url": "https://backstory.london/products/christmas-signed-personalised-eat-like-a-sardinian-by-francesco-mattana",
-      "image": "https://cdn.shopify.com/s/files/1/0612/7193/3106/files/9781761501128_ca040e15-4b74-4b64-aa38-f87ca9c2411d.jpg?v=1790248112",
-      "vip": false,
-      "listed_at": "2026-09-24T11:09:18+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/ply-signed-copy/",
@@ -16658,18 +16631,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/b4eb22d1-1623-4792-be9f-5dc8e1a984dd/Website+Listing+Template+-+Book+%2896%29.jpg",
       "vip": false,
       "listed_at": "2026-09-06T10:04:59.821000+00:00",
-      "discovered_at": "2026-10-18T15:33:34.246579+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/meals-you-cant-mess-up-by-shay-spence-signed",
-      "title": "Meals You Can't Mess Up by Shay Spence (Signed)",
-      "author": "Shay Spence",
-      "price": "\u00a325.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/meals-you-cant-mess-up-by-shay-spence-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/355ce96c-ed16-40c4-9df3-c9f6d75e5952/Website+Listing+Template+-+Book+%2895%29.jpg",
-      "vip": false,
-      "listed_at": "2026-09-06T10:01:37.086000+00:00",
       "discovered_at": "2026-10-18T15:33:34.246579+00:00"
     },
     {
@@ -24713,18 +24674,6 @@
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/untitled-by-lewis-moody-signed",
-      "title": "Fronting Up by Lewis Moody (Signed)",
-      "author": "Lewis Moody",
-      "price": "\u00a322.00",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/untitled-by-lewis-moody-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/662a0c04-6cc7-4923-a07c-a23673dc6ebe/Website+Listing+Template+-+Book+-+2026-10-12T141640.611.jpg",
-      "vip": false,
-      "listed_at": "2026-05-20T11:00:32.465000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
       "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/our-noble-selves-by-kate-atkinson-signed",
       "title": "Our Noble Selves by Kate Atkinson (Signed)",
       "author": "Kate Atkinson",
@@ -29882,18 +29831,6 @@
       "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/b89788e5-0e0f-4faa-a101-9978237172dd/Website+Listing+Template+-+Book+%281%29.jpg",
       "vip": false,
       "listed_at": "2026-02-22T11:26:57.740000+00:00",
-      "discovered_at": "2026-10-18T15:43:39.248158+00:00"
-    },
-    {
-      "id": "West End Lane Books::https://www.welbooks.co.uk/shop/p/poochie-pete-and-his-very-big-feet-by-dougie-payne-signed",
-      "title": "Poochie Pete and his very Big Feet by Dougie Payne (Signed)",
-      "author": "Dougie Payne",
-      "price": "\u00a37.99",
-      "shop": "West End Lane Books",
-      "url": "https://www.welbooks.co.uk/shop/p/poochie-pete-and-his-very-big-feet-by-dougie-payne-signed",
-      "image": "https://images.squarespace-cdn.com/content/v1/5eef48074fae902f27d8deb4/81e2f7e6-acd3-4f0f-85a8-8ae98304b8a6/Website+Listing+Template+-+Book.jpg",
-      "vip": false,
-      "listed_at": "2026-02-22T10:38:04.176000+00:00",
       "discovered_at": "2026-10-18T15:43:39.248158+00:00"
     },
     {
