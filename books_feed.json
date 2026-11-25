@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-24T22:52:18.867106+00:00",
-  "total_available": 2778,
+  "last_updated": "2026-11-25T05:09:56.990590+00:00",
+  "total_available": 2782,
   "shop_status": {
     "Goldsboro Books": "11 items",
     "Rare Mags": "0 items",
     "Porty Books": "15 items",
     "Backstory London (Signed & Dedicated)": "50 items",
     "Backstory London (Exclusives)": "0 items",
-    "British Library Shop": "280 items",
+    "British Library Shop": "278 items",
     "Cleeve Bookshop": "127 items",
     "Ivybridge Bookshop": "154 items",
     "Perkology Books": "36 items",
@@ -20,12 +20,25 @@
     "Booka Bookshop": "286 items",
     "Coles Books": "10 items",
     "West End Lane Books": "1027 items",
-    "Waterstones": "181 items via feed (as of 2026-11-24T19:04:11.194307+00:00)",
-    "Linghams": "224 items via feed (as of 2026-11-23T23:01:25.454428+00:00)",
+    "Waterstones": "183 items via feed (as of 2026-11-25T03:04:10.831395+00:00)",
+    "Linghams": "224 items via feed (as of 2026-11-24T23:02:43.920476+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-24T07:00:39.842825+00:00)",
-    "Hatchards": "108 items via feed (as of 2026-11-24T11:00:58.951443+00:00)"
+    "Hatchards": "112 items via feed (as of 2026-11-25T03:04:10.831395+00:00)"
   },
   "books": [
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/raising-hare-childrens-edition/chloe-dalton/9781837268078",
+      "title": "Raising Hare (Children's Edition) by Chloe Dalton",
+      "author": "Chloe Dalton",
+      "price": "\u00a314.99",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/raising-hare-childrens-edition/chloe-dalton/9781837268078",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "vip": false,
+      "listed_at": "2026-11-25T05:09:56.990590+00:00",
+      "discovered_at": "2026-11-25T05:09:56.990590+00:00",
+      "est": "seen"
+    },
     {
       "id": "Waterstones::https://www.waterstones.com/book/heartstopper-the-mini-comics/alice-oseman/9781786543820",
       "title": "Heartstopper: The Mini-Comics",
@@ -336,7 +349,7 @@
       "price": "\u00a322.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-perfect-lie/lisa-jewell/2928377414511",
-      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3774/2928377414511.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/2928/3774/2928377414511.jpg",
       "vip": false,
       "listed_at": "2026-11-21T02:32:45.422956+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -522,6 +535,19 @@
       "vip": false,
       "listed_at": "2026-11-20T16:09:00.824025+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/the-necromancers-house/christopher-buehlman/9781399650274",
+      "title": "The Necromancer's House",
+      "author": "Christopher Buehlman",
+      "price": "\u00a325.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/the-necromancers-house/christopher-buehlman/9781399650274",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3996/9781399650274.jpg",
+      "vip": false,
+      "listed_at": "2026-11-20T14:12:54.039770+00:00",
+      "discovered_at": "2026-11-25T05:09:56.990590+00:00",
       "est": "pos"
     },
     {
@@ -723,6 +749,19 @@
       "vip": false,
       "listed_at": "2026-11-20T06:56:30.021886+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/winnie-the-pooh-a-little-boy-and-his-bear/jane-riordan/9780008740894",
+      "title": "Winnie-the-Pooh: A Little Boy and His Bear by Jane Riordan",
+      "author": "Jane Riordan",
+      "price": "\u00a330.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/winnie-the-pooh-a-little-boy-and-his-bear/jane-riordan/9780008740894",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "vip": false,
+      "listed_at": "2026-11-20T06:52:48.419161+00:00",
+      "discovered_at": "2026-11-25T05:09:56.990590+00:00",
       "est": "pos"
     },
     {
@@ -1384,6 +1423,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/michael/bob-mortimer/9781398571853",
+      "title": "Michael by Bob Mortimer",
+      "author": "Bob Mortimer",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/michael/bob-mortimer/9781398571853",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/9781/3985/9781398571853_2.jpg",
+      "vip": false,
+      "listed_at": "2026-11-18T14:22:48.419161+00:00",
+      "discovered_at": "2026-11-25T05:09:56.990590+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Foyles::https://www.foyles.co.uk/book/the-moth-reborn/samantha-shannon/9781037209253",
       "title": "The Moth Reborn",
       "author": "Samantha Shannon",
@@ -1571,7 +1623,7 @@
       "price": "\u00a316.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/time-of-death/lj-ross/2928377392895",
-      "image": "https://cdn.waterstones.com/override/v2/medium/2928/3773/2928377392895.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377392895.jpg",
       "vip": false,
       "listed_at": "2026-11-18T01:46:33.230442+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -2336,6 +2388,19 @@
       "vip": false,
       "listed_at": "2026-11-16T17:13:38.593315+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/english-bread-and-yeast-cookery/elizabeth-david/2928377380182",
+      "title": "English Bread and Yeast Cookery by Elizabeth David",
+      "author": "Elizabeth David",
+      "price": "\u00a3750",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/english-bread-and-yeast-cookery/elizabeth-david/2928377380182",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
+      "vip": false,
+      "listed_at": "2026-11-16T16:05:39.847733+00:00",
+      "discovered_at": "2026-11-25T05:09:56.990590+00:00",
       "est": "pos"
     },
     {
@@ -3178,7 +3243,7 @@
       "price": "\u00a325.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/the-great-dictator-hatchards-signed-edition/matthew-sweet/2001797015350",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015350_2.jpg",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": false,
       "listed_at": "2026-11-14T06:56:30.021886+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -3259,19 +3324,6 @@
       "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": true,
       "listed_at": "2026-11-14T00:56:30.021886+00:00",
-      "discovered_at": "2026-11-24T12:56:30.021886+00:00",
-      "est": "pos"
-    },
-    {
-      "id": "Waterstones::https://www.waterstones.com/book/as-you-wake-break-the-shell/becky-chambers/9781399763905",
-      "title": "As You Wake, Break the Shell",
-      "author": "Becky Chambers",
-      "price": "\u00a322.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/as-you-wake-break-the-shell/becky-chambers/9781399763905",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3997/9781399763905.jpg",
-      "vip": false,
-      "listed_at": "2026-11-14T00:44:56.973758+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
       "est": "pos"
     },
@@ -3929,19 +3981,6 @@
       "discovered_at": "2026-11-12T14:44:04.441239+00:00"
     },
     {
-      "id": "Waterstones::https://www.waterstones.com/book/american-hagwon/min-jin-lee/9780008829803",
-      "title": "American Hagwon",
-      "author": "Min Jin Lee",
-      "price": "\u00a325.00",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/american-hagwon/min-jin-lee/9780008829803",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9780/0088/9780008829803.jpg",
-      "vip": false,
-      "listed_at": "2026-11-12T14:05:48.310656+00:00",
-      "discovered_at": "2026-11-24T12:56:30.021886+00:00",
-      "est": "pos"
-    },
-    {
       "id": "British Library Shop::two-women-signed-edition",
       "title": "Two Women (Signed Edition)",
       "author": "",
@@ -3967,19 +4006,6 @@
       "est": "seen"
     },
     {
-      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/kitchening-day-to-day-good-food-come-rain-or-shine-jeremy-lee",
-      "title": "Kitchening - Jeremy Lee",
-      "author": "Jeremy Lee",
-      "price": "\u00a330.00",
-      "shop": "London Review Bookshop",
-      "url": "https://www.londonreviewbookshop.co.uk/stock/kitchening-day-to-day-good-food-come-rain-or-shine-jeremy-lee",
-      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/6/0/3/1/4621306-2-eng-GB/9780008645786-2.jpg",
-      "vip": false,
-      "listed_at": "2026-11-12T13:54:34.043905+00:00",
-      "discovered_at": "2026-11-12T13:54:34.043905+00:00",
-      "est": "seen"
-    },
-    {
       "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/heidegger-thinking-being-and-time-explained-simon-critchley",
       "title": "Heidegger Thinking - Simon Critchley",
       "author": "Simon Critchley",
@@ -3987,6 +4013,19 @@
       "shop": "London Review Bookshop",
       "url": "https://www.londonreviewbookshop.co.uk/stock/heidegger-thinking-being-and-time-explained-simon-critchley",
       "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/0/4/9/5/4605940-1-eng-GB/9798896231080.jpg",
+      "vip": false,
+      "listed_at": "2026-11-12T13:54:34.043905+00:00",
+      "discovered_at": "2026-11-12T13:54:34.043905+00:00",
+      "est": "seen"
+    },
+    {
+      "id": "London Review Bookshop::https://www.londonreviewbookshop.co.uk/stock/kitchening-day-to-day-good-food-come-rain-or-shine-jeremy-lee",
+      "title": "Kitchening - Jeremy Lee",
+      "author": "Jeremy Lee",
+      "price": "\u00a330.00",
+      "shop": "London Review Bookshop",
+      "url": "https://www.londonreviewbookshop.co.uk/stock/kitchening-day-to-day-good-food-come-rain-or-shine-jeremy-lee",
+      "image": "https://lrb-bookshop-production.s3.eu-west-2.amazonaws.com/lrb_bookshop/images/6/0/3/1/4621306-2-eng-GB/9780008645786-2.jpg",
       "vip": false,
       "listed_at": "2026-11-12T13:54:34.043905+00:00",
       "discovered_at": "2026-11-12T13:54:34.043905+00:00",
@@ -4309,6 +4348,19 @@
       "est": "pos"
     },
     {
+      "id": "Waterstones::https://www.waterstones.com/book/the-two-body-problem/ali-hazelwood/9781408739976",
+      "title": "The Two Body Problem",
+      "author": "Ali Hazelwood",
+      "price": "\u00a320.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/the-two-body-problem/ali-hazelwood/9781408739976",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/4087/9781408739976.jpg",
+      "vip": false,
+      "listed_at": "2026-11-11T21:17:49.121738+00:00",
+      "discovered_at": "2026-11-25T05:09:56.990590+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Foyles::https://www.foyles.co.uk/book/tales-from-the-territory/travis-baldree/2928377394233",
       "title": "Tales from the Territory",
       "author": "Travis Baldree",
@@ -4380,7 +4432,7 @@
       "price": "\u00a314.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-thieves-beneath-the-floorboards/mikey-please/9780008840334",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9780/0088/9780008840334.jpg",
+      "image": "https://cdn.waterstones.com/override/v4/medium/9780/0088/9780008840334.jpg",
       "vip": false,
       "listed_at": "2026-11-11T17:18:19.112795+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -4457,7 +4509,7 @@
       "price": "\u00a330.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/castles/dan-jones/9781035929771",
-      "image": "https://cdn.waterstones.com/override/v3/medium/9781/0359/9781035929771.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/0359/9781035929771.jpg",
       "vip": false,
       "listed_at": "2026-11-11T13:50:24.246485+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -4610,7 +4662,7 @@
       "price": "\u00a322.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/timeless/a-f-steadman/9781398537422",
-      "image": "https://cdn.waterstones.com/override/v3/medium/9781/3985/9781398537422.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398537422.jpg",
       "vip": false,
       "listed_at": "2026-11-11T06:54:34.513865+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -5275,7 +5327,7 @@
       "price": "\u00a320.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/styx-the-river-volume-2/nikita-gill/9781398560710",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398560710.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/3985/9781398560710.jpg",
       "vip": false,
       "listed_at": "2026-11-09T13:19:36.118143+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -5857,7 +5909,7 @@
       "price": "\u00a320.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/michael-palin-in-the-philippines/michael-palin/2928377382605",
-      "image": "https://cdn.waterstones.com/override/v2/medium/2928/3773/2928377382605.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377382605.jpg",
       "vip": false,
       "listed_at": "2026-11-07T19:44:37.722421+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -5974,7 +6026,7 @@
       "price": "\u00a322.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-moth-reborn/samantha-shannon/9781037209253",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/0372/9781037209253.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/0372/9781037209253.jpg",
       "vip": false,
       "listed_at": "2026-11-07T12:48:47.989800+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -6978,7 +7030,7 @@
       "price": "\u00a320.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-silent-appeal/janice-hallett/9781806490141",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/8064/9781806490141.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/8064/9781806490141.jpg",
       "vip": false,
       "listed_at": "2026-11-05T08:50:04.995148+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -7324,7 +7376,7 @@
       "price": "\u00a319.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-near-witch-signed-deluxe-illustrated-edition/v-e-schwab/9781807591694",
-      "image": "https://cdn.waterstones.com/bookjackets/medium/9781/8075/9781807591694.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/8075/9781807591694.jpg",
       "vip": false,
       "listed_at": "2026-11-04T12:02:35.797287+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -7656,7 +7708,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/on-jokes-or-why-everything-you-know-about-comedy-is-wrong/jimmy-carr/amanda-baker/9781529455342",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/5294/9781529455342.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/5294/9781529455342.jpg",
       "vip": false,
       "listed_at": "2026-11-03T15:15:06.599426+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -8966,7 +9018,7 @@
       "price": "\u00a335.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-rouse/china-mi-ville/2928377373870",
-      "image": "https://cdn.waterstones.com/override/v2/medium/2928/3773/2928377373870.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377373870.jpg",
       "vip": false,
       "listed_at": "2026-10-31T04:05:09.807982+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -9044,7 +9096,7 @@
       "price": "\u00a314.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-case-of-the-christmas-card/elly-griffiths/julie-maisey/9781529455625",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/5294/9781529455625.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/5294/9781529455625.jpg",
       "vip": false,
       "listed_at": "2026-10-30T21:09:20.075362+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -9096,7 +9148,7 @@
       "price": "\u00a314.99",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/zeno-and-the-dragon-riders/a-f-steadman/9781398574045",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3985/9781398574045.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/3985/9781398574045.jpg",
       "vip": false,
       "listed_at": "2026-10-30T17:41:25.209052+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -9511,7 +9563,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/31-inventions-that-built-our-world/jonn-elledge/9781035448036",
-      "image": "https://cdn.waterstones.com/override/v6/medium/9781/0354/9781035448036.jpg",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/0354/9781035448036.jpg",
       "vip": false,
       "listed_at": "2026-10-29T13:58:06.278570+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -9967,19 +10019,6 @@
       "est": "pos"
     },
     {
-      "id": "Waterstones::https://www.waterstones.com/book/autumn/kate-mosse/9781399767644",
-      "title": "Autumn",
-      "author": "Kate Mosse",
-      "price": "\u00a316.99",
-      "shop": "Waterstones",
-      "url": "https://www.waterstones.com/book/autumn/kate-mosse/9781399767644",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/3997/9781399767644.jpg",
-      "vip": false,
-      "listed_at": "2026-10-28T13:42:42.214399+00:00",
-      "discovered_at": "2026-11-24T12:56:30.021886+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Ivybridge Bookshop::9781472287656",
       "title": "CI Schenke  Sons of the Reich - (Pre Order) Signed First Edition - Simon Scarrow (Hardback) 11-03-2027",
       "author": "Simon Scarrow",
@@ -10395,7 +10434,7 @@
       "price": "\u00a325.00",
       "shop": "Waterstones",
       "url": "https://www.waterstones.com/book/the-elegant-hustler/celia-imrie/9781408738597",
-      "image": "https://cdn.waterstones.com/override/v1/medium/9781/4087/9781408738597.jpg",
+      "image": "https://cdn.waterstones.com/override/v2/medium/9781/4087/9781408738597.jpg",
       "vip": false,
       "listed_at": "2026-10-27T13:27:18.150228+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -10712,6 +10751,19 @@
       "discovered_at": "2026-10-26T16:21:01.664681+00:00"
     },
     {
+      "id": "Waterstones::https://www.waterstones.com/book/kitchening/jeremy-lee/9780008846039",
+      "title": "Kitchening",
+      "author": "Jeremy Lee",
+      "price": "\u00a330.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/kitchening/jeremy-lee/9780008846039",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9780/0088/9780008846039.jpg",
+      "vip": false,
+      "listed_at": "2026-10-26T15:47:19.613541+00:00",
+      "discovered_at": "2026-11-25T05:09:56.990590+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/do-you-believe-in-ghosts-signed-dedicated-pre-order/",
       "title": "Do You Believe in Ghosts? Danny Robins *SIGNED COPIES while stocks last!",
       "author": "Danny Robins",
@@ -10812,6 +10864,19 @@
       "est": "pos"
     },
     {
+      "id": "Waterstones::https://www.waterstones.com/book/owning-it/andy-carroll/2928377397890",
+      "title": "Owning It",
+      "author": "Andy Carroll",
+      "price": "\u00a322.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/owning-it/andy-carroll/2928377397890",
+      "image": "https://cdn.waterstones.com/override/v1/medium/2928/3773/2928377397890.jpg",
+      "vip": false,
+      "listed_at": "2026-10-26T12:14:52.072557+00:00",
+      "discovered_at": "2026-11-25T05:09:56.990590+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Linghams::https://linghams.co.uk/product/torchfire-the-blazing-sequel-to-songlight-signed-indie-edition/",
       "title": "Torchfire : The blazing sequel to Songlight *SIGNED INDIE EDITION*",
       "author": "",
@@ -10861,6 +10926,19 @@
       "vip": false,
       "listed_at": "2026-10-26T09:11:30.021886+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
+      "est": "pos"
+    },
+    {
+      "id": "Waterstones::https://www.waterstones.com/book/doom-painting/a-k-blakemore/9781803515007",
+      "title": "Doom Painting",
+      "author": "A K Blakemore",
+      "price": "\u00a320.00",
+      "shop": "Waterstones",
+      "url": "https://www.waterstones.com/book/doom-painting/a-k-blakemore/9781803515007",
+      "image": "https://cdn.waterstones.com/override/v1/medium/9781/8035/9781803515007.jpg",
+      "vip": false,
+      "listed_at": "2026-10-26T08:42:24.531574+00:00",
+      "discovered_at": "2026-11-25T05:09:56.990590+00:00",
       "est": "pos"
     },
     {
@@ -12033,18 +12111,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/theeleganthustler_9781408738139.png?v=1791991834",
       "vip": false,
       "listed_at": "2026-10-14T15:30:51+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "British Library Shop::tales-from-the-territory-signed-edition",
-      "title": "Tales From the Territory (Signed Edition)",
-      "author": "",
-      "price": "\u00a318.99",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/tales-from-the-territory-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/talesfromtheterratories_9781035083350.png?v=1791991179",
-      "vip": false,
-      "listed_at": "2026-10-14T15:20:02+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
@@ -15026,18 +15092,6 @@
       "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/NightsOut9780241794517.png?v=1790082358",
       "vip": false,
       "listed_at": "2026-09-22T13:06:14+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00"
-    },
-    {
-      "id": "British Library Shop::down-burrow-lane-signed-edition",
-      "title": "Down Burrow Lane (Signed Edition)",
-      "author": "",
-      "price": "\u00a320.00",
-      "shop": "British Library Shop",
-      "url": "https://shop.bl.uk/products/down-burrow-lane-signed-edition",
-      "image": "https://cdn.shopify.com/s/files/1/0244/8444/6286/files/DOwnBurrowLane9781399760089.png?v=1790081979",
-      "vip": false,
-      "listed_at": "2026-09-22T12:59:45+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00"
     },
     {
