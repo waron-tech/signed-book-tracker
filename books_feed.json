@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-27T19:05:55.630974+00:00",
-  "total_available": 2726,
+  "last_updated": "2026-11-28T01:56:08.395706+00:00",
+  "total_available": 2723,
   "shop_status": {
     "Goldsboro Books": "12 items",
     "Rare Mags": "1 items",
@@ -15,13 +15,13 @@
     "Biggles Stones": "3 items",
     "London Review Bookshop": "37 items",
     "Little Apple Bookshop": "39 items",
-    "Hewson Books": "49 items",
+    "Hewson Books": "46 items",
     "Station Books": "0 items",
     "Booka Bookshop": "285 items",
     "Coles Books": "12 items",
     "West End Lane Books": "1034 items",
     "Linghams": "224 items via feed (as of 2026-11-26T23:13:16.632915+00:00)",
-    "Hatchards": "109 items via feed (as of 2026-11-27T03:12:14.628400+00:00)",
+    "Hatchards": "109 items via feed (as of 2026-11-27T23:11:38.598438+00:00)",
     "Waterstones": "120 items via feed (as of 2026-11-27T03:12:14.628400+00:00)",
     "Foyles": "137 items via feed (as of 2026-11-27T07:09:48.988316+00:00)"
   },
@@ -1807,6 +1807,19 @@
       "est": "pos"
     },
     {
+      "id": "Hatchards::https://www.hatchards.co.uk/book/the-wine-dark-sea/victoria-hislop/9781035448104",
+      "title": "The Wine-Dark Sea by Victoria Hislop",
+      "author": "Victoria Hislop",
+      "price": "\u00a322.00",
+      "shop": "Hatchards",
+      "url": "https://www.hatchards.co.uk/book/the-wine-dark-sea/victoria-hislop/9781035448104",
+      "image": "https://cdn.hatchards.co.uk/override/v1/large/9781/0354/9781035448104_2.jpg",
+      "vip": false,
+      "listed_at": "2026-11-18T03:28:37.019559+00:00",
+      "discovered_at": "2026-11-28T01:56:08.395706+00:00",
+      "est": "pos"
+    },
+    {
       "id": "Waterstones::https://www.waterstones.com/book/time-of-death/lj-ross/2928377392895",
       "title": "Time of Death",
       "author": "Lj Ross",
@@ -2990,19 +3003,6 @@
       "est": "pos"
     },
     {
-      "id": "Hatchards::https://www.hatchards.co.uk/book/napoleon-and-his-marshals/andrew-roberts/2928377387495",
-      "title": "Napoleon and his Marshals by Andrew Roberts",
-      "author": "Andrew Roberts",
-      "price": "\u00a340.00",
-      "shop": "Hatchards",
-      "url": "https://www.hatchards.co.uk/book/napoleon-and-his-marshals/andrew-roberts/2928377387495",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/2928/3773/2928377387495_2.jpg",
-      "vip": false,
-      "listed_at": "2026-11-15T06:56:30.021886+00:00",
-      "discovered_at": "2026-11-24T12:56:30.021886+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Linghams::https://linghams.co.uk/product/the-future-starts-with-us-signed-gordon-brown/",
       "title": "The Future Starts With Us *SIGNED* Gordon Brown",
       "author": "Gordon Brown",
@@ -3759,7 +3759,7 @@
       "price": "\u00a320.00",
       "shop": "Hatchards",
       "url": "https://www.hatchards.co.uk/book/on-the-equality-of-all-things-hatchards-signed-edition/carlo-rovelli/2001797015428",
-      "image": "https://cdn.hatchards.co.uk/override/v1/large/2001/7970/2001797015428_2.jpg",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",
       "vip": false,
       "listed_at": "2026-11-12T18:56:30.021886+00:00",
       "discovered_at": "2026-11-24T12:56:30.021886+00:00",
@@ -12254,19 +12254,6 @@
       "est": "pos"
     },
     {
-      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/end-times-fascism-by-naomi-klein",
-      "title": "End Times Fascism ***Signed*** by Naomi Klein",
-      "author": "Naomi Klein",
-      "price": "\u00a325.00",
-      "shop": "Hewson Books",
-      "url": "https://www.hewsonbooks.co.uk/product-page/end-times-fascism-by-naomi-klein",
-      "image": "https://static.wixstatic.com/media/cf7295_fceaa92eb643459f9ef276910667ee17~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-09T21:09:35.457398+00:00",
-      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Little Apple Bookshop::https://www.littleapplebookshop.co.uk/product-page/nikita-gill-styx-the-river-signed-copy-hardback",
       "title": "Nikita Gill - Styx: The River (SIGNED COPY) (HARDBACK)",
       "author": "Nikita Gill",
@@ -12322,7 +12309,7 @@
       "price": "\u00a325.00",
       "shop": "Hewson Books",
       "url": "https://www.hewsonbooks.co.uk/product-page/all-the-wrong-moves-by-anthony-scaramucci",
-      "image": "https://static.wixstatic.com/media/cf7295_bbb8c6bd2f5d40c2b8bcad9263dce46c~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/cf7295_fceaa92eb643459f9ef276910667ee17~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-09T10:21:35.457398+00:00",
       "discovered_at": "2026-10-28T04:21:35.457398+00:00",
@@ -12378,19 +12365,6 @@
       "vip": false,
       "listed_at": "2026-10-08T21:01:06+00:00",
       "discovered_at": "2026-10-18T16:36:05.456626+00:00"
-    },
-    {
-      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/a-history-of-the-world-in-51-heroes-and-villains-by-goalhanger",
-      "title": "A History of the World in 51 Heroes and Villains ***Signed*** by Goalhanger",
-      "author": "",
-      "price": "\u00a322.00",
-      "shop": "Hewson Books",
-      "url": "https://www.hewsonbooks.co.uk/product-page/a-history-of-the-world-in-51-heroes-and-villains-by-goalhanger",
-      "image": "https://static.wixstatic.com/media/cf7295_9e2584c1bd014a98b34f76fe412875e7~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-08T16:04:31.000690+00:00",
-      "discovered_at": "2026-10-18T16:05:21.722056+00:00",
-      "est": "pos"
     },
     {
       "id": "Booka Bookshop::https://www.bookabookshop.co.uk/shop/the-kop-a-fans-history-of-footballs-most-famous-stand-signed-copy/",
@@ -12558,7 +12532,7 @@
       "price": "\u00a322.00",
       "shop": "Hewson Books",
       "url": "https://www.hewsonbooks.co.uk/product-page/letters-to-our-sons-by-stephen-graham",
-      "image": "https://static.wixstatic.com/media/cf7295_b9c2610b2c8a40a49326c2471ac263c4~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/cf7295_9e2584c1bd014a98b34f76fe412875e7~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-07T20:08:12.539152+00:00",
       "discovered_at": "2026-10-18T16:05:21.722056+00:00",
@@ -12825,19 +12799,6 @@
       "est": "pos"
     },
     {
-      "id": "Hewson Books::https://www.hewsonbooks.co.uk/product-page/redwood-by-ben-macintyre",
-      "title": "Redwood ***Signed*** by Ben Macintyre",
-      "author": "Ben Macintyre",
-      "price": "\u00a325.00",
-      "shop": "Hewson Books",
-      "url": "https://www.hewsonbooks.co.uk/product-page/redwood-by-ben-macintyre",
-      "image": "https://static.wixstatic.com/media/cf7295_06bd3bb1633d43789ec013f59b46a258~mv2.jpg",
-      "vip": false,
-      "listed_at": "2026-10-05T19:57:35.457398+00:00",
-      "discovered_at": "2026-10-28T04:21:35.457398+00:00",
-      "est": "pos"
-    },
-    {
       "id": "Backstory London (Signed & Dedicated)::pre-order-happy-life-by-oisin-mckenna-signed-publishes-may-2027",
       "title": "Happy Life",
       "author": "",
@@ -12856,7 +12817,7 @@
       "price": "\u00a322.00",
       "shop": "Hewson Books",
       "url": "https://www.hewsonbooks.co.uk/product-page/my-pressures-by-andy-serkis",
-      "image": "https://static.wixstatic.com/media/cf7295_4db26588c18c4ef98f37183bff8abbb8~mv2.jpg",
+      "image": "https://static.wixstatic.com/media/cf7295_06bd3bb1633d43789ec013f59b46a258~mv2.jpg",
       "vip": false,
       "listed_at": "2026-10-05T09:09:35.457398+00:00",
       "discovered_at": "2026-10-28T04:21:35.457398+00:00",
